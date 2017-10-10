@@ -14,7 +14,7 @@ stale                  ---> stand too long to have a new idea / be fresh
 stall                  ---> small area set off by walls for special use; postpone
 stammer                ---> people(er) speak with difficuty
 stamp                  ---> put printting tool / the foot down
-stance                 ---> the way in which sb stands
+stance                 ---> the way in which sb stands /  the opinion that sb has about and express publicly
 standard             
 standpoint             ---> a point / a way of thinking about ideas
 starchy
