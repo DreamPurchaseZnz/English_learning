@@ -2,4 +2,5 @@
 ```
 drink straw
 a white tablecloth with red stripes 
+camero stip
 ```
