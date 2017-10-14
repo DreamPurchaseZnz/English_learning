@@ -57,6 +57,7 @@ shaft                                      ---> n. a long narrow usually vertica
                                                 n. a sudden strong feeling of pain
                                                 n. a clever remark that is intended to upset or annoy sb
                                                 v. treat sb unfair or cheat sb
+                                                
 shallow                                    ---> a. not deep
                                            ---> a. not showing serious thought feelings
                                                 a. breathe shallow
@@ -75,8 +76,15 @@ shatter                                    ---> v. to suddenly break into small 
                                                 v. destory sth completely, expecially sb's feeling, hope, or beliefs
                                                 v. to make sb feel extremely shocked and upset
                                              
-shave                                      ---> v. cut
+shave                                      ---> v. to cut hair from the skin ,expecially the face
+                                                v. to cut a small amount off a price
 
+sheer                                      ---> a. used to emphasize the size ,degree or amount of sth .e.g. sheer size
+                                                a. complete and not mixed with anything else
+                                                a. very steep
+                                                a. thin, light and almost transparent expectially for cloth
+                                                av. straight up and down
+shell                                      ---> 
 
 
 ```
