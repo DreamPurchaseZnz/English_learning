@@ -84,7 +84,8 @@ sheer                                      ---> a. used to emphasize the size ,d
                                                 a. very steep
                                                 a. thin, light and almost transparent expectially for cloth
                                                 av. straight up and down
-shell                                      ---> 
+shell                                      ---> n. the hard outer parts of eggs, nuts,some seed and some animals
+
 
 
 ```
