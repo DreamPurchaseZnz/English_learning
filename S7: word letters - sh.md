@@ -146,7 +146,11 @@ shutter                                    ---> n. wood or meta
                                                 n. the part of camera that opens to allow light to pass through
                                                 n. bring/ put down the shutters
 
-shuttle                                    
+shuttle                                    ---> n. a plane, bus or train that travel regularly between two places
+                                           ---> n. a pointed tool used in making cloth to pull a thread backwards and forwards
+                                           ---> v. to travel between two places frequently
+                                           ---> v. to carry people between two places that are close
+                                          
 
 
 ```
