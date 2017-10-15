@@ -85,7 +85,68 @@ sheer                                      ---> a. used to emphasize the size ,d
                                                 a. thin, light and almost transparent expectially for cloth
                                                 av. straight up and down
 shell                                      ---> n. the hard outer parts of eggs, nuts,some seed and some animals
+                                                c. any object look like the shell
+                                                c. a metal case filled with explosive
+                                                c. the walls or outer structure of sth
+                                                c. any structure that forms a hard outer frame
+                                                c. the outer layer of sb's personality,e.g. come out of your shell
+                                                v. to fire shells at sth
+                                                v. to remove the shell or covering from nuts,peas
+                                               
+shelter                                    ---> n. the fact of having a place to stay
+                                           ---> n. protection from rain, danger or attack
+                                                n. a structure built to provide protection
+                                                n. a structure built owned by a charity
+                                                v. give sb/sth a place
+                                                v. to stay in a place that protects you from the weather or from danger
 
+shift                                      ---> v. to move quickly or move sth , from one positon or place to another
+                                                v. to change from one state, postion,etc, to another,e.g. situation/ opinion/policy
+                                                v. to shift responsibility/blame for sth onto sb
+                                                v. to remove sth such as a dirty dark
+                                                v. to shift stock, sell all goods
+                                                v. to change the gear when you are driving a vihicle
+                                                n. a change in positon or direction
+                                                n. a period of time worked by a group of workers
+                                                n. the worker who work a particular shift
+                   
+
+shilling                                   ---> n. a british coin in use until 1971
+shin                                       ---> n. the front part of leg blow the knee; thigh-the part between hip and knee
+
+shipment                                   ---> n. the process of sending goods from one place to another
+                                                n. a load of goods that sending from on place to another
+                                                
+shore                                      ---> n. the land along the edge of large area of water such as sea,ocean, a lake
+                                           ---> n. foreign shores- a country, expectially one with a coast
+                                         
+shortage                                   ---> n. a situation when there is not enough of the people or things that are needed
+
+shorthand                                  ---> n. a quick way of writing and uses sighs to represent words or syllables,
+                                                   e.g. in the short hand
+                                                n. a quick or simple way of referring to something
+
+short-term                                 ---> n. lasting a short time; designed only for a short period of time in the future
+
+shrewd                                     ---> a. clever at understanding and making judgements about a situation
+                                                a. showing good judgement and likely to be right
+
+shrink                                     ---> v. to become smaller expectially when washed in water that is too hot;
+                                                v. to make sth smaller in size or amount - shrunk
+                                                v. to move back or away from sth because you are frightened or shocked
+               
+shrub                                      ---> n. a large plant that is smaller than a tree 
+                                                   and that has several stems of wood coming from the ground
+
+shrug                                      ---> v. to raise your shoulder and then drop them to show that you don't know or care about
+                                                   shrug off/ aside: to treat sth as if it is not important
+
+shutter                                    ---> n. wood or metal covers fitted on the outside of window, 
+                                                   they can be opened to let in the light or closed to keep out the sun or cold
+                                                n. the part of camera that opens to allow light to pass through
+                                                n. bring/ put down the shutters
+
+shuttle                                    
 
 
 ```
