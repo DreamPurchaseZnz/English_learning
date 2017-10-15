@@ -19,7 +19,14 @@ short-term contract
 short-term plan
 evergreen shrub
 a shuttle service
-
+a traffic sign
+a traffic signal
+a plus/ minus sign +/-
+star sign
+sign your name here
+for signature
+moonlight was silvering the countryside
+a few minute's walk
 
 
 
