@@ -27,7 +27,10 @@ sign your name here
 for signature
 moonlight was silvering the countryside
 a few minute's walk
-
+skip classes/ breakfast
+slack in his work
+have busy times and slack periods
+slacken your pace
 
 
 
