@@ -64,8 +64,13 @@ sleek                                                         ---> a. smooth and
                                                                    a. having an elegent smooth shape
                                                                    a. look rich and dress in elegant and expensive clothes
                                                                    v. make sth,expectially hair, smooth and shiny
-slender
-slice
+slender                                                       ---> a. thin in attractive or elegant way
+                                                                   a. thin and narrow
+                                                                   a. small in amount or size and hardly enough.e.g.slender lead
+                                                                   
+slice                                                         ---> n. a thin flat pieces of food
+                                                                   n. a part or share of sth
+                                            
 slide
 slight
 slim
