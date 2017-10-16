@@ -31,14 +31,39 @@ skull                                                         ---> n. the bone s
 skyscraper                                                    ---> n. a very tall building in a city
 
 ```
-## sl
+## sl = long narrow 
 ```
-slacken
-slander
-slash
-slat
-sledge
-sleek
+slack                                                         ---> a. not stretched tight
+                                                                   a. not having many costomers or sales; not busy
+                                                                   a. not putting enough care attention or energy into sth
+                                                                      so not doing it well enough
+                                                                   n. the part of rope that hanging loosely
+                                                                   n. people, money or space that should be used fully in an organization
+
+slacken                                                       ---> v. to gradually become or to make sth become slower, less active
+                                                                   v. to become or to make sth become less tight
+
+slander                                                       ---> n. a false spoken statement intended to damage the good opinion people                                                                       have of sb
+                                                                   n. to make a false spoken statement
+
+slash                                                         ---> v. to make a long cut with a sharp object ,
+                                                                      expectially in a violent way
+                                                                   v. to reduce sth by a large amount such as costs,prices,fares
+                                                                   n. a sharp movement made with a knife
+                                                                   n. a long narrow wound or cut
+                                                                   n. symb / used to show alternatives or to write fractions
+
+slat                                                          ---> n. one of a series of thin flat pieces of wood, metal or plastic 
+                                                                      used in furniture,fences. a thin stripe
+
+sledge                                                        ---> n. a vehicle for traveling over snow and ice with a long narrow stripe
+                                                                      larger sledges are pulled by dogs and horses and smaller one are
+                                                                      used for funny or as a sport
+
+sleek                                                         ---> a. smooth and shiny
+                                                                   a. having an elegent smooth shape
+                                                                   a. look rich and dress in elegant and expensive clothes
+                                                                   v. make sth,expectially hair, smooth and shiny
 slender
 slice
 slide
