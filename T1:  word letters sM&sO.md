@@ -1,7 +1,12 @@
 ## sm
 ```
-smart                                                         ---> 
-smear
+smart                                                         ---> a. clean and neat
+                                                                   a. intelligent
+                                                                   a. connect to fashionalbe rich people
+                                                                   a. quickly and usally done with force
+                                                                   v. feel a sharp stinging pain in part of your body
+                                                                   v. to feel upset about a criticism, failure, etc
+smear                                                         ---> v. 
 smell
 smooth
 smother
