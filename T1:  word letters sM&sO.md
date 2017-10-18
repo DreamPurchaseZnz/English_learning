@@ -75,31 +75,92 @@ snobbish                                                      ---> a. thinking t
                                                                       feeling that you are better than other people because you are more
                                                                       intelligent or like things that many people do not like
 ```
-
+ity;ty  =  the state of
 ```
 soak                                                          ---> v. to put in liquid for a time so that it becomes completely wet;
                                                                       to become completely wet in this way
                                                                    v. to make sth/ sb completely wet
                                                                    v. wet sth --> dry sht; to obtain a lot of money from sb by making 
                                                                       them pay very high taxes or prices
-                                                                   n. an act of leaving 
-sociable
-socialise
-sociology
-solar
-solar-powered
-sole
-solemn
-solicitor
-solidarity
-solidify
-soluble
-solution
-solve
-sophisticate
-sophisticated
-sore
-sorrow
-source
+                                                                   n. an act of leaving sth in an liquid for a period of time; the act
+                                                                      of making sb/sth wet
+                                                                   n. a period of time spent in the bath
+
+sociable                                                      ---> a. enjoying spending time with other people
+socialize                                                     ---> v. to meet and spend time with people in a friendly way 
+                                                                      in order to enjoy yourself; - with others
+                                                                   v. to teach people to behave in ways that are acceptable to
+                                                                      their society
+                                                                   v. to organize sth according to the principles of socialism
+sociology                                                     ---> n. the scientific study of the nature and development of society 
+                                                                      and social behaviour
+solar                                                         ---> a. of or connected with the sum
+                                                                   a. using the sun's energy
+solar-powered                                                 ---> n. energy from the sun that is coverted into thermal 
+                                                                      or electrical energy
+                                                                      
+sole                                                          ---> a. only;single
+                                                                   a. belong to one person or group; not shared
+                                                                   n. the bottom surface of the foot
+                                                                   n. the bottom part of a shoes or sock, not including the heel
+                                                                   n. soled ; having the type of solos mentioned
+                                                                   v. replace a shoe by replaceing the sole
+                                                                   
+solemn                                                        ---> a. not happy or smiling
+                                                                   a. done ,said etc,in a very serious and sincere way
+                                                                   a. (of religious,ceremony or formal occasion)performed 
+                                                                      in a serious way
+
+solicit                                                       ---> v. to ask sb for sth,such as support ,help,money or information;
+                                                                      try to get sth or persuade sb to do sth
+                                                                   v. to offer to have sex with people in return for money  
+
+solicitor                                                     ---> n. a lawyer who prepares legal documents,advises people on legal 
+                                                                      matters and speak for them in some courts of law
+                                                                   n. a person whose job is to visit or telephone people and try to sell
+                                                                      them sth
+solidarity                                                    ---> n. support by one person or group of people for anthor because
+                                                                      they share feelings,opinions,aims,etc
+solidify                                                      ---> v. to become solid; to make sth solid
+                                                                   v. (of idea)to become or to make sth become more definite and less
+                                                                      likely to change e.g. solidify the position
+
+solidity                                                      ---> n. the quality or state of being solid and reliable financially
+                                                                      factually or morally
+                                                                      
+soluble                                                       ---> a. that can be dissolved in a liquid
+                                                                   a. that can be solved
+solution                                                      ---> n. a way of solving problem or dealing with a difficult situation
+                                                                   n. an answer to a puzzle or to a problem in mathematics
+                                                                   n. an liquid in which sth is dissolved
+                                                                   n. the progress of dissolving a solid or gas in a liquid 
+solve                                                         ---> v. to find a way of dealing with a problem or difficult situation
+                                                                   v. to find correct answer or explanation for sth
+```
+soph =  wise
+```
+sophism                                                       ---> n. a clever but misundertanding argument
+sophisticate                                                  ---> n. a sophisticate person
+sophisticated                                                 ---> a. having a lot of experience of the world and knowing about fashion
+                                                                      culture and other things that people think are socially important
+                                                                   a. (of machine,system)clever and complicated in this way that it works 
+                                                                      or is presented
+                                                                   a. (of a person) able to understand difficult or complicated ideas
+
+sore                                                          ---> a. a part of your body is painful and often red, espectially because 
+                                                                      of  infection or because a muscle has been used too much
+                                                                   a. upset and angry, espectially because you have been treated unfairly
+                                                                   n. a painful,often red, place on your body where there is a wound or 
+                                                                      an infection
+sorrow                                                        ---> n. a feeling of great sadness because sth very bad has happended
+                                                                   n. a very sad event or situation
+                                                                   v. to feel or express great sadness                                                                  
+source                                                        ---> n. a place ,person or thing that you get sth from
+                                                                   n. a person, book or document that provides information,espectially
+                                                                      for study, a piece of written book or news
+                                                                   n. a person or thing that cause sth,espectially a problem
+                                                                   n. the place where a river or steam starts
+                                                                   v. to get sth from a particular place
+                                                                
 
 ```
