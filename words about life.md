@@ -31,8 +31,12 @@ skip classes/ breakfast
 slack in his work
 have busy times and slack periods
 slacken your pace
-
-
+take the rough with the smooth
+smother a yawn
+smother the flames
+it'll be a snack
+snap your finger
+go and soak in a bath
 
 
 ```
