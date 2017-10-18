@@ -37,6 +37,10 @@ smother the flames
 it'll be a snack
 snap your finger
 go and soak in a bath
-
+Medical techniques are becoming more sophisticated all the time
+have a sore throat
+it is a sore point with sue's parents that...
+a sight for sore eyes
+joys and sorrow of childhood
 
 ```
