@@ -42,5 +42,6 @@ have a sore throat
 it is a sore point with sue's parents that...
 a sight for sore eyes
 joys and sorrow of childhood
+life has lost its savour
 
 ```
