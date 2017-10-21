@@ -43,5 +43,17 @@ it is a sore point with sue's parents that...
 a sight for sore eyes
 joys and sorrow of childhood
 life has lost its savour
+it won't make a scrap of difference
+scrap the plan 
+I have scrape some paint off the car
+screen doors
+screen your eyes from the sun
+he screw the cap back on the jar
+
+
+
+
+
+
 
 ```
