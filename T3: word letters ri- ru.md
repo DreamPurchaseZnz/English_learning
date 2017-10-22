@@ -1,5 +1,11 @@
 # ri
 ```
+rid  = laugh
+ridiculous                                       ---> silly causing laughter
+```
+
+
+```
 ridiculous                                       ---> a. very silly or un reasonable
 righteous                                        ---> a. morally right and good
 
