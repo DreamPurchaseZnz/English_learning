@@ -1,5 +1,12 @@
 # sa
 ```
+san  = health    
+sane                                                        ---> mentally healthy
+sanitary                                                    ---> relating to cleanliness and heath
+sanitation                                                  ---> maintenance of public health and cleanliness
+
+```
+```
 sack                                                        ---> n. a large bag with no handles, made of strong rough material
                                                                  n. a stong paper bag for carrying shopping
                                                                  n. the contents of a sack
