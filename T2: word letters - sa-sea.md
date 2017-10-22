@@ -1,4 +1,5 @@
 # sa
+Word roots
 ```
 san  = health    
 sane                                                        ---> mentally healthy
@@ -6,6 +7,14 @@ sanitary                                                    ---> relating to cle
 sanitation                                                  ---> maintenance of public health and cleanliness
 
 ```
+```
+scope/scopy = see, examine, observe  
+microscope                                                  ---> a device used to see tiny things
+telescope                                                   ---> a device used to see over a distance
+
+```
+
+
 ```
 sack                                                        ---> n. a large bag with no handles, made of strong rough material
                                                                  n. a stong paper bag for carrying shopping
