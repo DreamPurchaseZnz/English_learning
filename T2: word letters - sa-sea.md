@@ -152,23 +152,53 @@ screen                                                      ---> n. a flat surfa
                                                                  v. to check sth to see if it can be trusted /is suitable or 
                                                                     to find out a particular disease
                                                                     
-screw                                                       ---> n. 
+screw                                                       ---> n. a thin pointed piece of metal like a nail
+                                                                 v. to fasten sth to another
+                                                                 v. to twist sth around in order to fasten it
+                                                                 v. - sth up/ into sth; to squeeze sth 
+                                                                    especially a piece of paper into a tight ball
+                                                                 v. to cheet sb to get money                                          
 
-scrub
+scrub                                                       ---> v. to clean sth by rubbing it hard, perhaps with
+                                                                    a brush
+                                                                 v. to cancel sth
+                                                                 n. the act of scrubbing sth
+                                                                 n. small bushes and trees
+                                                                 
+scruple                                                     ---> n. a feeling that prevent you from doing sth that
+                                                                    you think may be morally wrong
 
-scrupulous
+scrupulous                                                  ---> a. careful about paying attention to every detail
+                                                                 a. careful to be honest and do what is right
 
-scrutiny
+scrutiny                                                    ---> n. careful and thorough examination
 
-scuffle
+scuffle                                                     ---> n. a short and not violent fight or struggle
+                                                                 v. to fight or struggle with each other for 
+                                                                    a short time, in a way that is not very serious
+                                                                 v. to move quickly making a quiet rubbing noise
 
-sculpture
+sculpture                                                   ---> n. a work of art that is a solid figure or object
+                                                                    made by carving and shaping wood etc
+                                                                 n. the art of making sculptures
 
-seal
+seal                                                        ---> v. close envelope/ container/ surface / border,exits
+                                                                 v. to make sth definite
+                                                                 n. official mark or design, stamped on one document
+                                                                 n. a piece of wax/ soft metal / paper
+                                                                 n. a piece of metal, a ring with a design on it
+                                                                 n. a strip of material used to fill a crack
+                                                                 n. sea animal
+                                                                 
 
-seam
+seam                                                        ---> n. a line where two edges meet such as two edges
+                                                                    of cloths
+                                                                 n. a thin layer of coal and other material
+                                                                    between layers of rock under ground
 
-seasonal
+seasonal                                                    ---> a. varying with seasons
+                                                                 a. typical of or suitable for the time of a
+                                                                    year, especially Christmas
 
 
 
