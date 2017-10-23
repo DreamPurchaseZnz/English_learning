@@ -1,5 +1,36 @@
 ### sta = stand
 ```
+st, sta ,stan ,stin ,stab ,stal ,stor ,stat ,stit ,sist , stitut ,sist = stst, stand
+
+institute             ---> stand in 
+substantial           ---> sub(under) + stan = stand
+persit                ---> per(throughout) + sist = stand
+constitute            ---> con (together)
+constitution
+substitute            ---> sub(in place of)
+superstitious         ---> super(above) + sti
+contrast              ---> contra(against, opposite) + st
+destination           ---> de(down) + sti 
+destiny               ---> de(down)
+distance              ---> di(dis = away)+ stan 
+distant
+establish             ---> e(ex = out) + stab 
+cost                  ---> co(together) + st
+restless              ---> rest + less
+arrest                ---> ar(= ad =to) + re (back) + st
+post                  ---> po(pro = ahead) + st
+poster
+
+consist               ---> con(together) + sist
+assist                ---> as(at) + sist(stand)
+exist                 ---> ex(out) + ist(sist = stand)
+insist                ---> in(enhanced) + sist
+understand
+
+
+```
+
+```
 stab                   ---> a straight bar             
 stable                 ---> stand steady and firm
 stabilise              ---> make stable
