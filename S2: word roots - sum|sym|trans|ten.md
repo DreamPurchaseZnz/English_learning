@@ -15,6 +15,31 @@ sympathy
 sympathise
 symptom            ---> a sign of this situation
 ```
+
+
+
+### solv, solu, solut = to loosen, to untie 
+solv (to set free)
+solut(to dissolve)
+```
+absolve                                ---> ab(away)+ solve(=set free) 
+soluble
+solution
+solve
+solute
+resolution                              
+resolve                                 ---> re(=again) + solve(=loosen)                              
+solvent                                 ---> solv(= to loosen)
+absolute                                ---> ab(=away) + solute(to dissolve) = completely and definite
+dissolve                                ---> dis(=apart, way) + solv(=to loosen)
+insoluble                               ---> in(= not)
+
+```
+
+
+
+
+
 ### ten = hold 
 
 
