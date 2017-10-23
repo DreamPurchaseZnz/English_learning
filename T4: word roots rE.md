@@ -1,7 +1,12 @@
 # re = again, back, backwards
+
 ```
-resist
-resistance
+resist                                         ---> v. to fight back when attacked;
+                                                       to use force to stop sth from happening
+                                                       to refuse to accept sth
+                                                       to stop yourself from having sth or doing sth
+                                                    v. not to be harmed or damaged by sth
+resistance                                     ---> n.  
 resistant
 resit
 resolve
