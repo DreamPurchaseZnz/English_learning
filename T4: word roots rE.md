@@ -26,10 +26,24 @@ resolve                                        ---> v. to sperate or to be spera
                                                     v. to make a decision to do sth
                                                     n. strong determination to achieve sth
                                                        
+sort                                           ---> n. a group or types of people or things that are similar in particular way
+                                                    n. a particular type of person
+                                                    n. the process of putting data in particular way
+                                                    v. to arrange things in groups or in a particular order 
+                                                       according to their type
+                                                    v. to deal with a problem successfully or 
+                                                       organize sth/ sb properly
+                                                    
+                                                    
 
-resort
 
-resource
+resort                                         ---> n. a place can be used to go on vacation/ holiday
+                                                    n. the act of using sth, especially sth bad or unpleasant, 
+                                                       because nothing else is possible
+                                                    v. resort to sth; to make use of sth, especially sth bad, as a mean of 
+                                                       achieving sth, often because of no other possible solution
+
+resource                                       ---> n. 
 
 respect
 
