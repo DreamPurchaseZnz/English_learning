@@ -35,7 +35,17 @@ dissolve                                ---> dis(=apart, way) + solv(=to loosen)
 insoluble                               ---> in(= not)
 
 ```
+### sort
 
+```
+sorter                                 ---> sort + er(person)
+consort                                
+assort
+assorted 
+assortment
+resort
+
+```
 
 
 
