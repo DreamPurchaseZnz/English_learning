@@ -35,7 +35,7 @@ dissolve                                ---> dis(=apart, way) + solv(=to loosen)
 insoluble                               ---> in(= not)
 
 ```
-### sort
+### sort = kind; to classify; to arrange
 
 ```
 sorter                                 ---> sort + er(person)
