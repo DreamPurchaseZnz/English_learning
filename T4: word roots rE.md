@@ -1,4 +1,19 @@
-# re = again, back, backwards
+# re, red = again, back, backwards 
+```
+reject: throw ‘back’
+recede: move ‘back’
+reduce: lead ‘back’
+reflect: bend ‘back’
+return: turn ‘back’
+revert: turn ‘back’
+rearrange: arrange ‘again’
+rejuvenate: make young ‘again’
+recapitulate: say ‘again’, going ‘back’ to the head of what you’re saying
+reincarnate: return into a body ‘again’
+redeem: buy ‘back’
+redundant: flow ‘again’ unnecessarily
+
+```
 
 ```
 resist                                         ---> v. to fight back when attacked;
@@ -42,10 +57,14 @@ resort                                         ---> n. a place can be used to go
                                                        because nothing else is possible
                                                     v. resort to sth; to make use of sth, especially sth bad, as a mean of 
                                                        achieving sth, often because of no other possible solution
+ 
+resource                                       ---> n. source 'back'
+                                                    n. a supply of sth can be used to increase wealth
+                                                    n. something that provide imformation for teacher or students
+                                                    n. personal quilities such as courage and imagination that help you deal with difficulty
 
-resource                                       ---> n. 
-
-respect
+respect                                        ---> n. spect 'back'
+                                                    n. 
 
 respond
 respondent
