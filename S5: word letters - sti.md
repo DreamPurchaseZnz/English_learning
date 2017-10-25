@@ -23,13 +23,17 @@ stove                                                  ---> a heat equipment
 
 ## str = a long narrow piece of stuff
 ```
-strain                                                 ---> the pressure because of so many thing(rain); stretch to the limt
-strand                                                 ---> a single piece of thread, which twist together(and); a land along the ocean 
-strap                                                  ---> a narrow piece of fether / cloth used to fasten/keep/ carry/ hold onto sth
+strain                                                 ---> the pressure because of so many thing(rain);
+                                                            stretch to the limt
+strand                                                 ---> n. a single piece of thread, which twist together(and);
+                                                            n. a land along the ocean 
+strap                                                  ---> n. a narrow piece of fether / cloth 
+                                                               used to fasten/keep/ carry/ hold onto sth
 strip                                                  ---> n. a long narrow piece of sth,e.g. street, land
                                                             v. take sth into pieces,e.g. clothes, machine, property
-stripe                                                 ---> a long narrow line which it's different colour from area next to it
-strategy                                               ---> planing deeply 
+stripe                                                 ---> n. a long narrow line which it's different colour 
+                                                               from area next to it
+strategy                                               ---> n. planing deeply 
 strategist
 straw                                                  ---> a long thin tube; drink straw; the last straw; at straws; 
                                                                               the latest straw in the wind
