@@ -59,7 +59,9 @@ In response to your inquiry...
 your positive response will  reinforce her actions
 This operation restored his sight
 speed is restricted to 30 mph in towns
-
+retail price 
+retain control of the situation
+the information is no longer retained within the computer's main menmory
 
 
 
