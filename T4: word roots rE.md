@@ -98,7 +98,7 @@ restore                                        ---> v. store(a place where goods
                                                     v. to repair a building , work of art, piece of
                                                        furniture
                                                        
-restrain                                       ---> v. strain(pressure); - emotion/ using force
+restrain                                       ---> v. strain(pressure) 'back'; - emotion/ using force
                                                        (constraint: a fact or decision that limit what you can do)
                                                     v. - sth/sb(from doing sth); to stop sb/sth from doing sth
                                                        especially by physical force
@@ -118,27 +118,61 @@ restriction                                    ---> n. a law or rule that limits
                                                     n. the act of limiting or controlling sb/sth
                                                     n. a thing that limits the amount of freedom you have
                                                                                                               
-resume                                         ---> n. sume(summary) 'back'; a short summary or account of 
+resume                                         ---> n. sume(summary) 'again'; a short summary or account of 
                                                        a summary of your academic and work history
                                                     v. sume 'again'; it begins again or continues after an
                                                        interrupution,such as resume activities
                                                     v. to go back to the seat or palce you had before
-retail                                         ---> 
-retailer
-retailing
-retain
-retaliate
-retire
-retrenchment
-reunion
-reunite
-reveal
-revegetate
-revelation
+
+retail                                         ---> n. tail(the last part of sth) 'again'; the selling of goods to public
+                                                    v. to sell goods to the public,usually through shops/ store
+                                                    v. to be sold at a particular price
+                                                    v. to tell people about sth , especially about a person's behaviour
+retailer                                       ---> n. a person or business that sells good to the public
+
+retailing                                      ---> n. the business of selling goods to public, usually through shops/ stores
+
+retain                                         ---> v. tain(getting sth) 'again' ; to keep sth;to continue to have sth
+                                               ---> v. to continue to hold or contain sth
+
+retaliate                                      ---> v. taliate 'back'; taliban terrorist 
+                                                       to do sth harmful to sb because they have harmed you first
+
+retire                                         ---> v. tired(want to rest) 'again'; to stop doing your job 
+                                                       because you have reached a particular age or you are sick or ill
+                                                    v. in sport; to stop competing a game , race,etc,usually because you
+                                                        are injured
+                                                    v. to formally leave a place, especially to go  somewhere quiter or more
+                                                        private
+                                                    v. to move back from a battle in order to organize your soldiers
+                                                    v. to go to bed. e.g. to retire late last evening
+
+retrenchment                                   ---> n. trench(cut cost) 'again' ; the act of spending less money
+
+reunion                                        ---> n. state of union 'again'; the action of becoming a single group 
+                                                       or organization again
+                                                    n. the act of people coming together after they have been apart
+                                                       for some time
+                                                       
+reunite                                        ---> v. to join together 'again' seperate areas or seperate groups within
+                                                       an organization, a political party,etc, to come together again
+
+reveal                                         ---> v. veal(veil) 'back to'(removed); to show sth that previouly could not
+                                                       be seen
+                                                    v. to make sth known to sb
+
+revegetate                                     ---> v. vegetate( grow ) 'again'; 
+
+revelation                                     ---> n. 
+
 revenue
+
 reverse
+
 review
+
 revise
+
 revival
 revive
 revolution
