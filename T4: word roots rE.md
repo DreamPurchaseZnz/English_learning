@@ -1,5 +1,40 @@
 # re, red = again, back, backwards 
 ```
+vid, vis  =  to look , to see
+```
+```
+visionary      ---> vis(look)
+perview        ---> pre(before) + view
+advise         ---> ad(= to) + vise
+evidence       ---> e(= out)+ vid
+individualize  ---> in + di(dis = apart,away) + vid (see) + ize (= make)
+revise         ---> re(again) + vise(see)
+supervise      ---> super(over)
+televise       ---> tele(= far)
+
+```
+```
+viv , vit = to live, life
+```
+```
+vital         ---> vit = live, life
+vitalize
+vitality
+vitalist
+
+revive       ---> re(again) 
+survive      ---> sur(over)
+viva
+vivid        ---> viv + id(having the quality of)
+vividly
+vividness
+vivisection
+
+```
+
+
+
+```
 reject: throw ‘back’
 recede: move ‘back’
 reduce: lead ‘back’
@@ -163,26 +198,93 @@ reveal                                         ---> v. veal(veil) 'back to'(remo
 
 revegetate                                     ---> v. vegetate( grow ) 'again'; 
 
-revelation                                     ---> n. 
+revelation                                     ---> n. a fact that people are made aware of, especially one that has
+                                                       been secret and is surprising
+                                                    n. the act of making people aware of sth that has been secret
+                                                    n. something that is considered to be a sign or message from god
+                                                    
+revenue                                        ---> n. venue 'back'; the money that a goverment receives from taxes
+                                                       or that an organization etc, recieves from its business
 
-revenue
+reverse                                        ---> v. 'backward'; change to opposite;change the decision,law,etc
+                                                        change the order
+                                                    v. exchange the positions or functions of two things
+                                                    v. to adimt you are wrong ,such as reverse yourself
+                                                    v. to make the vehicle go back
+                                                    n. opposite; the opposite of what has just been mentioned
+                                                    n. the back of a coin etc.
+                                                    n. reverse gear used to make it move backwards
+                                                    a. opposite to what has just been mentioned
+                                                    a. opposite to the front
 
-reverse
+review                                         ---> n. view 'again'; an examination of sth, with the
+                                                       intention of changing it if necessary
+                                                    n. a report that sb gives their opinion of sth
+                                                    n. a report on a subject or on series of events
+                                                    v. to examine or consider sth again, especially so 
+                                                       that you can decide if it is necessary to make changes
+                                                    v. to think about past events to try to understand
+                                                       why they happened
+                                                    v. to write a report of a book, play, film/moives etc,in
+                                                       which you give your opinion of it
+                                                    
 
-review
+revise                                         ---> v. vise(to see) again; to change your opinion or plans
+                                                    v. to change sth, such as a book or an estimate,in order
+                                                       to correct it or improve it
+                                                    v. to prepare for an exam by look again at work  that you
+                                                       have done
 
-revise
-
-revival
-revive
-revolution
-revolve
-reward
-
-
-
-
-
-
+revival                                        ---> n. an improvement in the condition or strength of sth
+                                                    n. the process of sth becoming or being made popular
+                                                       or fashionable again
+                                                    n. a new production of a play that has not been performed
+                                                       for some time
+revive                                         ---> v. to become or to make sth/sb become, conscious or 
+                                                       healthy and strong again
+                                                    v. to make sth start to being used or done again
+revolution                                     ---> n. an attempt by a large number of people, to change 
+                                                       the goverment
+                                                    n. a great change in condition, ways of working,beliefs
+                                                       etc,that affect large numbers of people
+                                                    n. a complete circular movement around a point
+                                                       especially of one planet
+                                                    n. a circular movements made by sth 
+revolve                                        ---> v. to go in a circle around a central point
+reward                                         ---> v. to give sth to sb, because they have done sth good
+                                                    n. a thing that given to you/ an amount of money
 
 ```
+```
+volv, volu, volut = to roll , to turn
+```
+```
+convolution              ---> con(together) + volu (to roll)
+evolve                        
+voluble                  --->  to roll
+involve                  ---> in (= into)
+revolve                  ---> re(again)
+revolution
+revolt
+volumeter
+circumvolute             ---> circum(around)
+```
+```
+vol,volunt = will ,free 
+```
+```
+volunteer
+voluntary
+involuntary
+
+```
+
+
+
+
+
+
+
+
+
+
