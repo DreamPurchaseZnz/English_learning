@@ -62,6 +62,15 @@ speed is restricted to 30 mph in towns
 retail price 
 retain control of the situation
 the information is no longer retained within the computer's main menmory
+Caution! the truck is reversing
+In the south, the reverse applies
+the goverment may need to revise its policy
+a revised edition of textbook
+the discussion revolved around  the question of changing the club's name
+rotating at 300 revolutions per minutes
+
+
+
 
 
 
