@@ -68,10 +68,11 @@ the goverment may need to revise its policy
 a revised edition of textbook
 the discussion revolved around  the question of changing the club's name
 rotating at 300 revolutions per minutes
-
-
-
-
-
+there was very poor reception on my phone
+we arrange to meet in reception at 6:30
+her newest album has meet with a mixed reception from fans
+what's her recipe for sucess
+It was generally reckoned a success
+you have to go to police station to reclaim your wallet
 
 ```
