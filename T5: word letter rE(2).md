@@ -161,28 +161,78 @@ reclaim                         ---> v. claim(= to shout) + re(back); to ask to 
                                         to be suitable to be built on,farmed
                                      v. to obtain materials from waste products
                                      v. to rescue sb from a bad or criminal way of life
-recognition                     ---> v. 
-recognize
-recommend
-resconstruction
-recourse
-recover
-recreate
-recreation
-recreational
-recruit
+recognition                     ---> n. cog(=know) + re(again) ;the act of remember who sb is
+                                        when you see them, or indentify what sth is
+                                     n. the act of accepting that sth exists is true or is official
+                                     n. public praise and reward for sb's work or actions
+
+recognize                       ---> n. cog + re; to known who sb is or what sth is when you see
+                                        or hear them, because you have seen or heard them or it before
+                                     n. to admit or to be aware that sth exists or is true
+                                     n. to accept and approve of sb/sth officially
+  
+recommend                       ---> v. commend(praise) re(=again); to tell sb that sth is good or useful  '
+                                        that sb would be suitable for a particular job,etc
+                                     v. to advise to do sth ; to advise a course of action
+                                     v. to make sb/ sth seem attactive or good
+recommendation
+reconstruction                  ---> n. construction(to build) re(=again);the activity of building again
+                                        sth that has been demaged or destroyed
+                                     n. the process of changing or improving condition of sth 
+                                        or the way it works; the process of putting
+                                        sth back into state it was in before
+                                     n. a copy of sth that no longer exists
+                                     
+recourse                        ---> n. course(depend on) + 'again'; the fact of have to
+                                        or being able to, use sth that can provide help in a difficult
+                                        situation
+
+recover                         ---> v. cover(spread over surface) + re(again);
+                                        to return to a normal state after an unpleasant or unusual
+                                        experience or a period of difficulty
+                                     v. to get well again after being ill or sick, hurt,etc
+                                     v. to get back the same amount of money that you have spent
+                                        or that is owed to you 
+                                     v. to get back or find sth that was lost, stolen or missing
+                                     v. to win back a position, level, etc, status that has been lost
+                                     v. to get back the use of your sense
+
+recreate                        ---> v. re(again) + create(make exist); to make sth that exists in the past 
+                                        exist or seem to exist again 
+
+recreation                      ---> n. the fact of people doing something for enjoyment, when they
+                                        are not working
+                                     n. a particular activity that sb does when they are not working
+
+recreational                    ---> n. connected with activities that people do for enjoyment when
+                                        they not working
+
+recruit                         ---> v. 
+
 rectangle
+
 rectangular
+
 recycle
+
 redevelopment
+
 reduce
+
 redundant
+
 reel
+
 refectory
+
 refer
+
 referee
+
 reference
+
 refinement
+
 refrain
 refresh
 refresher
@@ -226,3 +276,19 @@ think is used more often for talking about your own opinion
 reckon is much informal
 
 ```
+```
+recommend  vs advise
+Advise is more stronger than recommend and is often used when the person is 
+giving the advise is in a position of authority
+I recommend.. mainly sugguest that you are trying to be helpful and is less 
+likely to cause offence
+
+```
+```
+recreation vs relaxation
+Both those words can be used for a wide range of activities , physical and mental
+but relaxation is sometime used for gentler activities than recreation
+
+
+```
+
