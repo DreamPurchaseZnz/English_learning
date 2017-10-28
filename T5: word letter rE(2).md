@@ -101,6 +101,60 @@ declaim
 reclaim
 
 ```
+## ducc, duc , duct(du) = to lead
+```
+conductive          ---> lead together
+induce              ---> lead into/ in
+conduction         
+conducter           ---> a person lead a group of people
+deduce              ---> lead down
+deductible
+induction           
+inductive
+Introduction        ---> lead into the content 
+product             ---> lead forth 
+productive
+seduction
+reduction           ---> lean back 
+education           ---> lead outside
+educator
+educe               ---> e< ex, lead out = stand out
+```
+## fac, fact, fec, fect, fic, fict(feas, feit,feat,fit) = do ,make, to feign
+```
+defect             ---> forget to do something necessary
+malefactor         ---> a person who do bad things
+factual            ---> what has been done
+beneficent         ---> the act of doing good things to show kindness
+beneficial         ---> bene(= good)
+proficient         ---> before making, sb has know everything
+superficial        ---> not studying or looking at sth thorouly, just above it; 
+                        seeing only what is obvious
+discomfit          ---> can't do sth thoroughly
+effect             ---> do a change that sb/ sth causes in sb/sth
+infect             ---> spread disease
+perfect            ---> do something completely
+perfectionist
+prefect            ---> person who do first
+refection          ---> do it back
+factor
+faculty            ---> the ability of doing sth
+fiction            
+fictious
+deficit
+difficult          ---> hard to do
+edifice            ---> edi = building
+efficient 
+suffice           
+sufficient           
+feasible           ---> can do 
+feat               ---> the fact of sth
+feature            
+defeat         
+benefit            ---> to do sth that is good for you
+profit          
+
+```
 
 ```
 
@@ -207,29 +261,53 @@ recreation                      ---> n. the fact of people doing something for e
 recreational                    ---> n. connected with activities that people do for enjoyment when
                                         they not working
 
-recruit                         ---> v. 
+recruit                         ---> v. cruit 'again'; to find new people to join a company , an organization
+                                        the armed forces, etc.
+                                     v. to persuade sb to do sth
+                                     v. to form a new army team, etc, by persuading  new people to join it
 
-rectangle
+rectangle                       ---> n. a flat shape with four straight sides, two of which are longer than the
+                                        other two, and four angles of 90
 
-rectangular
+rectangular                     ---> a. something that is rectangular is shaped like a rectangle
 
-recycle
+recycle                         ---> v. cycle 'again'; to use the same ideas , method ,jokes etc, again
+                                     v. to treat things that have already been used so that they can be used again
 
-redevelopment
+redevelopment                   ---> n. the act of improving by renewing and restoring
 
-reduce
+reduce                          ---> v. duce('lead') back; to make sth less or smaller in size, quantity,price,etc
+                                     v. if you reduce a liquid or a liquid reduces, you boil it so that it becomes
+                                        less in quantity
+                                     v. to loss weight by limiting the amount and type of food that you eat
+                                     v. to remove oxygen from substance
 
-redundant
+redundant                       ---> a. not needed or useful
+                                     a. (of a person) to be made redundant means to be dismissed 
+ 
+reel                            ---> n. a round object around which you wind such things as thread, wire or film;
+                                        a reel together with the film ,wire, thread ,etc, that is wound around it
+                                     v. to move in a very unsteady way
+                                     v. to feel very shocked or upset about sth
+                                     v. to seem to be spinning around and around
 
-reel
+refectory                       ---> n. a large room in which meals served ,especially in a religious institution 
+                                        and in some schools
 
-refectory
+refer                           ---> v. refer to sb/sth ; to mention or speak about sb/sth
+                                     v. to look at sth or ask a person for information
+                                     v. refer sth/sb to sth/ sb; to send sb/sth to sb/ sth for help
 
-refer
+referee                         ---> n. the official who controls the game in some sports
+                                     n. a person who gives information about your character and ability, usually in
+                                        a letter , for example when you are applying for a job
+                                     n. a person who is asked to settle a disagreement
+                                     n. a person who reads and checks the quality of a technical article before it
+                                        published
+                                     v. to act as a referee in a game
+                                     v. to reads and check the quality of a technical article
 
-referee
-
-reference
+reference                       ---> 
 
 refinement
 
