@@ -80,11 +80,10 @@ recognized qualifications
 recover its lead in the second half
 His recreation include football and shooting
 recreational activities / facilities
-
-
-
-
-
+a rectangular table
+we reduce the problem to two issues
+a reducing plan
+his mind realed at the question
 
 
 
