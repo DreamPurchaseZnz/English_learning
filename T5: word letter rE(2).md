@@ -155,6 +155,47 @@ benefit            ---> to do sth that is good for you
 profit          
 
 ```
+## fer =  to carry , to bring, to bear
+[fer](http://membean.com/wrotds/fer-carry)
+```
+reference                ---> reference book carry back their knowledge to you
+refer                    ---> carry your eyes back to sth
+preferable               ---> sth is carried before something else
+indifference             ---> you do not 'carry' one thing apart from another
+vociferous               ---> carrying their voices quite loudly for all to hear
+conifer                  ---> a cone carrying tree bearing cone
+referendum               ---> an political or civil issue that is carrying back 
+                              before people for a vote
+circumference            ---> how far one must carry a measurement around a circle
+a fertile apple tree     ---> Its limbs carry a lot of apples
+ 
+confer                   ---> to bring an honor to someone
+ferry                    ---> a boat that carries passengers
+infer                    ---> bring in the truth basd on the fact
+opprobrium               ---> op < ob + pro(=forth) + br< fer(= bring)
+preferment
+proffer
+fertile                  
+indifference             
+circumference
+differ                 
+different               ---> 'carried' apart
+interfere
+offer                   ---> to bring to
+prefer                  ---> carry before
+preferable
+refer
+suffer                  ---> 'carry' under
+suffering
+transfer                ---> 'carry' across
+
+
+
+
+```
+
+
+
 
 ```
 
@@ -294,7 +335,7 @@ reel                            ---> n. a round object around which you wind suc
 refectory                       ---> n. a large room in which meals served ,especially in a religious institution 
                                         and in some schools
 
-refer                           ---> v. refer to sb/sth ; to mention or speak about sb/sth
+refer                           ---> v. fer(take) 'back'; refer to sb/sth ; to mention or speak about sb/sth
                                      v. to look at sth or ask a person for information
                                      v. refer sth/sb to sth/ sb; to send sb/sth to sb/ sth for help
 
