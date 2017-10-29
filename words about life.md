@@ -84,8 +84,15 @@ a rectangular table
 we reduce the problem to two issues
 a reducing plan
 his mind realed at the question
-
-
+without reference to a doctor
+we will take reference after interview
+the particular model has a further refinement
+a person of considerable refinement
+refrain from smoking
+refresh your glass
+the page refresh automatically
+can we offer some refreshment
+a place to rest and find some refreshment for mind and body
 
 
 
