@@ -348,28 +348,69 @@ referee                         ---> n. the official who controls the game in so
                                      v. to act as a referee in a game
                                      v. to reads and check the quality of a technical article
 
-reference                       ---> 
+reference                       ---> n. a thing you say or write that mentioned sb/ sth else; the act of mentioning
+                                        sb/ sth
+                                     n. the act of looking for information
+                                     n. the act of asking sb for help or advice
+                                     n. a number ,word or symbol that show where sth is on a map, where you can find
+                                        a piece of information
+                                     n. a letter writen by sb who knows you ,giving information about you charater
+                                        and abilities, especially to a new employer
+                                     n. a note in book that tell you where a particular piece of information comes from
+                                     v. to refer to sth; to provide a book,etc, with references
 
-refinement
+refinement                      ---> n. fine(= to make good) + re(again); a small change to sth that improves it
+                                     n. a thing is an improvement on an earlier, similar thing
+                                     n. the process of improvimng sth or making sth pure
+                                     n. the quality of being polite and well educated and able to judge the quality of
+                                        thing; the state of having the sort of manners that are considered typical of 
+                                        a high social class
 
-refrain
-refresh
-refresher
-refreshment
+refrain                         ---> v. frain(stop) again; to stop yourself from doing sth, especially sth that you want to do
+                                     n. a comment or complaint that is ofen repeated
+                                     n. the part of  a song or a peom that is repeat after each verse
+
+refresh                         ---> v. fresh again; to fill sb's glass or cup again
+                                     v. to make sb feel less tired or less hot
+                                     v. to remind yourself/sb for sth, especially with the help of sth that can be seen or heard
+                                     v. to get more recent information by clicking on a button on the screen
+
+refresher                       ---> n. a course that reviews and updates a topic for those who have not keep abreast of 
+                                        development
+                                     n. a drink that refreshes
+
+refreshment                     ---> n. drinks and small amount of food 
+                                     n. food and drink
+                                     n. the fact of making sb feel stronger or less tired or hot
+
 refrigerator
+
 refund
+
 refundable
+
 refusal
+
 regarding
+
 regardless
+
 regent
+
 region
+
 regional
+
 register
+
 registration
+
 regularity
+
 regulate
+
 regurgitate
+
 rehabilitate
 reinforce
 reinforcement
