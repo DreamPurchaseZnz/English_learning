@@ -189,11 +189,45 @@ suffer                  ---> 'carry' under
 suffering
 transfer                ---> 'carry' across
 
+```
+## gent, gen, gn ,gener = birth, race
+```
+congenial
+cognate                     ---> have the same origin
+disingenuous                ---> not sincere especially when you pretend to know less about sth 
+                                 that you really do
+engender                    
+generate
+genial
+ingenuous
+degenerate
+homogeneous
+homogenize
+pregnant                    ---> before birth 
+progeny
+regenearte
+gender
+gene
+general
+generality
+generalize
+generally
+generous
+genetic
+gential
+gentleman
+genuine
+genus
+hydrogen
+oxygen
+mitrogen
+biogenesis
+endogenous
+
 
 
 
 ```
-
 
 
 
@@ -383,23 +417,32 @@ refreshment                     ---> n. drinks and small amount of food
                                      n. food and drink
                                      n. the fact of making sb feel stronger or less tired or hot
 
-refrigerator
+refrigerator                    ---> n. a large container which is keep cool inside, usually by electricity,
+                                        so that keep the food and drink in it stays fresh
 
-refund
+refund                          ---> n. fund(money) 'back'; a sum of money that pay back to you, especially because you 
+                                        paid too much or because you returned good to the shop / store
+                                     v. to give sb their moeny back,especially because they haid paid too much or because
+                                        they are not satisfied with sth they bought
 
-refundable
+refundable                      ---> a. can return the money back; 
 
-refusal
+refusal                         ---> n. an act of saying or  showing that you will not do, give or accept sth
 
-regarding
+regarding                       ---> prep. concerning sb/sth ; about sth/sb
 
-regardless
+regardless                      ---> av. pay no attention; even if the situation is bad or there are difficulties
 
-regent
+regent                          ---> n. gent(birth) re(again); a person who rules a country 
+                                        because the king or queen is too young, old, ill/sick.
 
-region
+region                          ---> n. a large area of land, usually without exact limits or borders
+                                     n. one of the areas that  a country is divided into, that has its own custom
+                                        or its own goverment
+                                     n. all of a country except the capital city
+                                     n. one part of body
 
-regional
+regional                        ---> n. of or relating to a region, contrast with national
 
 register
 
@@ -412,16 +455,25 @@ regulate
 regurgitate
 
 rehabilitate
+
 reinforce
+
 reinforcement
+
 reinvigorate
+
 reiterate
+
 reject
+
 rekindle
+
 relate
 relation
 relax
+
 relay
+
 release
 
 
