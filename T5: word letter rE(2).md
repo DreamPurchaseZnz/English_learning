@@ -444,39 +444,6 @@ region                          ---> n. a large area of land, usually without ex
 
 regional                        ---> n. of or relating to a region, contrast with national
 
-register
-
-registration
-
-regularity
-
-regulate
-
-regurgitate
-
-rehabilitate
-
-reinforce
-
-reinforcement
-
-reinvigorate
-
-reiterate
-
-reject
-
-rekindle
-
-relate
-relation
-relax
-
-relay
-
-release
-
-
 
 
 ```
