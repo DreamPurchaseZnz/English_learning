@@ -221,15 +221,21 @@ remuneration                              ---> an amount of money that is paid b
 renaissance                               ---> n. naiss(to be born) 'again'; a situation when there is new interest 
                                                   in particular subject
 
-render                                    ---> n. cause sth/ sb to be sth
+render                                    ---> v. cause sth/ sb to be sth
+                                               v. render sth; to give sb sth beacause it is expected
+                                               v. present sth
+                                               
+rendition                                 ---> n. the performance of sth, especially a song or piece
+                                                  of music
 
-rendition
+renew                                     ---> v. new again; to begain sth again after a pause
+                                               v. to make sth valid for a further period of time
+                                               v. to emphasize sth by saying it again
 
-renew
+renewable                                 ---> a. replaced naturally
+                                               a. that can be made valid for a further period of time
 
-renewable
-
-renewal
+renewal                                   ---> n. a stuation in which sth begins again
 
 rent
 
