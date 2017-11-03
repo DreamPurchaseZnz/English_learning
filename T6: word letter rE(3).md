@@ -120,6 +120,20 @@ medication
 
 
 ```
+## nat, nasc(naiss, naiv) = to be born
+```
+innate
+nascent
+nation
+national
+native
+nature
+natural
+renascent
+renalssance
+agnate
+cognate
+```
 
 ```
 register                                        
@@ -204,9 +218,10 @@ remove
 
 remuneration                              ---> an amount of money that is paid back to sb for the work they have done
 
-renaissance                               --->
+renaissance                               ---> n. naiss(to be born) 'again'; a situation when there is new interest 
+                                                  in particular subject
 
-render
+render                                    ---> n. cause sth/ sb to be sth
 
 rendition
 
