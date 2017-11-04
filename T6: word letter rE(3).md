@@ -134,6 +134,73 @@ renalssance
 agnate
 cognate
 ```
+## patr = father, country
+```
+patron
+patriot
+repatriate 
+```
+## pel = to drive
+```
+dispel
+impel
+appeal
+compel
+compulsive
+repeal
+
+```
+## ple, plet, pli, ply, plen(i ) = to fill, full
+```
+compliant
+complement
+implement
+supplement
+replete
+replenish
+plenary
+compliment
+complimentary
+supply
+complete
+expletive
+penitude
+deplenish
+ample
+accomplish
+
+```
+## plic, ply, pli ,ple, plex, plo = to fold, to weave
+```
+applicable
+explicit
+imply
+replia
+pliable
+complicated
+duplicate
+duplication
+duplicity
+mutiply
+mutiplication
+reply
+replication
+simplicity
+triplicate
+multiple
+triple
+complex
+complexity
+triplex
+diploma
+diplomatic
+exploit
+exployment
+simple
+
+
+```
+
 
 ```
 register                                        
@@ -237,27 +304,31 @@ renewable                                 ---> a. replaced naturally
 
 renewal                                   ---> n. a stuation in which sth begins again
 
-rent
+rent                                      ---> v. to allow sb to use sth for regular payment
+                                               v. to pay money to sb so that you can use sth
 
-rental
+rental                                    ---> n. money, the act of renting sth, a equipment
 
-reorient
+reorient                                  ---> v. orient once 'again'; cause to turn
 
-repack
+repack                                    ---> v. pack again
 
-repaint
+repaint                                   ---> v. paint again
 
-repatriate
+repatriate                                ---> v. patri(country) + 'back' ; to send or bring sb
+                                                  back to their own country
+ 
+repay                                     ---> v. pay 'back'; to pay back the money you borrowed
+                                                  repay sb for sth; to give sth to sb in return for sth
 
-repay
+repel                                     ---> v. pel(drive) back; to drive to push or keep sth away
 
-repel
+repertoire                                ---> n. all the thing that a person is able to do
 
-repertoire
+replace                                   ---> v. place again; put sth back in the place where it before
+                                                  to be used instead of sth/sb else
 
-replace
-
-replenish
+replenish                                 ---> v. plenish(to fill )+ again ; to make sth full again 
 
 replicate
 
