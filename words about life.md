@@ -96,5 +96,11 @@ a place to rest and find some refreshment for mind and body
 His refusal to discuss the matter is very annoying
 Renew your passport
 renew an appeal
+repay for your generosity
+repay a debt
+repel an attack
+like poles repel each other
+
+
 
 ```
