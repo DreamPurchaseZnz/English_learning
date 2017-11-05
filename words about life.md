@@ -100,7 +100,8 @@ repay for your generosity
 repay a debt
 repel an attack
 like poles repel each other
-
+I've reserved a room in the name of Jones
+I prefer to reserve my judgement
 
 
 ```
