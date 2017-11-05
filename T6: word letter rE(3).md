@@ -200,7 +200,64 @@ simple
 
 
 ```
+## quist, quest, quir, quer(quist) =  to ask, to seek
+```
+acquisitive
+inquiry
+inquisitive
+requisite
+exquisite
+prerequisite
+inquest
+questionable
+request
+sequestrate
+acquire
+require
+conquer
+query
+prequisite
+```
+## sem(sembl), sim(simul, simil) = same, like, equal
+```
+simulate
+facsimile
+similarity
+similar
+simile
+simultaneous
+resemble
+verisimilar
+```
+## sent, sens = to feel
+```
+sentiment
+sentimental
+consent
+consenter
+consentient
+consensus
+consentaneous
+dissent
+dissention
+dissenter
+dissentient
+resent
+sententious
+presentiment
+sense
+sensitive
+sensation
+senory
+nonsense
+insensible
+oversensitive
+extrasensory
+sentence
+scent
 
+
+```
 
 ```
 register                                        
@@ -330,40 +387,52 @@ replace                                   ---> v. place again; put sth back in t
 
 replenish                                 ---> v. plenish(to fill )+ again ; to make sth full again 
 
-replicate
+replicate                                 ---> v. to copy sth exactly
+ 
+represent                                 ---> v. act/speak for sb
 
-represent
+representative                            ---> n. a person who has been chosen to speak or 
+                                                  vote for sb else or on behalf of a group
+                                               a. able to be used as a typical example of sth 
+                                                 
+reproduce                                 ---> v. produce 'again'; to make a copy of a picture,etc
+                                               v. to make sth happen again in the same way
 
-representative
+reptile                                   ---> n. any animal that has cold blood and skin covered in
+                                                  scales and that lays eggs.
+reputable                                 ---> v. that people consider to be honest and to provide a 
+                                                  good service
 
-reproduce
+reputation                                ---> n. the opinion that people have about what sb/sth is like
 
-reptile
-reputable
+request                                   ---> n. the action of asking for sth formally and politely
 
-reputation
+require                                   ---> v. to need sth; to depend on sb/sth
+                                               v. to make sb do or have sth, especially because it is
+                                                  necessary.
 
-request
+requirement                               ---> n. something that you need or want
 
-require
+requisite                                 ---> a. quisit(ask) + 'back'; neccessary for a particular purpose
 
-requirement
+requisition                               ---> n. a formal official wrriten request or demand for sth
 
-requisite
+rescue                                    ---> v. to save sb/sth from a dangerous or harmful situation
 
-requisition
+resemble                                  ---> v. sembl(same) + 'again'; to look like or be similar 
+                                                  another person or thing
 
-rescue
+resent                                    ---> v. to feel bitter or angry about sth, because you feel it
+                                                  is unfair   
 
-resemble
+reservation                               ---> n. a arrangement for a seat to be kept for you
+                                               n. a feeling of doubt about a plan or an idea
 
-resent
+reserve                                   ---> v. serve(to keep) + 'again'; to ask for a seat, table
+                                                  room, to be available for you or sb else
+                                               v. to keep sth for sth
 
-reservation
-
-reserve
-
-reserved
+reserved                                  ---> a. of a person, slow or unwilling to show feeling or express opinions
 
 residence
 
@@ -377,3 +446,22 @@ resilience
 
 
 ```
+## serv = to serve, to keep
+```
+conserve
+deserve
+observe
+observation
+preserve
+reserve
+serve
+service
+servitude
+disserve
+serfdom
+sergant
+
+```
+
+
+
