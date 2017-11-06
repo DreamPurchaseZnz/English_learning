@@ -434,13 +434,17 @@ reserve                                   ---> v. serve(to keep) + 'again'; to a
 
 reserved                                  ---> a. of a person, slow or unwilling to show feeling or express opinions
 
-residence
+residence                                 ---> n. sid(to sit) 'again'; the state of living in a particular place;
+                                               n. permission to live in a country; a large or impressive house
 
-resident
+resident                                  ---> n. a person who has their home here;
+                                               a. living a particular place
 
-residential
+residential                               ---> a. suitable for living in;
+                                               a. requiring a person living in a particular place; 
+                                                  offering living accommodation
 
-resign
+resign                                    --->
 
 resilience
 
@@ -462,6 +466,43 @@ serfdom
 sergant
 
 ```
+## sid(sed, sit), sess(sid) = to sit
+```
+preside          ---> to sit before others
+president
+reside
+subside
+dissident        ---> person who sits apart from others
+session          ---> the act or state of sitting
+possess          ---> to be able to sit in a place
+assesss          ---> to sit; to judge or estimate 
+consider         
+superside
+obsession        ---> ob(in the way)
+sidimentary
+saddle
+posesses
 
+```
+## sign = mark ,sign, seal
+```
+consign
+designate
+signify                   ---> To show; to make evident; as, signify agreement 
+assign
+consigner
+countersign
+ensign
+resign
+undersign
+significance              ---> Showing full importance; expressive
+signal                    ---> a gesture to call attention
+signate                   ---> pointed out
+signature                 ---> the name of a person wrriten in his own handwriting
+signet                    ---> Sign or seal expressing authority; a signet ring 
+design                    ---> A plan of something to be done
+
+
+```
 
 
