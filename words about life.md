@@ -102,6 +102,6 @@ repel an attack
 like poles repel each other
 I've reserved a room in the name of Jones
 I prefer to reserve my judgement
-
-
+be resident in US/ aboard
+residential care
 ```
