@@ -104,4 +104,15 @@ I've reserved a room in the name of Jones
 I prefer to reserve my judgement
 be resident in US/ aboard
 residential care
+he radiated self-confidence and optimism
+crime is rampant
+he ranged the room
+front rank of world powers
+a painter of first rank
+the tree grew in serried ranks
+the radio of men to women stands at 150:152
+we must be realistic about our chance of winning
+in the realm of literature
+the front and rear of the plane
+a kick in the rear
 ```
