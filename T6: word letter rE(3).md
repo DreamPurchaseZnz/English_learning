@@ -444,10 +444,12 @@ residential                               ---> a. suitable for living in;
                                                a. requiring a person living in a particular place; 
                                                   offering living accommodation
 
-resign                                    --->
+resign                                    ---> v. to officially tell sb that you are leaving your job
 
-resilience
-
+resilience                                ---> n. sil(leap) 'back'; the ability of a substance to return to its original
+                                                  shape after it has been bent, stretched or pressed.
+                                               n. the ability of people or things to feel better quickly after sth unpleasant
+                                                 
 
 ```
 ## serv = to serve, to keep
@@ -504,5 +506,23 @@ design                    ---> A plan of something to be done
 
 
 ```
+## sal(sul, sil, sail, saul) = to leap
+```
+salient
+exult
+resilient
+assault
+consult
+consultant
+exile
+insult
+result
+sally
+salmon
+salad                ---> a "salted" dish
+salary               ---> a soldier's allowance for buying salt
+salaried
 
+
+```
 
