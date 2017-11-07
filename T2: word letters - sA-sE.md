@@ -1,14 +1,14 @@
-# sa
-Word roots
+# sa- se
+
+## san  = health    
 ```
-san  = health    
 sane                                                        ---> mentally healthy
 sanitary                                                    ---> relating to cleanliness and heath
 sanitation                                                  ---> maintenance of public health and cleanliness
 
 ```
-```
-scope/scopy = see, examine, observe  
+scope/scopy = see, examine, observe
+```  
 microscope                                                  ---> a device used to see tiny things
 telescope                                                   ---> a device used to see over a distance
 
@@ -215,10 +215,6 @@ seam                                                        ---> n. a line where
 seasonal                                                    ---> a. varying with seasons
                                                                  a. typical of or suitable for the time of a
                                                                     year, especially Christmas
-
-
-
-
 
 
 ```
