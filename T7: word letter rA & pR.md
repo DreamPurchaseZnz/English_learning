@@ -17,6 +17,19 @@ razoor
 raze
 
 ```
+## prim(prem, prin,pri) = first
+```
+prima
+primary
+prime
+prior
+pristine
+premiere            ---> prem < prim (=first)
+prince
+
+```
+
+
 ```
 racket                              ---> n. a loud unpleasant noise
                                     ---> n. a dishonest or illegal way of getting money
@@ -61,24 +74,44 @@ realm                               ---> n. an area of activity, interest, knowl
 
 rear                                ---> n. the back part of sth
                                          n. the part of your body that you sit on
-premier
-premise
+
+premier                             ---> n. premi(first) + 'er'; the first minister of a province
+                                         a. most important, famous or successful
+
+premise                             ---> n. premi + se(statement); the statement or an idea that forms the basis 
+
 premium
+
 preparation
+
 prepare
+
 prerequisite
+
 prescribe
+
 prescription
+
 presence
+
 presentation
+
 preserve
+
 president
+
 presumably
+
 presuppose
+
 pretend
+
 pretension
+
 pretentious
+
 prevail
+
 prevalence
 prevalent
 preventative
