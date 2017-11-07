@@ -1,7 +1,5 @@
-### sta = stand
+## st, sta ,stan ,stin ,stab ,stal ,stor ,stat ,stit ,sist , stitut ,sist = stst, stand
 ```
-st, sta ,stan ,stin ,stab ,stal ,stor ,stat ,stit ,sist , stitut ,sist = stst, stand
-
 institute             ---> stand in 
 substantial           ---> sub(under) + stan = stand
 persit                ---> per(throughout) + sist = stand
