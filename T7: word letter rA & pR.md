@@ -65,7 +65,19 @@ parturition   ---> produce
 viviparous    ---> produce
 
 ```
+## pre = before
+```
+prevent       ---> come 'before'
+precise       ---> cut 'before'
+prejudice     ---> judge 'before'
+preview       ---> view 'before'
+predict       ---> say 'before'
+prepare       ---> get ready 'before'
+precaution    ---> a being cautious 'beforehand'
+prefer        ---> carry 'before' others
+president     ---> leader who sits 'before' all others
 
+```
 
 ```
 racket                              ---> n. a loud unpleasant noise
@@ -135,19 +147,22 @@ prescription                        ---> n. an offical pieces of paper on which 
                                          n. tha act fo prescribing medicine
                                          n. a plan or suggestion for making sth happen or for improving it.
 
-presence                            ---> n. pre(before) sence(feel); the fact of being in a particular place
+presence                            ---> n. sen(feel) 'before' showing; the fact of being in a particular place
                                          n. the quality of making a strong impression on other people
                                          n. a group of people, especially soldiers who have been sent to a place
 
-presentation                        ---> n. 
+presentation                        ---> n. the act of showing sth or of giving sth to sb
 
-preserve
+preserve                            ---> v. serve(keep) 'before' becoming bad; to keep sth in its original state in good condition
+                                         v. to keep a particular quality, features, to make sure that sth is kept
 
-president
+president                           ---> n. sit 'before'; the leaders of a republic especially the US
+                                         n. the person in charge of some organizations
 
-presumably
+pressure
+presumably                          ---> n. sum(take) before; used to say you think that sth is probably true
 
-presuppose
+presuppose                          ---> v. suppose 'before'; 
 
 pretend
 
