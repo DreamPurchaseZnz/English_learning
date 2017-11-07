@@ -6,7 +6,7 @@ produce                                    ---> lead ahead
 reduce                                     ---> lead down
 ```
 
-## word letter
+
 ```
 session                                    ---> a formal meeting or series of meeting of a court, a parliament;
                                                 a period of time when such meeting are held
