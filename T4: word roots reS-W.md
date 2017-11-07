@@ -1,7 +1,6 @@
 # re, red = again, back, backwards 
-```
-vid, vis  =  to look , to see
-```
+
+## vid, vis  =  to look , to see
 ```
 visionary      ---> vis(look)
 perview        ---> pre(before) + view
@@ -13,9 +12,9 @@ supervise      ---> super(over)
 televise       ---> tele(= far)
 
 ```
-```
-viv , vit = to live, life
-```
+
+## viv , vit = to live, life
+
 ```
 vital         ---> vit = live, life
 vitalize
@@ -33,7 +32,7 @@ vivisection
 ```
 
 
-
+## re = back
 ```
 reject: throw ‘back’
 recede: move ‘back’
@@ -255,9 +254,9 @@ reward                                         ---> v. to give sth to sb, becaus
                                                     n. a thing that given to you/ an amount of money
 
 ```
-```
-volv, volu, volut = to roll , to turn
-```
+
+## volv, volu, volut = to roll , to turn
+
 ```
 convolution              ---> con(together) + volu (to roll)
 evolve                        
@@ -269,9 +268,9 @@ revolt
 volumeter
 circumvolute             ---> circum(around)
 ```
-```
-vol,volunt = will ,free 
-```
+
+## vol,volunt = will ,free 
+
 ```
 volunteer
 voluntary
