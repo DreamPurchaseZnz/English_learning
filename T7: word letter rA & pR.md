@@ -28,6 +28,43 @@ premiere            ---> prem < prim (=first)
 prince
 
 ```
+## par(pair, per, pir, peer) = equal, to arrange, to appear, to produce
+```
+par           --_> cut
+part
+pair          ---> sth be divided into two
+imperative
+irreparable   ---> arranage
+apparation    ---> to appear
+transparent   ---> across + appear
+disparage     ---> not equal
+impair        ---> not equal
+apparatus     ---> to arrange
+empire        ---> to arrange
+imperial
+parade        ---> to arrange
+pare          ---> to arrange to cut
+prepare       ---> pre arrange
+preparatory
+repair        ---> arrange again
+reparable
+seperate      ---> arrange away
+apparent      ---> to appear
+appearance    ---> to appear
+compare
+comparision
+comparable
+compeer       ---> equal
+parity
+peer
+umpire        ---> not equal
+vimpire       ---> equal
+parental      ---> produce
+parricide     ---> produce
+parturition   ---> produce
+viviparous    ---> produce
+
+```
 
 
 ```
@@ -80,21 +117,29 @@ premier                             ---> n. premi(first) + 'er'; the first minis
 
 premise                             ---> n. premi + se(statement); the statement or an idea that forms the basis 
 
-premium
+premium                             ---> a. premi(first) ; of high quality
+                                         n. an amount of money that you pay once or regularly for an insurance policy
+                                         n. a extra payment added to the basic rate
 
-preparation
+preparation                         ---> n. things that you do to get ready for sth or make sth ready
 
-prepare
+prepare                             ---> v. pare(arrange) + pre(before); to make sth/stb to be used/ to do sth.
 
-prerequisite
+prerequisite                        ---> n. pre(before) + re+ (again)+ quis(to ask); something that must exists or 
+                                            happen before sth else can happen or be done
 
-prescribe
+prescribe                           ---> v. pre(before) scribe(write) a line; to say  what should be done or how sth should be done
+                                         v. to write a prescription for a particular medicine
 
-prescription
+prescription                        ---> n. an offical pieces of paper on which a doctor write the type of medicine you should have;
+                                         n. tha act fo prescribing medicine
+                                         n. a plan or suggestion for making sth happen or for improving it.
 
-presence
+presence                            ---> n. pre(before) sence(feel); the fact of being in a particular place
+                                         n. the quality of making a strong impression on other people
+                                         n. a group of people, especially soldiers who have been sent to a place
 
-presentation
+presentation                        ---> n. 
 
 preserve
 
@@ -113,21 +158,37 @@ pretentious
 prevail
 
 prevalence
+
 prevalent
+
 preventative
+
 previous
+
 prey
+
 primarily
+
 premary
+
 prime
+
 primitive
+
 principal
+
 principle
+
 prior
+
 priority
+
 privacy
+
 private
+
 privilege
+
 probability
 probable
 probation
