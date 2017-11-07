@@ -162,19 +162,25 @@ president                           ---> n. sit 'before'; the leaders of a repub
 pressure
 presumably                          ---> n. sum(take) before; used to say you think that sth is probably true
 
-presuppose                          ---> v. suppose 'before'; 
+presuppose                          ---> v. suppose 'before' it has been proved to be true; to accept sth as true or act 
+                                            on basic before it has been proved to be true
 
-pretend
+pretend                             ---> v. tend(strech) your mind 'before' people; to behave in particular way, 
+                                            in order to make people believes sth that is not true
+                                                      
 
-pretension
+pretension                          ---> n. the act of trying to be more important, intelligent,etc, than you are in
+                                            oder to impress other people
+                                         n. a claim to be or to do sth
 
-pretentious
+pretentious                         ---> a. trying to be sth that you are not in order to impress
 
-prevail
+prevail                             ---> v. stronger before the opponet; to defeat an opponent,especially after a long
+                                            struggle; to exist; to be very commen at a particular time or place
 
-prevalence
+prevalence                          ---> n. a conditon practice, or belief that is prevalent is common
 
-prevalent
+prevalent                           ---> a. that exists or is very common at a particular time or place
 
 preventative
 
