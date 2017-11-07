@@ -1,6 +1,7 @@
 # ri
+
+## rid  = laugh
 ```
-rid  = laugh
 ridiculous                                       ---> silly causing laughter
 ```
 
