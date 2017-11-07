@@ -7,13 +7,30 @@ sanitary                                                    ---> relating to cle
 sanitation                                                  ---> maintenance of public health and cleanliness
 
 ```
-scope/scopy = see, examine, observe
+## scope/scopy = see, examine, observe
 ```  
 microscope                                                  ---> a device used to see tiny things
 telescope                                                   ---> a device used to see over a distance
 
 ```
+## scrib, script = to write , to curve (b-p)
+```
+ascribe sth to sb
+prescribe                ---> before write
+proscribe             
+transcribe               ---> across write
+circumscribe             ---> around write
+describe                 ---> write down
+inscribe                 ---> write into
+manuscript               ---> manu(=hand)
+rescript                  
+subscribe                ---> under sth write your name
+subscription
+scrible
+script
+scripture
 
+```
 
 ```
 sack                                                        ---> n. a large bag with no handles, made of strong rough material
