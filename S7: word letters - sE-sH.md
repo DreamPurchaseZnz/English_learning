@@ -28,8 +28,6 @@ severe                                     ---> a. very bad
                                                 a. very difficut e.g. a severe test
                                                 a. extremely plain and lacking any decoration
 
-```
-```
 shade                                      ---> n. a place that is dark and cool by protecting from the heat of sun
                                            ---> n. a thing used to prevent light from coming through
                                                    e.g. eyeshade, window shade, shaded lamp
