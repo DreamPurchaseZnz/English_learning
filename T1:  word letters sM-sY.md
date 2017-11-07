@@ -1,4 +1,63 @@
 ## sm = to put a layer of soft substance on sth
+## sum = highest
+```
+summary  
+summarise
+summit  
+```
+## sumpt , sum = to take, to use,  to waste
+```
+presume               ---> take 'before' think
+assume                ---> to take the fact
+assumption
+consume               ---> together/ completely use
+subsume               ---> take under
+unassuming            ---> take before ask;modest
+```
+
+
+## sym = together, with, same
+```
+symbol   
+symbolism
+sympathy
+sympathise
+symptom            ---> a sign of this situation
+```
+
+
+
+## solv, solu, solut = to loosen, to untie 
+solv (to set free)
+solut(to dissolve)
+```
+absolve                                ---> ab(away)+ solve(=set free) 
+soluble
+solution
+solve
+solute
+resolution                              
+resolve                                 ---> re(=again) + solve(=loosen)                              
+solvent                                 ---> solv(= to loosen)
+absolute                                ---> ab(=away) + solute(to dissolve) = completely and definite
+dissolve                                ---> dis(=apart, way) + solv(=to loosen)
+insoluble                               ---> in(= not)
+
+```
+## sort = kind; to classify; to arrange
+
+```
+sorter                                 ---> sort + er(person)
+consort                                
+assort
+assorted 
+assortment
+resort
+
+```
+
+
+
 ```
 smart                                                         ---> a. clean and neat
                                                                    a. intelligent
@@ -164,3 +223,6 @@ source                                                        ---> n. a place ,p
                                                                 
 
 ```
+
+
+
