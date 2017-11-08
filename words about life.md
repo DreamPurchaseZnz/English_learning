@@ -119,8 +119,9 @@ the front and rear of the plane
 a kick in the rear
 I disagree with the premise that economic development has priority over the environment
 A degree is an essential prerequisite for employment at this level
-
-
-
+The store has a prime position in the mall
+He is ready and primed for action
+a primitive instinct
+stick to your principles
 
 ```
