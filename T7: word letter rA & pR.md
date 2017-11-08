@@ -78,6 +78,10 @@ prefer        ---> carry 'before' others
 president     ---> leader who sits 'before' all others
 
 ```
+## prim(prem, prin, pri) = first
+
+
+
 
 ```
 racket                              ---> n. a loud unpleasant noise
@@ -182,23 +186,36 @@ prevalence                          ---> n. a conditon practice, or belief that 
 
 prevalent                           ---> a. that exists or is very common at a particular time or place
 
-preventative
+preventative                        ---> a. intended to try to stop sth that causes problems or difficulties
+                                            from happening
 
-previous
+previous                            ---> a. happening or existing before the event or object that you are talking about
 
-prey
+prey                                ---> v. to rub, to kill; prey on one's mind
+                                         n. sth is hunted; sb is tricked by sb
 
-primarily
+primarily                           ---> a. mainly
 
-premary
+primary                             ---> a. relate to prim(first) ; main, first of all , most important; basic
+                                         a. developing or happening first; earliest
 
-prime
+prime                               ---> n. the time in your life when you are strongest and successful
+                                         a. first; of the best quality; excellent
+                                         a. typical; most suitable; main, important
+                                         v. to prepare sb for a situation so that they know what to do,
+                                            especially by giving them special information
 
-primitive
+primitive                           ---> a. have the nature of  first time, earliest period of sth; 
+                                         a. belonging to an early stage in development of humans or animals.
+                                         a. very sample and old fashioned
+                                         a. very strong not based on reason
 
-principal
+principal                           ---> a. the facts that you first take; most important; main
+                                         n. the person who is in charge of a college or university
+                                         n. the person who has the most important part in play
 
-principle
+principle                           ---> n. the facts that you first take; a law, a rule or a theory that sth is based on
+                                         n. a moral rule or strong belief or a general law
 
 prior
 
