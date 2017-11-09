@@ -196,7 +196,7 @@ prey                                ---> v. to rub, to kill; prey on one's mind
 
 primarily                           ---> a. mainly
 
-primary                             ---> a. relate to prim(first) ; main, first of all , most important; basic
+primary                             ---> a. relate to first position ; main, first of all , most important; basic
                                          a. developing or happening first; earliest
 
 prime                               ---> n. the time in your life when you are strongest and successful
@@ -217,7 +217,7 @@ principal                           ---> a. the facts that you first take; most 
 principle                           ---> n. the facts that you first take; a law, a rule or a theory that sth is based on
                                          n. a moral rule or strong belief or a general law
 
-prior
+prior                               ---> a. happening or existing before sth else or before a particular time
 
 priority
 
