@@ -420,19 +420,22 @@ prototype                           ---> n. type forward ; the first design of s
 
 protrude                            ---> v. to thrust forward; to stick out from a place or a surface
 
-provenance                          ---> n. the place come forward; the place 
+provenance                          ---> n. the place originally come from 
 
-provided
+provided                            ---> conj. used to say what must happen or be done 
+                                               to make it possible for sth else to happen
 
-provision
+provision                           ---> n. a foresight,preparation, prevention; the act of supplying sb with sth they need or want
+                                         n. preparation that you make for sth
+                                         n. a condition or an arrangement in legal document
 
-prowess
+prowess                             ---> n. great skill at doing sth
 
-proximity
+proximity                           ---> n. the state of being near sth/sb in distance or time
 
-psychiatric
+psychiatric                         ---> a. related to metal illness
 
-publicity
+publicity                           ---> n. 
 
 pudding
 
@@ -476,3 +479,32 @@ quote
 
 
 ```
+## proxim, proach = near
+```
+proximal                ---> the state of nearness
+proximate               ---> near
+approximate             ---> to make sth near
+approach                ---> in a way that near the truth
+reproach                ---> not near
+
+```
+## psych(o) = soul ,mind
+```
+psychic        ---> about mind
+psychology     ---> the science of mind
+psychologist   ---> the person who study psychology
+psychopathy    ---> disease about mind
+psychopathic
+psychobiology
+psychometrics
+psychophysiology
+
+
+
+
+
+
+```
+
+
+
