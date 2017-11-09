@@ -128,6 +128,27 @@ It was a great privilege to hear her sing
 It is probable that that disease has a genetic element
 He outlined his plan and then proceeded to explain them in more detail;
 Having said she wasn't hungry, she then proceeded to order a three course meal
-
+a productive meeting
+legal profession
+in a highly professional way
+the sale generated a record profit
+prohibitive costs
+she has achieved a prominence she hardly deserves
+he played a prominent part in the compaign
+the story was given a prominent position on the front page
+His future was full of promise
+with promise of sunny wether
+policies to promote the economic growth
+sales and promotion
+rainproof/ windproof
+Television advertising propagated a false image of ideal family
+he succeeded in propelling the ball across the line
+Fury propelled her into action
+the price of property has risen enormously
+a property developer
+water cover a large proportion of the earth's surface
+what would you propose to do now
+to propose marriage
+a prospective buyer
 
 ```
