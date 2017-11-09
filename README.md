@@ -1,4 +1,4 @@
-# Suffixes
+# suffixes and prefixes
 ## -ary, ery, -ory, -ry = of or belonging to
 
 (forming adjectives):of, related to; belonging to; 
@@ -53,9 +53,39 @@ musical
 domestic
 ```
 ## verb suffexes
+### -ate, -en,ize = become
+
+### -ify, -fy = make or become
+
+
+
 
 ## Noun suffexes
+### -sion , -tion, -ness = state of being
+```
+transition     ---> the state across places
 
+
+```
+### -ship  = position hold
+```
+fellowship
+ownership
+
+```
+### -ment = condition of 
+```
+argument
+punishment
+
+```
+### -dom =  state or place of being
+```
+kingdom
+freedom
+boredom
+
+```
 # Prefix
 ## pro-(pur-, por-, prod-, pr-) = forward or for
 ```
@@ -82,5 +112,13 @@ president     ---> leader who sits 'before' all others
 
 ```
 ## prim(prem, prin, pri) = first
+
+
+
+
+
+
+
+
 
 
