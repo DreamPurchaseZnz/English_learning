@@ -61,3 +61,41 @@ souvenir              ---> an item which 'come' under your memory to support it 
 venture
 ventilate
 ```
+## vid, vis = to look , to see
+```
+devise               ---> look down
+envisage             ---> look in
+improvident          ---> not look forth ,without think deeply
+improvise            ---> not look before
+invidious            ---> it's rude to look into sth without promession
+visionary            ---> connected to looking
+preview         
+surveillance         ---> sur(over) + look
+prudent              ---> look before
+advise               ---> to look what's the matter
+divide               ---> see sth apart
+divisor              ---> the number that divide by
+individual           ---> the unit that can not be see apart
+invisable            ---> can not able to see
+provision            ---> look ahead, prepare and prevent;a foresight
+provident            ---> a foreseeing, foresight
+revise               ---> see again
+supervise            ---> look over
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
