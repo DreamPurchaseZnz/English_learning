@@ -1,4 +1,13 @@
-# rA & pR
+# rA-RE & pR-qu
+## nounc, nounci = to say, to report
+```
+renounce           ---> take what have said back
+announcement       ---> the content of what have been said
+denounce           ---> say sth bad
+enounciation
+pronounce          ---> say forward
+```
+
 ## radi, -ray, -rad-, -radio- = ray, beam
 ```
 radiant
@@ -65,6 +74,83 @@ parturition   ---> produce
 viviparous    ---> produce
 
 ```
+## fess = speak
+```
+confess
+professor
+professional
+profess
+
+```
+## fil = tread , to spin, foul
+```
+defile         ---> a path like thread
+filament       ---> the state of tread
+file
+profile        ---> spin 'forward'; describe
+unifilar
+filiform
+
+```
+## fund, found, fus = melt, pour
+```
+refuse          
+effuse         ---> pour out
+profuse        ---> pour forward
+refund         ---> pour back
+confound       ---> pour together
+confuse        ---> pour together
+fuse           ---> melt
+diffuse        ---> pour in the way of spreading
+infusion       ---> pour in
+suffuse        ---> pour under
+transfuse      ---> pour across
+
+```
+## habit, hibit =  have, hold,dwell
+```
+cohabit      ---> sleep together
+inhabit      ---> live in
+exhibit      ---> have sth to show
+prohibit     ---> before you having the house,the owner stop you anytime
+habitat      ---> at some place
+habitude     ---> the custome of sht
+
+```
+## mit, miss(mis,mess) = to send , to throw
+```
+surmise        ---> send over
+emit           ---> send out
+intermittent   ---> between send
+remit          ---> send back
+remiss         ---> send not seriously
+transmit       ---> send across places
+compromise     ---> send to each other together
+
+```
+## port, portat =  to carry
+```
+portable           ---> able to carry
+portly             ---> refer to one who 'carries' much body weight
+sport
+transportion
+opportune          ---> carry toward to sth
+purport            ---> carry forth
+deport             ---> carry away from a place to another
+export             ---> carry out
+import             ---> carry into
+important          ---> carry it towards yourself to tend to it     
+opportunity        ---> carry toward 
+report             ---> carry information back
+
+```
+## trud-, -trude, trus, -trusion =  to push, to thrust, shove
+```
+
+
+
+```
+
 
 
 ```
@@ -241,75 +327,100 @@ procession                          ---> n. the state of a series of things; a l
 processor                           ---> n. a machine or person that process things
                                          n. a part of a computer that controls all other parts of the system
 
-proclaim
+proclaim                            ---> v. claim(shout) 'forward'; to show sth clearly; to be a sign of sth;
+                                         v. to publicly and officially tell people about sth important
 
-procrastinate
+procrastinate                       ---> v. crastin(tomorrow) + 'forward'; delaying doing sth that you should do, usually because
+                                            you do not want to do it
 
-productive
+productive                          ---> a. lead 'forward'; doing or achieving a lot
 
-productivity
+productivity                        ---> n. the rate at which a work, a company or a country produces goods
 
-profession
+profession                          ---> v. the condition of speaking forward; a type of job that needs special training or skill
+                                            especially one that need a high level of education
+                                         v. all the people who work in a particular type of career
+                                         v. a statement
 
-professional
+professional                        ---> a. the state of needing a special training or skill;
+ 
+profile                             ---> n. to spin 'forward'; the outline of a person' face that you look from side , not front
+                                            a description of sth/sb; the general impression;
+                                         v. to give or write a description  of sb/sth
 
-profile
+profit                              ---> n. fit(do ) 'forward;  the advantage that you get from doing sth
+                                         v. to get sth useful from a situation
 
-profit
+profitable                          ---> a. to gives sb an advantage or a useful result
 
-profitable
+profound                            ---> a. melt forward deeply; showing great knowledge or understanding
+                                         a. very great or experienced very strongly
 
-profound
+prohibit                            ---> v. having sth before; to stop sth from being done or used especially by law
 
-prohibit
+prohibitive                         ---> a. preventing people from doing sth by law or the price is so high 
 
-prohibitive
+project                             ---> n. throw forward; planned work
+                                         v. plan/ estimate/ stick out/ present /throwed up or way
+                                         
 
-project
+prolonged                           ---> n. long forward ; that make sth last longer ; continuing for a long time
 
-prolonged
+prominence                          ---> n. send forward, stand out; the state of being important, well known or notable
 
-prominence
+prominent                           ---> a. send forward; sticking out from sth, easily seen; important ,will known
 
-prominent
+promise                             ---> v. send your hope forward; to tell sb that you will definitely do or not do sth
+                                            or that sth will definitely happen;
+                                         v. to make sth seem likely to happen; to show signs of sth
+                                         n. a statement
+                                         n. a sign that sb/sth will be successful
+                                         n. a sign or a reason for hope that sth may happen, especially sth good
 
-promise
+promote                             ---> v. move 'forward' to a higher position; to help sth,such as help selling or make it more popular
+                                         v. move sth to a higher rank or more senior job
 
-promote
+promotion                           ---> n. a move to a more important job or rank
+                                         n. activity that encourage people to believe in the value or importance of sth
 
-promotion
+pronouceable                        ---> n. able to say forward; that can be pronounced
 
-pronouceable
+proof                               ---> n. evidence to establish the fact of(something);
+                                         a. that can resist the damaging or harmful effects of sth
+                                         v. protect it against water
 
-proof
+propagate                           ---> v. to cause to multiply; to spread an idea, a belief or a piece of information
+                                         v. to reproduce one'kind
 
-propagate
+propel                              ---> v. pull forward; to move, drive or push sth forward or in a particular direction
 
-propel
+propellant                          ---> n. a thing or substance that propels sth
 
-propellant
+property                            ---> n. a thing or things that are owned by sb,such as a building and land
+                                            a quality or characteristic that sth has.
 
-property
+proportion                          ---> n. carry 'forward'; the relation of one part to another in size, amount,etc
+                                         n. a part or share of a whole
 
-proportion
+proposal                            ---> n. put forward; a formal suggession or plan; the act of making  a suggestion
+                                            an act of formally asking sb to marry you
 
-proposal
+propose                             ---> v. to put forward a suggestion, marriage, sth, explanation of sth 
 
-propose
+prospective                         ---> a. look forward; expected to happen soon or to do soon
 
-prospective
+prospectus                          ---> n. the book of looking forward;
 
-prospectus
+prosper                             ---> v. to scatter forward; to develop in a successful way
 
-prosper
+prosperous                          ---> a. rich and successful
 
-prosperous
+prototype                           ---> n. type forward ; the first design of sth 
+                                            which other forms are copied or developed
 
-prototype
+protrude                            ---> v. to thrust forward; to stick out from a place or a surface
 
-protrude
-
-provenance
+provenance                          ---> n. the place come forward; the place 
 
 provided
 
@@ -362,10 +473,6 @@ quiver
 quota
 
 quote
-
-
-
-
 
 
 ```
