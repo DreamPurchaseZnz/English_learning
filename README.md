@@ -61,6 +61,34 @@ domestic
 
 
 ## Noun suffexes
+### -al = act or process of
+```
+refusal          the act of refusing
+
+
+```
+## -ance, ence = state or quality of
+```
+maintenance
+assurance
+
+```
+
+
+## -er -or = one who 
+```
+trainer
+protector
+
+```
+## -ist = one who
+```
+chemist
+
+
+```
+
+
 ### -sion , -tion, -ness = state of being
 ```
 transition     ---> the state across places
