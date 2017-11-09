@@ -123,5 +123,11 @@ The store has a prime position in the mall
 He is ready and primed for action
 a primitive instinct
 stick to your principles
+I value my privacy
+It was a great privilege to hear her sing
+It is probable that that disease has a genetic element
+He outlined his plan and then proceeded to explain them in more detail;
+Having said she wasn't hungry, she then proceeded to order a three course meal
+
 
 ```
