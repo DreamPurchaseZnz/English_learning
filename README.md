@@ -19,6 +19,7 @@ library
 dictionary
 salary                 ---> relate to salt
 ```
+
 ## Adjective Suffixes
 ### -ive, -itive = having the nature of
 ```
@@ -55,7 +56,31 @@ domestic
 
 ## Noun suffexes
 
+# Prefix
+## pro-(pur-, por-, prod-, pr-) = forward or for
+```
+process                    ---> step 'forward'
+promise                    ---> send an intention forward
+procrastinate              ---> put off  or forward into tomorrow
+product                    ---> which lead forward by a company to sell
+promote                    ---> move forward
+pro-Apple                  ---> for apple products
+pro and con                ---> 'for' and 'against'
+professional               ---> one who has advanced sills to others
+```
+## pre = before
+```
+prevent       ---> come 'before'
+precise       ---> cut 'before'
+prejudice     ---> judge 'before'
+preview       ---> view 'before'
+predict       ---> say 'before'
+prepare       ---> get ready 'before'
+precaution    ---> a being cautious 'beforehand'
+prefer        ---> carry 'before' others
+president     ---> leader who sits 'before' all others
 
-
+```
+## prim(prem, prin, pri) = first
 
 
