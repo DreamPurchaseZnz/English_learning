@@ -10,9 +10,12 @@ ridiculous                                       ---> silly c
 ridiculous                                       ---> a. very silly or un reasonable
 righteous                                        ---> a. morally right and good
 
-rigid                                            ---> a. of rules,method etc: very strict and difficult to change
-                                                      a. of person: not willing to change their idea or behaviour
-                                                      a. of object or substance: stiff and difficult to change or bend
+rigid                                            ---> a. of rules,method etc: very strict 
+                                                         and difficult to change
+                                                      a. of person: not willing 
+                                                         to change their idea or behaviour
+                                                      a. of object or substance: 
+                                                         stiff and difficult to change or bend
                                                       
 rim                                              ---> n. the edge of sth in the shape of circle
                                                       n. the metal edge of a wheel 
