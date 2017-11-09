@@ -236,8 +236,10 @@ process                             ---> n. step 'forthward'; a method of doing 
                                          v. to treat raw material, food ,etc.
                                          v. to deal officially with a document, request
 
-procession                          ---> n. 
-processor
+procession                          ---> n. the state of a series of things; a line of people or vehicles that move along slowly
+
+processor                           ---> n. a machine or person that process things
+                                         n. a part of a computer that controls all other parts of the system
 
 proclaim
 
