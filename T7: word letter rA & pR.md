@@ -65,22 +65,6 @@ parturition   ---> produce
 viviparous    ---> produce
 
 ```
-## pre = before
-```
-prevent       ---> come 'before'
-precise       ---> cut 'before'
-prejudice     ---> judge 'before'
-preview       ---> view 'before'
-predict       ---> say 'before'
-prepare       ---> get ready 'before'
-precaution    ---> a being cautious 'beforehand'
-prefer        ---> carry 'before' others
-president     ---> leader who sits 'before' all others
-
-```
-## prim(prem, prin, pri) = first
-
-
 
 
 ```
@@ -219,84 +203,164 @@ principle                           ---> n. the facts that you first take; a law
 
 prior                               ---> a. happening or existing before sth else or before a particular time
 
-priority
+priority                            ---> n. something that should be dealt with first
 
-privacy
+privacy                             ---> a. make a place empty first; the state of being alone and not watched or disturbed
+                                            by other people
 
-private
+private                             ---> a. not public, working or acting for yourself
 
-privilege
+privilege                           ---> a. the right worth before others; a special right or advantage that a particular person
+                                            or a group people has
+                                         a. something that you are proud and lucky to have opportunity to do
 
-probability
-probable
-probation
-probe
-procedure
-proceed
-process
-procession
+probability                         ---> n. how likely sth is to happen
+
+probable                            ---> a. likely to happen, to exist or to be true
+
+probation                           ---> n. for testing and traing; a time of testing and training when you start a new job
+                                            to see if you are suitable for the work
+
+probe                               ---> v. be forward to touch,examine, look for sth; to ask questions in order to find out
+                                            secret or hidden information about sth/stb
+                                         n. a thorough and detailed investigation
+
+procedure                           ---> n. the state of walking forthward; a official or formal way of doing sth in business
+
+proceed                             ---> v. walk forthward; to move or travel in a particular direction
+                                         v. to do sth next ; after having done sth else first
+                                         v. to continue doing sth that has already been started  
+
+process                             ---> n. step 'forthward'; a method of doing or making sth, especially one that is used in industry
+                                         n. a series of things that happen naturally
+                                         v. to treat raw material, food ,etc.
+                                         v. to deal officially with a document, request
+
+procession                          ---> n. 
 processor
+
 proclaim
+
 procrastinate
+
 productive
+
 productivity
+
 profession
+
 professional
+
 profile
+
 profit
+
 profitable
+
 profound
+
 prohibit
+
 prohibitive
+
 project
+
 prolonged
+
 prominence
+
 prominent
+
 promise
+
 promote
+
 promotion
+
 pronouceable
+
 proof
+
 propagate
+
 propel
+
 propellant
+
 property
+
 proportion
+
 proposal
+
 propose
+
 prospective
+
 prospectus
+
 prosper
+
 prosperous
+
 prototype
+
 protrude
+
 provenance
+
 provided
+
 provision
+
 prowess
+
 proximity
+
 psychiatric
+
 publicity
+
 pudding
+
 pull up stakes
+
 pulley
+
 pulverise
+
 pumice
+
 pump
+
 punch
+
 punctual
+
 purchase
+
 purify
+
 purpose
+
 pursuit
+
 qualification
+
 qualitative
+
 quantity
+
 quartz
+
 questionnaire
+
 quiver
+
 quota
+
 quote
+
 
 
 
