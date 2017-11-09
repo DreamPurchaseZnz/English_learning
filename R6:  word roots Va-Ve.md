@@ -1,4 +1,17 @@
 # Caesar said veni, vidi, vici (I came, I saw, I conquered)
+## vac(vas) = empty
+```
+vacant                  ---> empty; not occupied
+vacation                ---> a rest from work
+vacationist             ---> one who is in vacation
+vacuum                  ---> a space entirely devoid of matter
+vacuous                 ---> empty in one's mind
+evacuate                ---> to move out of a place
+vanish                  ---> to make sth disappear
+vanity
+vain                     
+```
+
 ## val(vail) = worth, strong
 ```
 available             ---> the state of be worth to do sth
@@ -25,7 +38,7 @@ ventilation
 ventiduct
 
 ```
-## ven, vent = to come by accident, to happen
+## ven, vent = to come, to happen
 ```
 convene               ---> to 'come together' to talk about similar interest
 venue                 ---> place where people 'come'
