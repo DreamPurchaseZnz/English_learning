@@ -435,17 +435,20 @@ proximity                           ---> n. the state of being near sth/sb in di
 
 psychiatric                         ---> a. related to metal illness
 
-publicity                           ---> n. 
+publicity                           ---> n. the attention that is given to sb/sth by newspapers televison,etc
+                                    ---> n. the business of attracting attention of public to sb/sth
 
-pudding
+pudding                             ---> n. a hot sweet dish eaten at end of a meal
+                                             
+pull up stakes                      ---> v. remove oneself from association or participation in
 
-pull up stakes
+pulley                              ---> a. a wheel or set of wheels over which a rope or chain is pulled 
+                                            in order to lift or lower heavy bojects
 
-pulley
+pulverise                           ---> v. to pull sth in verse direction; make into a powder by breaking up
+                                            or cause to become dust; destroy completely
 
-pulverise
-
-pumice
+pumice                              ---> v. 
 
 pump
 
