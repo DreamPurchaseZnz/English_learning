@@ -448,15 +448,26 @@ pulley                              ---> a. a wheel or set of wheels over which 
 pulverise                           ---> v. to pull sth in verse direction; make into a powder by breaking up
                                             or cause to become dust; destroy completely
 
-pumice                              ---> v. 
+pumice                              ---> v. a type of grey stone that comes from volcanoes and is very light in weight
 
-pump
+pump                                ---> v. to make water, air, gas,etc,flow in a particular direction by using pump
+                                         v. to move sth quickly up and down or in and out
+                                         v. to try to get information from sb by asking a lot of questions
+                                         n. a machine that is used to force liquid, gas or air into or out of sth
 
-punch
+punch                               ---> v. to hit sb/sth hard with your fist
+                                         v. to make a hole in sth
+                                         v. to press button or keys on telephone, computer etc, in order to operate it
+                                         n. a hard fit made with the fist
+                                         n. the power to interest people
+                                         n. a tool or machine for cutting hole in paper, metal ,leather;
 
-punctual
+punctual                            ---> a. punch a time card; not late; happening or doing sth at the arranged or corrected time
 
-purchase
+purchase                            ---> n. the act or process of buying sth
+                                         n. something that you have bought
+                                         n. a firm hold on sth with hand or feet when you are climping
+                                         v. to buy sth
 
 purify
 
