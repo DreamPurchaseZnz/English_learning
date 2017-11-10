@@ -157,6 +157,21 @@ academic prowess
 The area has a number of schools in close proximity to each other
 THere has been a great deal of publicity surrounding his disappearance
 what's for pudding
+The heart pumps blood around the body
+Blood was pumping out of his wound
+I pumped the handle like crazy
+The goverment needs to pump more money into community care
+He ran in every five minutes to pump me about the case
+to punch a time card
+I punched the button to summon the elevator
+He punched in security code
+He piched up the telephone and pounched his friend number
+It's a well-construct crime story, told with speed and punch
+to make a purchase
+Major purchase
+the victory was purchased (=achieved) at too great a price
+
+
 
 
 ```
