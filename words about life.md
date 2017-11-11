@@ -170,7 +170,16 @@ It's a well-construct crime story, told with speed and punch
 to make a purchase
 Major purchase
 the victory was purchased (=achieved) at too great a price
-
+He has enormous confidence and strength of purpose
+the pursuit of happiness/ knowledge/ profit
+outdoor/ artistic/ leisure pursuits
+I accept his theries, but without certain qualificaiton
+large quantities of food
+buy goods in quantity
+to complete/fill a questionnaire
+her lip quivered and then she started to cry
+can you quote me an instance of when this happened
+He quoted us $300 for install a shower unit
 
 
 
