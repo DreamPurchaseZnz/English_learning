@@ -469,28 +469,44 @@ purchase                            ---> n. the act or process of buying sth
                                          n. a firm hold on sth with hand or feet when you are climping
                                          v. to buy sth
 
-purify
+purify                              ---> v. to make sth pure by removing substances that are dirty,harmful or not wanted
 
-purpose
+purpose                             ---> n. the intension,aim or function of sth; the thing that sth is supposed to achieved
+                                         n. meaning that is important and valuable to you
+                                         n. the ability to plan sth and work successfully to achieve it
 
-pursuit
 
-qualification
+pursuit                             ---> n. the act of looking for or trying to find sth
+                                         n. the act of following or chasing sb
+                                         n. something you give your time and energy to , that you do as a hobby
 
-qualitative
+qualification                       ---> n. accomplishment that qualifies someone to do something
 
-quantity
+qualitative                         ---> a. connected with how good sth is,rather than how much of it there is
 
-quartz
+quantity                            ---> n. an amount or a number of sth
+                                         n. a large number or amount of sth
+                                         n. the meaturement of sth by saying sth how much of it there is
 
-questionnaire
+quartz                              ---> n. a hard mineral often in crystal form, that is used to make accurate 
+                                            blocks and watches
 
-quiver
+questionnaire                       ---> n. a written list of questions that are answered by a large number of people
+                                            can be collected from answers
 
-quota
+quiver                              ---> v. to shake slightly; to make a slight movement
+                                         n. an emotion that has an effect on your body
 
-quote
 
+quota                               ---> n. limited number or amount of people or things that officially allowed
+                                         n. an amount of sth that sb expects or need to have or achieve
+
+quote                               ---> v. repeat exact words that another person has said or written
+                                         v. to give an example of sth to support what your are saying
+                                         v. to give price
+                                         n. exact words
+                                         n. price
+                                         n. punctuation
 
 ```
 ## proxim, proach = near
