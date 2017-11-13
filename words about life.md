@@ -180,7 +180,15 @@ to complete/fill a questionnaire
 her lip quivered and then she started to cry
 can you quote me an instance of when this happened
 He quoted us $300 for install a shower unit
-
+I haven't pack my suitcase
+the paintings were carefully packed in newspaper
+Fans packed the hall to see the band
+we pack away the summer clothes
+The show is still packing them in 
+a pack of cigarettes
+I passed a group of walkers carrying huge packs
+packs of savege dogs
+a pack of journalists
 
 
 ```
