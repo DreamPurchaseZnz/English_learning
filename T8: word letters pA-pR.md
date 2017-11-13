@@ -1,7 +1,16 @@
 # pa - pr
 ```
-pack
-pad
+pack                                   ---> v. put sth into a container, such as clothes
+                                            v. pack sth with sth, to protect sth
+                                            v. preserve food in a particular substance
+                                            v. to put a lots of things or people into 
+                                               a limit space
+                                            v. to have sth    
+                                            n. a container, usually made of paper
+                                            n. a set of different things that are supplied
+                                               together for a particular purpose
+                                            n. a group of people / animal/card 
+pad                                   
 painstaking
 pamper
 pamphlet
