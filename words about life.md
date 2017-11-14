@@ -202,13 +202,27 @@ It's possible to draw a parallel between their experience and ours
 The rise in unemployment is paralleled by an increase in petty crime
 The strike caused total paralysis  in the city
 china's paramount leader
-
-
-
-
-
-
-
+keeping the accounts is part and parcel of my job
+she parcelled up the books to send
+parental attitudes vary widely
+to win a seat in parliament
+to dissolve parliament and call an election
+I am not partial to mushrooms
+It was only a partial solution to the problem
+He has been an active participant in the discussion
+Participation is encourage at all levels
+dust particle
+there is not a particle of evidence to support the case
+Is there a particular type of book he enjoys
+She is very particular about her clothes
+Application and further particulars are available from personnel office
+Particularly good/ useful
+of particular interest
+'Do you enjoy it' "Not, not particularly"
+They are all passionately interested in environmental issues
+The only possport to success is hard work
+She decided it was time to move on to pasture new
+The price is payable in monthly instalments
 
 
 
