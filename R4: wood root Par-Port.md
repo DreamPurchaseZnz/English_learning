@@ -141,6 +141,16 @@ millipede         ---> thousand of foot
 tripod            ---> three foot
 pedigree          ---> ancestral footprint;
 ```
+## peri = about, around, enclosing, surrounding, near
+```
+perimeter         
+periscope
+pericardium
+perigee
+perihelion
+```
+
+
 
 
 ## port, portat =  to carry
