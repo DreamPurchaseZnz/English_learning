@@ -82,6 +82,32 @@ compatriot         ---> the same country
 expatriate         ---> living in a country that is not their own
 repatriate         ---> back to their contry
 ```
+## ped = child
+```
+pedant           ---> a person who is too concerned with small details or rules especailly when 
+                      learning or teaching like a child
+pedantic
+pedantry
+pediatrics       ---> the treatment of infants and children
+pedophilia       ---> a sexual attraction to children
+```
+
+## ped(pod, pus, peach, patch, pet) = foot
+```
+impediment        ---> put a foot in the progress of sth; delay or stop the progress
+expedite          ---> step out your foot; to make a process happen more quickly
+pedal             ---> a flat bar that you put your foot on
+pedestrain        ---> one who goes on foot
+pedicure          ---> the treatment for foot
+pedometer         ---> a intrument for measuring how far you have walked
+biped             ---> two foot
+quadruped         ---> four foot
+centipede         ---> hundred of foot
+millipede         ---> thousand of foot
+tripod            ---> three foot
+
+```
+
 
 ## port, portat =  to carry
 ```
