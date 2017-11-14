@@ -201,7 +201,7 @@ This tradition has no parallel in our culture
 It's possible to draw a parallel between their experience and ours
 The rise in unemployment is paralleled by an increase in petty crime
 The strike caused total paralysis  in the city
-
+china's paramount leader
 
 
 
