@@ -90,6 +90,8 @@ pedantic
 pedantry
 pediatrics       ---> the treatment of infants and children
 pedophilia       ---> a sexual attraction to children
+pedagogy         ---> child need to be teached; the study of teaching methods
+
 ```
 
 ## ped(pod, pus, peach, patch, pet) = foot
@@ -105,7 +107,7 @@ quadruped         ---> four foot
 centipede         ---> hundred of foot
 millipede         ---> thousand of foot
 tripod            ---> three foot
-
+pedigree          ---> ancestral footprint;
 ```
 
 
