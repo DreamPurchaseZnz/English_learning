@@ -68,4 +68,16 @@ opportunity        ---> carry toward
 report             ---> carry information back
 
 ```
+## port  = gate
+```
+port               ---> a place where ships load and upload goods or shelter from storms
+passport           ---> pass the gate of country
+portal             ---> a website that is used as a point of entry to the internet;
+                        a large, impressive gate
+portico            ---> form a entrance to large building by columns
+heliport           ---> a place for helicopter
+
+```
+
+
 
