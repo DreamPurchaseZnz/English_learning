@@ -223,6 +223,35 @@ They are all passionately interested in environmental issues
 The only possport to success is hard work
 She decided it was time to move on to pasture new
 The price is payable in monthly instalments
+she is a pearl among women
+Thank you for those pearls of wisdom
+She pedalled her bicycle up the track
+wear a pedometer and keep track of your steps
+His style is so pedestrain that the book become a real bore
+She was proud of her long pedigree
+The product has a pedigree going back to last century
+pedigree dog
+pepper and salt the potatoes
+This discovery was preceived as a major breakthrough
+Visual perception
+she show great perception in her assessment of the family situation
+There is a general perception that standards in school are falling
+to perform an experiment/ miracle / a ceremony
+she perform an important role in our organization
+Her company has been performing pooly over last year
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
