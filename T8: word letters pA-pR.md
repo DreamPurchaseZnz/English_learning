@@ -179,19 +179,30 @@ periodical                             ---> n. a magazine that is published ever
                                                one that is concerned with an academic subject
                                             a. happening occasionally, at fairly regular intervals
 
-peripheral                             ---> a.
+peripheral                             ---> a. surrounding ; connected with outer edge of a particular
+                                               area
+                                            a. not as important as the main aim, part,etc of sth
 
-periphery
+periphery                              ---> n. the outer edge of a particular area
+                                       ---> n. the less important part of sth
 
-permanent
+permanent                              ---> n. stay throughly; lasting for a long time or for all time
+                                               existing all the time
+                                               
+permeate                               ---> v. mea(me) = flow,pass; flow throughly;(of liquid, gas)
+                                               to spread to every part of an object or a place
+                                            v. (of a idea, an influence, a feeling) to affect every
+                                               part of sth
+                                            
 
-permeate
+permission                             ---> n. 'send through' authority; the act of allowing sb
+                                               to do sth
+                                            n. an offical written statement allowing sb to do sth
 
-permission
+perpetrate                             ---> v. completely carry out; to commit a crime or sth wrong or
+                                               evil
 
-perpetrate
-
-perpetual
+perpetual                                      
 perpetuate
 perplex
 perquisite
