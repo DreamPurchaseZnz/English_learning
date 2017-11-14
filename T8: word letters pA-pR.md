@@ -146,27 +146,40 @@ penalize                               ---> v. to punish sb for breaking a rule 
 
 penalty                                ---> v. the punishment for sb's breaking a rule or law
 
-penetration
+penetration                            ---> n. the act or precess of making a way into /through sth
+                                            n. tha act of a man putting his penis into his partner's vagina or anus
 
-pension
+pension                                ---> n. an amount of money paid regularly by government or company to sb who is
+                                               considered to be too old or too ill/ sick to work
 
-pepper
+pepper                                 ---> n. a powder used to give a hot flavour to food
 
-perceive
+perceive                               ---> v. ceive(take) before; to notice or become aware of sth
+                                            v. to understand or think of sth/sb in a particular way
 
-percentage
+percentage                             ---> n. a part or share of a whole
 
-perception
+perception                             ---> n. the way you take before; the way you notice things,
+                                               especially with the senses
+                                            n. the ability to understand the true nature of sth
+                                            n. an idea, a belief, or an image you have as result of
+                                               how you see or understand
 
-perform
+perform                                ---> v. throughtly 'shape' sth;  to entertain audience 
+                                               by playing a piece of music, acting in a play
+                                            v. to do sth, such as a piece of work, task or duty
+                                            v. to work or function well or badly
 
-performance
+performance                            ---> v. the act of shaping sth; 
+                                            v. how well or badly you do sth; how well or badly sth work
 
-perimeter
+perimeter                              ---> n. the total length of the outside edge of an area or a shape.
 
-periodical
+periodical                             ---> n. a magazine that is published every week, month,etc, especially
+                                               one that is concerned with an academic subject
+                                            a. happening occasionally, at fairly regular intervals
 
-peripheral
+peripheral                             ---> a.
 
 periphery
 
