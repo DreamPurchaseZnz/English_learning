@@ -72,9 +72,15 @@ viviparous    ---> produce
 
 ## patr = father, country
 ```
-patron
-patriot
-repatriate 
+paternal           ---> connect to father
+patriarch          ---> father govern
+patricide          ---> the crime that sb kill his father
+patrimony          ---> property that given to sb from his father
+patron             ---> a person gives money and support to artists
+patriot            ---> a person who love his country
+compatriot         ---> the same country
+expatriate         ---> living in a country that is not their own
+repatriate         ---> back to their contry
 ```
 
 ## port, portat =  to carry
