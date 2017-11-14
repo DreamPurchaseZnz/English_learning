@@ -8,3 +8,10 @@
 ## part =  part, to part
 
 ## per(pir, par)  = to try out, to risk
+
+## patr = father, country
+```
+patron
+patriot
+repatriate 
+```
