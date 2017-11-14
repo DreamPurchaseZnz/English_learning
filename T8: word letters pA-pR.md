@@ -127,28 +127,57 @@ pavement                               ---> n. roadway; paving stone,level surfa
 
 payable                                ---> a. that must be paid or can be paid
 
-pearl
-pedal
-pedestrian
-pedigree
-penalize
-penalty
+pearl                                  ---> n. a small hard shiny white ball that forms inside the shell fo oyster
+                                            n. a thing that is very high valued
+
+pedal                                  ---> n. a flat bar on a machine such as a bicycle
+                                            v. to ride a bicycle somewhere
+
+pedestrian                             ---> n. a person walking in the street
+                                            a. without any imagination or excitement; dull
+
+pedigree                               ---> n. the footprint drive ; genealogical table or chart; ancestral line
+                                            n. knowledge of an official record of the animals
+                                            n. a person's family history or background of sth
+                                            a. coming from a family of the same breed.
+
+penalize                               ---> v. to punish sb for breaking a rule or law by making them suffer a disadvantage.
+                                            v. to put sb at a disadvantage by treating them unfairly
+
+penalty                                ---> v. the punishment for sb's breaking a rule or law
+
 penetration
+
 pension
+
 pepper
+
 perceive
+
 percentage
+
 perception
+
 perform
+
 performance
+
 perimeter
+
 periodical
+
 peripheral
+
 periphery
+
 permanent
+
 permeate
+
 permission
+
 perpetrate
+
 perpetual
 perpetuate
 perplex
@@ -244,3 +273,12 @@ pregnant
 preliminary
 
 ```
+## punish Versus penalize
+```
+Sometimes there is no difference intended.
+But - 
+
+punish - suggests some form of suffering (including even physical) 
+penalize - suggests a cost, eg a fine, or the loss of a privilege
+```
+
