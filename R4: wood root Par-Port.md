@@ -93,6 +93,38 @@ pedophilia       ---> a sexual attraction to children
 pedagogy         ---> child need to be teached; the study of teaching methods
 
 ```
+## pend, pens(pond, penc) = hang, weigh(hang by intrument) ,pay(the weight of gold)
+```
+append             ---> to hang sth to the end of writing
+appendix
+inpending          ---> going to hang
+compensate         ---> com = with ,pay with sth
+propensity         ---> weigh sths before 
+expend             ---> pay out; to use or spend a lot of energy
+recompensate       ---> pay back with sth
+depend             ---> hang down; depend on
+dependant
+dependency
+independence       ---> not hang under sth
+pending            ---> to be going on
+perpendicular      ---> angle 90
+suspend            ---> to hang sth from sth else
+dispense           ---> weight medicine and give it away
+ponderable         ---> that is able to weight
+ponderous          ---> moving slowly and heavily
+preponderance      ---> weight more heavily before sth
+preponderate
+inexpensive        ---> not pay out
+pension            ---> the money for older
+stipend            ---> the money for student
+pensive            ---> bear much pressure
+ponder             ---> to weight
+prepense           ---> think before
+
+
+
+```
+
 
 ## ped(pod, pus, peach, patch, pet) = foot
 ```
