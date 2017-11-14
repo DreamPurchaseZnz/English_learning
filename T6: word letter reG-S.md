@@ -134,12 +134,7 @@ renalssance
 agnate
 cognate
 ```
-## patr = father, country
-```
-patron
-patriot
-repatriate 
-```
+
 ## pel = to drive
 ```
 dispel
