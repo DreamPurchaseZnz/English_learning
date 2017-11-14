@@ -91,35 +91,7 @@ luxurious
 deluxe
 noctilucent
 ```
-## man(mn, main) = to flow , to stay
-```
-remnant
-immanent       
-permanent
-manor
-mansion
-remain
-```
-## mark, march, marg = to mark , to boundary
-```
-mark
-remark
-remarkable
-margin
-march
-marker
-demarcate
 
-```
-## med == to heal, to attend to
-```
-meditate
-remedy
-medical
-medication
-
-
-```
 ## nat, nasc(naiss, naiv) = to be born
 ```
 innate
@@ -135,66 +107,7 @@ agnate
 cognate
 ```
 
-## pel = to drive
-```
-dispel
-impel
-appeal
-compel
-compulsive
-repeal
 
-```
-## ple, plet, pli, ply, plen(i ) = to fill, full
-```
-compliant
-complement
-implement
-supplement
-replete
-replenish
-plenary
-compliment
-complimentary
-supply
-complete
-expletive
-penitude
-deplenish
-ample
-accomplish
-
-```
-## plic, ply, pli ,ple, plex, plo = to fold, to weave
-```
-applicable
-explicit
-imply
-replia
-pliable
-complicated
-duplicate
-duplication
-duplicity
-mutiply
-mutiplication
-reply
-replication
-simplicity
-triplicate
-multiple
-triple
-complex
-complexity
-triplex
-diploma
-diplomatic
-exploit
-exployment
-simple
-
-
-```
 ## quist, quest, quir, quer(quist) =  to ask, to seek
 ```
 acquisitive
