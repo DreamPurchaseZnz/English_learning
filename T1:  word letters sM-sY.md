@@ -134,7 +134,7 @@ snobbish                                                      ---> a. thinking t
                                                                       feeling that you are better than other people because you are more
                                                                       intelligent or like things that many people do not like
 ```
-ity;ty  =  the state of
+## ity;ty  =  the state of
 ```
 soak                                                          ---> v. to put in liquid for a time so that it becomes completely wet;
                                                                       to become completely wet in this way
@@ -196,7 +196,7 @@ solution                                                      ---> n. a way of s
 solve                                                         ---> v. to find a way of dealing with a problem or difficult situation
                                                                    v. to find correct answer or explanation for sth
 ```
-soph =  wise
+## soph =  wise
 ```
 sophism                                                       ---> n. a clever but misundertanding argument
 sophisticate                                                  ---> n. a sophisticate person
