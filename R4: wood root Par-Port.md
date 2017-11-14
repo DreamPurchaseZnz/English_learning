@@ -51,3 +51,21 @@ patron
 patriot
 repatriate 
 ```
+
+## port, portat =  to carry
+```
+portable           ---> able to carry
+portly             ---> refer to one who 'carries' much body weight
+sport
+transportion
+opportune          ---> carry toward to sth
+purport            ---> carry forth
+deport             ---> carry away from a place to another
+export             ---> carry out
+import             ---> carry into
+important          ---> carry it towards yourself to tend to it     
+opportunity        ---> carry toward 
+report             ---> carry information back
+
+```
+
