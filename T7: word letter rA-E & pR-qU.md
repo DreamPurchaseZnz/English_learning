@@ -81,17 +81,7 @@ habitat      ---> at some place
 habitude     ---> the custome of sht
 
 ```
-## mit, miss(mis,mess) = to send , to throw
-```
-surmise        ---> send over
-emit           ---> send out
-intermittent   ---> between send
-remit          ---> send back
-remiss         ---> send not seriously
-transmit       ---> send across places
-compromise     ---> send to each other together
 
-```
 
 ## trud-, -trude, trus, -trusion =  to push, to thrust, shove
 ```
