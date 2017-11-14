@@ -1,4 +1,29 @@
-# Par
+# P
+## path(o),pat(i), pass(i), pathy = to feel , to suffer
+```
+apathy         ---> without feel
+antipathy      ---> opposite feeling; disgusting
+empathy        ---> expirence the same feeling
+compassion
+compatible     ---> feeling together
+dispassionate  ---> don't put partial feeling into your decision
+impassive      ---> not in the feeling
+sympathy       ---> same feeling
+sympathize
+telepathy      ---> feel in a far way
+psychopath     ---> mental disaster 
+pathetic       ---> connect of feeling
+pathology      ---> the science of disater
+imcompatible
+passion
+passive
+patience       ---> suffer a lot
+zoopathology
+hydropathy
+electropathy
+
+
+```
 ## par(pair, per, pir, peer) = equal, to arrange, to appear, to produce
 ```
 par           --_> cut
