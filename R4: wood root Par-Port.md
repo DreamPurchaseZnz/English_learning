@@ -150,7 +150,66 @@ perigee
 perihelion
 ```
 
+## pel = to drive
+```
+dispel
+impel
+appeal
+compel
+compulsive
+repeal
 
+```
+## ple, plet, pli, ply, plen(i ) = to fill, full
+```
+compliant
+complement
+implement
+supplement
+replete
+replenish
+plenary
+compliment
+complimentary
+supply
+complete
+expletive
+penitude
+deplenish
+ample
+accomplish
+
+```
+## plic, ply, pli ,ple, plex, plo = to fold, to weave
+```
+applicable
+explicit
+imply
+replia
+pliable
+complicated
+duplicate
+duplication
+duplicity
+mutiply
+mutiplication
+reply
+replication
+simplicity
+triplicate
+multiple
+triple
+complex
+complexity
+triplex
+diploma
+diplomatic
+exploit
+exployment
+simple
+
+
+```
 
 
 ## port, portat =  to carry
