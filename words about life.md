@@ -189,6 +189,28 @@ a pack of cigarettes
 I passed a group of walkers carrying huge packs
 packs of savege dogs
 a pack of journalists
+sanitary pads
+a writing / sketch pad
+a scouring pad
+to pad bills/expense accounts
+painstaking  research
+pamper yourself with our new range of beauty treatments
+parallel processing
+This is an achievement without parallel in mordern times
+This tradition has no parallel in our culture
+It's possible to draw a parallel between their experience and ours
+The rise in unemployment is paralleled by an increase in petty crime
+The strike caused total paralysis  in the city
+
+
+
+
+
+
+
+
+
+
 
 
 ```
