@@ -239,9 +239,11 @@ There is a general perception that standards in school are falling
 to perform an experiment/ miracle / a ceremony
 she perform an important role in our organization
 Her company has been performing pooly over last year
-
-
-
+Fund raising is peripheral to their main activities
+prepheral nervous system
+rainwater permeating through the ground
+a belief that permeates all level of society
+Dissatisfaction among the managers soon permuated down to members of workforce
 
 
 
