@@ -6,6 +6,7 @@ permanent
 manor
 mansion
 remain
+permeate            ---> flow throughly
 ```
 ## mark, march, marg = to mark , to boundary
 ```
