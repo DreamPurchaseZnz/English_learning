@@ -223,8 +223,15 @@ exploit
 exployment
 simple
 
-
 ```
+## plex =  to weave
+```
+complex                  ---> all the things woven together
+complexity               ---> the state of being woven together
+complexion               ---> set of skin features 'woven' into one's facial appearance
+perplex                  ---> thoroughly 'woven' in confusion
+```
+
 
 
 ## port, portat =  to carry
