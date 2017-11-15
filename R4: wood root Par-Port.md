@@ -248,7 +248,8 @@ import             ---> carry into
 important          ---> carry it towards yourself to tend to it     
 opportunity        ---> carry toward 
 report             ---> carry information back
-
+proportion         ---> due relation of one part to another
+portion            ---> part, portion
 ```
 ## port  = gate
 ```
