@@ -245,10 +245,25 @@ rainwater permeating through the ground
 a belief that permeates all level of society
 Dissatisfaction among the managers soon permuated down to members of workforce
 
-
-
-
-
+She is a perpetual student
+the perpetual noise of traffic
+Comics tend to perpetuate the myth that 'boys don't cry'
+she persisted in her search for the truth
+We need some with lots of personality to head the project
+the personnel department/manager
+His experience abroad provides a wider perspective on the problem
+It's important not to let things get out of perspective
+She's always easily persuaded
+I'm sure he'll come with a bit persuding
+a sense of social change is persasive in her novels
+Vegetable grown without the use of pesticides
+to run out of petrol
+Globalization is a phenomenon of 21 century
+Scientific explanations of natural phenomena
+Her philosophy of life is to take every opportunity that present itself
+the philosophy of secience
+her hobbies include hiking and photography
+fashion photography by David burn
 
 
 
