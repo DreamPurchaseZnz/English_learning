@@ -108,24 +108,7 @@ cognate
 ```
 
 
-## quist, quest, quir, quer(quist) =  to ask, to seek
-```
-acquisitive
-inquiry
-inquisitive
-requisite
-exquisite
-prerequisite
-inquest
-questionable
-request
-sequestrate
-acquire
-require
-conquer
-query
-prequisite
-```
+
 ## sem(sembl), sim(simul, simil) = same, like, equal
 ```
 simulate
