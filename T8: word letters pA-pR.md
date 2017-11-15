@@ -265,68 +265,165 @@ philosophy                             ---> n. phil(loving be) soph(wise); the s
 
 photography                            ---> n. the art,process or job of taking photographs or filming sth
 
-physical                               ---> 
+physical                               ---> a. the body; real thing; nature science; sex; (of person) liking to touch other people
 
-physician
+physician                              ---> n. a doctor, especially one who is a spectialist in general medicine and not surgery
+physical scientist
 
-picturesque
+picturesque                            ---> a. (of a place,building, scene,etc) pretty, especially in a way that looks old fashioned
+                                            a. producing strong mental images by using unusual words
 
-pilot
+pilot                                  ---> n. steer a ship; one who control a balloon; one who fies an airplane
+                                            v. to fly an aircraft or guide a ship; to act like a pilot
+                                            v. to guide sb/sth somewhere, especially through a complicated place or system
+                                            a. done on a small scale in order to see if sth is successful enough to do on a large
+                                               scale
 
-pine
+pine                                   ---> n. a tall forest tree with leaves like needles
+                                            n. pinewood, the pale soft wood of pine tree
+                                            v. become sad because sb has died or gone away
 
-pirate
+pirate                                 ---> n. one who attacks ships in order to steal from them
+                                            n. a person who makes illegal copies of vedio tapes,computer programme,book etc in order
+                                               to sell it
+                                            v. to copy and use or sell sb's work or the product without premission                                          
 
-pitch
+pitch                                  ---> 
 
-plagiarise
+plagiarise                             ---> v. literary thief; to copy anthor person's ideas,words or work
 
-plagiarism
+plagiarism                             ---> n. sth that has been plagiarized
 
 plaster
 
-plastic
+plastic                                ---> n. a light strong material
+                                            n. a way of talking about credit cards
+                                            a. make of plastic
+                                            a. easily formed into different shapes
+                                            a. that seems artificial; false; not real or sincere
 
-plateau
-platform
-plausible
+plateau                                ---> n. plat(flat) place; an area of flat land that is higher that the land around it
+                                            n. a time of litte or no change after a period of growth or process
+                                            v. to stay at a steady level after a period of growth or process
+
+platform                               ---> n. plat(flat) area; the raised flat area beside the track at a train station
+                                            n. for performers; a raised surface above the level of the ground or floor
+                                            n. politics/ opinions; the aims of a political party and the things that they
+                                               will do if they are elected to power
+                                            n. an opportunity or a place for sb to express their opinions publicly
+                                            n. a high thick sole of a shoe
+
+plausible                              ---> a. seem to be worthy your clap; (of an excuse or explanation)reasonable and 
+                                               likely to be true 
+                                            a. good at sounding honest and sincere, especially when trying to trick people
+
 pledge
-pliable
-plot
-plough
-plus
-plush
-point
-poison
-poisonous
-polish
-poll
+
+pliable                                ---> a. be able to 'weave'; easy to bend without breaking
+                                            a. easy to infuence or control
+
+plot                                   ---> 
+
+plough                                 ---> n. a large piece of farming equipment used for digging and turning over soil
+                                            n. a group of seven bright stars that can only be seen 
+                                               from northern harf or the world
+                                            v. to dig and turn over a field or other area of land with a plough
+
+plus                                   --->                                 
+
+plush                                  ---> n. a type of silk or cotton cloth with a thick soft surface 
+                                               made of a mass of threads
+                                            a. very comfortable, expensive and good quality
+
+point                                  ---> 
+
+poison                                 ---> n. a substance that causes death or harm
+                                            n. an idea, a feeling,etc, that is extremely harmful
+                                            v. to harm or kill a person or animal by giving them poison
+                                            v. to put poison in or on sth
+                                            v. to have a bad effect on sth
+
+poisonous                              ---> a. causing death or illness
+                                            a. produce a poison that cause death or illness 
+                                               if animal or insect bits you
+                                            a. extremely unpleasant or unfriendly
+
+polish                                 ---> 
+
+poll                                   ---> 
+
 pollinate
-pollutant
-pollution
-populace
-popularity
-popularize
-populate
-population
-pore over
-portable
-portion
-position
-positive
-possess
-possession
-postcode
-postgraduate
-post-mortem
-postpone
-posture
-potential
-poultry
-pour
-poverty
-practical
-practically
+
+pollutant                              ---> n. a substance that pollutes sth, especially air and water 
+
+pollution                              ---> n. the process of making air water,soil, dirty; the state of being dirty
+                                            n. substances that make air ,water, soil,etc ,dirty
+                                            n. noise/ light pollution; harmful or annoying levels
+
+populace                               ---> n. formal; all the ordinary people of a particular country or area
+
+popularity                             ---> n. the state of being liked, enjoyed or supported 
+                                               by a large number of people
+
+popularize                             ---> v. to make a lot of people know about sth and enjoy it
+                                            v. to make a difficult subject easier to understand for ordinary people
+
+populate                               ---> v. to live in area and form its population
+                                            v. to move sth or sb to an area to live there
+
+population                             ---> n. all the people who live in a particular area,city, or country
+                                            n. a particular group of people or animals living in a particular area
+
+pore over                              ---> v. to look at or read sth very carefully
+
+portable                               ---> a. able to carry; easy to carry or to move
+
+portion                                ---> n. one part of sth larger
+                                            n. an amount of food that is large enough for one person
+                                            n. a part of sth that is shared with other people
+                                            v. divide sth into parts or portions
+
+position                               ---> 
+
+positive                               ---> 
+
+possess                                ---> 
+
+possession                             ---> n. a line of people or vehicles that move along slowly
+                                            n. a number of people who come one after the other
+
+postcode                               ---> n. a group of letters and / or numbers that used as part of address
+                                               so that post/mail can be seperated into groups and delivered more quickly
+
+postgraduate                           ---> n. a person who already holds first degree and 
+                                               who is doing advanced study or research; a graduate student
+
+post-mortem                            ---> n. a discussion or examination of an event after it has happened,especially 
+                                               in order to find out why it failed
+
+postpone                               ---> v. to put sth at a later time; to arrange for an event,etc, to take place 
+                                               at a later time
+
+posture                                ---> n. the state of put your body; the position in which you hold your body when
+                                               standing or sitting
+                                            n. your attitude to a particular situation or the way in which you deal with it
+
+potential                              ---> a. that can be develop into sth or be developed in the future
+                                            n. the possibility of sth happening 
+                                            n. qualities that exist and can be developed
+                                            n. the difference in voltage
+
+poultry                                ---> 
+
+pour                                   ---> 
+
+poverty                                ---> n. poor; the state of being poor
+                                            n. a lack of sth; poor quality
+
+practical                              ---> a. 
+
+practically                            ---> av.
+
 pragmatic
 precarious
 precede
