@@ -312,7 +312,10 @@ plagiarise                             ---> v. literary thief; to copy anthor pe
 
 plagiarism                             ---> n. sth that has been plagiarized
 
-plaster
+plaster                                ---> n. a white powder that mixed with water and becomes very hard when it dries
+                                            v. to cover a wall with plaster/ a wet or sticky substance
+                                            v. to make your hair flat and stick to your head
+                                            v. to completely cover a surface with pictures or posters
 
 plastic                                ---> n. a light strong material
                                             n. a way of talking about credit cards
@@ -371,7 +374,14 @@ plush                                  ---> n. a type of silk or cotton cloth wi
                                                made of a mass of threads
                                             a. very comfortable, expensive and good quality
 
-point                                 
+point                                  ---> n. opinion/fact / the sharp thin end of sth
+                                            n. the main idea in sth that is said or done
+                                            n. the purpose or aim of sth
+                                            n. a particular detail or fact
+                                            n. time/ place
+                                            n. an individual unit that adds to a score in game or sport competition
+                                            n. a small dot used in writing
+                                            n. size of a letter
 
 poison                                 ---> n. a substance that causes death or harm
                                             n. an idea, a feeling,etc, that is extremely harmful
@@ -384,11 +394,20 @@ poisonous                              ---> a. causing death or illness
                                                if animal or insect bits you
                                             a. extremely unpleasant or unfriendly
 
-polish                                 ---> 
+polish                                 ---> n. the act of polishing sth
+                                            n. a substance used when rubbing a surface to make it smooth and shiny
+                                            n. the high quality of performance achieved with great skill
+                                            n. high standard of behaviour ; being polite
+                                            v. to make sth smooth and shiny by rubbing it with a cloth,
+                                               often with polish on it
+                                            v. to make changes to sth in order to improve it
 
-poll                                   ---> 
+poll                                   ---> n. opinion poll in order to get general opinion
+                                            n. the process of voting at a election, the number of votes
+                                            v. to receive a particular number of votes in an election
+                                            v. to ask a large number of members of public what they think about sth
 
-pollinate
+pollinate                              ---> v. pollen ; to put pollen into a flower or plant so that it produces seeds
 
 pollutant                              ---> n. a substance that pollutes sth, especially air and water 
 
@@ -419,11 +438,27 @@ portion                                ---> n. one part of sth larger
                                             n. a part of sth that is shared with other people
                                             v. divide sth into parts or portions
 
-position                               ---> 
+position                               ---> n. place
+                                            n. way sb/ sth is placed
+                                            n. situation that sb in
+                                            n. opinion on or attitude towards a particular subject
+                                            n. level of importance
+                                            n. a place in rank
+                                            v. to put sb/ sth a particular position
 
-positive                               ---> 
+positive                               ---> a. confident
+                                            a. effective/ useful
+                                            a. sure/ definite
+                                            a. scientific test
+                                            n. good qualities
+                                            n. result of test
+                                            
 
-possess                                ---> 
+possess                                ---> v. to have or own sth
+                                            v. to have a particular quality or feature
+                                            v. [usually passive](a feeling ,emotion) to have a effect on sb 
+                                               and control the way they think, behave
+                                            v. to make sb do sth that seems strange or unreasonable
 
 possession                             ---> n. a line of people or vehicles that move along slowly
                                             n. a number of people who come one after the other
@@ -449,9 +484,11 @@ potential                              ---> a. that can be develop into sth or b
                                             n. qualities that exist and can be developed
                                             n. the difference in voltage
 
-poultry                                ---> 
+poultry                                ---> n. chickens ,ducks and geese,kept for their meat or eggs
 
-pour                                   ---> 
+pour                                   ---> v. to make a liquid or other substance flow from a container in a 
+                                               continuous stream
+                                            v. to flow quickly in a continuous stream
 
 poverty                                ---> n. poor; the state of being poor
                                             n. a lack of sth; poor quality
