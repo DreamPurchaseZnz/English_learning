@@ -288,7 +288,25 @@ pirate                                 ---> n. one who attacks ships in order to
                                                to sell it
                                             v. to copy and use or sell sb's work or the product without premission                                          
 
-pitch                                  ---> 
+pitch                                  ---> n. set upright; throw a ball ; slope, degree; sale 
+                                            n. an area of ground for playing a sports game
+                                            n. degree/ strength of a feeling or an activity
+                                            n. of sound; how high or low a sound is, especially a musical note
+                                            n. talk or arguments used by a person to sell sth
+                                            n. in baseball; the act of throwing a ball
+                                            n. black substance made from oil or coal
+                                            n. the movement of a ship up and down in the water or of an 
+                                               aircraft in the air
+                                            n. the degree to which a roof slopes
+                                            v. to throw sb/sth with force
+                                            v. to fall heavily in a particular direction
+                                            v. to move up and down on the water or in the air
+                                            v. to set sth at particular level
+                                            v. to aim or a direct product or service at a particular group of people
+                                            v. to try to persuade sb to by sth
+                                            v. to produce a sound at a particular level
+                                            v. to set up a tent or a camp for a short time
+                                                                                      
 
 plagiarise                             ---> v. literary thief; to copy anthor person's ideas,words or work
 
@@ -317,25 +335,43 @@ plausible                              ---> a. seem to be worthy your clap; (of 
                                                likely to be true 
                                             a. good at sounding honest and sincere, especially when trying to trick people
 
-pledge
+pledge                                 ---> n. promise faith to
+                                            n. sth to prove that you will do sth or pay back money you owe
+                                            v. to formally promise to give or do sth
+                                            v. to make sb or yourself formally promise to do sth
+                                            v. to leave sth with sb as a pledge
 
 pliable                                ---> a. be able to 'weave'; easy to bend without breaking
                                             a. easy to infuence or control
 
-plot                                   ---> 
+plot                                   ---> v. to make a map or diagram; to lay plans for(usually with evil intent)
+                                            n. the series of events which come from the story of a novel, play, film
+                                            n. a secret plan made by a group of people to do sth wrong or illegal
+                                            n. a small piece of land that is used or intend for a special purpose
+                                            v. to mark sth on a map, for example the postion or course of sth
+                                            v. to mark points on a graph and draw a line or curve connecting them
+                                            v. to write the plot of a novel,play etc
+
 
 plough                                 ---> n. a large piece of farming equipment used for digging and turning over soil
                                             n. a group of seven bright stars that can only be seen 
                                                from northern harf or the world
                                             v. to dig and turn over a field or other area of land with a plough
 
-plus                                   --->                                 
+plus                                   ---> prep. add together
+                                            prep. as well as sth/sb ; and also
+                                            n. an advantage; a good thing
+                                            n. the symbol(+)
+                                            a. the number or amount is more than the one mentioned
+                                            a. above zero
+                                            a. used describe an aspect of sth that you consider to be a good things
+                                            conj. used to add more information
 
 plush                                  ---> n. a type of silk or cotton cloth with a thick soft surface 
                                                made of a mass of threads
                                             a. very comfortable, expensive and good quality
 
-point                                  ---> 
+point                                 
 
 poison                                 ---> n. a substance that causes death or harm
                                             n. an idea, a feeling,etc, that is extremely harmful
