@@ -1,5 +1,5 @@
 # Q
-## quist, quest, quir, quer(quist) =  to ask, to seek
+## quist, quest, quir, quer(quist) =  to ask for, to seek, to gain
 ```
 acquisitive                      ---> eager to get sth
 conquer                          ---> to take control of a place
