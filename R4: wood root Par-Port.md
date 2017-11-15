@@ -141,6 +141,21 @@ millipede         ---> thousand of foot
 tripod            ---> three foot
 pedigree          ---> ancestral footprint;
 ```
+## pet(pit, peat) = to rush, to seek, to strive
+```
+impetus           ---> push in
+perpetual         ---> continuing for a long period of time
+appetite          ---> a strong desire to seek
+centripetal       ---> rush toward a centre
+compete           ---> the goal for every to seek
+competence        ---> ability to seek 
+competent         
+competitor
+competitive       ---> compete again each other
+petition          ---> a lot people seek to do sth by asking sb
+repetition        ---> seek again; the fact of saying thing many time
+```
+
 ## peri = about, around, enclosing, surrounding, near
 ```
 perimeter         
