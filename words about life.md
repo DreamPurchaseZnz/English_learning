@@ -264,11 +264,43 @@ Her philosophy of life is to take every opportunity that present itself
 the philosophy of secience
 her hobbies include hiking and photography
 fashion photography by David burn
+They are having physical relationship
+a picturesque village
+a picturesque description of life at sea
+a fighter pilot
+a pilot project/study /survey
+a pilot episode
+a pirate edition
+Unemployment has at last plateaued out
+what platform does it goes from
+paltform shoes
+a viewing platform giving stunnding view over the vallegy
+The only plausible reason is that he forgot.
+a plush hotel
+to hunt with poison arrow
+His comment served only to poison the atmosphere still further
+the poisonous atmosphere in the office
+to reduce the levels of enviromental pollution
+the increasing popularity of cycling
+He spent his lifetime popularizing natural history
+a heavily/densely/ sparsely/ thinly populated country
+The French began to populate the island in 15th century
+One third of the world's population comsume two thirds of the world's resources
+countries with ageing populations
+Muslims make up 55% of population
+a subtantial / significant portion of the population
+She cut the cake into six small portions
+you must accept a portion of the blame for this crisis
 
-
-
-
-
+To hold a post-mordem on the party's election defeat
+It was an unpleasant decision to postpone building the new hospital
+back pains can be the result of bad posture
+The potential source of conflict
+a potential prime minister
+First we need to identify actual and potential problems
+All child should be encouraged to realize their full potential
+to alleviate poverty
+There is a poverty of colour in her work
 
 
 
