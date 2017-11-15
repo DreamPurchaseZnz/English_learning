@@ -202,36 +202,91 @@ permission                             ---> n. 'send through' authority; the act
 perpetrate                             ---> v. completely carry out; to commit a crime or sth wrong or
                                                evil
 
-perpetual                                      
-perpetuate
-perplex
-perquisite
-persist
-personal
-personality
-personalize
-personnel
-persperctive
-persuade
-pervasive
-pest
-pesticide
-petrol
-petroleum
-phenomenon
-philosophy
-photography
-physical
+perpetual                              ---> v. seek without end thoroughly; continue for a long period
+                                            n. lasting for the whole of sb's life
+
+perpetuate                             ---> n. to make sth such as a bad situation, a belief continue for 
+                                               a long time.
+
+perplex                                ---> n. plex(= weave) thoroughly; make sb confused and worried because
+                                               you don't understand it
+
+perquisite                             ---> n. quis(= to ask for) thoroughly; thing sought after; something to 
+                                               which sb has a special right because of their special position
+
+persist                                ---> v. sist(stand) thoroughly; to continue to do sth despite difficulties
+                                               or opposition, in a way that can seem unreasonable
+                                            v. continue to exist
+
+personal                               ---> a. your own
+
+personality                            ---> n. the various aspects of person's character that conbine to make them
+                                               different from other people
+                                            n. the qualities of a person's character that make them interesting
+                                               or attractive
+
+personalize                            ---> v. to design or change sth so that it is suitable for the needs of 
+                                               a particular person
+                                            v. to refer to particular people when discussing a general suject
+
+personnel                              ---> n. the people who work for an organization or one of the armed forces
+                                            n. the department in a company that deals with employing and training people
+
+perspective                            ---> n. to see deeply,balance the importance ; a particular attitude towards sth,  
+                                               a way of thinking about sth
+                                            n. the ability to think about problems and decisions in a reasonable way
+                                               without exaggerating their importance
+                                            n. the art of creating an effect of depth and distance in a picture
+                                            n. a view, especially one in which you can see far into the distance
+                                            
+
+persuade                               ---> v. to make sb to do sth by giving them good reasons for doing it
+                                            v. to make sb believe that sth is true
+
+pervasive                              ---> a. existing in all parts of a place or thing; spreading gradually to affect
+                                               all parts of place or thing
+
+pest                                   ---> n. an insect or animal that destorys plants food, ect
+                                            n. an annoying person or thing
+
+pesticide                              ---> n. a chemical used for killing pects especially insects
+
+petrol                                 ---> n. a liquid obtained from petroleum, used as fuel in car engines; gasoline
+
+petroleum                              ---> n. rock oil; mineral oil that is found under the ground or the sea 
+
+phenomenon                             ---> n. a fact or an event in nature of society, espectially one that is not fully
+                                               understand
+
+philosophy                             ---> n. phil(loving be) soph(wise); the study of the universe and of human life
+                                            n. a particular set or system of beliefs resulting from the research for 
+                                               knowledge about life and universe
+                                            n. a set of beliefs or an attitude to life that guide's sb's behaviour
+
+photography                            ---> n. the art,process or job of taking photographs or filming sth
+
+physical                               ---> 
+
 physician
+
 picturesque
+
 pilot
+
 pine
+
 pirate
+
 pitch
+
 plagiarise
+
 plagiarism
+
 plaster
+
 plastic
+
 plateau
 platform
 plausible
