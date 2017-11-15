@@ -489,6 +489,8 @@ poultry                                ---> n. chickens ,ducks and geese,kept fo
 pour                                   ---> v. to make a liquid or other substance flow from a container in a 
                                                continuous stream
                                             v. to flow quickly in a continuous stream
+                                            
+                                            
 
 poverty                                ---> n. poor; the state of being poor
                                             n. a lack of sth; poor quality
