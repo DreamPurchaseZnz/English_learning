@@ -313,15 +313,19 @@ There were a lot of pluses in the performance
 On the plus side, all the staff are enthusiastic
 I've got too much on at work, plus my father is not well
 
-
-
-
-
-
-
-
-
-
+The next day, their picture was plastered all over newspapers
+I'll come straight to the point;we need more money
+There is no point in getting angry
+one of the hotel's plus points is that it is very central
+He polished his glasses with handkerchief
+The statement was carefully polished and checked before release
+He polished off the remain of the apple pie
+Make sure that you are working  in comfortable position
+His family have been a positive influence on him
+I can't be positive about what time it happened
+I am afraid that he doesn't process a sense of humour
+What processed him to say such a thing
+Absolute terror processed her
 
 
 
