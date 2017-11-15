@@ -1,4 +1,41 @@
 
+## sid(sed, sit), sess(sid) = to sit
+```
+preside          ---> to sit before others
+president
+reside
+subside
+dissident        ---> person who sits apart from others
+session          ---> the act or state of sitting
+possess          ---> to be able to sit in a place
+assesss          ---> to sit; to judge or estimate 
+consider         
+superside
+obsession        ---> ob(in the way)
+sidimentary
+saddle
+posesses
+
+```
+
+## sal(sul, sil, sail, saul) = to leap
+```
+salient
+exult
+resilient
+assault
+consult
+consultant
+exile
+insult
+result
+sally
+salmon
+salad                ---> a "salted" dish
+salary               ---> a soldier's allowance for buying salt
+salaried
+
+```
 ## sem(sembl), sim(simul, simil) = same, like, equal
 ```
 simulate
@@ -39,8 +76,42 @@ scent
 
 
 ```
+## serv = to serve, to keep
+```
+conserve
+deserve
+observe
+observation
+preserve
+reserve
+serve
+service
+servitude
+disserve
+serfdom
+sergant
+
+```
+## sign = mark ,sign, seal
+```
+consign
+designate
+signify                   ---> To show; to make evident; as, signify agreement 
+assign
+consigner
+countersign
+ensign
+resign
+undersign
+significance              ---> Showing full importance; expressive
+signal                    ---> a gesture to call attention
+signate                   ---> pointed out
+signature                 ---> the name of a person wrriten in his own handwriting
+signet                    ---> Sign or seal expressing authority; a signet ring 
+design                    ---> A plan of something to be done
 
 
+```
 
 
 ## solv, solu, solut = to loosen, to untie 
