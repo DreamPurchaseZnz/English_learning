@@ -302,6 +302,27 @@ All child should be encouraged to realize their full potential
 to alleviate poverty
 There is a poverty of colour in her work
 
+they have pitched their prices too high
+The song was pithed too low for my voice
+They pitched camp for the night near the river
+a pledge of support
+plot thickens
+we carefully plotted each patient's response to the drug on a chart
+first plot the temperature curve on the graph
+There were a lot of pluses in the performance
+On the plus side, all the staff are enthusiastic
+I've got too much on at work, plus my father is not well
+
+
+
+
+
+
+
+
+
+
+
 
 
 
