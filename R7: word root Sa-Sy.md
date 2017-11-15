@@ -2,11 +2,12 @@
 ## sid(sed, sit), sess(sid) = to sit
 ```
 preside          ---> to sit before others
-president
-reside
+president        ---> an executive officer who sits in charge of a firm or organization
+reside           ---> to settle into a place to live ; exist
+residence        ---> a home; a place where a person settles to live
+session          ---> a meeting, class, or assembly where a group sits together
 subside
 dissident        ---> person who sits apart from others
-session          ---> the act or state of sitting
 possess          ---> to be able to sit in a place
 assesss          ---> to sit; to judge or estimate 
 consider         
