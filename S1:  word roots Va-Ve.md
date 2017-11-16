@@ -1,17 +1,24 @@
 # Caesar said veni, vidi, vici (I came, I saw, I conquered)
-## vac(vas) = empty
+## vac(van) = empty
 ```
-vacant                  ---> empty; not occupied
-vacation                ---> a rest from work
-vacationist             ---> one who is in vacation
-vacuum                  ---> a space entirely devoid of matter
-vacuous                 ---> empty in one's mind
-evacuate                ---> to move out of a place
-vanish                  ---> to make sth disappear
-vanity
-vain                     
+devastate               ---> completely empty an area; to completely destroy a a place
+vacate                  ---> to empty a room; to leave a building
+vacillate               ---> to sway unsteadily between empty and fill;  keep changing your opinion
+evacuate                ---> to move out of a place because of danger
+vacation                ---> empty time/ leisure time away from work
+vacuous                 ---> the state of empty in your feeling
+vacuum                  ---> a space that is completely empty of all substances
+vanish                  ---> to become empty; disappear
+evanesce                ---> empty gradually
+vainglorious            ---> too proud of your own abilities  
 ```
-
+## vad, vas,wad = to go
+```
+pervade                ---> to go thoroughly; to spread through in every part of sth
+invade                 ---> to enter a place in a way that causing damage or confusion
+evade                  ---> to go away form sth
+wade                   ---> to go with an effort through sth
+```
 ## val(vail) = worth, strong
 ```
 available             ---> the state of be worth to do sth
