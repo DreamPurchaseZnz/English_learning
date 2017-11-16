@@ -179,6 +179,14 @@ compulsive
 repeal
 
 ```
+## phil, philo = loving
+```
+
+
+
+```
+
+
 ## ple, plet, pli, ply, plen(i ) = to fill, full
 ```
 compliant
