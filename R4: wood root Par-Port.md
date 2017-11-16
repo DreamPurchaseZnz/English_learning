@@ -155,15 +155,19 @@ competitive       ---> compete again each other
 petition          ---> a lot people seek to do sth by asking sb
 repetition        ---> seek again; the fact of saying thing many time
 ```
+## petro, petr = stone , rock
+```
+petrification      ---> to make sth become stone
+petrify            ---> to make sb behave like a stone; 
+                        to make sb feel extremely frightened
+petrochemistry     
+petroleum          ---> mineral oil
+petrology          ---> the scientific study of how rocks make and what 
+                        they are made of
+petrol             ---> a liquid obtained from petroleum
 
-## peri = about, around, enclosing, surrounding, near
 ```
-perimeter         
-periscope
-pericardium
-perigee
-perihelion
-```
+
 
 ## pel = to drive
 ```
