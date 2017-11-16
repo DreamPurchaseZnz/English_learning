@@ -326,6 +326,32 @@ I can't be positive about what time it happened
 I am afraid that he doesn't process a sense of humour
 What processed him to say such a thing
 Absolute terror processed her
+From a practical point of view, it isn't a good place to live
+There's practically no difference between the two options
+My essay is practically finished now
+The museum is in a financially precarious postion
+She precedede her speech with a vote of thanks to the committee
+His resignation was preceded by weeks of speculation
+See the preceding chapter
+There is no precedent for a disaster of this scale
+precise details / measurements
+Can you give a more precise defination of the word
+He chose his word with precision
+the relationship between prey and predator
+The ending of the book was entirely predictable
+
+His good mood predisposed her to enjoy the play
+a predominent feature
+a colour scheme in which red predominates
+Many people expressed a strong preference for the original plan
+Unwanted / unplanned pregnancy
+Her silences were pregnant with criticism
+I'll skip the usual preliminary and come straight to the point
+Research will be needed as a preliminary to taking a decision
+
+
+
+
 
 
 
