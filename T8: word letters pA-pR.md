@@ -526,37 +526,51 @@ precise                                ---> a. clear and accurate
 
 precision                              ---> n. the quality of being exact, accurate and careful
 
-predator                               ---> 
+predator                               ---> n. before time to do; an animal that kill and eats other animals
+                                            n. a person or an organization that uses weaker people for  their own
+                                               advantage
 
-predatory
+predatory                              ---> a. living by killing and eating other animals
+                                            a. using weaker people for their own financial or sexual advantage
+                                           
+predict                                ---> v. 'say' before sth happen; to say that sth will happen in the future
 
-predict
+predictable                            ---> a. you know in advance that it will happen or what it will be like
+                                            a. behaving or happening in a way that you would expect and therefore boring
 
-predictable
+prediction                             ---> n. a statement that says what you think will happen
 
-prediction
+predispose                             ---> v. to put into a frame of  mood before; to influence sb so that they are likely to think or 
+                                               behave in a particular way
+                                            v. make it likely that you will suffer from a particular illness
 
-predispose
+predominant                            ---> a. most obvious or notable
+                                            a. having more power or influence than others
 
-predominant
+predominantly                          ---> av. mainly, mostly
 
-predominantly
+predominate                            ---> v. to be greater in amount or number than sth/sb else in a place ,a group
+                                            v. to have the most influence or importance
+ 
+prefabricate                           ---> v. fabric( form a basic structure) + before; to manufacture sections of (a building)
 
-predominate
+preface                                ---> v. face before a book; an introduction to a book, especially one that explains
+                                               the author's aims
 
-prefabricate
+preferable                             ---> a. take first before others;more attractive and more suitable; 
+                                               to be preferred to sth
 
-preface
+preference                             ---> n. a thing that is liked better or best;
+                                            n. a greater interest in sb/sth than sb/sth else
 
-preferable
+pregnancy                              ---> n. to seize full of meanings; the state of being pregnant
 
-preference
+pregnant                               ---> a. having a baby or young animal developing inside her/its body
+                                            a. full of a quality or feeling
 
-pregnancy
-
-pregnant
-
-preliminary
+preliminary                            ---> a. limit setting before; happening before more important action
+                                               or event
+                                            n. an action or event that done in preparation for sth
 
 ```
 ## punish Versus penalize
@@ -567,11 +581,14 @@ But -
 punish - suggests some form of suffering (including even physical) 
 penalize - suggests a cost, eg a fine, or the loss of a privilege
 ```
-## dot, don(dow, dos), dat(dit) = to give
+## structure , framework, composition,  construction, fabric, make-up
 ```
-
-
-
+structure                  ---> the way in which the parts of sth are connected together
+framework                  ---> a set of briefs, ideas or rules that form the basis of a system or society
+composition                ---> different parts or people that combine to form sth
+construction               ---> the way that sth has been built or made
+fabric                     ---> the basic structure of a society or organization
+make-up                    ---> different parts or people that combine to form sth
 
 ```
 
