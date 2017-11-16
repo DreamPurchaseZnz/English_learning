@@ -164,6 +164,34 @@ spray
 spit
 spill
 ```
+
+## spect , speci, spec(spic, spi, spy) =  to look, to see
+```
+aspect             ---> to look in any direction
+perspective        ---> to look deeply through sth
+specious           ---> seem to plausiable but false
+auspecious         ---> to look a lucky bird
+conspicuous        ---> everyone is easy to see 
+despicable         ---> to be look down; very unpleasant
+perspicacious      ---> able to understand sb/sth quickly and accurately
+respite            ---> to look away for a short time
+circumspect        ---> to look around to think very carefully about sth
+conspectus         ---> look all ; a overall summary
+expect             ---> to look outwards ; to think or believe sth will happen
+inspect            ---> to look in to check that everything is as it should be
+introspect         ---> to look into your mind to reflect on one's feelings or thoughts
+prospect           ---> to look forth that sth might happen
+respect            ---> to deserve your looking back 
+retrospect         ---> to look backward; in retrospect
+spectacle          ---> worthy to look
+spectroscope       ---> equipment for forming and looking at spectra
+spectrum           ---> a broad range of  wave
+suspect            ---> sb who is under looking
+spy                ---> to look for secret information
+
+```
+
+
 ## st, sta ,stan ,stin ,stab ,stal ,stor ,stat ,stit ,sist , stitut ,sist = stst, stand
 ```
 institute             ---> stand in 
@@ -191,8 +219,16 @@ exist                 ---> ex(out) + ist(sist = stand)
 insist                ---> in(enhanced) + sist
 understand
 
-
 ```
+## sua, suad, suas(suav) = to persuade, to advise
+```
+dissuade              ---> persuade sb not to do sth
+persuade              ---> always advise you to do sth
+suasion               ---> the act of persuding
+suave                 ---> elegant, confident and polite
+```
+
+
 ## sum = highest
 ```
 summary  
