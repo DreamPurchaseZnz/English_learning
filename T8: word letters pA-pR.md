@@ -495,25 +495,38 @@ pour                                   ---> v. to make a liquid or other substan
 poverty                                ---> n. poor; the state of being poor
                                             n. a lack of sth; poor quality
 
-practical                              ---> a. 
+practical                              ---> a. likely to be successful
+                                            a. connected with real things
+                                            a. useful
+                                            a. sensible
+                                            a. almost total
 
-practically                            ---> av.
+practically                            ---> av. almost; very nearly
+                                            av. in a realistic or sensible way; in real situation
 
-pragmatic
+pragmatic                              ---> a. solving problems in a sensible and practical way rather than
+                                               fixed ideas or theories
+ 
+precarious                             ---> a. hold through the favor of another; obtained by asking and praying
+                                            a. not safe or certain; dangerous
+                                            a. likely to fall or cause sb to fall
 
-precarious
+precede                                ---> v. 'go before sth'; to happen before sth
+                                            v. to go in front of sb
 
-precede
+precedent                              ---> n. a similar action or event that happened earlier
+                                            n. the way that  things have always been done
 
-precedent
+precipitation                          ---> n. 'before taking the ground '; rain, snow,etc, that falls; the amount of
+                                                this falls
+                                            n. a chemical process in which solid material is sparated from a liquid
 
-precipitation
+precise                                ---> a. clear and accurate
+                                            a. taking care to be exact and accurate, especially about small details
 
-precise
+precision                              ---> n. the quality of being exact, accurate and careful
 
-precision
-
-predator
+predator                               ---> 
 
 predatory
 
@@ -553,5 +566,12 @@ But -
 
 punish - suggests some form of suffering (including even physical) 
 penalize - suggests a cost, eg a fine, or the loss of a privilege
+```
+## dot, don(dow, dos), dat(dit) = to give
+```
+
+
+
+
 ```
 
