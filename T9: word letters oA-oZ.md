@@ -10,9 +10,11 @@ object                                        ---> n.  a thing that can be seen 
 
 objectify                                     ---> n. to treat sb/sth as an object that can be seen and touched
 
-objective                                     ---> 
-
-obligation
+objective                                     ---> n. something that you are trying to achieve
+                                                   v. not influence by personal feelings or opinions;
+                                                      considering only facts
+                                                   
+obligation                                    ---> n. 
 
 obscene
 
