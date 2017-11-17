@@ -78,21 +78,18 @@ scent
 
 
 ```
-## serv = to serve, to keep
+## serv = to serve, to keep,slave
 ```
-conserve
-deserve
-observe
-observation
-preserve
-reserve
-serve
-service
-servitude
-disserve
-serfdom
-sergant
-
+conserve                   ---> keep wholly
+subservient                ---> too willing to obey other people
+servile                    ---> wanting too much to please sb and obey them
+deserve                    ---> it is right that they should have it
+observe                    ---> to see
+preserve                   ---> keep before sth bad happen
+reserve                    ---> to keep to be used in the future
+serve                      ---> to be useful to sb in achieving and satisfying sth
+servitude                  ---> the condition of being a slave
+serfdom                    ---> the system of serfs
 ```
 ## sign = mark ,sign, seal
 ```
