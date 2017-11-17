@@ -21,8 +21,22 @@ salary                 ---> relate to salt
 ```
 ## ob(oc, of, op, os , o ) = toward, against,  thoroughly
 ```
-
-
+obstacle             ---> that which stands in the way or 'against' someone
+object               ---> throw toward to some goals
+obstruction          ---> that which build something in the way
+obvious              ---> thoroughly see 
+observe              ---> to see something  that is towards your sight; to watch
+obtrude              ---> a pushing towards something
+obnoxious            ---> of sending  harm towards to someone else
+objective            ---> of throwing  only facts towards thinking about something
+obligation           ---> being tied to something or someone
+obliging             ---> feeling bound 'toward' helping someone
+obtain               ---> thoroughly hold onto
+obfuscate            ---> thoroughly darken
+obtuse               ---> of being thoroughly metally dull
+obdurate             ---> thoroughly hard and so stubborn
+occupy               ---> thoroughly take
+occlude              ---> to thoroughly close
 ```
 
 
