@@ -19,6 +19,14 @@ library
 dictionary
 salary                 ---> relate to salt
 ```
+## ob(oc, of, op, os , o ) = toward, against,  thoroughly
+```
+
+
+```
+
+
+
 
 ## Adjective Suffixes
 ### -ive, -itive = having the nature of
