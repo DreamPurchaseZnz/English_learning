@@ -37,6 +37,7 @@ salary               ---> a soldier's allowance for buying salt
 salaried
 
 ```
+
 ## sem(sembl), sim(simul, simil) = same, like, equal
 ```
 simulate
