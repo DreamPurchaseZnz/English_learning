@@ -14,15 +14,26 @@ objective                                     ---> n. something that you are try
                                                    v. not influence by personal feelings or opinions;
                                                       considering only facts
                                                    
-obligation                                    ---> n. 
+obligation                                    ---> n. the state of being forced to do sth 
+                                                      because it is you duty, a law
+                                                   n. something which you must do because you have promised
 
-obscene
+obscene                                       ---> v. ob(against) the set ; extremely large in size in a way 
+                                                      that most people find unacceptable and offensive
+                                                   v. connected with sex in a way that most people 
+                                                      find offensive
 
-obscurity
+obscurity                                     ---> n. the state of being dark; the quality of being 
+                                                      difficult to understand; 
+                                                   n. the state in which sb/sth is not well known 
+                                                     
+observation                                   ---> 
 
-observation
-
-observe
+observe                                       ---> v. to see or notice sb/ sth
+                                                   v. to watch sb/sth carefully, especially to learn more 
+                                                      about them
+                                                   v. to make a remark
+                                                   v. to celebrate festivals,birthdays
 
 obsession
 
@@ -160,3 +171,23 @@ ozone layer
 
 
 ```
+## comment, remark , observe
+```
+comment on sth                    ---> you say about it
+remark on sth/ observe sth        ---> you say about it that you have noticed
+REFUSE
+Only refuse to comment; Not refuse to observe or refuse to remark on
+```
+## Look, watch, see, view, observe, regard
+```
+look             ---> to turn your eye in a particular direction
+watch            ---> to look at sb/sth for a time; paying attention to what happens
+see              ---> to watch a game, television, programme, performance
+view             ---> to look at sth, especially when you look carefully
+observe          ---> to watch sb/sth carefully, especially to learn more about them or it
+regard           ---> to look at sb/sth,especially in a particular way
+
+
+```
+
+
