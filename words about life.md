@@ -349,8 +349,8 @@ Her silences were pregnant with criticism
 I'll skip the usual preliminary and come straight to the point
 Research will be needed as a preliminary to taking a decision
 
-
-
+I really object to being charged for parking
+you cannot objectify the inner portions of your own identity, and therefore you do not percieve them
 
 
 
