@@ -60,13 +60,16 @@ obtain                                        ---> v. thoroughly take; to get st
                                                       an effort
                                                    v. (of rules, systems,customs) to exist
 
-occasion
+occasion                                      ---> n. to fall at a particular time; a particular time when sth happens
+                                                   n. a special event, ceremony or celebration
+                                                   n. a suitable time for sth
+                                                   n. a reason or cause
 
-occasional
+occasional                                    ---> n. happening or done somethings but not often
 
-occasionally
+occasionally                                  ---> av. sometimes but not often
 
-occupation
+occupation                                    --->
 
 occupy
 
