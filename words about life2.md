@@ -1,4 +1,5 @@
-# Some sentenses for the next step: reading, remembering and saying
+# word about life
+### Some sentenses for the next step: reading, remembering and saying
 ```
 you must set realistic aims and objectives for yourself
 an objective analysis
@@ -26,9 +27,9 @@ Please state your name, age and occupation below
 the bed seems to occupy most of the room
 How much memory does the program occupy?
 a game that will occupy the kids for hours
-
-
-
+sugar occurs naturally in fruit
+he makes the odd mistake- noting too serious
+he's worked here for twenty-odd years
 
 
 ```
