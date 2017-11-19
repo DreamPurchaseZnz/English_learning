@@ -97,33 +97,51 @@ offend                                        ---> v. to make sb feel upset, bec
                                                    v. to seem unpleasant to sb
                                                    v. to be against what people believe is morally right
 
-offensive                                     ---> a. extremely 
+offensive                                     ---> a. extremely unpleasant
+                                                   a. rude in a way that cause you upset
+                                                   a. the act of attacking sb/sth
+                                                   
+offset                                        ---> v. the act of setting off; to use one cost, payment
+                                                      or situation in order to cancel or reduce the effect of
+                                                      another
 
-offset
+offspring                                     ---> n. a child of a particular person or couple
+                                                   n. the young of an animal or plant
 
-offspring
+on the horizon                                ---> n. sth happen in the future
 
-on the horizon
+ongoing                                       ---> a. going on; continuing to exist or develop
 
-ongoing
+onslaught                                     ---> n. slaught on; a strong or violent attack
 
-onslaught
+onward                                        ---> a. continuing or moving forward
+onwards                                       ---> av. continue from a particular time
+                                                   av. forward
 
-onwards
+opaque                                        ---> a. not clear enough to see thought or 
+                                                      allow light through
+                                                   a. difficult to understand; not clear
 
-opaque
+operate                                       ---> v. to work in a particular way
+                                                   v. to use or control a machine or make it work
+                                                   v. to be used or working
 
-operate
+operational                                   ---> a. connected with the way in which a business, machine
+                                                      system,etc, work
+                                                   a. ready to use
+                                                   a. connected with a military operation
 
-operational
+opponent                                      ---> n. a person that you playing or fighting against in a game
+                                                   n. a person who is against sth
 
-opponent
+opportunity                                   ---> n. a time when a particular situation makes it possible to
+                                                      do or achieve sth
 
-opportunity
+oppose                                        ---> v. to disagree strongly with sb's plan, policy,etc,and try
+                                                      to change it or prevent it from succeeding
+                                                   v. to compete with sb in a contest
 
-oppose
-
-opposite
+opposite                                      ---> 
 
 optic
 
