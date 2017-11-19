@@ -12,6 +12,19 @@ the course teaches students to avoid ambiguity and obscurity of expression
 Do they observe Chrismas
 She observed that it was getting late
 She observed that all the chairs were already occupied
+Fitness has become an obsession with him
+The media's obsession  with the young prince continues
+A lack of qualifications can be a major obstacle to finding a job
+You can't park here, you're obstructin my driveway
+The pillar obstructed my view of the stage
+Terrorists attempting to obstruct the peace process
+To obtain advice, information,premission
+
+
+
+
+
+
 
 
 ```
