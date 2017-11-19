@@ -69,11 +69,19 @@ occasional                                    ---> n. happening or done somethin
 
 occasionally                                  ---> av. sometimes but not often
 
-occupation                                    --->
+occupation                                    ---> n. thoroughly take sth; a job or profession
+                                                   n. the way in which you spend your time, especailly
+                                                      when you are not working
+                                                   n. the act of taking control of a country,town and city,etc
+                                                   n. the act of living in or using a building, room,etc
+                                                   
+occupy                                        ---> v. thoroughly take sth; 
+                                                      to fill or use a space, an area, an amount of time
+                                                   v. to live or work in a room
+                                                   v. to enter a place in large group and take control of it
+                                                   v. to fill your time or keep you busy doing sth
 
-occupy
-
-occur
+occur                                         ---> v. 
 
 odd
 
