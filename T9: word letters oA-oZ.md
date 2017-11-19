@@ -81,15 +81,23 @@ occupy                                        ---> v. thoroughly take sth;
                                                    v. to enter a place in large group and take control of it
                                                    v. to fill your time or keep you busy doing sth
 
-occur                                         ---> v. 
+occur                                         ---> v. to run; to happen
+                                                   v. to exist or be found somewhere
 
-odd
+odd                                           ---> a. strange or unusual
+                                                   a. happening or appearing occasionally, not regualar
+                                                      or frequent
+                                                   a. of no particular type or size
+                                                   a. that cannot be divided exactly by the number two
+ 
+odour                                         ---> n. a smell ,especially one that is unpleasant 
 
-odour
+offend                                        ---> v. to make sb feel upset, because of sth you say or do
+                                                      that is rude or embarrassing
+                                                   v. to seem unpleasant to sb
+                                                   v. to be against what people believe is morally right
 
-offend
-
-offensive
+offensive                                     ---> a. extremely 
 
 offset
 
