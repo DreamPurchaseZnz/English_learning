@@ -19,7 +19,9 @@ You can't park here, you're obstructin my driveway
 The pillar obstructed my view of the stage
 Terrorists attempting to obstruct the peace process
 To obtain advice, information,premission
-
+I'll had no occasion to visit him recently
+I've met him on several occasions
+I enjoy the occasional glass of wine
 
 
 
