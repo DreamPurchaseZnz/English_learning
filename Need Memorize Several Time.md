@@ -2,6 +2,7 @@
 ```
 pepper                     ---> a powder used to give a hot flavour to food
 pledge                     ---> a serious promise
+odour                      ---> a smell, especially one that is unpleasant
 
 
 
