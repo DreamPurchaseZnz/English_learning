@@ -76,22 +76,26 @@ receipt
 ```
 ### ced ,cess(ceed, ceas) =  to go
 ```
-acess
-precedent
-intercede
+access              ---> going towards 
+excess              ---> n. going out of normal limits
+exceed              ---> v. go out of normal boundaries
+recession           ---> act of going backwards
+success             ---> n. go up to a goal
+succeed             ---> v. go next after sb/sth to the foot of success
+necessity           ---> that with which one can not 'go' without
+ancestor            ---> one who has 'gone' before you
+precedent           ---> go before tings have always been done; a simaliar event or action happened earlier
+intercede           ---> go between two person to help to settle a argument
 successive          ---> suc<sub(=under) + cess(= to go)
-antecedent
-exceed              ---> ex(=out) + ceed
-excess
-necessary
-necessity
-precedure
-process            
-procession
-success
+antecedent          ---> a thing or event that exists or come before another; your ancestor
+procedure           ---> n. go forth to do sth; continue to do sth step by step ; 
+                            a way of doing sth in business,law or politics
+proceed             ---> v. go forth to do sth; continue being done; to do next
+process             ---> n. a series of tings that happen, especially ones that result in natural change          
+procession          ---> n. a line of people/sth
 ```
 ### cogn, gno(gn,n), cognis,gnos = to know 
-== sci
+= sci
 ```
 ignorant               ---> i (=not) + gno(=know)+ rant
 ignoble
