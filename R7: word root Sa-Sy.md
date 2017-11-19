@@ -1,22 +1,21 @@
 
 ## sid(sed, sit), sess(sid) = to sit
 ```
+resident         ---> one who 'sit' back somewhere
 preside          ---> to sit before others
 president        ---> an executive officer who sits in charge of a firm or organization
 reside           ---> to settle into a place to live ; exist
 residence        ---> a home; a place where a person settles to live
 session          ---> a meeting, class, or assembly where a group sits together
-subside
-dissident        ---> person who sits apart from others
-possess          ---> to be able to sit in a place
+subside          ---> to sit back to normal level
+dissident        ---> person who sits apart from others
+possess          ---> to sit at some position; to have or own it
 assesss          ---> to sit; to judge or estimate 
-consider         
-superside
-obsession        ---> ob(in the way)
-sidimentary
-saddle
-posesses
-
+consider         ---> to sit together to think about sth carefully        
+supersede        ---> to sit over sth/sb; to take the place of sth/sb
+obsession        ---> to sit in your way;
+sedimentary      ---> to settle at the bottom of lakes,etc
+saddle           ---> a leather seat for a rider on a hourse
 ```
 
 ## sal(sul, sil, sail, saul) = to leap
