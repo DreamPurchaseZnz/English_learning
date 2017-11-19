@@ -22,8 +22,10 @@ To obtain advice, information,premission
 I'll had no occasion to visit him recently
 I've met him on several occasions
 I enjoy the occasional glass of wine
-
-
+Please state your name, age and occupation below
+the bed seems to occupy most of the room
+How much memory does the program occupy?
+a game that will occupy the kids for hours
 
 
 
