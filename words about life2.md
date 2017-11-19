@@ -30,6 +30,18 @@ a game that will occupy the kids for hours
 sugar occurs naturally in fruit
 he makes the odd mistake- noting too serious
 he's worked here for twenty-odd years
+Prices have risen in order to offset the increased cost of material
+to produce/raise offspring
+an ongoing debate/ discussion/ process
+an onslaught of abuse
+We drive onwards towards the coast
+Some people can only operate well under pressure
+
+
+
+
+
+
 
 
 ```
