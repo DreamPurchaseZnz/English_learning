@@ -38,10 +38,12 @@ obdurate             ---> thoroughly hard and so stubborn
 occupy               ---> thoroughly take
 occlude              ---> to thoroughly close
 ```
+## sub, suc, suf, sug, sum ,sup, sur, sus, su =  under
+```
+submarine            ---> vehicle which goes under the sea
+subway               ---> 
 
-
-
-
+```
 ## Adjective Suffixes
 ### -ive, -itive = having the nature of
 ```
