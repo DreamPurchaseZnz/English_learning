@@ -27,7 +27,10 @@ obscurity                                     ---> n. the state of being dark; t
                                                       difficult to understand; 
                                                    n. the state in which sb/sth is not well known 
                                                      
-observation                                   ---> 
+observation                                   ---> n. the act of watching sb/sth carefully for a 
+                                                      period time, especailly to learn sth
+                                                   n. a comment, especially based on sth you have
+                                                      seen, heard or read
 
 observe                                       ---> v. to see or notice sb/ sth
                                                    v. to watch sb/sth carefully, especially to learn more 
@@ -35,13 +38,27 @@ observe                                       ---> v. to see or notice sb/ sth
                                                    v. to make a remark
                                                    v. to celebrate festivals,birthdays
 
-obsession
+obsession                                     ---> v. sth thoroughly sit in your way; the state in which
+                                                      a person's mind is completely filled
+                                                      with thoughts of one particular or a
+                                                      person in a way that is not normal
+                                                   v. a person or tings that sb thinks about sth
+                                                      too much
 
-obstacle
+obstacle                                      ---> n. sth sit against your goal; a situation, an event
+                                                      make it difficult for you to do or achieve sth
+                                                   n. an object that is in your way and makes it
+                                                      difficult for you to move forward
+                                                      
+obstruct                                      ---> v. build sth in your way; to block a road, an 
+                                                      entrance, an passage,etc, so that sb/sth
+                                                      cannot get through,see,past
+                                                   v. to prevent sb/sth from doing sth, or making 
+                                                      process
 
-obstruct
-
-obtain
+obtain                                        ---> v. thoroughly take; to get sth ,especially by making 
+                                                      an effort
+                                                   v. (of rules, systems,customs) to exist
 
 occasion
 
