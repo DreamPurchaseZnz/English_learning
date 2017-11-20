@@ -19,36 +19,7 @@ library
 dictionary
 salary                 ---> relate to salt
 ```
-## ob(oc, of, op, os , o ) = toward, against,  thoroughly
-```
-obstacle             ---> that which stands in the way or 'against' someone
-object               ---> throw toward to some goals
-obstruction          ---> that which build something in the way
-obvious              ---> thoroughly see 
-observe              ---> to see something  that is towards your sight; to watch
-obtrude              ---> a pushing towards something
-obnoxious            ---> of sending  harm towards to someone else
-objective            ---> of throwing  only facts towards thinking about something
-obligation           ---> being tied to something or someone
-obliging             ---> feeling bound 'toward' helping someone
-obtain               ---> thoroughly hold onto
-obfuscate            ---> thoroughly darken
-obtuse               ---> of being thoroughly metally dull
-obdurate             ---> thoroughly hard and so stubborn
-occupy               ---> thoroughly take
-occlude              ---> to thoroughly close
-```
-## op, oper, of = to work ,riches
-Ops, the god of harvest
-```
-opulent              ---> extremely rich
-opera                ---> a dramatic work in which all or most of the words are sung 
-                          to music
-operate              ---> to make sth work
-cooperate            ---> to work together
-optimism             ---> a feeling that good things will happen
-optimum              ---> the best possible
-```
+
 ## sub, suc, suf, sug, sum ,sup, sur, sus, su =  under
 ```
 submarine            ---> vehicle which goes under the sea
