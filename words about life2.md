@@ -94,6 +94,38 @@ He had a practical outlook on life
 the outlook for jobs is bleak
 the country's economic outlook
 the house has a pleasant outlook over valley
+Mark showed no outward signs of distress
+the outward journey
+outward investment
+Managers need to become more outward-looking
+the advantages far outweigh the disadvantage
+an overall improvement in standards of living
+Overall, this is a very useful book
+she overcame the injury to win the Olympic gold medal
+an overdue book
+overdue reforms
+The importance of these findings cannot be overestimated
+Overhead costs - otherwise the general costs
+planes flew overhead constantly
+overhead power lines
+There is considerable overlap between the two subjects
+The floor was protected with overlapping sheets of newspaper
+to live/go/work overseas
+the product is sold both at home and overseas
+He had always been overshadowed by his elder sister
+News of an accident overshadowed the day's event
+The garden is overshadowed by tall trees
+The central section of the book is a historical overview of drug use
+She was only a few pounds overweight
+She was overwhelmed by feeling of guilt
+the beauty of the landscape overwhelmed me
+We are overwhelmed by requests for information
+you look tired ,Have you been overworking
+He owes his success to hard work
+I think you owe us an explanation
+You owe me a favour
+How much do I owe(pay) you for the groceries?
+iron oxide
 
 
 
