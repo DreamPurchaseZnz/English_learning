@@ -126,9 +126,24 @@ I think you owe us an explanation
 You owe me a favour
 How much do I owe(pay) you for the groceries?
 iron oxide
-
-
-
+to be politically naive
+Their approach to life is refreshingly naive
+A naked flame
+A naked sword
+naked aggression
+the naked truth
+to have a nasty mind
+nasty jokes
+a nasty bend
+a nasty injury
+That was a nasty little trick
+to have a nssty temper
+The news gave me a nasty shock
+The college attracts students of all nationalities
+china contains 56 nationalities
+The kangaroo is a native of Australia
+A native of New York
+diputes between early settlers and natives
 
 
 
