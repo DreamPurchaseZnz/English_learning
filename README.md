@@ -38,6 +38,17 @@ obdurate             ---> thoroughly hard and so stubborn
 occupy               ---> thoroughly take
 occlude              ---> to thoroughly close
 ```
+## op, oper, of = to work ,riches
+Ops, the god of harvest
+```
+opulent              ---> extremely rich
+opera                ---> a dramatic work in which all or most of the words are sung 
+                          to music
+operate              ---> to make sth work
+cooperate            ---> to work together
+optimism             ---> a feeling that good things will happen
+optimum              ---> the best possible
+```
 ## sub, suc, suf, sug, sum ,sup, sur, sus, su =  under
 ```
 submarine            ---> vehicle which goes under the sea
