@@ -283,55 +283,101 @@ output                                       ---> n. put out
 outsell                                      ---> v. sell out; sell more more than competitors; 
                                                      to sell more or to be sold in larger quantities than sb/sth
 
-outward                                      ---> a. connected
+outward                                      ---> a. connected with the way people or things seem to be rather with
+                                                     what is actually true
+                                                  a. going away from a particular place
+                                                  a. away from the centre or a particular point
 
-outweigh
+outweigh                                     ---> v. weigth more than sb/sth;
+                                                     to be greater or more important than sth 
 
-overall
+overall                                      ---> a. including all the thing or people that involved 
+                                                     in a particular situation; general
+                                                  av. including everything or everyone; in total
+                                                  av. generally; when you consider everything
+                                                  n. a loose coat worn over other clothes to protect them form dirt, etc
+                                                  n. a loose piece of clothing like a skirt and pant in one piece
 
-overcome
+overcome                                     ---> v. to succeed in dealing with or controlling a problem that has been 
+                                                     peventing you from achieving sth
+                                                  v. to defeat sb
+                                                  v. [passive] to be extremely strongly affected by sth
 
-overdraft
+overdraft                                    ---> n. draft(write) over the check; the amount of money 
+                                                     that you can owe to a bank 
 
-overdue
+overdue                                      ---> a. the due time is over; not paid, returned,etc, by
+                                                     the required or expected time
+                                                  a. that should have happened or have done before now
 
-overestimate
+overestimate                                 ---> v. to estimate sth to be larger, better, important,than
+                                                     it really is
+                                                  n. an estimate about size, cost,etc, of sth that is too
+                                                     high
 
-overexploit
+overexploit                                  ---> n. exploitation  to the point of diminishing returns
 
-overfill
+overfill                                     ---> v. fill beyond capacity
 
-overgraze
+overgraze                                    ---> v. to graze animals the number of which is beyond 
+                                                     the capacity of land
 
-overhead
+overhead                                     ---> av. beyond your head; above your head, in the sky
+                                                  a.  above your head
+                                                  a.  connected with the general costs of running a business
+                                                      or an organization
 
-overlap
+overlap                                      ---> v. to make two or more things overlap; to cover part 
+                                                     of the same area of interest,knowledge,responsibility,etc
+                                                  n. a share area of interest,knowledge, responsibility, etc
+                                                  n. the amount by which one thing covers another thing
+                                                  n. a period of time in which two events or activities happen
+                                                     together
+                                               
+overlapping                                  ---> n. connected with a design in which one element covers a 
+                                                     part of anther
+ 
+overlie                                      ---> v. to lie over sth
 
-overlapping
+overrate                                     ---> v. to rate beyond the actural value; to have too high an 
+                                                     opinion of sth/sth; to put too high a value on sb/sth
 
-overlie
+overseas                                     ---> a. connected with foreigh countries; 
+                                                  av. to or in a foreign country
 
-overrate
+oversee                                      ---> v. watch sth over a high positon; to watch sb/sth and make 
+                                                     sure that a job or an activity is done correctly
 
-overseas
+overshadow                                   ---> v. shadow over sth; to make sth/sb less important or successful
+                                                  v. to make an event less enjoyable than it should be
+                                                  v. to throw a shadow over sth
 
-oversee
+overview                                     ---> n. a general description or an outline of sth
 
-overshadow
+overweight                                   ---> a. too heavy and fat
+                                                  a. beyond an allowed weight
 
-overview
+overwhelm                                    ---> v. to have such a strong emotional effect on sb that it is
+                                                     difficult for them to resist or know how to react
+                                                  v. to defeat sb completely
+                                                  v. to be so bad or so great that a person cannot deal with it
+                                                     to give too much of a thing to a person
+                                                  v. to cover sb/sth completely
 
-overweight
+overwork                                     ---> v. work too hard; to make a person or an animal to work too hard
+                                                  n. the fact of working too hard
 
-overwhelm
+owe                                          ---> v. to have to pay sb for sth that you have already recieved or
+                                                     return money that you have borrowed
+                                                  v. to feel that you ought to do sth for sb or give them sth
+                                                     especially because they have done sth for you
+                                                  v. to exist or be successful because of the help or influence of
+                                                  v. to have to obey; owe allegiance /loyalty/ obedience
 
-overwork
+owl                                          ---> n. a bird of prey with large round eyes that hunts at night,
+                                                     Owls are traditionally thought to be wise
 
-owe
-
-owl
-
-oxide
+oxide                                        ---> 
 
 oxygen
 
