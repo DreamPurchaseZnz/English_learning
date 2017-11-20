@@ -131,83 +131,154 @@ operational                                   ---> a. connected with the way in 
                                                    a. ready to use
                                                    a. connected with a military operation
 
-opponent                                      ---> n. a person that you playing or fighting against in a game
+opponent                                      ---> n. the person on the other side; a person that you playing or 
+                                                      fighting against in a game
                                                    n. a person who is against sth
 
 opportunity                                   ---> n. a time when a particular situation makes it possible to
                                                       do or achieve sth
 
-oppose                                        ---> v. to disagree strongly with sb's plan, policy,etc,and try
+oppose                                        ---> v. on the other side; to disagree strongly with sb's plan, policy,etc,and try
                                                       to change it or prevent it from succeeding
                                                    v. to compete with sb in a contest
 
-opposite                                      ---> 
+opposite                                      ---> a. to pos the other side; the other side of a particular area
+                                                      and usually facing them
+                                                   a. used after the noun; facing the speaker 
+                                                   a. as different as possible form sth
+                                                   n. a person or thing that is different as possible from sb/sth else
+                                                   perp. facing sth/sb
+                                                   perp. acting in a film or play as the partner of sb
 
-optic
+optic                                        ---> a. connect to with eye or the sense of sight
 
-optical
+optical                                      ---> a. connected with the sense of sight
+                                                  a. using light for reading or storing information
 
-optimism
+optimism                                     ---> n. a feeling that good things will happen and  sth will be successful
+                                                  n. the tendency to have this feeling
 
-optimistic
-optimum
-option
-optional
-optometrist
-opulence
-opulent
+optimistic                                   ---> a. expecting good things to happen or sth to be successful
+
+optimum                                      ---> a. the best possible; producing the best possible results
+                                                  a. the best possible result
+
+option                                       ---> n. something that you can choose to have or do
+                                                  n. a subject that student do not have to do
+                                                  n. one of the choices you can make when using a computer program
+ 
+optional                                     ---> a. that you can choose to do or have if you want to
+
+optometrist                                  ---> n. a person skilled in testing for defects of vision in order to
+                                                     prescribe corrective glasses
+
+opulent                                      ---> a. sth look grand and expensive; very wealthy and spend a lot of money
+opulence                                     ---> a. wealth as evidenced by sumptuous living
+
 orbit
+
 orchestra
+
 organ
+
 organic
+
 organism
+
 organize
+
 orientate
+
 orientation
+
 orientation meeting
+
 origin
+
 original
+
 originate
+
 ornament
+
 ornamental
+
 orthodox
+
 otherwise
+
 ounce
+
 outcome
+
 outdo
+
 outlaw
+
 outline
+
 outlook
+
 outpost
+
 output
+
 outsell
+
 outward
+
 outweigh
+
 overall
+
 overcome
+
 overdraft
+
 overdue
+
 overestimate
+
 overexploit
+
 overfill
+
 overgraze
+
 overhead
+
 overlap
+
 overlapping
+
 overlie
+
 overrate
+
 overseas
+
 oversee
+
 overshadow
+
 overview
+
 overweight
+
 overwhelm
+
 overwork
+
 owe
+
 owl
+
 oxide
+
 oxygen
+
 ozone
+
 ozone layer
 
 
