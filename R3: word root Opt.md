@@ -39,3 +39,14 @@ operate              ---> to make sth work
 optical              ---> connect to sight
 
 ```
+
+## ortho = straight,right
+```
+orthodox              ---> right opinion; generally accepted or approved of
+orthodoxy             ---> an idea or view that is generally accepted
+orthogonal            ---> gon(angle) straight
+
+```
+
+
+
