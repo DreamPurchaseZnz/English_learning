@@ -175,57 +175,115 @@ optometrist                                  ---> n. a person skilled in testing
 opulent                                      ---> a. sth look grand and expensive; very wealthy and spend a lot of money
 opulence                                     ---> a. wealth as evidenced by sumptuous living
 
-orbit
+orbit                                        ---> n. a curved path followed by a planet or an object as it moves around 
+                                                     another planet, star, moon
+                                                  n. an area that a particular person, organization etc.deals with or is 
+                                                     a able to influence
+                                                  v. to move in an orbit
 
-orchestra
+orchestra                                    ---> n. a large group of people who play various musical instrument together
+                                                     led by a conductor
 
-organ
+organ                                        ---> n. a part of body that has a particular purpose,such as the heart or the 
+                                                     brain; part of plant
+                                                  n. pip organ; a large musical instrument with keys like piano;
+                                                  n. a musical instrument similar to a pipe organ, but without pipes
+                                                  n. a newspaper or magazine that gives information about a particular group
 
-organic
+organic                                      ---> a. (of food,farming, methods,etc) produced or practised without using artificial
+                                                     chemicals
+                                                  a. produced by or from living things
+                                                  a. connected with organs of the body
+                                                  a. consisting of different parts that all are connected to each other
+                                                  a. happening in a slow and natural way, rather than suddenly
 
-organism
+organism                                     ---> n. a living thing, especially that is extremely small
+                                                  n. a system consisting of parts that depend on each other
 
-organize
+organize                                     ---> v. to arrange for sth to happen or to be provided
+                                                  v. to form a group of peopel with a shared aim, especially a union
+                                                     or political party
+                                                  v. to arrange sth or the parts of sth into a particular order or structure
+                                                  v. to plan your/sb's work and activities in an efficient way
+                                                  
 
-orientate
+orientate                                    ---> v. to direct sb/sth towards sth; to make or adapt sb/sth for a 
+                                                     particular purpose
+                                                  v. to find yourself  in relation to your surrounding
+                                                  v. to make yourself familiar with a new situation
 
-orientation
+orientation                                  ---> n. the direction in which an object faces
+                                                  n. tha act of directing your aim towards a particular thing
+                                                  n. a persion's basic beliefs or feeling about a particular subject
+                                                  n. training or information that are given before starting a new job
+                                                  
 
-orientation meeting
+orientation meeting                          ---> n. the meeting in which certain problem are discussed 
 
-origin
+origin                                       ---> n. the point from which sth started; the cause of sth
+                                                  n. a person's social and family background
 
-original
+original                                     ---> a. existing at the beginning of a particular process
+                                             ---> a. able to produce new and interesting ideas
+                                                     new and interesting in a way that is different from anything
+                                                     that has exsit before
+                                                  a. painted, written ,etc, by an artist rather than copied
+                                                  n. a document, work of art produced for the first time
+                                                  n. a person who thinks, behave, dresses,etc,in unusual way
+originate                                    ---> v. to happen or appear for the first time
+                                                  v. to create sth new
 
-originate
+ornament                                     ---> n. an object that is used as decoration in a room rather than
+                                                     for a particular purpose
+                                                  n. an object that is worn as jewellery
+                                                  n. a person or thing whose good qualities improve sth
+                                                  v. to add decoration to sth
 
-ornament
+ornamental                                   ---> a. used as decoration rather than for a particular purpose
 
-ornamental
+orthodox                                     ---> a. (especially of beliefs or behaviour) generally accepted or 
+                                                     approvaled of ;
+                                                  a. following closely the traditional beliefs and practices of a region
+                                                  a. Orhodox Church
 
-orthodox
+otherwise                                    ---> av. in the different manner; used to state what the result
+                                                      would be if sth did not happen if the 
+                                                      situation were different
+                                                  av. in a different way mentioned; differently
+                                                  av. apart from that 
 
-otherwise
+ounce                                        ---> n. a unit for measuring weight, 1/16 pound
+                                                  n. very small quantity of sth
 
-ounce
+outcome                                      ---> n. the result or effect of an action or event
 
-outcome
+outdo                                        ---> v. to do more or better than sb else
 
-outdo
+outlaw                                       ---> v. to make sth illegal
 
-outlaw
+outline                                      ---> v. to give a description of the main facts or points involved in sth
+                                                  v. to show or mark the outer edge of sth
+                                                  n. a discription of main facts or points involved in sth
+                                                  n. the line that goes around the edge of sth,showing its main shape
+                                                     but not details
 
-outline
+outlook                                      ---> n. the way look out;the attitude to life and the world of a particular
+                                                     person, group and culture
+                                                  n. the probable future for sth/sb; what is likely to happen
+                                                  n. a vie from a particular place
 
-outlook
+outpost                                      ---> n. post out for enemy's movement;a small military awary from the main army, 
+                                                     used for watching an enemy's movement,etc
 
-outpost
+output                                       ---> n. put out
+                                                     the amount of sth that a person ,a machine or an organization produces
+                                                  n. the information, results,etc, produced by a computer
+                                                  v. to supply or produce information, results,etc
 
-output
+outsell                                      ---> v. sell out; sell more more than competitors; 
+                                                     to sell more or to be sold in larger quantities than sb/sth
 
-outsell
-
-outward
+outward                                      ---> a. connected
 
 outweigh
 
