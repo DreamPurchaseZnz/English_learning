@@ -36,6 +36,27 @@ an ongoing debate/ discussion/ process
 an onslaught of abuse
 We drive onwards towards the coast
 Some people can only operate well under pressure
+It's not easy having a relationship when you live at opposite ends of the country
+He sat down in the chair opposite
+Hot and cold are opposites
+what is the opposite of heavy
+Exactly the opposite is true
+Is it better now? "quite the opposite, I'm afraid"
+I sat opposite him during the meal
+the bank is opposite the supermarket
+an optical disk
+we may look forward with optimism
+She's not very optimistic about the outcome of the talks
+We are now taking a more optimistic view
+the soft/easy option
+keep/leave your option open
+There are various options open to you
+As I see it, we have two options
+Going to college was not an option for me
+Certain courses are compulsory, others are optional
+Most of the cash went on supporting his opulent lifestyle
+
+
 
 
 
