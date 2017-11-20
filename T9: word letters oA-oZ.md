@@ -377,23 +377,16 @@ owe                                          ---> v. to have to pay sb for sth t
 owl                                          ---> n. a bird of prey with large round eyes that hunts at night,
                                                      Owls are traditionally thought to be wise
 
-oxide                                        ---> 
+oxide                                        ---> n. a compound of oxygen and other chemical element
 
-oxygen
+oxygen                                       ---> n. a chemical element
 
-ozone
+ozone                                        ---> n. chemistry a poisonous gas with a strong smell that is a 
+                                                     form of oxygen
+                                                  n. air near the sea that sells fresh and pure
 
-ozone layer
-
-
-
-
-
-
-
-
-
-
+ozone layer                                  ---> n. a layer of ozone high above the earth's surface to help protect
+                                                     the earth from harmful radiation from the sun
 
 
 
