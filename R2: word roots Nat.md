@@ -42,3 +42,17 @@ equinox                  ---> one of two days in a year when the day and night a
 equinoctial              ---> connect with an equinox
 noctilucent              ---> shining or glowing by night
 ```
+## nov = new
+```
+innovation               ---> to introduction of new things or ways of doing sth
+renovate                 ---> to repair and paint in order to make sth new again
+novel                    ---> new, interesting and often seeming slightly strange
+novice                   ---> a person who is new; inexperience person
+nova                     ---> a star that suddenly become much brighter for a short period
+
+```
+
+
+
+
+
