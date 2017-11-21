@@ -49,9 +49,34 @@ renovate                 ---> to repair and paint in order to make sth new again
 novel                    ---> new, interesting and often seeming slightly strange
 novice                   ---> a person who is new; inexperience person
 nova                     ---> a star that suddenly become much brighter for a short period
-
+```
+## numer = number , to count
+```
+enumerate                ---> to count out sth;to name things on a list one by one
+innumerable              ---> too many to be counted
+supernumerary            ---> more than you normally need; extra
+numeral                  ---> a sign or symbol that represents a number
+numerator                ---> the number above the line in a fraction
+numerical                ---> relating numbers
+numberless               ---> too many to be counted
+numerous                 ---> existing in large number
 ```
 
+## nutr, nurt, nutri = to nourish
+nour, nurs
+```
+malnutrition             ---> a poor condition of health caused by a lack of food or 
+                              a lack of the right type of food
+nutriment                ---> a source of material to nourish the body
+nutritive                ---> of or providing nourishment
+nutriology               ---> the science of nourishment
+nourish                  ---> to keep a person or sth alive and healthy with food
+nurse                    ---> to take care of sb who is ill/sick or injured
+nursery                  ---> connected with the education of children from 2 to 5 years old
+nursling                 ---> an infant considered in relation to its nurse
+nursemaid                ---> a woman or girl who is paid to look after young children
+
+```
 
 
 
