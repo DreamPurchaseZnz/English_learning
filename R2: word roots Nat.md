@@ -22,3 +22,18 @@ navigable                ---> wide and deep enough for ship and boats to sail on
 nausea                   ---> a person in the ship that traveling at sea are disgusted by sth
 circumnavigate           ---> to sail all the way around sth, especially all the way around the world
 ```
+## ne(na, no, n) = not
+```
+annul                    ---> to make sth not exist; to state officially that sth is no longer legally
+                              valid
+nefarious                ---> to say no good; crimimal, immoral
+nescience                ---> ignorance
+neuter                   ---> neither feminine or masculine
+neutural                 ---> not supporting or helping either side in a disagreement
+neutron                  ---> a very small piece of matter that carries no electric charge
+nought                   ---> nothing
+
+
+
+
+```
