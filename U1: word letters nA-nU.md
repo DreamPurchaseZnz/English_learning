@@ -96,39 +96,101 @@ nerve                                         ---> n. any of the long thread tha
                                                    n. a way of behaving that other people think is rude or not appropriate
                                                    v. to give youself the courage or strength to do sth
 
-neutral
+neutral                                       ---> a. not to draw any side; not taking sides in fight, a disagreement, a war
+                                                   a. deliberately not expressing any strong feeling
+                                                   a. not very bright or strong
+                                                   a. neither acid or alkaline
+                                                   a. having neither a positive nor a negative electrial charge
+                                                   n. the position of gears of a vehicle in which no power is carried from
+                                                      the engine to the wheels
+                                                   n. a person or a country that does not support either side 
+                                                   n. a color that is not bright or strong, such as grey or light brown
 
-nevertheless
+nevertheless                                  ---> av. never because of the less of sth to give up; 
+                                                       despite that you have just mentioned
 
-newletter
+newsletter                                    ---> n. a printed report containing news of activities of a club or organization
+                                                      that is sent regularly to all its members
 
-nickel
+nickel                                        ---> n. a chemical element
+                                                   n. a coin of the US and Canada worth 5 cents
 
-niggle
+niggle                                        ---> n. a small criticism or complaint
+                                                   n. a slight feeling , such as worry, doubt,etc, does not go away
+                                                   n. a slight pain
+                                                   v. to make sb slightly worried
+                                                   v. to argue about sth unpleasant; to criticize sb for sth that is not 
+                                                      important
 
-nightmare
+nightmare                                     ---> n. a dream that is very frightening or unpleasant
+                                                   n. an experience that is very frightening and unpleasant or 
+                                                      difficult to deal with
 
-nocturnal
-nominal
-Nordic
-normal
-notable
-noticeable
-notice board
-notify
-notion
-notoriety
-notorious
-nourish
-novice
-nuclear
-numerous
-nursery
-nurture
-nutrient
-nutrition
-nutritional
-nutritious
+nocturnal                                     ---> n. active at night
+                                                   n. happening during the night
 
+nominal                                       ---> a. being sth in name only, and not in reality
+                                                   a. (of a sum of money) very small and much less than the normal cost
+                                                      or charge
 
+Nordic                                        ---> a. of or pretaining to the countries of scandinavia, Finland and Iceland
+                                                   a. typical of a member of a European race of people
+
+normal                                        ---> a. typical, usual or ordinary; what you would expect
+                                                   a. not suffering from any metal disorder
+                                                   n. the usual or average state, level or standard
+
+notable                                       ---> a. well known; deserving to be noticed or to recieve attention
+                                                   n. a famous or important person; a person of distinction
+
+noticeable                                    ---> a. easy to see or notice; clear and definite
+
+notice board                                  ---> a. a board that hangs on a wall
+
+notify                                        ---> v. to formally or officially tell sb about sth
+
+notion                                        ---> n. an idea, a belief or an understanding of sth
+
+notoriety                                     ---> n. fame for being bad in some way
+
+notorious                                     ---> a. well known for being bad
+
+nourish                                       ---> v. to keep a person, an animal or a plant alive and
+                                                      healthy with food
+                                                   v. to allow a feeling, an idea,etc, to develop or grow 
+                                                      stronger
+
+novice                                        ---> n. a person who is new and has little experience in the skill,job,situation
+
+nuclear                                       ---> a. using, producing or resulting from nuclear energy
+                                                   a. connected with weapons that use nuclear energy
+                                                   a. (physics) of the nucleus of an atom
+
+numerous                                      ---> a. existing in large numbers
+
+nursery                                       ---> n. nursery school 
+                                                   n. a room in a house where a baby sleeps and young children can play
+                                                   a. connected with the education of children from 2 to 5 years old
+
+nurture                                       ---> v. to care for and protect sb/sth while they are growing and developing
+                                                   v. to help sb/sth to develop and be successful
+                                                   v. to have a feeling ,an idea, a plan,etc, for a long time and encourage
+                                                      it to develop
+                                                   n. care, encouragement and support given to sb/sth 
+                                                      while they are growing
+
+nutrient                                      ---> n. a substance that is needed to keep a living thing alive and to help it 
+                                                      grow
+
+nutrition                                     ---> n. the process by which living things receive food necessary for them to
+                                                      grow and be healthy
+
+nutritional                                   ---> a. of or relating to providing nutrition
+
+nutritious                                    ---> a. very good for you; containing many of the substances which
+                                                      help the body to grow
 ```
+
+
+
+
