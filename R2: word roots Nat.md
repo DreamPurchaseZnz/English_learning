@@ -29,11 +29,8 @@ annul                    ---> to make sth not exist; to state officially that st
 nefarious                ---> to say no good; crimimal, immoral
 nescience                ---> ignorance
 neuter                   ---> neither feminine or masculine
-neutural                 ---> not supporting or helping either side in a disagreement
+neutral                  ---> not supporting or helping either side in a disagreement
 neutron                  ---> a very small piece of matter that carries no electric charge
 nought                   ---> nothing
-
-
-
 
 ```
