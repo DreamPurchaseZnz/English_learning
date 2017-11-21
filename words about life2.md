@@ -144,7 +144,32 @@ china contains 56 nationalities
 The kangaroo is a native of Australia
 A native of New York
 diputes between early settlers and natives
-
+the natural world = (=of trees, river, animals and birds)
+the natural process of language learning
+He's a natural leader
+It's difficult to look natural when you're feeling nervous
+This lead naturally to my next point
+navigation system
+the right of navigation through international waters
+The number of places available is necessarily limited
+The more expensive articles are not necessarily better
+biggest doesn't necessarily mean best
+"We are going to lose","not necessarily"
+There had never been any necessity for her to go out to work
+Many people cannot even afford basic necessities such as food and clothing
+The buildings had been neglected for years
+The goverment will never negotiate with terrorists
+to negotiate a deal/ contract/ settlement
+The climbers had to negotiate a steep rock face
+the optic nerve
+Every nerve in her body was tense
+Everyones' nerve were on the edge
+It took lots of nerve to take the company to court
+I don't know how you have the nerve to show your face after what you said
+get on sb's nerves
+have the nerves of steel
+hit/ touch the nerve
+He nerved himself to ask her out
 
 
 
