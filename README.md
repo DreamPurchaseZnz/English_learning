@@ -1,4 +1,9 @@
 # suffixes and prefixes
+## -ure = state, quality, act, result , that which
+```
+culture
+posture
+```
 ## -ary, ery, -ory, -ry = of or belonging to
 
 (forming adjectives):of, related to; belonging to; 
