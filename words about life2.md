@@ -170,11 +170,57 @@ get on sb's nerves
 have the nerves of steel
 hit/ touch the nerve
 He nerved himself to ask her out
-
-
-
-
-
+a neutral color scheme
+There is little chance that we will succeed in changing the law, nevertheless, it is important that we try
+our defeat was expected but it is disappointing nevertheless
+a niggle of doubt
+a doubt niggled at her
+something was niggling her
+He still has nightmare about accident
+The trip turned into nightmare when they both got sick
+If it goes a head, it will be the nightmare scenario
+The noctilucent eyes of a cat
+a nocturnal visit
+the nominal leader of the party
+He remain in nominal control of the business for another ten years
+We only pay a nominal rent
+Everyone blamed me as per usual
+Divorce is complicated enough in normal circumstances but this situation is even worse
+Under normal circumstances, I would say'yes'
+We are open during the normal office hours
+Things soon returned to normal
+a notable success/ achievement
+The town is notable for its ancient harbour
+It was noticeable that none of the family were present
+Marks were noticeablely higher for girls than for boys
+Competition winners will be notified by post
+The police must be notified of the date of the demonstration
+a political system based on the notions of equality and liberty
+I have to reject the notion that greed can be a good thing
+She had only a vague notion of what might happen
+She achieved notoriety for her affair with the senator
+he gained a certain notoriety as a gambler
+a notorious criminal
+Mountain weather is notoriously difficult to predict
+By investing in education, we nourish the talents of our children
+All the children were well nourished and in good physical condition
+I am a complete novice at skiing
+the novice user
+a nuclear weapon/bomb/ missile
+a nuclear exploration
+the country's nuclear capability
+a nuclear reaction
+the advantage of this system are too numerous to mention
+It's important to nurture a good working relationship 
+She secretly nurtured a hope of becoming famous
+a lack of essential nutrients
+Plants draw minerals and other nutrients from soil
+children suffering from a serious nutrient deficiently
+advice on diet and nutrition
+to study food science and nutrition
+the nutritional value of milk
+a nutritionally balanced diet
+tasty and nutritious meals
 
 
 
