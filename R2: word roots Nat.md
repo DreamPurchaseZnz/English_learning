@@ -34,3 +34,11 @@ neutron                  ---> a very small piece of matter that carries no elect
 nought                   ---> nothing
 
 ```
+## noct, nox = night
+```
+nocturnal                ---> active at night
+nocturne                 ---> a short gentle  of music in romantic style, especially for piano
+equinox                  ---> one of two days in a year when the day and night are of equal length
+equinoctial              ---> connect with an equinox
+noctilucent              ---> shining or glowing by night
+```
