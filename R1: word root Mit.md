@@ -9,6 +9,21 @@ mansion             ---> the large impressive house to stay
 remain              ---> to still stay; continue to be
 permeate            ---> flow throughly
 ```
+## manu(man) = hand
+```
+emancipate          ---> not using hand to take; to free sb
+manipulate          ---> using hand to pull; to control or influence sb/sth
+manacle             ---> to constraint the hand
+management          ---> the act of running and controlling a business by your hand
+manicure            ---> the care and treatment of a person's hands and nails
+manifest            ---> using you hand to strike; to show sth clearly
+manuel              ---> involing using your hands; operate or controlled by hand rather
+                         than automatically or using electricity
+manufacture         ---> to make by hand; to make goods in large quantities
+manuscript          ---> to write by your hand
+
+```
+
 ## mark, march, marg = to mark , to boundary
 ```
 mark
