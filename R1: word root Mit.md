@@ -1,12 +1,12 @@
 ## man(mn, main) = to flow , to stay
 ```
 emanate             ---> to flow out ; to show or produce
-remnant             ---> still stay ; a part of sth is left after the other parts have been used
-immanent       
-permanent
-manor
-mansion
-remain
+remnant             ---> still stay ; a part of sth is left 
+                         after the other parts have been used
+immanent            ---> to stay in you hot; present as a natural part of sth
+permanent           ---> to stay forever; lasting for a long time or for all time in the future
+mansion             ---> the large impressive house to stay
+remain              ---> to still stay; continue to be
 permeate            ---> flow throughly
 ```
 ## mark, march, marg = to mark , to boundary
