@@ -24,13 +24,20 @@ library
 dictionary
 salary                 ---> relate to salt
 ```
+## mal-(male-) = badly
+```
+malnutrition
+malevolent             ---> n. badly wish;  having or showing a desire to harm other people
+maltreat
 
-## sub, suc, suf, sug, sum ,sup, sur, sus, su =  under
+```
+## sub-, suc-, suf-, sug-, sum- ,sup-, sur-, sus-, su- =  under
 ```
 submarine            ---> vehicle which goes under the sea
 subway               ---> 
-
 ```
+
+
 ## Adjective Suffixes
 ### -ive, -itive = having the nature of
 ```
