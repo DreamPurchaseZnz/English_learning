@@ -32,7 +32,8 @@ remarkable
 margin
 march
 marker
-demarcate
+demarcate          ---> to make the mark of boundry down ; 
+                        to mark or establish the limits of sth 
 
 ```
 ## magn, maj,max = great
