@@ -19,6 +19,22 @@ marker
 demarcate
 
 ```
+## magn, maj,max = great
+```
+magnet                             ---> 
+magnetic
+magnificent                        ---> a. magn(great) ; extremely attactive and impressive;
+                                           deserving praise
+magnify                            ---> v. to make sth big(great); to make sth look bigger than
+                                           it really is
+                                        v. to make sth bigger, louder or stronger
+                                        
+magnitude                          ---> n. the degree of great; the great size or importance of sth
+                                           the degree to which sht is large and important
+                                        n. the degree to which a star is bright
+
+
+```
 ## med == to heal, to attend to
 ```
 meditate
