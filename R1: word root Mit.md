@@ -23,7 +23,19 @@ manufacture         ---> to make by hand; to make goods in large quantities
 manuscript          ---> to write by your hand
 
 ```
-
+## mar = war, sea
+```
+martial             ---> connected with fighting or war
+Mars                ---> to damage
+Martian             ---> related to or coming from the plant Mars
+submarine           ---> under the sea; a ship that travel underwater
+maritime            ---> connected with the sea or ships
+marsh               ---> an area of low land that always soft and wet
+mermaid             ---> a creature with a woman's head and body ,a fish's tail instead of legs
+mariculture         ---> a type of farming in which fish or other sea animals and plants are bred and grown for food
+transmarine         ---> across the sea; 
+ultramarine         ---> across the sea;
+```
 ## mark, march, marg = to mark , to boundary
 ```
 mark
