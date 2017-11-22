@@ -2,16 +2,26 @@
 ```
 machinery
 magic
-magma
-magnet
+magma                              ---> n. very hot liquid rock found below the earth's surface
+magnet                            
 magnetic
-magnificent
-magnify
-magnitude
-mainly
+magnificent                        ---> a. magn(great) ; extremely attactive and impressive;
+                                           deserving praise
+magnify                            ---> v. to make sth big(great); to make sth look bigger than
+                                           it really is
+                                        v. to make sth bigger, louder or stronger
+                                        
+magnitude                          ---> n. the degree of great; the great size or importance of sth
+                                           the degree to which sht is large and important
+                                        n. the degree to which a star is bright
+mainly               
 mainstream
-maintain
-maintenance
+maintain                           ---> v. to make sth continue at the same level, standerd
+                                        v. keep a building, a machine in good condition by checking
+                                           or repairing it regularly
+                                        v. to keep stating sth is true, even though other people do
+                                           not agree or do not believe it
+maintenance                        ---> 
 major
 majority
 malevolent
