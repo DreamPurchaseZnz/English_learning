@@ -1,6 +1,7 @@
 ## man(mn, main) = to flow , to stay
 ```
-remnant
+emanate             ---> to flow out ; to show or produce
+remnant             ---> still stay ; a part of sth is left after the other parts have been used
 immanent       
 permanent
 manor
