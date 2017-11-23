@@ -71,14 +71,25 @@ mechanical
 mechanism
 mechanize
 ```
+
 ## med == to heal, to attend to
 ```
 meditate
 remedy
 medical
 medication
+```
+## merc = to trade , to reward
+```
+mercenary                      ---> n. a soider who will fight for any country or group that offers payment
+                                    a. only interested in making or getting money
+mercantile                     ---> a. connected with trade and commercial affairs
+
 
 ```
+
+
+
 
 ## mit, miss(mis,mess) = to send , to throw
 ```
