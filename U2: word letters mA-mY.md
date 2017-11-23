@@ -163,31 +163,39 @@ mediocre                           ---> a. not very good; of average standard
 Mediterranean                      ---> a. connected with Mediterranean Sea or 
                                            countries and regions and surround it
 
-medium
+medium                             ---> a. the in the middle between two size
+                                        n. a way of communicating information, etc,to people
+                                        n. a substance that sth exists or grows in or that it travels through
 
-megacity
+megacity                           ---> n. big city that has a population of more than 10,000,000 
+                         
+melatonin                          ---> n. a hormone that causes changes in skin color
 
-melatonin
+melt                   
 
-melt
+membership 
 
-membership
+memorable 
 
-memorable
+memorandum                         ---> n. a record of a legal agreement which has not
+                                           yet been formally prepared and signed
+                                        n. a proposal or report on a particular suject
 
-memorandum
+memorise                           ---> n. commit to memory
 
-memorise
+menace                             ---> n. a person or things that causes, or may causes serious damage
+                                           harm or danger
+                                        n. an atmosphere that makes you feel threatened or frightened
+                                        v. to be a possible danger to sth/sb
 
-menace
-
-mental
+mental                             ---> a. connected with or happening in the mind
 
 mention
 
-mentor
+mentor                             ---> n. the person who lead you; an experienced person who adivises and helps
+                                           sb with less experience over a period of time
 
-merchandising
+merchandising                      ---> 
 
 mercury
 
