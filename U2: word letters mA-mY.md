@@ -123,35 +123,45 @@ maturity                           ---> n. the quality of thinking and behaving 
 
 maximise                           ---> v. to make as big or large as possible
 
-maximum                            ---> v. as large,fast,etc, as is possible;
+maximum                            ---> a. as large,fast,etc, as is possible;
                                            or the most that is possible or allowed
                                         n. the greatest amount, size,speed,etc
 
-meadow
+meadow                             ---> n. a field covered in grass,used especially for hay
 
-meagre
+meagre                             ---> n. small in quantity and poor in quantity
+ 
+meaningful                         
 
-meaningful
-
-meantime
+meantime                           
 
 meanwhile
 
-mechanic
+mechanic                           ---> n. a person whose job is repairing machines
+                                        n. the science of movement or force
+                                        n. the way sth works or is done
 
-mechanical
+mechanical                         ---> a. operated by power from an engine
+                                        a. conncected with machines and enjines
+                                        a. done without thinking, like a machine
 
-mechanism
+mechanism                          ---> n. a set of moving parts in a machine that performs a task
+                                        n. a method or a system for achieving sth
+                                        n. a system of parts in a living thing 
+                                           that perform a particular function
 
-medical
+medical                            ---> n. sth used to heal; connected with illness and injury
+                                           and  their treatment
 
-medication
+medication                         ---> n. a drug or another form of medicine that you take to prevent
+                                           or to treat an illness
 
-medieval
+medieval                           ---> a. connected with Middle Ages
 
-mediocre
-
-Mediterranean
+mediocre                           ---> a. not very good; of average standard
+ 
+Mediterranean                      ---> a. connected with Mediterranean Sea or 
+                                           countries and regions and surround it
 
 medium
 
