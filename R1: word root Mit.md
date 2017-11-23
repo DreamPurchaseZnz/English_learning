@@ -64,6 +64,13 @@ magnitude                          ---> n. the degree of great; the great size o
 
 
 ```
+## mechan = machine
+```
+mechanic                          ---> n. a person whose job is repairing machines,especially enjines of vehicles
+mechanical                      
+mechanism
+mechanize
+```
 ## med == to heal, to attend to
 ```
 meditate
@@ -72,6 +79,7 @@ medical
 medication
 
 ```
+
 ## mit, miss(mis,mess) = to send , to throw
 ```
 emit           ---> send it 'out'; 
