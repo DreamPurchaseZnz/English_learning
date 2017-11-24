@@ -195,7 +195,7 @@ mention
 mentor                             ---> n. the person who lead you; an experienced person who adivises and helps
                                            sb with less experience over a period of time
 
-merchandising                      ---> 
+merchandising                      ---> n. the 
 
 mercury
 
