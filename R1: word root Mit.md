@@ -9,6 +9,37 @@ mansion             ---> the large impressive house to stay
 remain              ---> to still stay; continue to be
 permeate            ---> flow throughly
 ```
+## mand, mend = to order, to entrust
+```
+mandatory           ---> to be ordered to do; required by law
+commendeer          ---> all the people order you to do; to take control of a buidling , a vehicle, etc
+commend             ---> completely entrust sth to sb; to praise sb/sth, especially publicly
+remand              ---> order sb back ; the send sb away from a court to wait for their trial which 
+                         will take place at later time
+command             ---> thoroughly order ;n. an order given to a person or an animal;
+commanding          ---> in the position of authority that allows you to give formal orders
+countermand         ---> to cancel an order that has been given
+recommend           ---> entrust you again ;  to tell sth is good and useful or sth is suitable for a particular job
+reprimand           ---> before sth draw back the trust; to tell sb officially that you do not approve of them or their 
+                         action
+mandarin            ---> da ren who give an order; 
+```
+
+## mens = to measure
+```
+commensurate        ---> joint measure; matching sth in size, importance , quality,etc
+immense             ---> not able to measure; extremely large
+commensurable       ---> capable of being measured by a common standard
+dimension           ---> measure different aspect;
+dimensional         ---> of or relating to dimensions
+```
+## med =  to heal, to attend to
+```
+premeditated        ---> attend sth before it happens; planned in advance
+
+
+
+```
 ## manu(man) = hand
 ```
 emancipate          ---> not using hand to take; to free sb
@@ -110,12 +141,12 @@ administer                    ---> sb make a project ;  to manage and organize t
                                    a country etc.
 miniature                     ---> much smaller than usual; a very small copy or model of sth
 minimal                       ---> very smaller in size; as small as possible
-minimum                       ---> the sa
-
-
-
-
-
+minimum                       ---> the smallest that is possible or allowed
+minister                      ---> to make a project; a senior member of the goverment
+ministry                      ---> the department to make a project; a goverment department
+minority                      ---> the smaller part of group
+miniscule                     ---> extremely small
+mincing                       ---> very delicate and not natural
 
 ```
 ## mit, miss(mis,mess) = to send , to throw
