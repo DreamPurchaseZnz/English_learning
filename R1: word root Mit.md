@@ -84,13 +84,40 @@ medication
 mercenary                      ---> n. a soider who will fight for any country or group that offers payment
                                     a. only interested in making or getting money
 mercantile                     ---> a. connected with trade and commercial affairs
+commerce                       ---> n. trade together; trade between countries
+commercial                     ---> a. connected with the buying and selling of goods and services
+mercy                          ---> a. a kind of forgiving attitude towards sb that you have the power to harm or right
+                                       to punish
+```
+## mers,merg  = to dip, to sink, to plunge
+```
+immerse                        ---> sink into sth; to put sb/sth into a liquid; become involved in sth
+emerge                         ---> sink out of sth; to become known
+emergency                      ---> to plunge out of sth; a sudden serious and dangerous event or situation
+submerge                       ---> under sinking ; to go under the surface of water or liquid; to hide feelings, options,etc
+                                    completely
+                                    
+```
+## min(men ) = to hang, to project , to make sth smaller
+```
+diminish                      ---> di(intensely) small ; to become or to make sth become smaller, weaker
+eminent                       ---> hang/ project out ; unusual; excelent
+preeminent                    ---> hang/ project out ahead others; more important, powerful, capable than other people
+imminent                      ---> in the the state of hanging; likely happen very soon
+prominent                     ---> hang/project thoroughly ; important or well known; easily seen
+menace                        ---> sth to hang sb; a person or thing causes or may cause serious damage, harm or danger
+administer                    ---> sb make a project ;  to manage and organize the affair of a company, an organization,
+                                   a country etc.
+miniature                     ---> much smaller than usual; a very small copy or model of sth
+minimal                       ---> very smaller in size; as small as possible
+minimum                       ---> the sa
+
+
+
+
 
 
 ```
-
-
-
-
 ## mit, miss(mis,mess) = to send , to throw
 ```
 emit           ---> send it 'out'; 
@@ -110,3 +137,4 @@ remit          ---> send money back to sb
 remiss         ---> send not seriously again
 compromise     ---> send to each other together
 ```
+
