@@ -92,17 +92,36 @@ commensurable       ---> capable of being measured by a common standard
 dimension           ---> measure different aspect;
 dimensional         ---> of or relating to dimensions
 ```
-## med =  to heal, to attend to
+## med, medit =  to heal, to attend to
 ```
-premeditated        ---> attend sth before it happens; planned in advance
-meditate            ---> to think deeply; to plan sth in your mind
 remedy              ---> to heal it back; a treatment or medicine to cure disease or reduce pain that 
                          is not serious
 remedial            ---> to heal it back; correct and improve sth have been done wrong
 medicament          ---> something that treats or prevents or alleaviates the symptoms of disease
 medicine            ---> the study of healing; the treatment of diseases and injuries
+premeditated        ---> attend sth before it happens; planned in advance
+meditate            ---> to think deeply; to plan sth in your mind
+```
+## medi = middle， indirect
+```
+intermediary        ---> to make an agreement by being a means of communication between
+                         them in the middle
+mediate             ---> the act of trying to end a disagreement in the midde 
+intermediate        ---> located between two places, states, etc
+immediate           ---> not indirect; next to or very close to a particular place;
+                         happening or done without delay
+Mediterranean       ---> middle the terr(earth); the sea is surrouding with earth
+medial              ---> located in the middle
+median              ---> having a value in the middle of a series of values
+medieval            ---> Middle ev(age, time)
+mediocre            ---> originally, halfway in the mountain; not very good; 
+                         of only average standard
+mediocrity          ---> the quality of being average
+medium              ---> a way of communicating information,etc, to people
 
 ```
+
+
 ## mechan = machine
 ```
 mechanic                          ---> n. a person whose job is repairing 
@@ -137,6 +156,35 @@ emergency                      ---> to plunge out of sth; a sudden serious and d
 submerge                       ---> under sinking ; to go under the surface of water or liquid; 
                                     to hide feelings, options,etc completely
                                     
+```
+## micr, micro = very small
+```
+microbiology
+microbus
+micrometer                    ---> a device used for measuring very small distances or spaces
+
+
+```
+## migr = to remove, to wander
+```
+migrate          
+immigrate
+immigration
+emigrate
+emigrant
+emigre                      ---> a person who has left their own country, 
+                                 usually for political reasons
+transmigration              ---> the passing of a person's soul after their death into another body
+
+```
+## milit = soldier, to fight
+```
+militant                    ---> using or willing to use strong pressure or force to achieve your aims
+militate                    ---> fight against sth; make it less possible or likely
+militia                     ---> a group of people who are not prefessional soldier,but who had military
+                                 training and can act as an army
+demilitarize                ---> to remove military forces from an area
+
 ```
 ## min(men ) = to hang, to project , to make sth smaller
 ```
@@ -178,6 +226,20 @@ intermittent   ---> send over a period of time
 remit          ---> send money back to sb
 remiss         ---> send not seriously again
 compromise     ---> send to each other together
+```
+## mis, mixt, mix = mix
+```
+mix            ---> conbine two substance in a way that means they cannot 
+                    easily be seperated
+mixer          ---> a device used for mixing things
+mixture        ---> a combination of different things
+admix          ---> to mix
+intermix       ---> to mix things together
+miscible       ---> that can be mixed together
+miscellanist   ---> a person that write a type of article
+promiscuous    ---> thoroughly miscible; having many sexual partners 
+                    taken from a wide range of sources
+
 ```
 
 ## mod = fit, manner, modern, measure, kind, way
