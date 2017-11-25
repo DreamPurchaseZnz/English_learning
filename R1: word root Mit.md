@@ -126,8 +126,8 @@ mercenary                      ---> n. a soider who will fight for any country o
 mercantile                     ---> a. connected with trade and commercial affairs
 commerce                       ---> n. trade together; trade between countries
 commercial                     ---> a. connected with the buying and selling of goods and services
-mercy                          ---> a. a kind of forgiving attitude towards sb that you have the power to harm or right
-                                       to punish
+mercy                          ---> a. a kind of forgiving attitude towards sb that you have the power 
+                                       to harm or right to punish
 ```
 ## mers,merg  = to dip, to sink, to plunge
 ```
