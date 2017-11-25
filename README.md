@@ -37,7 +37,16 @@ submarine            ---> vehicle which goes under the sea
 subway               ---> 
 ```
 
+## mis = bad(badly), wrong(ly)
+```
+mischance            ---> bad luck
+misconstruction      ---> false or inaccurate interpretation or understanding
+mislead              ---> wrongly lead
+misnomer             ---> a name or a word is not appropriate or accurate
+misapprehend         ---> interpret in a wrong way
 
+
+```
 ## Adjective Suffixes
 ### -ive, -itive = having the nature of
 ```
