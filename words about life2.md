@@ -225,4 +225,43 @@ tasty and nutritious meals
 Your've done a magnificent job
 the dry summer has magnified the problem of water shortages
 We did not realize the magnitude of the problem
+The mere fact that they were prepared to talk was encouraging
+It is not merely a job, but a way of life
+the hills merged into a dark sky behind them
+Let't try to sort out the mess(completely)
+
+His work advanced the science of microbiology
+In this play, love and  marriage are put under the microscope
+we have a traitor in our midst
+She discovered it in the midst of sorting out her father's things
+Migrant birds shelter in the reeds
+Thousants are forced to migrate from rural to urban in search of work
+the infected cells then migrate to other parts of our body
+seasonal migration
+a mildness of a sunny spring day
+a mild climate
+This game will be a milestone in Olympic history, and in the history of China
+We'll have to take military action
+a militarily superior country
+He felt a kind of happiness mingled with regret
+The work was carried out at minimal cost
+He always tried to minimize his own faults, wile exaggerating those of others
+the Minister of Education
+the Ministry of Defence
+Only a small minority of students are interested in politics
+the ethnic minority
+her exercise programme has worked miracles for her
+View based on misconception and prejudice
+This play is a misarable play
+The goverment's mishandling of economy
+He misjudge the distance and his ball landed in the lake
+mission accomplished
+we listened to the news with a mixture of surprise and horror
+Add eggs to the mixture and beat well
+
+
+
+
+
+
 ```
