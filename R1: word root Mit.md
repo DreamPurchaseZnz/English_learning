@@ -243,7 +243,7 @@ miscellaneous  ---> consisting of many different kinds of things that are not co
 
 ```
 
-## mod = fit, manner, modern, measure, kind, way
+## mod = fit, manner(kind, way) , modern, measure
 ```
 accommodate             ---> to make sth fit with sth; to provide sb with a room or place to sleep
                              to help sb by doing what they want
@@ -263,6 +263,83 @@ modify                  ---> to fit to sth; to change sth slightly,
 
 
 ```
+## moll = soft
+```
+mollify                ---> to make sb more soft; to make sb less angry or upset
+mollusk                ---> an animal that has a soft unsegmened body
+```
+## mon(min) =  to watch, to warn, to remind
+```
+admonish               ---> to warn sb because of sth; to tell sb firmly that 
+                            you not approve of sth that they have done 
+premonition            ---> to feel sth by watching before it happens
+                            a feeling that sth is going to happen, especially sth unpleasant
+reminisce              ---> to remind you about your happy time; 
+                            to think, talk or write about a happy time in your past
+monitor                ---> to watch and check sth over a period of time in order to
+                            see how it develops, so that you can make neccessary changes
+monument               ---> a building, column, statue,etc, built to remand people of a famous
+                            person or event
+monumental             ---> always to be reminded; very important and having a great influence
+summon                 ---> under the warning of coming back ; to order sb to come to you or a court
+
+```
+## mont, mount = hill, the quantity
+```
+tantamount             ---> having the same bad effect as sth else
+paramount              ---> beyond the mountain; more important
+surmount               ---> over the mountain; to deal successfully with a difficulty
+dismount               ---> to get off a horse, bicycle or motorcycle
+piedmount              ---> the food of a mountain
+amount                 ---> a sum of sth; a quantity of sth
+
+```
+## mor = custom
+```
+moral                  ---> based on your own sense of what is right and fair, not
+                            legal rights and duties
+morale                 ---> the amount of confidence and enthusiasm,etc, that a person or a group has
+demoralize
+amoral                 ---> not following any moral rules and not caring about right and wrong
+unmoral                ---> amoral
+immoral                ---> not consider to be good and honest by most people
+```
+## mort,mors, mor = death
+```
+immortal               ---> that lives or lasts for ever
+mortal                 ---> causing death or likely to cause death, very serious
+                       ---> lasting until death
+mortality              ---> the state of being human and not living for ever
+moribound              ---> the boundry of death ; in a very bad condition, dying
+```
+## mot, mov, mob = to move
+```
+commotion              ---> move together; sudden noisy confusion or excitement
+motive                 ---> to make sth move; to be a reason why sb does sth or behaves in a particular way
+immobile               ---> not moving
+demote                 ---> to make sth move down; to move sb to a lower position
+emotion                ---> your feeling move out; a strong feeling; the part of a person's character that
+                            that consist of feelings
+locomotion             ---> move to a place; movement or the ability to move
+promote
+remote                 ---> move again and again; far away from where other people live
+motif                  ---> if move; a design,or a pattern used as decoration
+motion
+motor                  ---> an engine that make sth work
+motto                  ---> rules , aims or beliefs that make you move
+demobilize             ---> to release sb from a military service
+movable                ---> be able to move;
+movement               ---> the act of moving from a place to another place
+movie                  ---> the frame move
+remove                 ---> move sth away
+
+```
+
+
+
+
+
+
 
 
 
