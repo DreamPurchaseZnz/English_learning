@@ -44,9 +44,22 @@ misconstruction      ---> false or inaccurate interpretation or understanding
 mislead              ---> wrongly lead
 misnomer             ---> a name or a word is not appropriate or accurate
 misapprehend         ---> interpret in a wrong way
+```
 
+## para = beside, near, alongside, beyond, contrary to ,altered, related to
+```
+paradox              ---> a statement containing two opposite ideas
+parasite             ---> sit alongside sb; a person who always relies on other people 
+                          and give nothing back
+paramount            ---> beyond the mountain; more important than anything else
+paraphrase           ---> to express in another way
+parameter            ---> meaturement relate to the way in which sth can be done
+paragraph            ---> write along other parts;
+paralysis            ---> the body loosen beside
 
 ```
+
+
 ## Adjective Suffixes
 ### -ive, -itive = having the nature of
 ```
