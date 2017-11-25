@@ -295,31 +295,37 @@ mite                              ---> n. a small amount of sth; a small animal,
 
 mixture                         
 
-mock                              ---> 
+mock                              ---> v. to laugh at sb/sth in a unkind way, especially by copying what they say
+                                          or do
+                                       v. to show no respect for sth
+                                       a. not sinere
+                                       a. that is a copy of sth; not real
+                                 
+modem                             ---> n. a device that conncet computers in order to fit each other
 
-modem
+moderate                          ---> a. within reasonable limits
 
-moderate
+moderately                        ---> av. to an average extent; fairly but not very
 
-moderately
+moderation                        ---> n. the quality of being a reasonable and not being extreme
 
-moderation
+modernism                         ---> n. modern ideas or methods               
 
-modernism
+modification                      ---> n. the act or process of changing sth in order to improve it;
+                                          or make it more acceptable
 
-modification
+modify                             
 
-modify
+modish                            ---> n. fashionable
 
-modish
+module                            ---> n. aspect; a unit that can form part of a course of study
+                                       n. a unit of a computer program that has a particular funciton
 
-module
+moist                             ---> a. slightly wet
 
-moist
+molecule                          ---> n. the smallest unit consists of a group of atoms
 
-molecule
-
-molten
+molten                            ---> a. heated to a very high temperature so that it becomes liquid
 
 momentum
 
@@ -351,7 +357,7 @@ motion
 
 motivate
 
-movtivational
+motivational
 
 motive
 
