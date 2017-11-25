@@ -238,7 +238,8 @@ intermix       ---> to mix things together
 miscible       ---> that can be mixed together
 miscellanist   ---> a person that write a type of article
 promiscuous    ---> thoroughly miscible; having many sexual partners 
-                    taken from a wide range of sources
+                    taken from a wide range of source
+miscellaneous  ---> consisting of many different kinds of things that are not connected
 
 ```
 
