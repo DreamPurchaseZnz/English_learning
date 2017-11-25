@@ -327,31 +327,40 @@ molecule                          ---> n. the smallest unit consists of a group 
 
 molten                            ---> a. heated to a very high temperature so that it becomes liquid
 
-momentum
+momentum                          
 
 monitor
 
-monopoly
+monopoly                          ---> a. exclusive control of a commodily trade
 
-monotonous
+monotonous                        ---> a. of one tone;lacking in variety , uninteresting
 
 monster
 
-monumental
+monumental                        ---> a. to remind you; very important and having a great
+                                          influence
+                                       a. very large ,good, bad, stupid,etc
+                                       a. appearing in or serving as a monument
 
-mood
+mood                              ---> n. the way you are feeling at a particular time                          
 
-moral
+moral 
 
-morality
+morality                       
 
-moribund
+moribund                         ---> a. no longer effective and about to come to an end
+                                         completely
+                                      a. in a very bad condition; dying
 
-mortality
+mortality                        ---> n. the state of being human and not living for ever
+                                      n. the numbers of deaths
+                                      n. technical a death
 
-mosquito
+mosquito                         ---> n. a flying insect that bites human and animals and sucks 
+                                         their blood
 
-moss
+moss                             ---> n. a very small green or yellow plant without flowers 
+                                         that spreads over a damp surfaces, rocks ,trees
 
 motion
 
