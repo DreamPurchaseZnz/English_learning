@@ -262,6 +262,16 @@ Add eggs to the mixture and beat well
 the mocks are in November
 a moderately successful career
 the software we use has been modified for us
+They began to lose momentum in the second half of the game
+the details of today's fight are displayed on the monitor
+Each student's progress is closely monitored
+Prehistoric monsters
+She was in one of her modes
+a moral issue/dilemma/ question
+moral responsibility
+matters of public/ private morality
+a debate on the morality of abortion
+
 
 
 ```
