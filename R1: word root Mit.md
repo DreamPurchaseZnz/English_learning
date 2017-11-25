@@ -23,23 +23,10 @@ recommend           ---> entrust you again ;  to tell sth is good and useful or 
 reprimand           ---> before sth draw back the trust; to tell sb officially that you do not approve of them or their 
                          action
 mandarin            ---> da ren who give an order; 
+mantra              ---> a word or a phase that stays again and again
 ```
 
-## mens = to measure
-```
-commensurate        ---> joint measure; matching sth in size, importance , quality,etc
-immense             ---> not able to measure; extremely large
-commensurable       ---> capable of being measured by a common standard
-dimension           ---> measure different aspect;
-dimensional         ---> of or relating to dimensions
-```
-## med =  to heal, to attend to
-```
-premeditated        ---> attend sth before it happens; planned in advance
 
-
-
-```
 ## manu(man) = hand
 ```
 emancipate          ---> not using hand to take; to free sb
@@ -93,6 +80,25 @@ magnitude                          ---> n. the degree of great; the great size o
                                            the degree to which sht is large and important
                                         n. the degree to which a star is bright
 
+
+```
+## mens = to measure
+```
+commensurate        ---> joint measure; matching sth in size, importance , quality,etc
+immense             ---> not able to measure; extremely large
+commensurable       ---> capable of being measured by a common standard
+dimension           ---> measure different aspect;
+dimensional         ---> of or relating to dimensions
+```
+## med =  to heal, to attend to
+```
+premeditated        ---> attend sth before it happens; planned in advance
+meditate            ---> to think deeply; to plan sth in your mind
+remedy              ---> to heal it back; a treatment or medicine to cure disease or reduce pain that 
+                         is not serious
+remedial            ---> to heal it back; correct and improve sth have been done wrong
+medicament          ---> something that treats or prevents or alleaviates the symptoms of disease
+medicine            ---> the study of healing; the treatment of diseases and injuries
 
 ```
 ## mechan = machine
@@ -168,4 +174,30 @@ remit          ---> send money back to sb
 remiss         ---> send not seriously again
 compromise     ---> send to each other together
 ```
+
+## mod = fit, manner, modern, measure, kind, way
+```
+accommodate             ---> to make sth fit with sth; to provide sb with a room or place to sleep
+                             to help sb by doing what they want
+commodious              ---> that fit with sth; having a lot of space
+modulate                ---> fit to sth; to affect sth so that it becomes more regular, slower,etc
+commodity               ---> a thing that is useful or has a useful quality
+mode                    ---> a particular way of doing sth
+model                   ---> a copy of sth fit to reality
+moderate                ---> that is neither very good , large , hot, etc, nor very bad
+moderator               ---> a person whose job is to fit sb with sb; to help two sides in a disagreement
+                             to reach an agreement
+modernism               ---> modern ideas or methods
+modest                  ---> not very large, expensive, important
+modify                  ---> to fit to sth; to change sth slightly, especially in order to make it more suitable
+                             for a particular purpose
+
+
+```
+
+
+
+
+
+
 
