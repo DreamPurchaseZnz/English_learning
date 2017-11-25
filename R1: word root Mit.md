@@ -19,9 +19,10 @@ remand              ---> order sb back ; the send sb away from a court to wait f
 command             ---> thoroughly order ;n. an order given to a person or an animal;
 commanding          ---> in the position of authority that allows you to give formal orders
 countermand         ---> to cancel an order that has been given
-recommend           ---> entrust you again ;  to tell sth is good and useful or sth is suitable for a particular job
-reprimand           ---> before sth draw back the trust; to tell sb officially that you do not approve of them or their 
-                         action
+recommend           ---> entrust you again ;  to tell sth is good and useful 
+                         or sth is suitable for a particular job
+reprimand           ---> before sth draw back the trust; to tell sb officially 
+                         that you do not approve of them or their action
 mandarin            ---> da ren who give an order; 
 mantra              ---> a word or a phase that stays again and again
 ```
@@ -50,7 +51,8 @@ submarine           ---> under the sea; a ship that travel underwater
 maritime            ---> connected with the sea or ships
 marsh               ---> an area of low land that always soft and wet
 mermaid             ---> a creature with a woman's head and body ,a fish's tail instead of legs
-mariculture         ---> a type of farming in which fish or other sea animals and plants are bred and grown for food
+mariculture         ---> a type of farming in which fish or other sea animals 
+                         and plants are bred and grown for food
 transmarine         ---> across the sea; 
 ultramarine         ---> across the sea;
 ```
@@ -103,7 +105,8 @@ medicine            ---> the study of healing; the treatment of diseases and inj
 ```
 ## mechan = machine
 ```
-mechanic                          ---> n. a person whose job is repairing machines,especially enjines of vehicles
+mechanic                          ---> n. a person whose job is repairing 
+                                            machines,especially enjines of vehicles
 mechanical                      
 mechanism
 mechanize
@@ -131,20 +134,22 @@ mercy                          ---> a. a kind of forgiving attitude towards sb t
 immerse                        ---> sink into sth; to put sb/sth into a liquid; become involved in sth
 emerge                         ---> sink out of sth; to become known
 emergency                      ---> to plunge out of sth; a sudden serious and dangerous event or situation
-submerge                       ---> under sinking ; to go under the surface of water or liquid; to hide feelings, options,etc
-                                    completely
+submerge                       ---> under sinking ; to go under the surface of water or liquid; 
+                                    to hide feelings, options,etc completely
                                     
 ```
 ## min(men ) = to hang, to project , to make sth smaller
 ```
 diminish                      ---> di(intensely) small ; to become or to make sth become smaller, weaker
 eminent                       ---> hang/ project out ; unusual; excelent
-preeminent                    ---> hang/ project out ahead others; more important, powerful, capable than other people
+preeminent                    ---> hang/ project out ahead others; more important, 
+                                   powerful, capable than other people
 imminent                      ---> in the the state of hanging; likely happen very soon
 prominent                     ---> hang/project thoroughly ; important or well known; easily seen
-menace                        ---> sth to hang sb; a person or thing causes or may cause serious damage, harm or danger
-administer                    ---> sb make a project ;  to manage and organize the affair of a company, an organization,
-                                   a country etc.
+menace                        ---> sth to hang sb; a person or thing causes 
+                                   or may cause serious damage, harm or danger
+administer                    ---> sb make a project ;  to manage and organize 
+                                   the affair of a company, an organization,a country etc.
 miniature                     ---> much smaller than usual; a very small copy or model of sth
 minimal                       ---> very smaller in size; as small as possible
 minimum                       ---> the smallest that is possible or allowed
@@ -185,11 +190,12 @@ commodity               ---> a thing that is useful or has a useful quality
 mode                    ---> a particular way of doing sth
 model                   ---> a copy of sth fit to reality
 moderate                ---> that is neither very good , large , hot, etc, nor very bad
-moderator               ---> a person whose job is to fit sb with sb; to help two sides in a disagreement
-                             to reach an agreement
+moderator               ---> a person whose job is to fit sb with sb;
+                             to help two sides in a disagreement to reach an agreement
 modernism               ---> modern ideas or methods
 modest                  ---> not very large, expensive, important
-modify                  ---> to fit to sth; to change sth slightly, especially in order to make it more suitable
+modify                  ---> to fit to sth; to change sth slightly, 
+                             especially in order to make it more suitable
                              for a particular purpose
 
 
