@@ -243,7 +243,7 @@ miscellaneous  ---> consisting of many different kinds of things that are not co
 
 ```
 
-## mod = fit, manner(kind, way) , modern, measure
+## mod = fit, manner(kind, way) , modern, measure(keeping within due measure)
 ```
 accommodate             ---> to make sth fit with sth; to provide sb with a room or place to sleep
                              to help sb by doing what they want
@@ -252,7 +252,7 @@ modulate                ---> fit to sth; to affect sth so that it becomes more r
 commodity               ---> a thing that is useful or has a useful quality
 mode                    ---> a particular way of doing sth
 model                   ---> a copy of sth fit to reality
-moderate                ---> that is neither very good , large , hot, etc, nor very bad
+moderate                ---> within bounds, restrained
 moderator               ---> a person whose job is to fit sb with sb;
                              to help two sides in a disagreement to reach an agreement
 modernism               ---> modern ideas or methods
