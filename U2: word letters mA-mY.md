@@ -57,7 +57,7 @@ manor                              ---> n. a large country house by land that be
 
 mansion                            ---> n. a large impressive house
 
-mantle                             ---> v. to cover the surface of sth
+mantle                             ---> v. sth stay and then flow to next one ;to cover the surface of sth
                                         n. a layer of sth that covers a surface
                                         n. the role or responsibilities of an important person or job, 
                                            when passing to another
@@ -129,7 +129,7 @@ maximum                            ---> a. as large,fast,etc, as is possible;
 
 meadow                             ---> n. a field covered in grass,used especially for hay
 
-meagre                             ---> n. small in quantity and poor in quantity
+meagre                             ---> n. small in quantity and poor in quantity; few
  
 meaningful                         
 
@@ -195,93 +195,172 @@ mention
 mentor                             ---> n. the person who lead you; an experienced person who adivises and helps
                                            sb with less experience over a period of time
 
-merchandising                      ---> n. the 
+merchandising                      ---> n. the activity of trade; tha activity of selling good or of 
+                                           trying to sell them by advertising or displaying them
+                                        n. products connected with a popular moive/film
 
-mercury
+mercury                            ---> n. a chemical element
 
 mere
 
-merely
+merely                             ---> av. used meaning of only or simply to emphasize a fact that
+                                            you are saying
 
-merge
+merge                              
 
 mess
 
-metaphor
+metaphor                          ---> n. transfer a phase; a word or a phase used to discrible sth/sb else
+                                          in a way that is different from its normal use
 
-metaphorical
+metaphorical                      ---> n. connected with or containing metaphors
 
-meteorology
+meteorology                       ---> n. the scientific study of the earth's atmosphere and its changes; used 
+                                          in forecasting weather 
 
-methane
+methane                           ---> n. symb CH4; a gas used as fuel
 
-metro
+metro                             ---> n. an underground train system
 
-microbiology
-microcosm
+microbiology                     
+
+microcosm                         ---> n. a thing, a place or a group that has all the features and qualities
+                                          of sth much larger
+
 microprocessor
-microscope
-midst
-migrant
+
+microscope                       
+
+midst                             ---> n. the middle part of sth 
+
+migrant                           
+
 migrate
+
 migration
-mild
+
+mild                              ---> a. not severe or strong
+                                       a. of weather; not very cold, and therefore pleasant
+                                       a. of feelings; not great or extreme; gentle
+
 milestone
-militant
+
+militant                          ---> a. using or willing to use, force or strong pressure 
+                                          to achieve your aims
+ 
 military
-millennium
-mime
-mineral
-mingle
-minimal
+
+millennium                        ---> n. a period of 1000 years
+
+mime                              ---> n. a performance without talking using your movement or hand
+
+mineral                           ---> n. a substance that is naturally present in the earth
+
+mingle                            ---> n. to conbine or make one thing conmine with another
+
+minimal                           ---> a. very small in size or amount
+
 minimise
-minimum
+
+minimum                           ---> a. smallest that is possible or allowed, extremely small
+                                       n. the smallest or lowest amount that is possible,required or recorded
+
 minister
-ministry
+
+ministry                          ---> n. the department
+
 minority
+
 miracle
-miscellaneous
-misconception
-miserable
-mishandle
-misjudge
-missile
-mission
-mite
-mixture
-mock
+
+miscellaneous                     ---> a. consisting of many different things that are not connected
+
+misconception                     ---> n. a belief or an idea that is not based on correct information, or that
+                                          is not understood by people
+
+miserable                         ---> a. wrongly erase; very unhappy or uncomfortable
+
+mishandle                         ---> a. wrongly deal with; to deal badly with a problem or situation
+
+misjudge                          
+
+missile                           ---> n. sth that be thrown ; A weapon is sent through into the air and that
+                                          explodes when it hits the thing that it is aimed at
+
+mission                         
+
+mite                              ---> n. a small amount of sth; a small animal, especially one that you feel
+                                          sorry for
+                                       n. a very small creature like spider
+
+mixture                         
+
+mock                              ---> 
+
 modem
+
 moderate
+
 moderately
+
 moderation
+
 modernism
+
 modification
+
 modify
+
 modish
+
 module
+
 moist
+
 molecule
+
 molten
+
 momentum
+
 monitor
+
 monopoly
+
 monotonous
+
 monster
+
 monumental
+
 mood
+
 moral
+
 morality
+
 moribund
+
 mortality
+
 mosquito
+
 moss
+
 motion
+
 motivate
+
 movtivational
+
 motive
+
 mould
+
 mount
+
 mountainous
+
 muddle
 multinational
 multiple
