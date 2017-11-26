@@ -271,6 +271,39 @@ a moral issue/dilemma/ question
 moral responsibility
 matters of public/ private morality
 a debate on the morality of abortion
+The plan is designed to motivating employees to work more efficiently
+please motivate your anwer to Question 5
+What's the motivation behind the sudden change
+All the research proposals must be accomplished by full motivation
+break the mould of sth
+This experience moulded and coloured her whole life
+The pressure is mounting on the goverment to change the law
+to exercise the political/financial/ industrial muscle
+We expect the market to mushroom in the next two years
+mutual respect/ understanding
+they soon discovered a mutual interest in music
+My watch had mysteriously disappeared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
