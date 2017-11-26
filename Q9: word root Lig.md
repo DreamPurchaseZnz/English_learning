@@ -103,20 +103,44 @@ reliance
 rely
 religion
 religious
+```
+## loc, loco = location, place
+== pos, pon
+```
+local                        ---> belonging to or connected with a particular place or area
+locality                     ---> the area that surroundings the place you are in or you are talking about
+                                  the place where sb/sth exists
+locate                       ---> to get the place; to find the exact postion of sb/sth
+location                     ---> the place where sth happens or exists; the postion of sth
+allocate                     ---> to give more place for; to give sth officially to sb/sth
+localism
+localist
+relocate                     ---> locate again
+collocation                  ---> place together; the fact of two or more words often being used together
+dislocate                    ---> away from the normal postion;  to stop a system, a plan etc, from working 
+                                  in the normal way
 
 ```
+
 
 ## luc(lux, lus),lust, lustr = light,bright
 ```
-elucidate
-pellucid
-translusent
-lucid
-illustrate
-illustration
-illustrative
-luxury
-luxurious
-deluxe
-noctilucent
+elucidate               ---> to light sth out; to make sth clear by explaining more fully
+lucubration             ---> labourious cogitation
+pellucid                ---> thoroughly light; extremely clear
+translusent             ---> allow light to pass throught but not transparent
+lucid                   ---> go lightly;  clearly express, easy to understand
+Lucifer
+lucent                  ---> soft bright and radiant
+lustre                  ---> the shinning quality of surface
+lusty                   ---> the state of light; healthy and strong
+illustrate              ---> give light into sth;  to show sth is true or the situation exists
+illustration            ---> the art of light; a drawing or picture; or a story, an event
+illustrative            ---> helping to explain sth or show it more clearly
+luxury                  ---> a thing that is expensive and enjoyable but not essential
+luxurious               ---> very comfortable; contain expensive and enjoyable things
+luxuriant               ---> rich in sth that is pleasant or helpful
+luxuriate               ---> to relax while enjoying sth in very pleasant
+deluxe                  ---> intensely rich
+noctilucent             ---> shining or growing by night
 ```
