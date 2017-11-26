@@ -284,10 +284,13 @@ mutual respect/ understanding
 they soon discovered a mutual interest in music
 My watch had mysteriously disappeared
 
-
-
-
-
+He take a keen interest in his grandson's education
+a mutual interest
+we were keenly aware of the danger
+we knelt down on the ground to examine the tracks
+He turned the knob and push against the door
+There is no airport in the locality 
+we talk of the brain as  the locality of thought
 
 
 
