@@ -284,7 +284,7 @@ monumental             ---> always to be reminded; very important and having a g
 summon                 ---> under the warning of coming back ; to order sb to come to you or a court
 
 ```
-## mont, mount = hill, the quantity
+## mont, mount = hill, to rise up, ascend ,fly
 ```
 tantamount             ---> having the same bad effect as sth else
 paramount              ---> beyond the mountain; more important
