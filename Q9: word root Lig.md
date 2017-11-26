@@ -16,14 +16,18 @@ laboratory                     ---> the place to work; a room or building used f
 ## lat, lay = carry, bear
 ```
 relationship                   ---> carry back and forth your interactions with him or her
-relate                         
+relate                         ---> 'carry' back                        
 translation                    ---> carrying across of words from one language into another
-collate
-latent
+collate                        ---> 'carry' together; to collect information together from different sources 
+                                     in oder to examine and compare it
+legislate                      ---> 'carry' laws to creation; to make a law affecting sth
+elated                         ---> 'carry' out of the normal emotional state; very happy and excited
+superlative                    ---> 'carry' over; excellent
+latent                      
 correlate
 interrelate
 superlative
-latitude
+latitude                      ---> (<-> longitude) wide 
 illation
 ventilate                     ---> venti(=wind) + late(=carry)
 delay                         
