@@ -334,7 +334,19 @@ movie                  ---> the frame move
 remove                 ---> move sth away
 
 ```
+## mut = to change
+```
+immutable              ---> that cannot be changed
+transmute              ---> change across; to change,or make sth change, into sth diferent
+mutable                ---> that can change
+commute                ---> change your place together; to travel regularly by bus, train, car
+                            between your place of work and your home
+commutation            ---> the act of making a punishment less severe
+permute                ---> thoroughly change the order or arrangement of
+mutual                 ---> exchange in action, feeling; the same feelings have for each other
 
+
+```
 
 
 
