@@ -1,15 +1,34 @@
 # K
 ```
-keen
-keystone
-kidney
-kindergarten
-kit
-kneel
-knob
-Kung Fu
+keen                                  ---> a. be able to; eager; bold brave; clever,wise
+                                           a. wanting to do sth or wanting sth to happen very much
+                                           a. enthusiastic about an activity or idea,etc
+                                           a. quick to understand
+                                           a. strong or deep
+                                           
+keystone                              ---> n. the central stone at the top of an arch that keeps all other stones in
+                                              position
+                                           n. the most important part of a plan or argument
+                                              that the other parts depend on
+kidney                                ---> n. either of the two organs in the body that remove waste products
+                                              from the blood and produce urine
+                                           n. the shape like bowel + egg
+kindergarten                          ---> n. the children's garden for nursery; a school or class to prepare children aged 
+                                              five for school  
 
+kit                                   ---> n. a set of parts ready to be make into sth
+                                           n. a set of tools or equipment that you use for a particular purpose
+
+kneel                                 ---> n. to be in or move into a position where your body is supported on you knee or knees
+
+knob                                  ---> n. a round switch on a machine such as a television that you use 
+                                              it to turn it off and on
+                                           n. a round handle on a door or a drawer
+
+Kung Fu                               ---> n. a chinese system of fighting without weapons, similar to karate
 ```
+
+
 # L
 ```
 label
