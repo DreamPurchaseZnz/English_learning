@@ -31,55 +31,138 @@ Kung Fu                               ---> n. a chinese system of fighting witho
 
 # L
 ```
-label
-laboratory
-labour
+label                                     
+
+laboratory                           ---> n. a room or building used for scientific research, experiments, testing
+
+labour                               ---> n. work; labour under -> to believe sth that is not true
+                                          n. a task or period of work
+                                          n. people who work
+                                          n. giving a birth to a boby
+                                          v. struggle(labour away); to try very hard to do sth difficult
+                                          v. to do hard physical work
+                                          v. to move hard with difficulty and effort
+                                          
+
 lack
-lag
-landfill
-landmark
-landscape
-landward
-lane
+
+lag                                  ---> v. to develop slowly or more slowly than other people, organization
+                                          n. time lag
+
+landfill                             ---> n. the area of land where large amounts of waste material are buried
+                                             under the earth
+                                          n. the process of burying large amounts of waste material
+
+landmark                             ---> n. something help you to know where you are
+                                          n. an event, a discovery, an invention,etc.that marks an important
+                                             stage in sth
+                                          n. a building or a place that is very important because of its history
+
+landscape                            ---> n. everything you can see when you look across a large area of land,
+                                             especially in the country
+                                          n. a painting of a view of countryside
+                                          n. the way of print a document in which the top of the page 
+                                             is one of the longer sides
+
+landward                             ---> n. facing the land, away from the sea
+
+lane                                 ---> a. a narrow road in the country
+                                          a. a street, often a narrow one with buildings on the sides
+                                          a. a section of wide road, that is marked by painted white lines
+                                             to keep lines of traffic sperate
+                                          a. a narrow marked section of a track or a swimming pool 
+                                          a. a route used by ships or aircraft on regular journey
+                                          
 large-scale
-larve
-latent
-lateral
-laterality
-latitude
-launch
-laundry
-lava
-lavatory
-lawsuit
-lax
-layer
-layout
+
+larve                                
+
+latent                               ---> a. existing, but not yet very noticeable, active or 
+                                             well developed
+
+lateral                              ---> a. connect with the side of sth or with movement to the side
+
+laterality                           ---> n. the property of using one hand more than the other
+
+latitude                             ---> n. the distance of a place north or south of the equator
+
+launch                               ---> v. to jump forwards with a lot of force;
+                                          v. to start sth, such as an activity, start to making a product
+                                             to the public for the first time
+                                          n. the action of launching sth; an event at which sht is launched
+                                          n. a large boot with a motor
+
+laundry                              ---> n. clothes, sheets, etc, need washing, that are being washed
+                                          n. the process or the job of washing clothes, sheets,etc
+                                          n. the business or place where you send sheets, clothes,to be washed
+
+lava                                 ---> n. hot liquid rock that comes out of the volcano
+                                          n. this type of rock when it has cooled and become hard
+
+lavatory                             ---> n. a toilet, or a room with a toilet in it
+
+lawsuit                              ---> n. a claim or complaint against sb that a person or an organization 
+                                             can make in court
+
+lax                                  ---> n. not strict, severe or careful enough about work, rules or standards of 
+                                             behavoiour
+
+layer                                ---> n. a quantity or thickness of sth that lies 
+                                             over a surface or between surfaces
+                                          n. a level or part within a system or set of ideas
+
+layout                               ---> n. the way in which the parts of sth are arranged
+
+lead                                 ---> v. to guide, cause to go with one, guide, conduct, carry; 
+                                             sprout forth; bring forth, pass (one's life)
 lead to
-lead
-leadership
+
+leadership  
+
 leaflet
+
 leak
+
 leap
+
 lease
+
 leather
+
 lecture
+
 legacy
+
 legal
+
 legislation
+
 legistimacy
+
 legitimate
+
 legitimize
+
 leisure
+
 lenient
+
 lens
+
 leopard
+
 less than
+
 lethal
+
 leukaemia
+
 level
+
 lever
+
 lexicographer
+
 liaise
 libel
 liberty
