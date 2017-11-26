@@ -362,33 +362,110 @@ mosquito                         ---> n. a flying insect that bites human and an
 moss                             ---> n. a very small green or yellow plant without flowers 
                                          that spreads over a damp surfaces, rocks ,trees
 
-motion
+motion                           ---> n. physical; the act or process of moving or the way sth moves
+                                      n. a particular movement made usually with your hand or your head
+                                      n. a formal proposal
 
-motivate
+motivate                         ---> v. to stimulate toward action
+                                      v. to make sb want to do sth
+                                      v. to give reasons for sth that you have stated
 
-motivational
+motivational                     ---> a. of or relating to motivation; what cause you to want to do it
 
-motive
+motive                           ---> n. a reason for doing sth
+                                      a. causing movement or action
 
-mould
+mould                            ---> n. a container to make a statues
+                                      n. a particular tyle showing the characteristics, 
+                                         attitudes, or behaviour
+                                      v. to shape a soft substance into a particular form or object
+                                      v. to strongly influence the way sb's character, opinion,etc,develop
+                                      v. to fit or make sth fit tightly around the shape of sth 
 
-mount
+mount                            ---> v. to organize or begin sth
+                                      v. to increasing gradually
+                                      v. to go up sth or up on to sth that is raised
+                                      v. to get on a bicycle, horse, etc, in order to ride it
+                                      v. to fix sth into position on sth
+                                      n. a mountain or a hill
+                                      n. something that an object stands on or is attached to for support
 
-mountainous
+mountainous                      ---> a. having so many mountains
+                                      a. a very large in size or amount; like mountain
 
-muddle
-multinational
-multiple
-multiply
-mundane
-municipal
-murder
-murky
-muscle
-mushroom
-mutual
-mysterious
+muddle                           ---> v. connect to mud; to put things in the wrong oder or mix them up
+                                      v. to confuse sb
+                                      v. to confuse one person or a thing with another
+                                      n. a state of mental confusion
+                                      n. a situation in which there is confusion about arrangements,
+                                         etc, and things are done wrong
+multinational                    ---> a. existing in or involving many countries
+
+multiple                         ---> a. many in number, involving many different people or things
+                                      n. a quantity that contains another quantity an exact number of times
+
+multiply                         ---> v. to add a number to itself a particular number of times
+                                 ---> v. to increase or make sth increase very much in number or amount
+                                 ---> v. to reproduce in large numbers; to make sth do this
+
+mundane                          ---> a. (of the world) not interesting or exciting(pure clean)
+
+municipal                        ---> a. connect with the control of a town ,city or district 
+                                         who has its own local goverment
+
+murder                           ---> n. the crime of killing people deliberately
+                                      n. used to describe sth that is difficult or unpleasant
+                                      v. to kill sb deliberatedly and illegally
+
+murky                            ---> a. (of a liquid)not clear; dark or dirty
+                                      a. (of air, light,etc) dark and unpleasant because of smoke ,fog
+                                      a. (disapproving or humorous)not clearly known
+
+muscle                           ---> n. a piece of body tissue
+                                      n. pysical strength
+                                      n. the power and influence to make others do what you want
+
+mushroom                         ---> n. a fungus with a round flat head and short stem;
+                                      n. to raplidly grow or increase in the number
+
+mutual                           ---> a. used to describe feeling that two or more people have for 
+                                         each other equally
+                                      a. shared by two or more people
+                                
+
+mysterious                       ---> a. difficult to understand or explain; strange
+                                      a. strange and interesting because you do not know much about them    
 
 
+
+```
+## movement vs motion
+```
+people working in biomechanics and physics prefer motion, 
+while people  working in physiotherapy, dance and music prefer movement. 
+That motion is a more scientific term is is also suggested here. 
+From this we could assume that motion is related to measurable displacement of objects,
+which the term motion capture attest to, while movement refers to the qualities or meaning of the displacement.
+```
+## motive vs motivation
+```
+motive= a reason for doing something
+
+motivation = a feeling of enthusiasm or interest that makes you "determined' to do something
+
+Your determination makes the difference
+```
+## muddle vs confuse
+```
+confuse = to make sb unable to think clearly or understand sth; to think wrongly that sb/sth is sb/sth else
+muddle  = to put things in the wrong order or mix them up, and therefore confuse sb; 
+          to confuse one person or a thing with another
+
+```
+
+## exit vs exist
+```
+exit  = a way out of a public building or vehicle
+exist  = to be real, to be present in a place or situation
 
 ```
