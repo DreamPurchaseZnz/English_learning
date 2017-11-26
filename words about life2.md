@@ -292,8 +292,13 @@ He turned the knob and push against the door
 There is no airport in the locality 
 we talk of the brain as  the locality of thought
 
-
-
+The washing instructions are on the label
+It's his first release for a major label
+we carefully labelled each item with the contents and the date
+There is no lack of volunteers
+have/lack the courage of your convictions
+We still lag far behand many of our competitors in using modern technology
+large scale development
 
 
 
