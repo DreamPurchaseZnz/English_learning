@@ -92,6 +92,7 @@ commensurable       ---> capable of being measured by a common standard
 dimension           ---> measure different aspect;
 dimensional         ---> of or relating to dimensions
 ```
+
 ## med, medit =  to heal, to attend to
 ```
 remedy              ---> to heal it back; a treatment or medicine to cure disease or reduce pain that 
@@ -102,6 +103,7 @@ medicine            ---> the study of healing; the treatment of diseases and inj
 premeditated        ---> attend sth before it happens; planned in advance
 meditate            ---> to think deeply; to plan sth in your mind
 ```
+
 ## medi = middle， indirect
 ```
 intermediary        ---> to make an agreement by being a means of communication between
@@ -177,6 +179,8 @@ emigre                      ---> a person who has left their own country,
 transmigration              ---> the passing of a person's soul after their death into another body
 
 ```
+
+
 ## milit = soldier, to fight
 ```
 militant                    ---> using or willing to use strong pressure or force to achieve your aims
@@ -186,6 +190,8 @@ militia                     ---> a group of people who are not prefessional sold
 demilitarize                ---> to remove military forces from an area
 
 ```
+
+
 ## min(men ) = to hang, to project , to make sth smaller
 ```
 diminish                      ---> di(intensely) small ; to become or to make sth become smaller, weaker
@@ -208,9 +214,11 @@ miniscule                     ---> extremely small
 mincing                       ---> very delicate and not natural
 
 ```
+
+
 ## mit, miss(mis,mess) = to send , to throw
 ```
-emit           ---> send it 'out'; 
+emit           ---> send it 'out'; to send out sth such as light,heat,etc.
 mission        ---> be 'send' to do a task
 dismiss        ---> send it away
 omit           ---> sent it away so that you have forgotten it
