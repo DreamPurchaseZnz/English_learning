@@ -116,6 +116,20 @@ rely
 religion
 religious
 ```
+## lit = letter
+```
+obliterate                   ---> to wipe letter out; to remove all signs of sth
+literate                     ---> able to read and write
+transliterate                ---> across letters
+illiterate                   ---> not able to read and write
+literal                      ---> being the basic or usual meaning of a word or phase
+literally                    ---> in a literal manner
+literature                   ---> writing formed with letters
+subliterary                  ---> not written as or intended to be literature
+preliterate                  ---> not developed writing
+literalism                   ---> the doctrine of realistic portrayal in art or literature
+
+```
 ## loc, loco = location, place
 == pos, pon
 ```
