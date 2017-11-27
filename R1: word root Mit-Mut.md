@@ -226,7 +226,6 @@ submit         ---> send sth under
 admit          ---> to send to a good place
 commit         ---> send tegether your life with sth
 promise        ---> to send forth your faithful love
-demiss         ---> send away forever
 submissive     ---> send oneself under one's command
 surmise        ---> send over sb about sth
 transmit       ---> send across places
