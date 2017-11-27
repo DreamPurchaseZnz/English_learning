@@ -317,7 +317,7 @@ Future generations will be left with a legacy of population and destruction
 It seemed a perfectly legitimate question
 The moive has been criticized for legitimizing violence 
 to treat sb leniently
-
+The threat of sanction is the most powerful lever for peace
 
 
 
