@@ -117,43 +117,70 @@ lead                                 ---> v. to guide, cause to go with one, gui
                                              sprout forth; bring forth, pass (one's life)
 lead to
 
-leadership  
+leadership                           ---> n. the state or postion of being a leader
+                                          n. a group of people of a particular organization
+                                          n. the ability to be a leader
 
-leaflet
+leaflet                              ---> n. a very small leaf/sheet; a printed sheet of paper
+                                          v. to give out leaflets to people
 
-leak
+leak                                 ---> v. to get in or out through a small hole or crack in sth
+                                          v. to give secret information to the public
+                                          n. a small hole or crack
+                                          n. liquid or gas
+                                          n. a deliberate act of giving secret information to newspaper
+                                          n. the act of passing urine to from the body
 
-leap
+leap                                 ---> v. to jump high or a long way 
+                                          v. to move or do sth suddenly and quickly
+                                          v. to increase suddenly and by a large amount
+                                          n. a long or high jump
+                                          n. a sudden change or increase in sth
 
-lease
+lease                                ---> n. a legal agreement that allow you to use a building, a piece of
+                                             equipment, some land for a period of time, in return for rent
+                                          n. to use or let sb use in exchange for a rent or a regular payment
 
-leather
+leather                              ---> n. material made by removing the hair or fur from animal skin and
+                                             preserve the skins using special processes
+                                          n. clothes made from leather
 
-lecture
+lecture                              ---> n. a talk 
+                                          n. a long angry talk that sb gives to one person because they have done
+                                             sth wrong
+                                          v. give a talk
 
-legacy
+legacy                               ---> n. property left by will
+                                          n. a situation that exists now because of events or actions,etc,that 
+                                             take place in the past
 
-legal
+legal                                ---> n. connected with law
+                                          n. allowed or required by law
 
-legislation
+legislation                          ---> n. a law or a set of laws passed by the parliament
+                                          n. the process of making and passing laws
 
-legistimacy
+legitimacy                           ---> n. undispute credibility 
 
-legitimate
+legitimate                           ---> a. for which there is a fair and acceptable reason
+                                          a. allowed and acceptable according to the law
 
-legitimize
+legitimize                           ---> v. to make sth that is wrong or unfair seem acceptable
+                                          v. to make sth legal
 
-leisure
+leisure                              ---> n. time that you is spent doing what you enjoy; at leisure
 
-lenient
+lenient                              ---> a. softly; not as strict as expected when punishing sb or when 
+                                             make sure rules are obeyed
 
-lens
+lens                                 ---> n. a curved piece of glass or plastic that make things larger,
+                                             smaller, or clearer when you look through it
 
-leopard
+leopard                              ---> n. a large animal of the cat family
 
-less than
+less than                            
 
-lethal
+lethal                               ---> a. causing or able to cause death
 
 leukaemia
 
@@ -210,3 +237,24 @@ lunar
 luxuriant
 luxury
 ```
+## speech, lecture, address, talk VS sermon
+These are all words for a talk given to an audience
+```
+speech              ---> a formal talk given to audience, both private and public
+address             ---> a formal talk given to audience, always pulic
+lecture             ---> a talk given to a group of people to tell them a particular subject
+                         often used as part of university  or colloge course
+sermon              ---> a talk on  moral or religious subject
+```
+
+
+
+
+
+
+
+
+
+```
+
+
