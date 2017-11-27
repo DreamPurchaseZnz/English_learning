@@ -181,14 +181,21 @@ leopard                              ---> n. a large animal of the cat family
 less than                            
 
 lethal                               ---> a. causing or able to cause death
+                                          a. causing or able to cause a lot of harm or damage
 
-leukaemia
+leukaemia                            ---> n. a serious disease in which too many white blood cells are
+                                             produced, causing weakness and sometimes death
 
-level
+level                                ---> n.v.a. tool to indicate a horizontal line; a balance, flat, scale
 
-lever
+lever                                ---> n. a handle used to operate a vehicle or piece of machinery
+                                          n. a long piece of wood, metal,etc,used for lifting or opening sth
+                                             by sb placing one of the end of it under an object and pushing 
+                                             down on the other end
+                                          n. an action that is used to put pressure on sb to do sth they 
+                                             do not want to do
 
-lexicographer
+lexicographer                             n. a person who writes and edits dictionaries
 
 liaise
 libel
@@ -247,11 +254,20 @@ lecture             ---> a talk given to a group of people to tell them a partic
 sermon              ---> a talk on  moral or religious subject
 ```
 
+## lethal, fatal, moral Vs deadly
+```
+lethal - causing or sufficient to cause death. Not usually used of diseases. Often used of things, 
+eg a gun is a lethal weapon. eg he was killed by lethal injection.
 
+fatal - causing or ending in death.
 
+She took a lethal overdose of drugs. It was enough to be able to kill her, 
+or at least enough to kill a normal person. But we don't know if it killed her.
 
+She took a fatal overdose of drugs. She died.
 
-
+Deadly means capable of killing: a deadly poison.
+Mortal describes a condition or action that produces death: a mortal wound.
 
 
 
