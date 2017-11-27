@@ -65,7 +65,15 @@ leverage
 levy
 relieve
 ```
-## liber, libr, liter, lev(el) = balance, weight
+## liber,lib = book
+```
+library    
+
+
+```
+
+
+## liber, libr  = balance, weight
 ```
 deliberate               ---> to think very carefully about sth, usually before making a decision
 deliberately             ---> done on purpose
