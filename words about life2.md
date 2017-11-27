@@ -318,8 +318,28 @@ It seemed a perfectly legitimate question
 The moive has been criticized for legitimizing violence 
 to treat sb leniently
 The threat of sanction is the most powerful lever for peace
+you are at liberty to say what you like
+The moive takes considerable liberies with the novel that is based on
+tear/rip sb limb from limb
+risk your life and limb 
+This technique is  useful but it has its limitation
+The hat had become limp and shapeless
+Linguistic and cultural barriers
+a literal translation
+liver and onions
+chicken liver
+You essay is littered with spelling mistakes
+bank loans with low interest rates
+log in/on; log off/out
+There is no logic to their claim
+a longitudinal study of aging
+The organization broke loose from its sponsors
+Teenagers need a place to let loose
 
-
+Raise/ lower your sights
+raise/ lower the temperature
+a lull in a conversation/fighting
+the lull before the storm
 
 
 
