@@ -300,15 +300,23 @@ have/lack the courage of your convictions
 We still lag far behand many of our competitors in using modern technology
 large scale development
 
+We did a lot of leafleting in the area
+to have/take a leak
+a leak in the roof
+Water had started to leak into the cellar
+look before you leap
+leap to conclusions
+few people successfully make the leap from television to the moives
+we leapt over the stream
+They leapt into an action
+The lease runs out next year
+Parts of the building are leased to tenants
 
-
-
-
-
-
-
-
-
+He's always lecturing me about the way I dress
+Future generations will be left with a legacy of population and destruction
+It seemed a perfectly legitimate question
+The moive has been criticized for legitimizing violence 
+to treat sb leniently
 
 
 
