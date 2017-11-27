@@ -339,11 +339,12 @@ loyalty                              ---> n. the quality of being faithful in yo
 luggage                              ---> n. lug to draw, what has to be lugged ;bags, cases for traveling
 
 lull                                 ---> n. a quiet period between times of activity
-                      
+                                          v. to make sb relaxed and calm
+                                          v. to make sth or to become less strong
+lunar                                ---> n. connected with the moon
 
-lunar
-
-luxuriant
+luxuriant                            ---> a. growing thickly and strongly a way that is attractive
+                                          a. rich in sth that is pleasant or beautiful
 
 luxury
 
