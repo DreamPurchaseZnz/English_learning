@@ -15,6 +15,22 @@ mislead              ---> wrongly lead
 misnomer             ---> a name or a word is not appropriate or accurate
 misapprehend         ---> interpret in a wrong way
 ```
+## ob-(oc,of, op, os, o-) = toward, against, inversely, in the way, over, away, completely, intensive 
+```
+occupied             ---> take in the way 
+obliterate           ---> to wipe letters away
+obligate             ---> to tie closely; bind with a obligation
+obdurate             ---> intensively keep ; refusing to change your mind
+opportune            ---> carry toward to your goal; suitable for doing a particular thing
+obscene              ---> over the setting; suggestive of or tending to moral looseness
+obsequious           ---> followed in the way; trying too hard to please sb
+obsession            ---> sit in your way; preoccupation with something, think about too much
+obtude               ---> intensively thrust; to become or make sth/yourself noticed in a way that 
+                          is not wanted
+
+```
+
+
 ## para- = beside, near, alongside, beyond, contrary to ,altered, related to
 ```
 paradox              ---> a statement containing two opposite ideas
@@ -107,8 +123,9 @@ cutlet              ---> a thick slice of meat
 hamlet              ---> a very small village
 rivulet             ---> a very small river
 streamlet           ---> a very small stream
-
 ```
+
+
 
 ## -ure = state, quality, act, result , that which
 ```
