@@ -340,7 +340,8 @@ Raise/ lower your sights
 raise/ lower the temperature
 a lull in a conversation/fighting
 the lull before the storm
-
+thick,luxuriant hair
+luxriant imagery
 
 
 ```
