@@ -30,3 +30,19 @@ maladjusted          ---> especially of chilren; having mental and emotional pro
 juridical            ---> connected with the law, judges or legal matters
 unjust               ---> not deserved or fair
 ```
+## junct, join(jug) = to join, to bind
+```
+adjunct              ---> to bind;  a thing that is added or attached to sth larger or more important
+enjoin               ---> to intensively bind; advise sb to do sth
+conjunction          ---> to bind together; a conbination of events,etc.
+junction             ---> the place where two or more things meet
+joint                ---> (of body)the place where two bones are joined together in the body
+                          a place where two or more parts of an object are joined together, especially 
+                          to form a corner
+
+
+
+
+
+
+```
