@@ -20,3 +20,13 @@ trajectory           ---> to track the trace of throwing
 projector            ---> threw images up on a screen for a presentation
 
 ```
+## just, juris = law, right
+```
+justify              ---> to show sth right; to show that sb/sth is right or reasonable
+justice              ---> the fair treatment of people
+adjustment           ---> to make sth right; a small change to sth in oder to to correct 
+                          or improve it
+maladjusted          ---> especially of chilren; having mental and emotional problems 
+juridical            ---> connected with the law, judges or legal matters
+unjust               ---> not deserved or fair
+```
