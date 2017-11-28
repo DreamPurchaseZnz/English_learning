@@ -11,6 +11,24 @@ absorb                 ---> to such 'away'
 abrasive               ---> relating to scarping 'away' away; not usual or not socially acceptable
 
 ```
+## com-(co-, col-,con-, cor-, coun-) = with, together, beside, near, by,with
+```
+commit                 ---> to send altogether; to promise sincerely that you will definitely do sth
+compose                ---> to put sth together ; to conbine together to form a whole
+correspond             ---> to respond with sth; to be similar or the same as sth else
+collaborate            ---> to work together with sb in order to produce or achieve sth
+concentrate            ---> to bring sth together in one place
+conform                ---> to form with; to agree with or match sth
+conjunction            ---> to join together; a conbination of events, etc., that cause a particular result
+connect                ---> to tie together; 
+conhere                ---> to work closely together
+coexist                ---> to exist together
+co-owner
+codiscoverer           
+countenance            ---> to support/stand sth or agree to sth happening
+
+```
+
 ## mal-(male-) = badly
 ```
 malnutrition
