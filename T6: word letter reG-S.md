@@ -1,17 +1,5 @@
 # re = back, backward
-## ject, jac(jet) = to throw
-```
-projector            ---> threw images up on a screen for a presentation
 
-adjacent
-eject
-adjective
-inject
-objective
-project
-reject
-subject
-```
 
 ## nat, nasc(naiss, naiv) = to be born
 ```
