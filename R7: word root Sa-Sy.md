@@ -1,4 +1,3 @@
-
 ## sid(sed, sit), sess(sid) = to sit
 ```
 resident         ---> one who 'sit' back somewhere
