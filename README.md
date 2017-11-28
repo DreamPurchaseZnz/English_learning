@@ -1,5 +1,16 @@
 # Prefixes
+## ab-, abs- =  away from, off
+```
+abduct                 ---> to take away illegally
+abnormal               ---> 'away' from being normal
+absent                 ---> being 'away' from a place
+absolutely             ---> 'away' from solute,and therefore there is only a pure liquid;without doubt
+abdicate               ---> a monarch saying she wants to be away from being in power
+abort                  ---> away from being rising or beginning
+absorb                 ---> to such 'away'
+abrasive               ---> relating to scarping 'away' away; not usual or not socially acceptable
 
+```
 ## mal-(male-) = badly
 ```
 malnutrition
