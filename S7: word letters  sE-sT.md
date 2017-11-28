@@ -1,12 +1,30 @@
-## duc; duct = lead
-```
-seduce                                     ---> lead aside; give the wrong advice
-induce                                     ---> lead sb in; to cause sth;make a woman starting giving birth to her baby
-produce                                    ---> lead ahead
-reduce                                     ---> lead down
-```
 
 
+# word roots about se
+
+```
+senior                          ---> n./ adj. high in rank / status
+
+sensation                       ---> n. the process of feeling when sth affect you; 
+                                     n. a state of widespread public excitement and interest
+
+sensational                     ---> causing intense interest, curiosity or emotion
+
+sensible                        ---> adj. able to make good judgements based on reasean and experience rathor emotion; practical
+                                ---> adj. useful rather than fashionable
+                                ---> adj. aware of sth   
+sensitive                       ---> adj. aware of and able to understand other people's feeling
+                                ---> adj. able to undersand to art/ music/literature and express yourself through them
+                                ---> adj. easily upset and reacting quickly
+                                ---> adj. information/subject that may offend people or make angryse
+
+sensory                         ---> adj. relating to the physical senses
+
+sentiment                       ---> adj. a feeling /a attitude based on emotions or thoughts, not founded on proof or certainty
+                                ---> adj. feelings which may be too strong or not appropriate
+
+
+```
 ```
 session                                    ---> a formal meeting or series of meeting of a court, a parliament;
                                                 a period of time when such meeting are held
@@ -27,7 +45,9 @@ severe                                     ---> a. very bad
                                                 a. not kind e.g. severe expression
                                                 a. very difficut e.g. a severe test
                                                 a. extremely plain and lacking any decoration
-
+```
+## SH
+```
 shade                                      ---> n. a place that is dark and cool by protecting from the heat of sun
                                            ---> n. a thing used to prevent light from coming through
                                                    e.g. eyeshade, window shade, shaded lamp
@@ -151,4 +171,38 @@ shuttle                                    ---> n. a plane, bus or train that tr
                                           
 
 
+```
+## ST
+```
+stab                   ---> a straight bar             
+stable                 ---> stand steady and firm
+stabilise              ---> make stable
+staff                  ---> stand in a row
+stack                  
+stage                  ---> a platform/ a scene regard as a setting of exhibiting or doing sth; any time period 
+stagnate               ---> standing still, not moving
+stain                  ---> standing in make dirty / spotty / disgrace 
+stainless              ---> free of blemishes
+stake                  ---> a wooden/metal post / share / risk money
+stale                  ---> stand too long to have a new idea / be fresh
+stall                  ---> small area set off by walls for special use; postpone
+stammer                ---> people(er) speak with difficuty
+stamp                  ---> put printting tool / the foot down
+stance                 ---> the way in which sb stands /  the opinion that sb has about and express publicly
+standard             
+standpoint             ---> a point / a way of thinking about ideas
+starchy
+stare                  --->                       ---> a fixed look with eyes open wide
+stark                  ---> like standing rock --> provide with no shelter or substenance
+starve
+stash                  ---> store in secret place
+statement              ---> give information
+static                 ---> not moving changing or developing; force act like weight
+stationary
+stationery             ---> materials for writing and for using in the office
+statistic
+statistically
+statistics
+statue                 ---> standing a figure of sb/animal in stone / metal 
+status                 ---> the relative position in society or standing of things
 ```
