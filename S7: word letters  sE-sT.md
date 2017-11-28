@@ -1,6 +1,6 @@
 
 
-# word roots about se
+# SE
 
 ```
 senior                          ---> n./ adj. high in rank / status
