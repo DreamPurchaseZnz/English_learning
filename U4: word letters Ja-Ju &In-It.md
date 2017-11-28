@@ -1,22 +1,52 @@
 # J
 ```
-jargon
-jaw
-jealous
-jeopardise
-jerk
-joint
-jostle
-journal
-journalist
-judgment
-judicious
-jumble
-junction
-jungle
-justice
-justify
-juvenile
+jargon                                      ---> n. mode of speech full of unfamiliar terms
+jaw                                         ---> n. the lower part of your face
+jealous                                     ---> a. feeling angry or unhappy because sb you like is showing
+                                                    interest in sb else
+jeopardise                                  ---> v. jeo(=joke) + pard(= part) to take sth as a part of joke; 
+                                                    to risk harming or destroying sth/sb
+jerk                                        ---> v. to move or to make sth move with a sudden short sharp movement
+                                                 n. a sudden quick sharp movement
+                                                 n. a stupid person who often says or does the wrong thing
+                                                 n. meat that is marinated
+joint                                       ---> a. involving two or more people together
+                                                 n. a place where two bones are joined together in the body
+                                                 n. a place where two or more parts of a object are jointed together
+jostle                                      ---> v. to push roughly against sb in a crowd;
+
+journal                                     ---> n. a newspaper or magazine that deals with a particular suject or
+                                                    profession
+                                                 n. a written record of the things you do, see, etc. every day
+
+journalist                                  ---> n. a person whose job is to collect or write news stories for 
+                                                    newspaper, magazines, radio or television
+
+judgement                                   ---> n. capacity for making decisions; legal judgement; diagnosis
+                                                    penalty imposed by a court; verdict; opinion
+
+judicious                                   ---> a. careful and sensible; showing good judgement
+
+jumble                                      ---> a. to mix things together in a confused or untidy way
+                                                 a. an untidy or confused mixture of things
+
+junction                                    ---> n. the place where two or more road or railway/railroad lines meet
+                                                 n. a place where two or more cables, rivers or other things meet or
+                                                    are joined
+
+jungle                                      ---> n. the area of tropical forest where trees and plants grow very thickly
+                                                 n. an unfriently or dangerous place or situation
+
+justice                                     ---> n. the fair treatment of people
+                                                 n. the quality of being fair or reasonable
+                                                 n. the legal system used to punish people who have committed crimes
+                                                 
+
+justify                                     ---> v. to show that sb/sth is right or reasonable
+                                                 v. to give an explanation or excuse for sth or for doing sth
+
+juvenile                                    ---> a. connected with young people who are not yet adults
+                                                 a. silly and more typical of a child than an adults
 ```
 
 ## I
