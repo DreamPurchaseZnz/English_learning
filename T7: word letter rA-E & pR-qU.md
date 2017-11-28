@@ -38,39 +38,7 @@ prince
 
 ```
 
-## fess = speak
-```
-confess
-professor
-professional
-profess
 
-```
-## fil = tread , to spin, foul
-```
-defile         ---> a path like thread
-filament       ---> the state of tread
-file
-profile        ---> spin 'forward'; describe
-unifilar
-filiform
-
-```
-## fund, found, fus = melt, pour
-```
-refuse          
-effuse         ---> pour out
-profuse        ---> pour forward
-refund         ---> pour back
-confound       ---> pour together
-confuse        ---> pour together
-fuse           ---> melt
-diffuse        ---> pour in the way of spreading
-infusion       ---> pour in
-suffuse        ---> pour under
-transfuse      ---> pour across
-
-```
 ## habit, hibit =  have, hold,dwell
 ```
 cohabit      ---> sleep together
