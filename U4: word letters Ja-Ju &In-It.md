@@ -51,19 +51,44 @@ juvenile                                    ---> a. connected with young people 
 
 ## I
 ```
-induction
-inductive
-inductive reasoning
-indulge
-industrialise
+induction                                   ---> n. a leading into sth; the process of introducing sb to a 
+                                                    new job,skill, organization
+                                                 n. the act of make a pregnant woman start to give birth
+                                                 n. a method of discovering general rules and principle from
+                                                    particular facts and examples
+                                                 n. the process of passing electricity without touching
+
+inductive                                   ---> a. using a particular facts and examples to form general rules
+                                                    and principles
+                                                 a. connected with the induction of electricity
+
+inductive reasoning                         ---> n. reasoning from detailed facts to general rules
+
+indulge                                     ---> v. to allow yourself to have or do sth you like, especially sth 
+                                                    that is considered bad for you(indulge in sth| indulge yourself with sth)
+                                                 v. to satisfy a particular desire, interest,etc
+                                                 v. to be too generous in allowing sb to have or do whatever they 
+                                                    like (indulge sb with sth)
+                                                 v. to take part in an illegal activity
+
+industrialise                               ---> v.  
+
 industrious
+
 inescapable
+
 inevitable
+
 infection
+
 infer
+
 inference
+
 inferential
+
 inferior
+
 infiltrate
 infirmity
 inflammable
