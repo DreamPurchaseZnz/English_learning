@@ -34,7 +34,8 @@ junction                                    ---> n. the place where two or more 
                                                  n. a place where two or more cables, rivers or other things meet or
                                                     are joined
 
-jungle                                      ---> n. the area of tropical forest where trees and plants grow very thickly
+jungle                                      ---> n. the area of tropical forest where trees and plants grow 
+                                                    very thickly
                                                  n. an unfriently or dangerous place or situation
 
 justice                                     ---> n. the fair treatment of people
