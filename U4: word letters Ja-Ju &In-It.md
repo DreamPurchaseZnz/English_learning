@@ -66,7 +66,8 @@ inductive                                   ---> a. using a particular facts and
 inductive reasoning                         ---> n. reasoning from detailed facts to general rules
 
 indulge                                     ---> v. to allow yourself to have or do sth you like, especially sth 
-                                                    that is considered bad for you(indulge in sth| indulge yourself with sth)
+                                                    that is considered bad for you(indulge in sth| indulge
+                                                    yourself with sth)
                                                  v. to satisfy a particular desire, interest,etc
                                                  v. to be too generous in allowing sb to have or do whatever they 
                                                     like (indulge sb with sth)
