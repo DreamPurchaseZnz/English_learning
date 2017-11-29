@@ -21,8 +21,12 @@ I indulged myself with a long hot bath
 He did not agree with indulging children
 He would indulge her every dream
 I indulge my feelings; I so seldom have  had an opportunity of doing so
-
-
+The nations of South East Asia will quickly industriaze and catch up to the west
+an industrious student
+This lead to a inescapable conclusion that two things are conncected
+to increase the risk of infection
+to draw or make inference from data
+a clear inference is that the universe is expanding
 
 
 ```
