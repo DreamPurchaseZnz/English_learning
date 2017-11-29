@@ -57,6 +57,20 @@ infrahuman             ---> belonging to a group below humans in evoluntionary d
 inferior               ---> of lower rank; lower
 
 ```
+## in-,im-, ir- = 1) not(for adj,v), lack of (for n) ; 2) in, into ,upon, toward(for v)
+```
+illusion               ---> in the light; a false idea or belief, especially about sb or about a situation
+immense                ---> cannot be measure
+immerse                ---> merge into; to put sb/sth into a liquid so that they or it are commpletely
+immobile               ---> cannot move; not moving
+impact                 ---> intensively fasten; the power effect that sth has on sth/sb
+impassable             ---> cannot able to pass; impossible to trave or through
+implement              ---> to fill into; to make sth has been decided start to happen or be used
+incalculable
+irrelevant             ---> not to weigh any more; not important to or connected with a situation
+ignoble                ---> not good;  not good or honest , that shold make feel shame
+ignore                 ---> not worthy to know; pay no attention to sth
+```
 ## mal-(male-) = badly
 ```
 malnutrition
@@ -64,6 +78,7 @@ malevolent             ---> n. badly wish;  having or showing a desire to harm o
 maltreat
 
 ```
+
 ## mis- = bad(badly), wrong(ly)
 ```
 mischance            ---> bad luck
