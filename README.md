@@ -49,8 +49,14 @@ dishonest              ---> not honest
 disloyal               ---> not loyal
 dissimilar             ---> not similar
 ```
+## infra- = below, underneath
+```
+infrared               ---> electromagnetic radiation with wavelets longer than visible light
+                            but shorter than radio waves
+infrahuman             ---> belonging to a group below humans in evoluntionary development
+inferior               ---> of lower rank; lower
 
-
+```
 ## mal-(male-) = badly
 ```
 malnutrition
