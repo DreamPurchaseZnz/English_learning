@@ -28,6 +28,28 @@ codiscoverer
 countenance            ---> to support/stand sth or agree to sth happening
 
 ```
+## dis-(dif-,di-) =  apart, to undo, lack of, to remove, not
+```
+discern                ---> to sparate one apart from the others; to know, recognize or understand sth; 
+                            especially sth that is not obvious
+disrupt                ---> to break apart; to make it difficult for sth to continue in a normal way
+dissuade               ---> suad(to urge) sb apart from doing sth; to persuade sb not to do sth
+distract               ---> to draw apart one's mind or attention; to take sb's attention away from what they are
+                            trying to do
+differ                 ---> to carry apart from each other
+diffuse                ---> to pour apart in every direction; spread over a wide range
+divide                 ---> to sperate apart
+disargee               ---> to undo a agreement
+disadvantage           ---> lack of advantage
+dishonour              ---> lack of honour or respect; to make sb/sth lose their respect of other people 
+disorder               ---> lack of order or organization
+disarm                 ---> to remove arm; to take a weapon or weapons away from sb
+                            to make sb feel less angry or critical
+dishonest              ---> not honest
+disloyal               ---> not loyal
+dissimilar             ---> not similar
+```
+
 
 ## mal-(male-) = badly
 ```
