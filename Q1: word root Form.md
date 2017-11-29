@@ -1,21 +1,30 @@
 # F
-## fac, fact, fec, fect, fic, fict(feas, feit,feat,fit) = do ,make, to feign
+## fac, fact, fec, fect, fic, fict(feas, feit,feat,fit) = to do ,to make
 ```
-defect             ---> forget to do something necessary
+perfect            ---> thoroughly 'made'
+effective          ---> able to get things done
+affect             ---> 'done' towards to sth
+effect             ---> result 'made' by doing sth
+prefect            ---> 'made' in charge,thus 'make' to rule before others;
+                        an oder student with some authority over young students
+                        an officer responsible for an area of local goverment in some
+                        countries, for example France, Italy and Japan
+defect             ---> 'done' not quite right ; a fault in sth or a way it has been made which
+                        means that it is not perfect
+infect             ---> 'make' inroads into your body
+confection         ---> 'make' with skill or in a skillful or complicated way; a cake or other
+                        sweet food that looks very attractive
+refectory          ---> places where you are 'made' new again
 malefactor         ---> a person who do bad things
 factual            ---> what has been done
 beneficent         ---> the act of doing good things to show kindness
 beneficial         ---> bene(= good)
-proficient         ---> before making, sb has know everything
+proficient         ---> thoroughly 'done'; able to do sth well 
+                        because of training and practice
 superficial        ---> not studying or looking at sth thorouly, just above it; 
                         seeing only what is obvious
-discomfit          ---> can't do sth thoroughly
-effect             ---> do a change that sb/ sth causes in sb/sth
-infect             ---> spread disease
-perfect            ---> do something completely
+discomfit          ---> 'done' thoroughly away sb; 
 perfectionist
-prefect            ---> person who do first
-refection          ---> do it back
 factor
 faculty            ---> the ability of doing sth
 fiction            
