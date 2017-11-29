@@ -98,10 +98,10 @@ inference                                   ---> n. something that you can find 
  
 inferential                                 ---> n. derived or capable of being derived by inference
 
-inferior                                    ---> a. not good or not as good as sb/sth else
+inferior                                    ---> a. underneath; not good or not as good as sb/sth else
                                                  a. of lower rank; lower
 
-infiltrate
+infiltrate                                  ---> 
 
 infirmity
 
@@ -218,49 +218,89 @@ insulation
 insurance
 
 intact
+
 intake
+
 integral
+
 integrate
+
 intelligence
+
 intelligent
+
 intelligible
+
 intend
+
 intense
 intensify
 intensity
 intensive
+
 intent
 intention
+
 interact
+
 interdependent
+
 interest
+
 interface
+
 interfere
+
 interior
+
 intermediate
+
 intermix
+
 intern
+
 internal
+
 internationalist
+
 internist
+
 internship
+
 interplay
+
 interpret
+
 interpretation
+
 interrelationship
+
 interrupt
+
 intersection
+
 interview
+
 intestine
+
 intimate
+
 intrigue
+
 intrinsic
+
 introduction
+
 introspection
+
 introvert
+
 intrusion
+
 inundate
+
 invade
+
 invader
 invalid
 invaluable
