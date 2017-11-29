@@ -73,82 +73,150 @@ indulge                                     ---> v. to allow yourself to have or
                                                     like (indulge sb with sth)
                                                  v. to take part in an illegal activity
 
-industrialise                               ---> v.  
+industrialise                               ---> v. to develop industry
+                                                 v. organize (the production of something) into an industry
 
-industrious
+industrious                                 ---> a. characterized by energy, effort and attention; working hard; busy
 
-inescapable
+inescapable                                 ---> a. that you can not avoid or ignore
 
-inevitable
+inevitable                                  ---> a. that you cannot avoid or prevent
+                                                 a. so frequent that you always expect it
+                                                 a. something that is certain to happen
 
-infection
+infection                                   ---> n. 'done' inroads into your body; the act or process of causing or 
+                                                    getting a disease
+                                                 n. an illness that is caused by bateria or a virus and that affect
+                                                    one part of the body
 
-infer
+infer                                       ---> v. 'carry' facts into an opinion; to reach an poinion or decide that
+                                                    sth is true on the basis of information that is vailable
+                                                 v. to suggest indirectly that sth is true
 
-inference
+inference                                   ---> n. something that you can find out directly from what you already known
+                                                 n. the act or process of forming an opinion, based on what you already know
+ 
+inferential                                 ---> n. derived or capable of being derived by inference
 
-inferential
-
-inferior
+inferior                                    ---> a. not good or not as good as sb/sth else
+                                                 a. of lower rank; lower
 
 infiltrate
+
 infirmity
+
 inflammable
+
 inflate
+
 inflation
+
 inflict
+
 influence
+
 influencial
+
 influenza
+
 inform
+
 informant
+
 infrastructure
+
 infringe
+
 ingenuity
+
 ingredient
+
 inhabitant
+
 inhale
+
 inherent
+
 inheritance
+
 inhibit
+
 inhumance
+
 initial
+
 initiate
+
 initiative
+
 inject
+
 inland
+
 inlet
+
 innocent
+
 innovation
+
 innovative
+
 input
+
 insane
+
 inscribe
+
 insecure
+
 insert
+
 insidious
+
 insight
+
 insignifacant
+
 insist
+
 inspect
+
 inspiration
+
 inspire
+
 inspring
+
 install
+
 installment
+
 instil
+
 instinct
+
 instinctual
+
 institute
+
 institution
+
 instruct
+
 instrument
+
 instrumental
+
 insufficient
+
 insularity
+
 insulate
+
 insulation
+
 insurance
+
 intact
 intake
 integral
@@ -230,3 +298,15 @@ item
 itinerary
 
 ```
+
+## inescapable Vs inevitable
+```
+inescapable is not escapable, cannot be avoided while inevitable is possible to avoid or prevent
+As a noun inevitable is something that is predictable or cannot be avoided
+
+```
+
+
+
+
+
