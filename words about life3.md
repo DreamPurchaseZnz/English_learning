@@ -28,5 +28,13 @@ to increase the risk of infection
 to draw or make inference from data
 a clear inference is that the universe is expanding
 Food prices are no longer inflating at the same rate as last year
+to control/curb the  rate of inflation
+an inflation rate of 3%
+wage increases must be in line with inflation
+Do you have to infict that music on us
+the conmmitee was influential in formulating goverment policy on employment
+
+
+
 
 ```
