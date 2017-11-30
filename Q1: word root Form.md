@@ -89,15 +89,68 @@ professional
 profess
 
 ```
-## fil = tread , to spin, foul
-```
-defile         ---> a path like thread
-filament       ---> the state of tread
-file
-profile        ---> spin 'forward'; describe
-unifilar
-filiform
 
+## firm = stable, strong
+```
+infirm                     ---> not stable; ill/sick and weak, especially over a long period 
+                                            or as a result of being old
+infirmity                  ---> the state of unstable; weakness or illness over a long period
+affirm                     ---> to stable your statement; to state firmly or publicly that sth is true or 
+                                that you support sth strongly
+                                
+affirmative                ---> in an affirmative manner
+confirm                    ---> stable sth with evidence; to state or show sth is definitely true or 
+                                correct, especially providing evidence
+confirmation               ---> a statement letter,etc, that shows that sth is true
+
+```
+## flagr, flam = to burn, flame
+```
+conflagration              ---> to burn thoroughly ; a very large fire
+inflammable                ---> able to burn easily; full of emotions or violence
+flame                      ---> a hot bright steam of burn gas that comes from sth that on fire
+```
+## flat = to blow
+```
+inflate                    ---> to blow into ; to fill sth or become filled with gas or air
+deflate                    ---> to blow away ; to let air or gas out of a type, ballon
+deflationary               ---> to let the air out of ; decreases in consumer prices or increases
+                                the purchasing power of money
+comflate                   ---> to blow together; to put two or more things together to make one new
+                                thing
+reflation                  ---> inflation of currency after a period of deflation
+
+```
+## flict = to strike 
+```
+affliction                ---> a strike to sb; pain and suffering or sth that causes it
+inflict                   ---> strike towards sb; to make sb/sth unpleasant
+conflict                  ---> strike with others; it's possible for two ideas, beliefs, stories,
+                               etc. to exist together or for them both to be true
+```
+## flu, flux = to flow
+```
+affluence                 ---> the wealth is too much to flow; having a lot of money
+fluctuate                 ---> flow in size, amount,quality,etc; to change frequently in size,etc. especially
+                               from one extreme to another
+fluent                    ---> words flow out of your tongue; able to speak, read, or white a language
+confluence                ---> the place where two rivers flow together and become one
+effluent                  ---> to flow outward; liquid waste that flows form the factory
+efflux                    ---> the process of flowing out
+fluid                     ---> a liquid; a substance that can flow
+flume                     ---> a narrow channel made to carry water for use in industry
+flush                     ---> a sudden flow of water; a sudden strong feeling
+fluvial                   ---> a flowing river
+circumfluent              ---> to flow around
+influent                  ---> to flow inward
+influence                 ---> to flow toward to sb; to have an effect on the way that sth behaves or think
+                               especially by giving them an example to follow
+refluent                  ---> to flow back
+superfluent               ---> to flow over sth
+overfluent                ---> to flow out of sth; to be so full that the contents go over the sides
+influx                    ---> the fact of flowing toward sth; the fact of a lot of people,money or things 
+                               arriving somewhere
+                      
 ```
 
 
@@ -119,7 +172,14 @@ reform                   ---> give a 'shape' again
 uniform                  ---> one shape
 
 ```
+## fract, frag(fra,fring) (rupt)= to break 
+```
+fractious                ---> easily to break ; bad-tempered or easily upset,
+                              especially by small things
+fragile                  ---> easily broken or damaged
 
+
+```
 ## fund, found, fus = melt, pour
 ```
 refuse          
