@@ -156,6 +156,7 @@ influx                    ---> the fact of flowing toward sth; the fact of a lot
 
 ## form = shape
 ```
+informed                 ---> you are in good ‘shape’ when it comes to facts.
 information              ---> descriptive 'shape'
 deformed                 ---> out of shape
 malformed                ---> 'badly shaped'
