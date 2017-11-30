@@ -113,17 +113,24 @@ inflate                                     ---> v. to blow into; to fill sth or
                                                     really is
                                                  v. to increase in price
 
-inflation
+inflation                                   ---> n. a general rise in the prices of services and good, resulting in a fall
+                                                    in the value of money; the rate which this happen
+                                                 n. the act or process of filling sth with air or gas
 
-inflict
+inflict                                     ---> v. strike toward; to make sth/sb suffer sth unpleasant, inflict sth on sth/sb
+                                                 
 
-influence
+influence                                   ---> n. to flow toward sb; the effect on sth/sb
+                                                 n. the power that sb/sth has to make sth/sb behave in a particular way
+                                                 n. a person or thing
+                                                 v. to have an effect on the way sb behaves or thinks
+                                                 v. to have an effect on a particualr situation and the way
 
-influencial
+influencial                                 ---> a. having a lot of influence on sth/sb
 
-influenza
+influenza                                   ---> n. 'flow' into people from the evil influence of the stars; flu
 
-inform
+inform                                      ---> v. 
 
 informant
 
