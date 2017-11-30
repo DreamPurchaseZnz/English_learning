@@ -27,6 +27,6 @@ This lead to a inescapable conclusion that two things are conncected
 to increase the risk of infection
 to draw or make inference from data
 a clear inference is that the universe is expanding
-
+Food prices are no longer inflating at the same rate as last year
 
 ```
