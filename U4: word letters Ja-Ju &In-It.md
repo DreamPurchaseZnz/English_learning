@@ -101,13 +101,17 @@ inferential                                 ---> n. derived or capable of being 
 inferior                                    ---> a. underneath; not good or not as good as sb/sth else
                                                  a. of lower rank; lower
 
-infiltrate                                  ---> 
+infiltrate                                  ---> v. to filter toward; to enter or make sb enter a place or organization
+                                                    secretly, especially in oder to get information that can be used against it
 
-infirmity
+infirmity                                   ---> n. the state of not stable; weakness or illness over a long period
 
-inflammable
+inflammable                                 ---> a. easily to burn; flamable; full of strong emotions or violence
 
-inflate
+inflate                                     ---> v. to blow into; to fill sth or become filled with gas or air
+                                                 v. to make sth appear to be more important or impressive than it
+                                                    really is
+                                                 v. to increase in price
 
 inflation
 
