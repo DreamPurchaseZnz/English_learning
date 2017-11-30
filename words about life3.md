@@ -1,7 +1,7 @@
 
 # The end justifies the means
 
-# some beautiful sentence used for daily life, Welcome to the world of sentence
+## some beautiful sentence used for daily life, Welcome to the world of sentence
 ```
 sb's jaw dropped/ fell /sagged
 People in the crowd were jostling for the best position
