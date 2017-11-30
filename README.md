@@ -28,6 +28,16 @@ codiscoverer
 countenance            ---> to support/stand sth or agree to sth happening
 
 ```
+## de- = down, away, to undo, to make down or away
+```
+decline                ---> to bend down; to become smaller, fewer, weaker
+detract                ---> to draw away; to make sth less good or enjoyable
+declass                ---> to make down
+degrade                ---> to make sth down; to show or treat sb in a way that makes them seem to not worth
+                            any respect or not worth taking serious
+```
+
+
 ## dis-(dif-,di-) =  apart, to undo, lack of, to remove, not
 ```
 discern                ---> to sparate one apart from the others; to know, recognize or understand sth; 
@@ -101,7 +111,12 @@ obtude               ---> intensively thrust; to become or make sth/yourself not
                           is not wanted
 
 ```
+## over- = above, across, beyond, excessive, above normal, highest
+```
+overbearing          ---> beyond bearing; trying to control other people in an unpleasant way
+overburden           ---> burden too much; burden too heavily
 
+```
 
 ## para- = beside, near, alongside, beyond, contrary to ,altered, related to
 ```
