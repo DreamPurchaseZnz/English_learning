@@ -34,7 +34,9 @@ wage increases must be in line with inflation
 Do you have to infict that music on us
 the conmmitee was influential in formulating goverment policy on employment
 
-
-
-
+Religion informs every aspect of their lives
+He inform on his own brother
+copyright infringement
+a infringement of liberty
+the proposal has generate a lot of interest
 ```
