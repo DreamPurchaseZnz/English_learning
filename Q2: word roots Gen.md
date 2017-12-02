@@ -3,6 +3,7 @@
 geni         ---> innate quality, inborn talent
 
 ```
+ingenuity                   ---> in a creative way; the ability to invent things or solve problems in clever new ways
 genuine                     ---> in the real inborned quality; real ,what it appears to be; not artificial
 genius                      ---> inborned talent; unusually great intelligence, skill or artistic ability
 generous                    ---> innate quality; giving or willing to give freely
