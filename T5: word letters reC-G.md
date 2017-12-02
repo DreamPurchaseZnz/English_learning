@@ -1,45 +1,5 @@
 # re = back, again , backward
 
-
-
-## gent, gen, gn ,gener = birth, race
-```
-congenial
-cognate                     ---> have the same origin
-disingenuous                ---> not sincere especially when you pretend to know less about sth 
-                                 that you really do
-engender                    
-generate
-genial
-ingenuous
-degenerate
-homogeneous
-homogenize
-pregnant                    ---> before birth 
-progeny
-regenearte
-gender
-gene
-general
-generality
-generalize
-generally
-generous
-genetic
-gential
-gentleman
-genuine
-genus
-hydrogen
-oxygen
-mitrogen
-biogenesis
-endogenous
-
-```
-
-
-
 ```
 
 recalcitrant                    ---> a. calcite(calcium carbonate, stone) 'back'; unwilling to obey rules
