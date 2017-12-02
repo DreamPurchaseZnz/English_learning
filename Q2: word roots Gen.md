@@ -47,13 +47,34 @@ mitrogen
 biogenesis
 endogenous
 ```
-## grad, gress(gred) = to go, to walk, step
+## grad, gress(gred) = step ,to go, to walk
 ```
 degrade                    ---> to go down; to show or treat sb in a way make them seem not worth take seriously
-
-
-
-
+ingredient
+digress
+transgress
+centigrad                  ---> a hundred steps
+gradation 
+grade
+gradient
+gradual
+undergraduate
+postgraduate
+graduate
+retrograde
+upgrade
+aggression
+aggressive
+congress
+congressional
+egress
+progress
+ingress
+progressive
+regress
+retrogression
+regressive
+digress
 ```
 
 
