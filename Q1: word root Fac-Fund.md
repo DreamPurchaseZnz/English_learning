@@ -173,14 +173,24 @@ reform                   ---> give a 'shape' again
 uniform                  ---> one shape
 
 ```
-## fract, frag(fra,fring) (rupt)= to break 
+## fract = breaked, crushed;  frag(fra,fring) = break, crush 
 ```
+suffrage                 ---> suf-> sub break; the right to vote in political elections
+infraction               ---> the act of breaking against; the act of break a law or rule
+refractory               ---> to break again; difficult to control; behaving badly
 fractious                ---> easily to break ; bad-tempered or easily upset,
                               especially by small things
 fragile                  ---> easily broken or damaged
-
-
-```
+refract                  ---> to break back the light; to make light change direction when it goes through at an angle
+fraction                 ---> breaken part; a small part or amount of sth
+fracture                 ---> a break in a bone or other hard material
+fragment                 ---> a small part of sth that has broken off or comes from sth larger
+fragmentary              ---> made of small parts that are not connected or complete
+infringe                 ---> to break against; to break a law or rule
+frail                    ---> physically weak and thin
+refrain                  ---> to crush your eagerness; to stop yourself from doing sth, especially sth that you want to do
+diffract                 ---> to break up a stream of light into a series of dark and light bands 
+``` 
 ## fund, found, fus = melt, pour
 ```
 refuse          
