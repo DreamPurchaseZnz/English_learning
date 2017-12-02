@@ -143,37 +143,75 @@ infringe                                    ---> v. to break against the rule; (
 
 ingenuity                                   ---> n. the ability to invent things or solve problems in clever new ways
 
-ingredient                                  ---> 
+ingredient                                  ---> n. in the steps; one of things from which sth is 
+                                                    made, especially one of foods that are used      
+                                                    together to make a particular dish
+                                                 n. one of the things or qualities that are neccessary
+                                                    to make sth successful
 
-inhabitant
+inhabitant                                  ---> n. the place that a person habit in ;a person or an animal that lives 
+                                                    in a particular place
 
-inhale
+inhale                                      ---> v. to breathe in; to take air,smoke, gas,etc, into 
+                                                    your lungs as you breathe
 
-inherent
+inherent                                    ---> a. that is a basic or permanent part of sb/sth and
+                                                    that cannot  be removed
 
-inheritance
+inheritance                                 ---> n. the fact of recieving sth when sb dies
+                                                 n. something come from the past from your family
+                                                    that affects the way you behave, look,etc
 
-inhibit
+inhibit                                     ---> v. not having or holding; to prevent sth from happening
+                                                    or making it happen more slowly or less frequently than 
+                                                    normal
+                                                 v. to make sb nervous or embarrassed so that they are unable
+                                                    to do sth
 
-inhumance
+inhumane                                    ---> n. lack of humanity; not caring the suffering of other people
+                                                    very cruel
 
-initial
+initial                                     ---> a. happening at the beginning; first
 
-initiate
+initiate                                    ---> v. to make sth begin
+                                                 v. to explain sth to sb and/or make them experience it for 
+                                                    the first time
+                                                 v. to make sb a member of a particular group
+                                                 n. a person who has been allowed to join a particular group
+                                                    etc, and is learning its rules and secrets
 
-initiative
+initiative                                  ---> n. a new plan for deeling with a particular problem 
+                                                 n. the ability to decide and act on your own without waiting
+                                                    for sb to tell you what to do
+                                                 n. the power or opportunity to act and gain an advantage
+                                                    before other people do
 
-inject
+inject                                      ---> v. to throw medicine into your body; to put a liquid into 
+                                                    sth using syringe or similar instrument
+                                                 v. to add a particular quality to sth
+                                                 v. to give money to an organization, a project,etc. so that
+                                                    it can function
 
-inland
+inland                                      ---> av. in a direction towards the middle of a country; 
+                                                 a. located in or near the middle of a country, not near
+                                                    the edge or on the coast
 
-inlet
+inlet                                       ---> n. a narrow strip of water that streches into th land from 
+                                                    the sea or a lake, or between islands
+                                                 n. an opening through which liquid, air or gas can enter a
+                                                    machine
 
-innocent
+innocent                                    ---> a. not intended to cause harm;suffering harm although not
+                                                    directly involved in it
+                                                 a. having little experience of the world, especially of 
+                                                    sexual matters, or of evil or unpleasant things
+                                                 n. an innocent person, especially a young child
 
-innovation
+innovation                                  ---> n. to bring sth new in; the introduction of new ideas or 
+                                                    ways of doing sth
+                                                 n. a new idea, way of doing sth
 
-innovative
+innovative                                  ---> a. introducing or using new ideas,ways  of doing sth,etc
 
 input
 
