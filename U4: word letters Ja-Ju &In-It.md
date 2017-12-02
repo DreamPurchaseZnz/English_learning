@@ -133,15 +133,17 @@ influenza                                   ---> n. 'flow' into people from the 
 inform                                      ---> v. make sb towards a shape ; to tell sb about sth;
                                                  v. to have an influence aspect of their lives
 
-informant
+informant                                   ---> n. a person who gives secret information about sb/sth to the police
 
-infrastructure
+infrastructure                              ---> n. underneath structure; a basic systems and sevices that necessary for a country  
+                                                    or an organization
+                                                    
+infringe                                    ---> v. to break against the rule; (of an action, a plan,etc.) to break a law or rule
+                                                 v. to limit sb's legal rights
 
-infringe
+ingenuity                                   ---> n. the ability to invent things or solve problems in clever new ways
 
-ingenuity
-
-ingredient
+ingredient                                  ---> 
 
 inhabitant
 
