@@ -42,11 +42,25 @@ equinox                  ---> one of two days in a year when the day and night a
 equinoctial              ---> connect with an equinox
 noctilucent              ---> shining or glowing by night
 ```
+## noc(nox,nic, nec)= to harm
+```
+innocuous                ---> not harm; not intended to offend or upset anyone
+obnoxious                ---> to harm;  extremely unpleasant, especially in a way that
+                                        offends people
+pernicious               ---> thoroughly harmful;  having  a very harmful effct on sb/sth
+                              in a way that is gradual and not easily noticed
+innocent                 ---> not harmful ; not guilty of a crime,not having done sth wrong
+noxious                  ---> poisonous or harmful
+internecine              ---> to harm between each other; happening between members of the same
+                              group,country or oganization
+
+```
 ## nov = new
 ```
 innovation               ---> to introduction of new things or ways of doing sth
 renovate                 ---> to repair and paint in order to make sth new again
 novel                    ---> new, interesting and often seeming slightly strange
+novelty
 novice                   ---> a person who is new; inexperience person
 nova                     ---> a star that suddenly become much brighter for a short period
 ```
