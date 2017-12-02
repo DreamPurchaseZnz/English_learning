@@ -39,4 +39,11 @@ He inform on his own brother
 copyright infringement
 a infringement of liberty
 the proposal has generate a lot of interest
+the essential ingredients of successful
+It has all the ingredients of a good mystery story
+
+The goverment has initiated a programme of economic reform
+You won't get much help, you'll have to use your initiative
+to seize/ lose initiative
+They are refusing to inject any more capital into the industry
 ```
