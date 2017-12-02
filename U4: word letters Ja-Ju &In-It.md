@@ -130,7 +130,8 @@ influencial                                 ---> a. having a lot of influence on
 
 influenza                                   ---> n. 'flow' into people from the evil influence of the stars; flu
 
-inform                                      ---> v. 
+inform                                      ---> v. make sb towards a shape ; to tell sb about sth;
+                                                 v. to have an influence aspect of their lives
 
 informant
 
