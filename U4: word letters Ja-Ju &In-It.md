@@ -222,43 +222,83 @@ insane                                      ---> a. that is not health mentally;
 
 inscribe                                    ---> v. to write sth onto sth; to write or cut words, your name,etc, onto sth
 
-insecure                      
+insecure                                    ---> a. not safe or protected                
 
-insert
+insert           
 
-insidious
+insidious                                   ---> a. sit in, happening; spreading gradually
+                                                    or without being noticed but causing 
+                                                    serious harm
 
-insight
+insight                                     ---> n. see into sth deeply; ability to see and
+                                                    understand the truth about people or 
+                                                    situation
+                                                 n. an understanding of what sth is like
 
-insignifacant
+insignifacant                               ---> a. not signifacant; not big or value enough
+                                                    to be considered important
 
-insist
+insist                                      ---> a. stand intensively; to demand that sth happens
+                                                    or that sb agrees to do sth
+                                                 a. to say firmly that sth is true, especially
+                                                    when other people do not believe you
 
-inspect
+inspect                                     ---> v. to look in; to look closely at sth/sb, 
+                                                    especially to check that everything is as it
+                                                    should be
+                                                 v. to officially visit a school, a factory,in
+                                                    oder to check that rules are being obeyed and
+                                                    standards are acceptable
 
-inspiration
+inspiration                                 ---> n. the new air that breathe in;  the process that
+                                                    take place when sb sees or hears sth that
+                                                    causes them to have exciting new ideas or make
+                                                    them want to create sth, especially in art,
+                                                    music or literature
+                                                 n. a sudden good idea; a person or thing
 
-inspire
+inspire                                     ---> v. to make sb breathe in; to give sb the desire
+                                                    confidence or enthusiasm to so sth well
+                                                 v. be inspired by
 
-inspring
+inspring                                    ---> a. exciting and encouraging you to do or feel sth
 
-install
+install                                     ---> a. to make sth in a particular place
 
-installment
+installment                                 ---> n. act of installing; arrangement of payment
+                                                    by fixed portions at fixed times
 
-instil
+instil                                      ---> n. in a drop(stil); to introduce little by little
+                                                    to gradually make sb feel,think or behave in a
+                                                    particular way over a period of time
 
-instinct
+instinct                                    ---> n. in a straight way; a natural tendency to behave
+                                                 n. a feeling that make you do sth or believe that 
+                                                    sth is true, even though it is not based on facts
+                                                    or reason
 
-instinctual
+instinctual                                 ---> a. based on natural instinct; not learned
 
-institute
+institute                                   ---> n. to make sth stand in; an organization that
+                                                    has a particular purpose; the building used
+                                                    by this organizaiton
+                                                 v. to introduce a system, policy,etc, or start
+                                                    a process
 
-institution
+institution                                 ---> n. a large important organization
+                                                 n. a building where people with special needs 
+                                                    are taken care of
+                                                 n. a custom or system
+                                                 n. the act of starting or introducing sth such as 
+                                                    a system or a law
+                                                 n. a well known person
 
-instruct
-
-instrument
+instruct                                    ---> v. to build in your mind; to tell sb to do sth, 
+                                                    especially in a formal or official way
+                                                 v. to teach sb sth
+                                                 v. to give sb information about sth
+                                                 
+instrument                                  ---> 
 
 instrumental
 
@@ -401,6 +441,16 @@ As a noun inevitable is something that is predictable or cannot be avoided
 
 ```
 
+## oder, tell, instruct, direct & command
+Those words all mean to use your postion of authority to say to sb that they must do sth
+```
+order                   ---> to use your position of authority to tell sb to do sth
+tell                    ---> to say to sb that they must or should do sth
+instruct                ---> rather formal; to tell sb to do sth,especially in a formal or official
+                             way
+direct                  ---> to give an official order
+command                 ---> to use your position of authority to tell sb to do sth
+```
 
 
 
