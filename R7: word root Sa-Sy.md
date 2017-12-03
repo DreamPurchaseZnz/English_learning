@@ -315,7 +315,7 @@ distill
 distillation
 distiller
 ```
-## stinct, sting, stig,sti = to prick, to bind, to point,puncture, particle
+## stinct, sting, stig,sti = to prick, to bind, a point, straight
 ```
 extinct                           ---> of wiping out a material thing; no longer in existence
 instigate                         ---> to urge on, incite                      
