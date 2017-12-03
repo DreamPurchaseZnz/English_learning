@@ -8,7 +8,32 @@ sanitary                     ---> connected with keeping places clean and health
 sane                         ---> having a normal healthy mind ; not mentally
                                   sensible and reasonable
 insanitary                   ---> dirty and likely to spread disease
-
+```
+## scrib, script = to write
+```
+ascribe
+prescribe                    ---> write before sth; to tell sb take a particular medicine or have 
+                                  a particular treatment
+                                  to say that what should be done or how sth should be done
+proscribe                    ---> to write a line forthward ; to say officially that sth is banned
+transcribe                   ---> write accross the the different form; to record thoughts
+circumscribe                 ---> to draw a circle around anther shape; to limit sb/sth'freedom
+                                  rights, power,etc.
+conscript                    ---> write your name into the list of the armed forces;
+conscription
+describe
+description
+descriptive
+inscribe
+manuscript
+postscript
+rescript
+subscribe
+subscription
+scribble
+scribbler
+script
+scripture 
 ```
 ## sen = old
 ```
