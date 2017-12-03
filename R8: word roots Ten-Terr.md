@@ -25,7 +25,6 @@ tactile                           ---> connected with a sense of touch; using yo
 contact                           ---> the state of touching sth/ meeting sb or having to deal with
 intact                            ---> not be touched; complete and damaged
 ```
-
 ## tain, ten,tin, tent = hold
 ```
 abstain            ---> to provent from holding
@@ -51,6 +50,20 @@ tenant             ---> the person who hold the house
 tenet              ---> the principle you hold
 continent          ---> all the people hold the land together
 ```
+## teg, tect = to hide, to cover
+```
+detect             ---> reverse the action of covering
+detection          ---> the process of detecting sth 
+detective
+protect
+protection
+protective
+protectorate
+tegument
+
+```
+
+
 
 ## tend, tens, tent =  to stretch
 ```
