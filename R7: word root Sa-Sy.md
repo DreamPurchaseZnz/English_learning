@@ -54,42 +54,7 @@ scribbler
 script
 scripture 
 ```
-## se = apart
-```
-seclude                         ---> keep away from others
 
-secondary                       ---> less important / not original
-
-segment                         ---> n. easily divided e.g. market, orange
-                                     v. split up/ divide e.g. people, market
-                                     n. bow-shaped
-segregate                       ---> v. keep one thing separate from another and treat them in different way, 
-                                        espectially for people according to their races ,religions or sexes 
-separate                        ---> v. divide; split up; 
-                                     a. standing apart with connection undone.
-secure                          ---> n. keep away from problems / feel safe, certain,firm
-                                     v. protect sth / ensure sth achieved/obtained
-security                        ---> n. the protection of activity or from a department.
-
-select
-
-semantic                        ---> a. relate to the meaning of words and setences
-
-semester                        ---> n. a equal separate part of a year; half year
-
-seminar                         ---> n. a meeting that a separate group of people 
-                                        take part in for discussion/training
-sequence                        ---> n. a set of events, action, numbers in a particular order.
-
-```
-```
-serial                          ---> n. a story published in separate parts
-                                     a. sth arranged in a series
-
-series                          ---> n. several events or things of a similar kind that happened one after one 
-                                        e.g. television, sport games                                  
-
-```
 ## sect = cut
 ```
 section                         ---> n. cut from top to bottom and look from one side / get 
@@ -112,23 +77,17 @@ verisimilar
 ```
 ## sen
 ### sen = sense; feel
-```
-sense                          ---> n. sight/ hearing etc.
-                               ---> n. a feeling about sth important
-                               ---> n. understanding / judgement
-                               ---> v. become aware
-```
-### sen = old
+### sen = old man, elder, old
 ```
 senior
 senate
-senesce       ---> sen + esce = become older
+senesce                        ---> sen + esce = become older
 senile
 senescence      
 senescent
 ```
 
-### sent, sens = to feel
+### sent, sens = to feel,to sense,to percieve
 ```
 sentiment
 sentimental
@@ -255,24 +214,14 @@ resort
 ```
 ## soph =  wise
 ```
-sophism                                                       ---> n. a clever but misundertanding argument
-sophisticate                                                  ---> n. a sophisticate person
-sophisticated                                                 ---> a. having a lot of experience of the world and knowing about fashion
-                                                                      culture and other things that people think are socially important
-                                                                   a. (of machine,system)clever and complicated in this way that it works 
-                                                                      or is presented
-                                                                   a. (of a person) able to understand difficult or complicated ideas                                                               
+sophism                 ---> n. a clever but misundertanding argument
+sophisticate            ---> n. a sophisticate person
+sophisticated           ---> a. having a lot of experience of the world and knowing about fashion
+                                culture and other things that people think are socially important
+                             a. (of machine,system)clever and complicated in this way that it works 
+                                or is presented
+                             a. (of a person) able to understand difficult or complicated ideas                                                               
 
-```
-
-
-
-## sp = space
-```
-spin
-spray  
-spit
-spill
 ```
 
 ## spect , speci, spec(spic, spi, spy) =  to look, to see
@@ -298,9 +247,39 @@ spectroscope       ---> equipment for forming and looking at spectra
 spectrum           ---> a broad range of  wave
 suspect            ---> sb who is under looking
 spy                ---> to look for secret information
-
 ```
-
+## spir, spirat = to breathe (hal = breathe )
+```
+aspire             ---> like to breathe; to have a strong desire to achieve or become sth
+transpire 
+conspire           ---> to breathe together; to secretly plan with other people to do sth
+                        illegal or harmful
+conspiracy
+expire             ---> out of breath; to be no longer valid because the period of time has
+                        ended
+expiration          
+inspire            ---> to breathe new idea in; to give sb the desire, confidence, enthusi-
+                        asm to do sth well
+inspiration        ---> a sudden good idea    
+perspire           ---> thoroughly breathe; to produce sweat on your body
+respire            ---> to breathe again and again
+suspiration        ---> to breathe downward; a utterance made by exhaling audibly
+spirit             ---> animating vital principle in man and animals; 
+                        'spirit soul' directly from "a breathing(respairation,and of the wind)
+                        breath of a god"; breath of life; life
+                        mind/feelings/ character
+                        courage/determination
+                        loyal feeling
+                        attitude
+                        the ghost; the soul thought of as seperate from the body
+                        divine gas; alcohol
+dispirit           ---> to lower your spirit; 
+spiritual          ---> connect to human spirit, rather than the body or physical things
+spirituous         ---> containing or of the nature of alcohol
+sprightly          ---> spr< spir ; adj. full of life  and energy
+spiral             ---> moving in a continuous curve that winds around a central point
+spire              ---> a tall pointed structure on the top of  a building
+```
 
 ## st, sta ,stan ,stin ,stab ,stal ,stor ,stat ,stit ,sist , stitut ,sist = stst, stand
 ```
