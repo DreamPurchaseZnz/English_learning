@@ -2,6 +2,13 @@
 
 # SE
 ## se = apart
+## sp = space
+```
+spin
+spray  
+spit
+spill
+```
 ```
 seclude                         ---> keep away from others
 
