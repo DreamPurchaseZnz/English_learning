@@ -57,13 +57,18 @@ To instil confidence/ discipline/ fear into sb
 The new management intends to institute a number of changes
 The institution of new safety procedures
 We have been instructed that a decision will not be made before the end of week
-
-
-
-
-
-
-
+a flight instrument
+He has just distangled herself from a painful relationship
+It's intended that production will start at the end of the month
+The intense interest/desire/ anger
+intensity of feeling/concentration/relief
+This case has been intensively studied
+intensively farmed land
+I am so intent on my work that I didn't notice the time
+His eyes were suddenly intent
+I have no intention of going to the wedding
+The road to hell is paved with good intentions
+The world is becoming increasingly interdependent
 
 
 
