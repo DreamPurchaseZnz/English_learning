@@ -341,6 +341,26 @@ stimulus
 stimulant
 
 ```
+## stru, stro, struct = build
+```
+structure  
+structural  
+construct  
+construtor  
+construction  
+constructive  
+reconstruct  
+reconstruction  
+destruction  
+destructible  
+instruct  
+indestructible  
+substructure  
+superstructure  
+obstruct  
+obstruction  
+obstructive  
+```
 ## sua, suad, suas(suav) = to persuade, to advise
 ```
 dissuade              ---> persuade sb not to do sth
