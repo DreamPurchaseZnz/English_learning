@@ -290,11 +290,14 @@ hamlet              ---> a very small village
 rivulet             ---> a very small river
 streamlet           ---> a very small stream
 ```
-## -ment = condition of 
+## -ment = the act or state or fact of doing, the condition of being -ed, the product or result of -ing, the cause or means of -ing
 ```
-argument
-punishment
-
+alignment           ---> the result of aligning; arrangement in a straight line
+argument            ---> the process of arguing
+fragment            ---> the state of breaking apart
+pavement            ---> the result of paving
+equipment           ---> the condition of being equiped
+government          ---> the fact of gevernng
 ```
 
 ## -sion , -tion, -ness = state of being
