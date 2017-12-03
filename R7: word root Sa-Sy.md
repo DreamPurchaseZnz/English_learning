@@ -1,4 +1,12 @@
 # S
+## san = health, safety
+```
+sanatorium  
+sanitary                     ---> connected with keeping places clean and healthy to live in
+                                  clean; not likely to cause healthy problems
+ 
+
+```
 ## sen = old
 ```
 senior
