@@ -215,11 +215,14 @@ innovative                                  ---> a. introducing or using new ide
 
 input
 
-insane
+insane                                      ---> a. that is not health mentally; serious mentally ill and 
+                                                    unable to live in a normal society
+                                                 a. people who are insane
+                                                 a. very stupid , crazy and dangerous
 
-inscribe
+inscribe                                    ---> v. to write sth onto sth; to write or cut words, your name,etc, onto sth
 
-insecure
+insecure                      
 
 insert
 
