@@ -37,7 +37,12 @@ series                          ---> n. several events or things of a similar ki
                                         e.g. television, sport games                                  
 
 ```
-
+```
+sense                          ---> n. sight/ hearing etc.
+                               ---> n. a feeling about sth important
+                               ---> n. understanding / judgement
+                               ---> v. become aware
+```
 ```
 senior                          ---> n./ adj. high in rank / status
 
