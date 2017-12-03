@@ -308,6 +308,39 @@ insist                ---> in(enhanced) + sist
 understand
 
 ```
+## still = to drop
+```
+instill
+distill
+distillation
+distiller
+```
+## stinct, sting, stig,sti = to prick, to bind, to point,puncture, particle
+```
+extinct                           ---> of wiping out a material thing; no longer in existence
+instigate                         ---> to urge on, incite                      
+prestigious
+extinguish
+extinguisher
+distinct                          ---> piont out what is the difference
+distinctive
+distinction
+distinguish
+distingushed
+distinguishable
+instinct
+instinctive
+sting
+stingy
+stigma
+stigmatize 
+astigmatism
+stipend
+stimulate
+stimulus
+stimulant
+
+```
 ## sua, suad, suas(suav) = to persuade, to advise
 ```
 dissuade              ---> persuade sb not to do sth
