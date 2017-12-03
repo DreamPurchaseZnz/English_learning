@@ -168,6 +168,21 @@ subway               --->
 
 
 # Suffixes 
+### -al = act or process of
+```
+n/adj  -> adj             ---> of, like ,having the nature of
+v      -> n               ---> the act of doing sth
+```
+```
+national
+industrial
+mental
+oral                     ---> or(=mouth)
+arrival                  ---> the act of arriving
+denial                   ---> the act of denying
+```
+
+
 ## -ary, ery, -ory, -ry = of or belonging to
 
 (forming adjectives):of, related to; belonging to; 
@@ -188,6 +203,27 @@ library
 dictionary
 salary                 ---> relate to salt
 ```
+## -ance, ence = state or quality of
+```
+maintenance
+assurance
+
+```
+## -ate, -en,ize = become
+
+## -dom =  state or place of being
+```
+kingdom
+freedom
+boredom
+
+```
+## -er -or = one who 
+```
+trainer
+protector
+
+```
 ## -esque, ique = like
 ```
 picturesque            ---> pretty, especially in a way that looks old-fashioned
@@ -196,7 +232,50 @@ lionesque              ---> like a lion
 romanesque             ---> the architecture in the style that commen in western
                             Europe
 antique                ---> old and often valuable
+```
 
+## ical,ic = related to
+```
+musical
+domestic
+```
+
+## -ify, -fy = make or become
+
+## -ious, -ulous, eous, itious, aceous, aneous = characterized by, having of ,full of
+
+```
+ridiculous                ---> rid = laugh ; that make sb laugh
+sensuous                  ---> characterized by sense
+comtemptuous              ---> try together thus there is no stiumulation;show no 
+                               respect of sb/sth
+righteous                 ---> having the nature of right; morally right and good
+laborious                 ---> taking a lot of time and effort
+contradictious           
+studious
+portendious
+nutritious
+```
+
+## -ish = having the quality of
+```
+childish
+foolish
+```
+## -ive, -itive = having the nature of
+```
+creative
+decisive
+divisive
+```
+
+
+## -less = without
+```
+endless
+ageless
+lawless
+effortless
 ```
 
 ## -let = small
@@ -211,114 +290,42 @@ hamlet              ---> a very small village
 rivulet             ---> a very small river
 streamlet           ---> a very small stream
 ```
-
-
-
-## -ure = state, quality, act, result , that which
-```
-culture
-posture
-```
-
-## Adjective Suffixes
-### -ive, -itive = having the nature of
-```
-creative
-decisive
-divisive
-```
-
-
-### -ish = having the quality of
-```
-childish
-foolish
-```
-### -less = without
-```
-endless
-ageless
-lawless
-effortless
-```
-### -ious, -ous = characterized by
-```
-studious
-portendious
-nutritious
-```
-### ical,ic = related to
-```
-musical
-domestic
-```
-## verb suffexes
-### -ate, -en,ize = become
-
-### -ify, -fy = make or become
-
-
-
-
-## Noun suffexes
-### -al = act or process of
-```
-refusal          the act of refusing
-
-
-```
-## -ance, ence = state or quality of
-```
-maintenance
-assurance
-
-```
-
-
-## -er -or = one who 
-```
-trainer
-protector
-
-```
-## -ist = one who
-```
-chemist
-
-
-```
-
-
-### -sion , -tion, -ness = state of being
-```
-transition     ---> the state across places
-
-
-```
-### -ship  = position hold
-```
-fellowship
-ownership
-
-```
-### -ment = condition of 
+## -ment = condition of 
 ```
 argument
 punishment
 
 ```
-### -dom =  state or place of being
+
+## -sion , -tion, -ness = state of being
 ```
-kingdom
-freedom
-boredom
+transition     ---> the state across places
+
+
+```
+## -ship  = position hold
+```
+fellowship
+ownership
 
 ```
 
-
-
-
-
+## -ous = having of ,full of, charaterized by ; having the nature of ,having to do with
+```
+advantageous           ---> having of advantage    
+joyous                 ---> full of joy
+murderous              ---> characterized by murder
+anxious                ---> full of anxiety
+credulous              ---> characterized by credulity
+ferrous                ---> having the nature of iron
+obvious                ---> across the road(vi) ; easy to see or undertand
+flagitious             ---> shockingly cruel
+```
+## -ure = state, quality, act, result , that which
+```
+culture
+posture
+```
 
 
 
