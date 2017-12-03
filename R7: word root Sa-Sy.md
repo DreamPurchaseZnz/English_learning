@@ -1,10 +1,13 @@
 # S
 ## san = health, safety
+sani = healthy;     sane = healthy mind
 ```
 sanatorium  
 sanitary                     ---> connected with keeping places clean and healthy to live in
                                   clean; not likely to cause healthy problems
- 
+sane                         ---> having a normal healthy mind ; not mentally
+                                  sensible and reasonable
+insanitary                   ---> dirty and likely to spread disease
 
 ```
 ## sen = old
