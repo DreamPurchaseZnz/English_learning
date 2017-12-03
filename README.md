@@ -234,7 +234,7 @@ romanesque             ---> the architecture in the style that commen in western
 antique                ---> old and often valuable
 ```
 
-## ical,ic = related to
+## -ical,-ic = related to
 ```
 musical
 domestic
