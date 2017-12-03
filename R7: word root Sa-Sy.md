@@ -1,4 +1,23 @@
 # S
+## sal(sul, sil, sail, saul) = to leap
+```
+salient
+exult
+resilient
+assault
+consult
+consultant
+exile
+insult
+result
+sally
+salmon
+salad                ---> a "salted" dish
+salary               ---> a soldier's allowance for buying salt
+salaried
+
+```
+
 ## san = health, safety
 sani = healthy;     sane = healthy mind
 ```
@@ -34,40 +53,6 @@ scribble
 scribbler
 script
 scripture 
-```
-## sen = old
-```
-senior
-senate
-senesce       ---> sen + esce = become older
-senile
-senescence      
-senescent
-```
-
-## seri = series
-```
-series
-serial
-serialize
-serialation
-seriation
-```
-## sect = cut
-```
-section                         ---> n. cut from top to bottom and look from one side / get 
-                                     n. one of the parts e.g.book, structure, group of people ,
-                                        organization, distinct
-sector                          ---> n. a social group that form part of society or economy; 
-                                     n. fan-shaped 
-                                     
-```
-## sit(sed, sit),sess(sid) = to sit
-```
-sedentary                       ---> a. spend a long time sitting down / stay a place
-sediment                        ---> n. settles at the bottom of liquid
-seduce                          ---> v. persuade sb to do / have a sex with you
-                                     v. attract sb
 ```
 ## se = apart
 ```
@@ -105,56 +90,15 @@ series                          ---> n. several events or things of a similar ki
                                         e.g. television, sport games                                  
 
 ```
-## sen = sense; feel
+## sect = cut
 ```
-sense                          ---> n. sight/ hearing etc.
-                               ---> n. a feeling about sth important
-                               ---> n. understanding / judgement
-                               ---> v. become aware
+section                         ---> n. cut from top to bottom and look from one side / get 
+                                     n. one of the parts e.g.book, structure, group of people ,
+                                        organization, distinct
+sector                          ---> n. a social group that form part of society or economy; 
+                                     n. fan-shaped 
+                                     
 ```
-
-
-
-
-
-## sid(sed, sit), sess(sid) = to sit
-```
-resident         ---> one who 'sit' back somewhere
-preside          ---> to sit before others
-president        ---> an executive officer who sits in charge of a firm or organization
-reside           ---> to settle into a place to live ; exist
-residence        ---> a home; a place where a person settles to live
-session          ---> a meeting, class, or assembly where a group sits together
-subside          ---> to sit back to normal level
-dissident        ---> person who sits apart from others
-possess          ---> to sit at some position; to have or own it
-assesss          ---> to sit; to judge or estimate 
-consider         ---> to sit together to think about sth carefully        
-supersede        ---> to sit over sth/sb; to take the place of sth/sb
-obsession        ---> to sit in your way;
-sedimentary      ---> to settle at the bottom of lakes,etc
-saddle           ---> a leather seat for a rider on a hourse
-```
-
-## sal(sul, sil, sail, saul) = to leap
-```
-salient
-exult
-resilient
-assault
-consult
-consultant
-exile
-insult
-result
-sally
-salmon
-salad                ---> a "salted" dish
-salary               ---> a soldier's allowance for buying salt
-salaried
-
-```
-
 ## sem(sembl), sim(simul, simil) = same, like, equal
 ```
 simulate
@@ -166,7 +110,25 @@ simultaneous
 resemble
 verisimilar
 ```
-## sent, sens = to feel
+## sen
+### sen = sense; feel
+```
+sense                          ---> n. sight/ hearing etc.
+                               ---> n. a feeling about sth important
+                               ---> n. understanding / judgement
+                               ---> v. become aware
+```
+### sen = old
+```
+senior
+senate
+senesce       ---> sen + esce = become older
+senile
+senescence      
+senescent
+```
+
+### sent, sens = to feel
 ```
 sentiment
 sentimental
@@ -193,7 +155,6 @@ extrasensory
 sentence
 scent
 
-
 ```
 ## serv = to serve, to keep,slave
 ```
@@ -208,6 +169,40 @@ serve                      ---> to be useful to sb in achieving and satisfying s
 servitude                  ---> the condition of being a slave
 serfdom                    ---> the system of serfs
 ```
+
+## seri = series
+```
+series
+serial
+serialize
+serialation
+seriation
+```
+
+## sid(sed, sit), sess(sid) = to sit
+```
+resident         ---> one who 'sit' back somewhere
+preside          ---> to sit before others
+president        ---> an executive officer who sits in charge of a firm or organization
+reside           ---> to settle into a place to live ; exist
+residence        ---> a home; a place where a person settles to live
+session          ---> a meeting, class, or assembly where a group sits together
+subside          ---> to sit back to normal level
+dissident        ---> person who sits apart from others
+possess          ---> to sit at some position; to have or own it
+assesss          ---> to sit; to judge or estimate 
+consider         ---> to sit together to think about sth carefully        
+supersede        ---> to sit over sth/sb; to take the place of sth/sb
+obsession        ---> to sit in your way;
+saddle           ---> a leather seat for a rider on a hourse
+sedentary        ---> a. spend a long time sitting down / stay a place
+sediment         ---> n. settles at the bottom of liquid
+seduce           ---> v. persuade sb to do / have a sex with you
+                      v. attract sb
+```
+
+
+
 ## sign = mark ,sign, seal
 ```
 consign
@@ -327,7 +322,6 @@ restless              ---> rest + less
 arrest                ---> ar(= ad =to) + re (back) + st
 post                  ---> po(pro = ahead) + st
 poster
-
 consist               ---> con(together) + sist
 assist                ---> as(at) + sist(stand)
 exist                 ---> ex(out) + ist(sist = stand)
