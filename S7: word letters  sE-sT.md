@@ -1,6 +1,42 @@
 
 
 # SE
+## se = apart
+```
+seclude                         ---> keep away from others
+
+secondary                       ---> less important / not original
+
+segment                         ---> n. easily divided e.g. market, orange
+                                     v. split up/ divide e.g. people, market
+                                     n. bow-shaped
+segregate                       ---> v. keep one thing separate from another and treat them in different way, 
+                                        espectially for people according to their races ,religions or sexes 
+separate                        ---> v. divide; split up; 
+                                     a. standing apart with connection undone.
+secure                          ---> n. keep away from problems / feel safe, certain,firm
+                                     v. protect sth / ensure sth achieved/obtained
+security                        ---> n. the protection of activity or from a department.
+
+select
+
+semantic                        ---> a. relate to the meaning of words and setences
+
+semester                        ---> n. a equal separate part of a year; half year
+
+seminar                         ---> n. a meeting that a separate group of people 
+                                        take part in for discussion/training
+sequence                        ---> n. a set of events, action, numbers in a particular order.
+
+```
+```
+serial                          ---> n. a story published in separate parts
+                                     a. sth arranged in a series
+
+series                          ---> n. several events or things of a similar kind that happened one after one 
+                                        e.g. television, sport games                                  
+
+```
 
 ```
 senior                          ---> n./ adj. high in rank / status
