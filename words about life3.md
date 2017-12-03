@@ -46,4 +46,25 @@ The goverment has initiated a programme of economic reform
 You won't get much help, you'll have to use your initiative
 to seize/ lose initiative
 They are refusing to inject any more capital into the industry
+With a flash of insight,I realized what the dream meant
+The book give us fascinating insights into life in Mexico 
+Make sure you inspect the goods before signing for them
+For us, it's something that we may aspire to but can never attain
+Obey the spirit, not the letter of the law
+He had an inspiration: he'd give her a dog for her birthday
+It comes to me in a flash of inspiration
+To instil confidence/ discipline/ fear into sb
+The new management intends to institute a number of changes
+The institution of new safety procedures
+We have been instructed that a decision will not be made before the end of week
+
+
+
+
+
+
+
+
+
+
 ```
