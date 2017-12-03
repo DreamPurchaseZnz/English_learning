@@ -298,53 +298,80 @@ instruct                                    ---> v. to build in your mind; to te
                                                  v. to teach sb sth
                                                  v. to give sb information about sth
                                                  
-instrument                                  ---> 
+instrument                                  ---> n. that used to build ;a tool or devices used for a particular task
+                                                 n. a device used for measuring speed, distance, temperature,etc
+                                                 n. something that is used by sb in oder to achieve sth
 
-instrumental
+instrumental                                ---> a. important in making sth happen
+                                                 a. made by or for musical instruments
 
-insufficient
+insufficient                                ---> a. not sufficient; not large, strong or more important enough for a particular
+                                                    purpose
 
-insularity
+insularity                                  ---> n. the state of being isolated or detached
 
-insulate
+insulate                                    ---> v. block from electricity or heat
+                                                 v. causing a person or thing to be detached from surrounding
 
-insulation
+insulation                                  ---> n. the act of protecting sth with a material that prevent heat, sound, electricity
+                                                    etc, from passing though; the material used for this
 
-insurance
+insurance                                   ---> n. in the safaty protect; something you do to protect yourself against sth 
+                                                    bad happening in the future
+                                             
 
-intact
+intact                                      ---> n. complete and not demaged
 
-intake
+intake                                      ---> n. to take in; the amount of food, drink,etc.
+                                                 n. the number of people who are allowed to enter a school, college, profession
+                                                 n. a place where liquid,etc. enters a machine
+                                                 n. the act of taking sth in, especially breath
+                                                 
 
-integral
+integral                                    ---> a. hide in sth; being an essential part of sth
+                                                 a. included as part of sth,rather than supplied seperately
+                                                 a. having all the parts that are necessary for sth to be complete
 
-integrate
+integrate                                   ---> v. to combine two or more things so that they work together
+                                                 v. to become or make sb become accepted as a member of a social group
 
-intelligence
+intelligence                                ---> n. the ability to learn, understand and think in a logical way about things
+                                                 n. secret information that is collected, for example about foreign country
 
-intelligent
+intelligent                                 ---> a. good at learning, understanding and think in a logical way about things
+                                                 a. able to store information and use it in new situation
 
-intelligible
+intelligible                                ---> a. that can be easily understood
 
-intend
+intend                                      ---> v. to have a plan,result or purpose in your mind
+                                                 v. to plan that sth should have a particular meaning
 
-intense
-intensify
-intensity
-intensive
+intense                                     ---> a. in the state of streching out; very great, very strong
+intensify                                   ---> v. to increase in degree or strength
+intensity                                   ---> n. the state or quality of being intense
+intensive                                   ---> a. involving a lot of work or activity done in a short time
+                                                 a. extremely thorough; done with a lot of care
 
-intent
-intention
+intent                                      ---> a. showing strong interest and attention
+                                                 a. determined to do sth, especially sth that will harm other people
+                                                 a. giveing all your attention to sth
+                                                 
+intention                                   ---> n. what you intend or plan to do; your aim
 
-interact
+interact                                    ---> v. act mutually; to communicate with sb, especially while you work,play, 
+                                                    or spend time with them
+                                                 v. two things have an effect on each other
 
-interdependent
+interdependent                              ---> a. depend mutually; that depend on each other; consisting of parts that
+                                                    depend on each other
 
-interest
+interest                                    ---> n. wanting to know more; attraction; hobby; money;advantage; share in business
 
-interface
+interface                                   ---> n. a surface forming a common boundary between two things
+                                                 n. the overlap where two theories or phenomena affect each other
 
-interfere
+interfere                                   ---> n. to carry back to normal between;to get involved in and try to influence a
+                                                    situation that does not concern you, in a way that annoys other people
 
 interior
 
