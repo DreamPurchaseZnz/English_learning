@@ -64,6 +64,17 @@ sector                          ---> n. a social group that form part of society
                                      n. fan-shaped 
                                      
 ```
+## sel,sul, sult = summon
+```
+consul                         ---> a goverment official who is representative of his or her country in
+                                    a foreign city
+counsel
+consult
+consulate
+counselor
+consular
+```
+
 ## sem(sembl), sim(simul, simil) = same, like, equal
 ```
 simulate
