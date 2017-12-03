@@ -81,6 +81,29 @@ irrelevant             ---> not to weigh any more; not important to or connected
 ignoble                ---> not good;  not good or honest , that shold make feel shame
 ignore                 ---> not worthy to know; pay no attention to sth
 ```
+## inter-, intel-, enter- = between, among; mutually, mutual
+```
+intercept              ---> seize between two place;to stop sb/sth that is going from one place to another from arriving
+interrupt              ---> break between; to stop sth for a while
+intellectual           ---> lect(=to choose) between choices; connected with or using a person's ability to think in a logical
+                            way and understand things
+enterprising           ---> to take between;  having or showing ablility to think of new projects or new ways of doing things
+intervene              ---> to come in the middle; to become involved in a situation in order to improve or help it
+intermediary
+intersect
+intermittent
+interest               ---> be conncected with or have a share in
+interfere
+interpose
+interchange
+interconnect
+intercity
+international
+interview
+interflow
+```
+
+
 ## mal-(male-) = badly
 ```
 malnutrition
