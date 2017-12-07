@@ -373,47 +373,54 @@ interface                                   ---> n. a surface forming a common b
 interfere                                   ---> n. to carry back to normal between;to get involved in and try to influence a
                                                     situation that does not concern you, in a way that annoys other people
 
-interior
+interior                                    ---> n. the inside part of sth
+                                                 n. the central part of a country or continent
+                                                 n. a country's own affairs
 
-intermediate
+intermediate                                ---> a. located between places, things, states
 
-intermix
+intermix                                    ---> a. mixed between
 
-intern
+intern                                      ---> v. a advanced student or graduate in medicine gaining supervised pratical
+                                                    experience
 
-internal
+internal                                    ---> a. connected with the inside of sth,such as your body, a particular organization
+                                                    a country's own affair, your mind
 
-internationalist
+internationalist                            ---> n. a person who believes that countries should work together
 
-internist
+internist                                   ---> n. a doctor who have a specialist in the treatment of diseases
 
-internship
+internship                                  ---> n. a period of time which intern get a parctical experience in a job
 
-interplay
+interplay                                   ---> n. the way in which two or more things or people affect each other
+ 
+interpret                                   ---> v. to explain the meaning of sth
 
-interpret
+interpretation                              ---> v. the particular way in which sth is undertood or explained
 
-interpretation
+interrelationship                           ---> n. the way in which two or more things or people are connected and
+                                                    affect each other
 
-interrelationship
+interrupt                                   ---> n. to break in the way; to stop for a short time 
 
-interrupt
+intersection                                ---> n. cut in the way; a place where two or more roads,lines,etc,meet or cross
+                                                    each other
 
-intersection
+interview                                   ---> n. view each other; a formal meeting
 
-interview
+intestine                                   ---> n. a long tube in the body
 
-intestine
+intimate                                    ---> a. close, friendly ralationship
 
-intimate
+intrigue                                    ---> v. to make sb very interested and want to know more
+                                                 v. to secretly plan with other people to harm sb
 
-intrigue
-
-intrinsic
+intrinsic                                   ---> a. belonging to or part of real nature of sth/sb
 
 introduction
 
-introspection
+introspection                               ---> n. look into your own thought
 
 introvert
 
