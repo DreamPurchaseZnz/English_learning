@@ -463,25 +463,38 @@ invert                                      ---> v. to change the normal positio
 invest                                      ---> v. make an investment
                                                  v. provide with power and authority
 
-investigate                                
+investigate                                 ---> v. to carefully examine the facts of a situation, a event
+                                                    etc. to find out the truth about it or how it happened
 
-inviolable
+inviolable                                  ---> a. that has been, or must be respected and cannot be attacked
+                                                    or destroyed
 
-invisible
+invisible                                   ---> a. not be seen; than cannot be seen
 
-invoice
+invoice                                     ---> v. to write or send a bill for work you have done or goods
+                                                    you have provided
 
-invoke
+invoke                                      ---> v. to call upon; to mention or use a law, rule,etc, as a reason
+                                                    for doing sth; cite as an authority
+                                                 v. request earnestly
+                                                 v. summon into action or bring into existence, ofen as if by magic
 
-involve
+involve                                     ---> v. contain as a part
+                                                 v. make complex or intricate or complicated
+                                                 v. engage as a participant
 
-ion
+ion                                         ---> n. a particle that is electrically charged
 
-iris
+iris                                        ---> n. the round coloured part that surrounds the pupil of your eye
+                                                 n. a tall plant with long pointed leaves and large purple or yellow
+                                                    flowers
 
-iron
+iron                                        ---> n. a chemical element
+                                                 n. a tool with a flat metal base
+                                                 v. press and smooth with a heated iron
+                                                 a. extremely robust
 
-irony
+irony                                       ---> 
 
 irrational
 
@@ -533,6 +546,24 @@ instruct                ---> rather formal; to tell sb to do sth,especially in a
 direct                  ---> to give an official order
 command                 ---> to use your position of authority to tell sb to do sth
 ```
+## bill, statement, account, invoice, tab, check
+Those are all words for a record of how much you owe for goods for service you have bought or used
+```
+bill                    ---> a list of goods that you have bought or services that you used; 
+                             the price or cost of sth
+statement               ---> a printed record of money spent, recieved, etc.
+account                 ---> a arrangement with shop/store to pay a bill at a later time
+invioce                 ---> a bill for good supplied or work done as agreed between a customer and supplier
+tab                     ---> a bill for goods you recieve but pay for later
+check                   ---> a piece of paper that show how much you have to pay for food or drinks 
+                             in a restaurant
+
+
+
+
+```
+
+
 
 
 
