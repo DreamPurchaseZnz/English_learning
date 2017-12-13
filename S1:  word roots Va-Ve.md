@@ -136,7 +136,29 @@ inviolable
 inviolate  
 nonviolent  
 ```
-
+## volv, volu, volut = to roll, to turn
+```
+convolution
+evolve
+voluble
+voluminous
+devolve
+devolution
+involute
+involve
+involved
+revolve
+revolving
+revolver
+revolution
+revolutionary
+revolutionize
+counterrevolution
+revolt
+revolting
+voluted
+circumvolute
+```
 
 
 
