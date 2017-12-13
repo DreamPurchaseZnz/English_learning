@@ -84,3 +84,20 @@ tent                         ---> able to stretch
 ```
 
 ## terr = to frighten
+
+
+## trud, trus =  to thrust, to push
+```
+obtrude
+extrude  
+abstruse 
+intrude 
+intrusion  
+intrusive  
+thrust
+protrude                      ---> extend out or project in space
+protrudent  
+protrusile
+detrude                       ---> to push down  
+```
+
