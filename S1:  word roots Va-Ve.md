@@ -124,7 +124,18 @@ supervise            ---> look over
 
 
 ```
-
+## voil = voilence/strength
+```
+violence  
+violent  
+violently  
+violate  
+violation  
+violable  
+inviolable  
+inviolate  
+nonviolent  
+```
 
 
 
