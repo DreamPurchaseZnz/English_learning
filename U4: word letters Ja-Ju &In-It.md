@@ -422,49 +422,97 @@ introduction
 
 introspection                               ---> n. look into your own thought
 
-introvert
+introvert                                   ---> n. turn inside; fold inside
 
-intrusion
+intrusion                                   ---> n. trust oneself in as if by force
 
-inundate
+inundate                                    ---> v. fill quickly beyond capacity
+                                                 v. fill or cover completely, usually with water
 
-invade
+invade                                      ---> v. to intrude upon,infringe,encroach on
 
-invader
-invalid
-invaluable
-invasion
-invasive
-inventive
-inventory
-inversion
-invert
-invest
-investigate
+invader                                     ---> n. someone who enter by force in order to conquer
+
+invalid                                     ---> a. have no congency or legal force
+                                                 n. someone who is incapacitated by a chronic
+                                                    illness or injury
+                                                 v. injure permanently
+
+invaluable                                  ---> a. having incalculable monetary, intellectual or 
+                                                    spiritual worth
+
+invasion                                    ---> n. the act of invading
+                                                 n. pathology, the spread of pathogenic microorganisms
+                                                    to new sites in the body
+                                                 n. any entry into an area not previously occupied
+
+invasive                                    ---> a. gradually intrusive without right or permission
+
+inventive                                   ---> a. characterized by a high degree or intensity
+                                                 a. of agriculture
+                                                 a. tending to give force or enphasis
+
+inventory                                   ---> n. detailed list of goods, catelogue
+
+inversion                                   ---> n. the act of changing the position or order of sth 
+                                                    into its opposite, or of turning sth upside down
+
+invert                                      ---> v. to change the normal position of sth especially by 
+                                                    turning it upside down
+
+invest                                      ---> v. make an investment
+                                                 v. provide with power and authority
+
+investigate                                
+
 inviolable
+
 invisible
+
 invoice
+
 invoke
+
 involve
+
 ion
+
 iris
+
 iron
+
 irony
+
 irrational
+
 irregularity
+
 irrelevant
+
 irresistible
+
 irrevocable
+
 irrigation
+
 irritable
+
 irritate
+
 irritation
+
 isle
+
 isolate
+
 isolated
+
 issue
+
 item
+
 itinerary
+
 
 ```
 
