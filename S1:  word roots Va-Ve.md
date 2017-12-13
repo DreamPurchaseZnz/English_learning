@@ -90,7 +90,16 @@ advertise
 subvert  
 subversion 
 ```
-
+## vest =  to dress
+```
+travesty 
+invest                      ---> to dress sb in or to dress yourself with sth
+investment
+vest
+vestment
+vestry
+vesture
+```
 
 ## vid, vis = to look , to see
 ```
