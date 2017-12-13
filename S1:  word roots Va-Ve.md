@@ -68,6 +68,30 @@ souvenir              ---> an item which 'come' under your memory to support it 
 venture
 ventilate
 ```
+## vert, vers =  to turn
+```
+avert
+inadvertent 
+pervert 
+universe  
+university 
+divert 
+adverse 
+adversary 
+reverse 
+introvert 
+extrovert
+convert 
+versatile 
+diverse 
+version 
+vertex 
+advertise 
+subvert  
+subversion 
+```
+
+
 ## vid, vis = to look , to see
 ```
 devise               ---> look down
