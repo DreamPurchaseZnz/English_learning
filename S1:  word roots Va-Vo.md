@@ -124,6 +124,35 @@ supervise            ---> look over
 
 
 ```
+## voc,vok(vouc,vow, voic) = to call, voice
+```
+avocation 
+advocate 
+evoke 
+avowed 
+disavow 
+invoke 
+irrevocable 
+provoke 
+avouch
+revoke 
+convoke
+convocation
+invoice
+unvoiced
+vocabulary
+vocal
+vocational
+vocative
+vouch
+voucher
+vow
+vowel
+vox
+vociferate
+equivocal 
+multivocal
+```
 ## voil = voilence/strength
 ```
 violence  
@@ -136,6 +165,7 @@ inviolable
 inviolate  
 nonviolent  
 ```
+
 ## volv, volu, volut = to roll, to turn
 ```
 convolution
