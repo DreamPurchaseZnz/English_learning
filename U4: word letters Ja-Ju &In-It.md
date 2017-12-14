@@ -510,27 +510,42 @@ irrelevant                                  ---> a. not important or connected w
 irresistible                                ---> a. so strong that it cannot be stopped or resisted
                                                  a. so attractive that you feel you must have it
 
-irrevocable                                 ---> a. 
+irrevocable                                 ---> a. that cannot be changed
 
-irrigation
+irrigation                                  ---> a. a supplying of water to land
 
-irritable
+irritable                                   ---> a.  easily excited
 
-irritate
+irritate                                    ---> v. stimulate to action; to annoy sb
+                                                 v. to make your skin or part of your body sore or painful
 
-irritation
+irritation                                  ---> n. a feeling of annoyance
+                                                 n. a feeling of slight pain and discomfort
 
-isle
+isle                                        ---> n. names to mean 'island'
 
-isolate
+isolate                                     ---> v. place or set apart
+                                                 v. set apart from others
 
-isolated
+isolated                                    ---> a. far from any others
+                                                 a. without much contact with other people 
+                                                 a. single; happening once
 
-issue
+issue                                       ---> n. exit,a going out, flowing out; a piont to be decided
+                                                    topic of discussion
+                                                 n. problem /worry
+                                                 n. of stamps/coins/shares;action of sending into publication or circulation
+                                                 n. make available/known
+                                                 n. children
+                                                 v. action of sending; to make sth known formally
+                                                 v. to give sth to sb
+                                                 v. sending, start, produce
 
-item
+item                                        ---> n. one thing on a list of things to buy,do ,
+                                                    talk about,etc.
+                                                 n. a single article or object
 
-itinerary
+itinerary                                   ---> n. itinerary
 
 
 ```
