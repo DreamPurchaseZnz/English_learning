@@ -30,3 +30,38 @@ redeem: buy ‘back’
 redundant: flow ‘again’ unnecessarily
 
 ```
+
+## rect, rig =  straight, right
+```
+maladroit                  ---> mal(=bad) + a(=to) + droit<rect(=straight,right)
+incorrigible               ---> in(=not) + cor<com(=togehter) + rig(=straight)
+rectify
+corrigible                 ---> cor<com(=togehter)
+dirigible
+rigid
+rigor
+rigorous
+righteous
+rightful
+rectal
+rectangle
+rectitude
+rector
+correct
+correctitude
+direct
+directory
+erect
+erectile
+incorrect
+indirect
+```
+
+
+
+
+
+## rig = to water
+```
+irrigation
+```
