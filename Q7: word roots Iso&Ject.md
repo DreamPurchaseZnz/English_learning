@@ -1,3 +1,25 @@
+# I
+## iso = equal, similar
+```
+isogon  
+isogonal  
+isobar  
+isobaric  
+isochromatic  
+isochronic  
+isochronism  
+isochronize  
+isodynamic  
+isoelectronic  
+isohedral  
+isomagnetic  
+isotherm  
+isothermal  
+isopod  
+isometric  
+isogeotherm  
+isogeothermal  
+```
 # J
 ## ject, jac(jet) = to throw
 ```
