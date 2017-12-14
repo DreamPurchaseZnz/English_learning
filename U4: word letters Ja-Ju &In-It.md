@@ -494,17 +494,23 @@ iron                                        ---> n. a chemical element
                                                  v. press and smooth with a heated iron
                                                  a. extremely robust
 
-irony                                       ---> 
+irony                                       ---> n. the amusing or strange aspect of a situation that is very different 
+                                                    from what you expect, espectially because it involves a contrast
+                                                 n. the use of words that say the opposite of what you really mean
 
-irrational
+irrational                                  ---> n. not reasonable; not based on, or not using, clear logical thought
 
-irregularity
+irregularity                                ---> n. an activity or practice which is not acording to the usual rules
+                                                    , or not normal
+                                                 n. something that does not happen at regular intervals
+                                                 n. something that is not smooth or regular in shape or arrangement
 
-irrelevant
+irrelevant                                  ---> a. not important or connected with a situation
 
-irresistible
+irresistible                                ---> a. so strong that it cannot be stopped or resisted
+                                                 a. so attractive that you feel you must have it
 
-irrevocable
+irrevocable                                 ---> a. 
 
 irrigation
 
