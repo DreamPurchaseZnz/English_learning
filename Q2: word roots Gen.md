@@ -47,6 +47,24 @@ mitrogen
 biogenesis
 endogenous
 ```
+
+## gnor, gnos, gniz = to know
+```
+ignorant  
+ignorance  
+ignore  
+gnostic  
+agnostic  
+diagnose  
+diagnosis  
+diagnostic  
+diagnostician  
+prognostic  
+prognosticate  
+prognosticator  
+```
+
+
 ## grad, gress(gred) = step ,to go, to walk
 ```
 degrade                    ---> to go down; to show or treat sb in a way make them seem not worth take seriously
