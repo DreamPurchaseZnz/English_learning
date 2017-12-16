@@ -1,6 +1,7 @@
 # I
 ## iso = equal, similar
 ```
+isolate
 isogon  
 isogonal  
 isobar  
@@ -20,6 +21,17 @@ isometric
 isogeotherm  
 isogeothermal  
 ```
+## ident = same
+```
+identical  
+identic  
+identify  
+identification  
+identifiable  
+identifier  
+identity  
+```
+
 # J
 ## ject, jac(jet) = to throw
 ```
