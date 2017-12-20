@@ -170,6 +170,22 @@ luxuriate               ---> to relax while enjoying sth in very pleasant
 deluxe                  ---> intensely rich
 noctilucent             ---> shining or growing by night
 ```
+
+## lud,lus = to play,to laugh
+play, make sport of, jest; sportive; pastime
+```
+allude 
+collusion 
+delude 
+elude 
+illusion 
+ludicrous
+prelude
+interlude
+postiude
+disllusion
+```
+
 ## lumin(lun) = light
 ```
 luminous
