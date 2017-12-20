@@ -10,6 +10,24 @@ pick out                        ---> to recognize sb/sth from among other people
 distinguish                     ---> make out(used in negative statements)
 
 ```
+## example, case, instance, specimen, illustration
+These are all words for a thing or situation that is typical of a particular group or set and is sometimes
+used to support an argument
+```
+example        ---> 1) something such as an object, a fact or a situation that shows, explains or support what
+                    you say
+                    2) a thing that is typical of or reprents a particular group or set
+case           ---> a particular situation
+instance       ---> rather formal; a particular situation
+specimen       ---> an example of sth, expecially an animal or plant
+illustration   ---> rather formal; a story, an event or an example that clearly show the truth about sth
+
+An illustration is often used to show that sth is true.
+An example is used to help to explain sth.
+
+```
+
+
 ```
 ID card
 
@@ -33,23 +51,37 @@ identify                                 ---> v. regard as same; recognize;
 identity                                 ---> n. sameness, feeling very similar
                                               n. oneness; characteristics
 
-ignorance                                ---> 
+ignorance                                ---> n. a lack of knowledge or information about sth
 
-ignore
+ignore                                   ---> v. pay no attention to sth
+                                              v. to pretend that you have not seen sb or that sb is not there
 
-illegal
+illegal                                  ---> a. not allowed by the law 
 
-illuminate
+illuminate                               ---> v. to shine light on sth
+                                              v. to make sth clear or easier to understand
+                                              v. to decorate a street, building,etc,with bright light for a 
+                                                 special occasion
 
-illusion
+illusion                                 ---> n. in the play; a false idea or belief, especially about sb 
+                                                 or about sth
+                                              n. something that seems to exist but in fact does not, or seem to be 
+                                                 it is not
 
-illustrate
+illustrate                               ---> v. light up your mind --> educate; provide pictures to explain or decorate
+                                              v. educate by means of examples
 
-illustration
+illustration                             ---> v. a drawing or picture in the work, magazine,etc, specially 
+                                                 one that explains sth
+                                              v. a story, an event or an example that clearly shows the truth about sth
 
-image
+image                                    ---> n. reflection; public impression; 
+                                                 drawing ; piece of statuary; to copy,imitate; idea, apearance 
+                                              n. reflection;a mental picture that you have of what sb/sth is like or look like
+                                              n. drawing,figure
+                                              n. reflection in the mirror;
 
-imagination
+imagination                              ---> n. re
 
 imaginative
 
