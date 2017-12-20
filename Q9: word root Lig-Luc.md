@@ -170,3 +170,20 @@ luxuriate               ---> to relax while enjoying sth in very pleasant
 deluxe                  ---> intensely rich
 noctilucent             ---> shining or growing by night
 ```
+## lumin(lun) = light
+```
+luminous
+luminary 
+luminescence 
+luminiferous 
+illuminate              ---> il- = in- = on,upon
+illumination
+lunatic 
+lunacy 
+
+```
+
+
+
+
+
