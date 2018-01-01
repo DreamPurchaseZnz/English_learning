@@ -81,27 +81,30 @@ image                                    ---> n. reflection; public impression;
                                               n. drawing,figure
                                               n. reflection in the mirror;
 
-imagination                              ---> n. re
+imagination                              ---> n. the ability to create pictures in your mind;
 
-imaginative
+imaginative                              ---> a. having or showing new and exciting ideas 
 
-imagine
+imagine                                  ---> v. to form a picture in your mind of what things might be like
+                                              v. to think sth is probably true
 
-imitate
+imitate                                  ---> v. to copy sb/sth;                              
 
-imitation
+imitation                                ---> n. a copy of sth, expecially sth expensive
+                                              n. the act of copying sb/sth
 
-immediately
+immediately                              ---> av. without delay
 
-immense
+immense                                  ---> a. not able to measure; extremely large or great
 
-immigrant
+immigrant                                ---> n. sb/sth move in; a person who has comes to live
+                                                 permanently in a country that is not their own
+                                                  
+immigration                              ---> n. the process of coming to live in a country
 
-immigration
+immune                                   ---> v. that not affected by sth; exempt
 
-immune
-
-impact
+impact                                   ---> n. the powerful effect that 
 
 impair
 
@@ -213,3 +216,31 @@ indolent
 
 induce
 ```
+
+## imagine,   envisage, visualize, picture, envision
+All these words mean to form an idea in your mind of what sth/sb might be
+```
+imagine              ---> to form an idea in your mind of what sb/sth might be like
+envisage             ---> to imagine what will happen in the future
+visualize            ---> rather formal; to form a picture of sb/sth in your mind
+picture              ---> to form a picutre
+
+imagine is the most general of these words and is used for any idea.
+visualize and picture are used particular for imagining sth in a picture; visualize is much formal
+
+```
+## imitation, artificial, synthetic, false, man-made, fake
+These words all describe things are not real, or not naturally produced or grown
+```
+artificial                     ---> not real
+synthetic                      ---> made by combining chemical substances 
+false                          ---> not natural
+man-made                       ---> made by people
+fake                           ---> made to look like sth
+imitation                      ---> only before noun; made to look like sth else；
+
+```
+
+
+
+
