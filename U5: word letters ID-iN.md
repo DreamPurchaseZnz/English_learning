@@ -156,91 +156,129 @@ imprecise      ---> Im: not, opposite of
 
 impress        ---> v. To pess into or upon, stamp
                ---> Press: to apply with pressure, make a permanent image in
-               ---> 
+               ---> v. feel admiration for them
+                    v. impress sth on/upon sb
 
-impression
+impression     ---> n. Mark produced by pressure; image produced in the mind
+                       or emotions. A pressing on the mind.
+                       Vague notion; printing of a number fo copies
 
-impressive
+impressive     ---> n. Capable of making an impression on the mind or senses
 
-improve
+improve        ---> n. To turn to profit.To raise to a better quality
+                       Or condition.
 
-improvement
+improvement    ---> n. betterment; Management of something for profit
+                    n. the act of making sth better; the process of sth
+                       becoming better.
 
-impulse
+impulse        ---> n. An act of impelling, a thrust;
+                       Stimulus in the mind arising from
+                       Some state or feelings
+                    n. Stimulus: something that causes sb/sth to do sth or
+                       to develop and making process.
+                    n. A sudden strong wish or need to do sth, without 
+                       stopping to think about the result.
 
-in accordance with
+in accordance with  ---> be compatible with
 
-in addition
+in addition         ---> Besides
 
 in addition to
 
-in comparison with
+in comparison with  
 
 in favour of
 
-in vain
+in vain            ---> to no avail
 
-inactive
+inactive           ---> Not, Opposite of + active
+                   ---> adj. not doing anything; not in use; having no effect
 
-inadequate
+inadequate         ---> Not, Opposite of adequate
+                   ---> Not enough; not good enough
 
-inalienable
+inalienable        ---> Not, opposite of alienate; cannot taken away from you
 
-inaugurate
+inaugurate         ---> V.Installation, consecration under good omens
+                   ---> to instroduce a new public official or leader
+                        to install sth.
 
-inborn
+inborn             ---> In: within + brought forth
+                        Of qualities in person
+                        Born with.
 
-incapacitate
+incapacitate       ---> From Incapacity; to make sb/sth unable to live or work normally
 
-incendiary
+incendiary         ---> In: on,into; Cendy: candle, to set light, cause to glow
+                        Person who sets malicious fires
+                        Capable of being used to set fires; incite, rouse
+                   ---> designed to cause fires; cause strong feeling or violence
 
-incentive
+incentive          ---> In: begain to exist; A system of rewards meant to encourage
+                        harder work
 
-incident
+incident           ---> Event; trigger bad effects; casually
+                        Event that might trigger a crisis or political unrest.
+                        An occurence viewed as an seperate circumstance
 
-incinerate
+incinerate         ---> Reduced to ashes; Ciner: dust
+                        to burn sth until it is completely destroyed
 
-inclination
+inclination        ---> To bend or bow toward; Clinare: to bend; To lean
+                   ---> tendency, bias, favour
 
-include
+include            ---> to make sb/sth part of sth
 
-inclusive
+inclusive          ---> in total; including all the days, months numbers,etc.
+                        mentioned
+                        including a wide range of people, things, ideas, etc.
 
-incoming
+incoming           ---> n. Action of coming in
 
-incompatible
+incompatible       ---> adj. incapable of being held together
+                        mutually intolerant
 
-incongruity
+incongruity        ---> n. not gru=group; con=together; 
+                        put it together, it looks strange
 
-incogruous
+incogruous         ---> n. in=not, congruus= fit, suitable
 
-incorporate
+incorporate        ---> v. Unite into one body
+                        v. to include sth so that it forms a part of sth
 
-incredible
+incredible         ---> adj. not to be believed 
 
-inculcate
+inculcate          ---> v. Force upon, stamp in, tread down, Stone In
+                        v. to cause sb to learn and remember ideas, especially by
+                           repeat them often
 
-incur
+incur              ---> v. To run into or against, rush at, make an attack
+                        v. make oneself subject to
 
-independence
+independence  
 
 independent
 
-indicate
+indicate           ---> v. To point out, show, indicate
+                           To assert sth.
+                        v. to show sth is true or exists
 
-indication
+indication         ---> n. to say, to speak
 
-indifferent
+indifferent        ---> adj. unbiased; neither good nor bad
 
-indigenous
+indigenous         ---> adj. born in a country, native
 
-indispensable
+indispensable      ---> adj. cannot be done without
 
-individual
+individual         ---> consider seperately from part of group
 
-indolent
+indolent           ---> not wanting to work
 
-induce
+induce             ---> Lead into
+                   ---> to persuade or influence sb to do sth
+                        to cause sth
 ```
 
 ## imagine,   envisage, visualize, picture, envision
@@ -280,10 +318,47 @@ impair                         ---> (rather formal) to damage sb's health, abili
                                     or chances
 prejudice                      ---> (formal) to damage sb's health, happiness or chances
 ```
+## inclusive, through
+In BrE inclusive is used to emphasize that you are including the days, months, numbers
+etc. mentioned, especially in formal or official situation.
+```
+Answer questions 8 to 12 inclusive
+Answer questions 8 throught 12
+```
 
+## declare, state, indicate, announce
+These words all mean to say sth, usually firmly and clearly and often in public
+```
+declare            ---> officially, for giving statement
+state              ---> in careful and clear way 
+indicate           ---> slightly indirect
+announce           ---> in a loud and serious way, for giving facts
+```
+## sign, indication, symptom, symbol, indicator, signal
+These are all words for an event, action or fact that shows that sth exists, is
+happening or may happen in the future
+```
+sign              ---> sth that happens or sth that sb does
+indication        ---> sth that sb says.
+symptom           ---> a change in your body or mind that shows that you are not 
+                       healthy;
+symbol            ---> a person, object or event that represents a more general 
+                       quality or situation
+indicator         ---> a sign that show how a situation is changing
+signal            ---> an event, action or fact that suggests sb to do sth.
+```
 
-
-
+## essential, vital, crutial, critical, decisive, indispensable
+These words all describe sb/sth that is extremely important and completely 
+necessary because a particular situation or activity
+```
+essential           ---> state a fact or opinion with authority
+vital               ---> there is some anxiety felt about sth
+crucial             ---> technical matters of business or science
+critical            ---> cause anxiety or other emotions
+decisive            ---> the greatest importance in affecting the final result
+indispensable       ---> too important to be without.
+```
 
 
 
