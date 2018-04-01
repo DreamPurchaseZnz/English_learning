@@ -138,3 +138,24 @@ declaim
 reclaim
 
 ```
+## clin(cli) = to bend
+```
+disinclined      ---> dis=not, in=no, clin=bend
+inclined         ---> bend toward
+incline          ---> be prone to do sth
+inclination
+decline          ---> bend downforward; refuse to do
+declining      
+declination
+recline
+clinch
+clinic
+clinical
+client           ---> bend toward person who (ent) 
+clientele
+acclivous        ---> to bend
+acclivity
+proclivity       ---> pro+ cli
+climax           ---> cli=to bend + max(largest)
+```
+
