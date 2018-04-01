@@ -143,6 +143,25 @@ close
 closeness
 occlude           ---> once again 
 ```
+## cred(creed, cre)= to believe, to trust
+```
+discredit
+credibility
+credulous         ---> easily to believe
+accredit          ---> to trust
+credence
+incredible
+credit
+creditable
+creditor
+credo
+incredulous
+creed
+miscreant
+recreant
+```
+
+
 
 ## cogn, gno(gn,n), cognis,gnos = to know 
 = sci
@@ -157,6 +176,21 @@ precognition
 recognize
 recognition
 ```
+## corp, corpor = body, carn,flesh
+```
+corpulent
+corporal
+corporeal
+corporate
+corporation
+corps
+corpus
+incorporate
+incorporator
+incorporeal
+```
+
+
 ## curr, curs(cor, cour, cours , coars) = to run
 ```
 cursive               ---> handwriting where the hand 'run' over the paper
