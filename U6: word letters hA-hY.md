@@ -1,6 +1,6 @@
 # H
 ```
-habitable
+habitable       ---> suitable for people to live in
 habitat
 habitual
 hall
