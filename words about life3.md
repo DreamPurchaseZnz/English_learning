@@ -69,7 +69,7 @@ His eyes were suddenly intent
 I have no intention of going to the wedding
 The road to hell is paved with good intentions
 The world is becoming increasingly interdependent
-
-
+In absolute terms, wages have risen, but not in comparion with the cost of living
+Some are in favour of it, some are against it.
 
 ```
