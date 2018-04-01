@@ -106,31 +106,57 @@ immune                                   ---> v. that not affected by sth; exemp
 
 impact                                   ---> n. the powerful effect that 
 
-impair
+impair         ---> v. to damage sth or make sth worse
+               ---> im: in, into; pair: to make worse
 
-impart
+impart         ---> to give a part of (ones' possessions); to share, take part in
+               ---> part: to divide, im: in
+               ---> v. to pass information, knowledge, etc, to other people.
+                       to give a paritcualar quality to sth
 
-impede
+impede         ---> v. be in the way, hinder, detain
+               ---> literally to shackle the feet.
 
-imperil
+imperil        ---> v. to put sth/sb in danger
 
-impetus
+impetus        ---> rapid movement, rush.aim for, rush at
+               ---> n. something that encourage a process or activity to develop
+                       more quickly
+                    u. to force or energy with which sth moves.
 
-implement
+implement      ---> n. to fill, a filling up; to fills up or complete a household
+                    im: into,in, on; plement: to fill
+               ---> v. to make sth that has been officially decided start to happen
+                    or be used
+                    n. a tool or an intruments, oftern one that is quite simple and
+                    that is used outdoors.
 
-implication
+implication    ---> n. action of entangling; something implied
+               ---> im: into, in; plicare: to fold, interweaving
+               ---> n. a possible effect or result of an action
+                    n. something that is suggested or indirectly stated
+                    n. the fact of being involved 
+               
 
-impose
+impose         ---> v. to lay (a crime, etc.) to the account of sth;
+               ---> im: upon; pose: put, place
+               ---> to lay on as a burden
 
-impossible
+impossible     ---> adj. Not possible 
+               ---> adj. that cannot exist or be done; not possible
+               ---> adj. a thing that is or seems impossible
 
-impoverish
+impoverish     ---> v. Im: to make possible; pover: poor
+               ---> v. to make sth poor; to make sth worse in quality
 
-impoverished
+impoverished   ---> very poor; without money; poor in quality
 
-imprecise
+imprecise      ---> Im: not, opposite of
+               ---> not giving exact details or making sth clear.
 
-impress
+impress        ---> v. To pess into or upon, stamp
+               ---> Press: to apply with pressure, make a permanent image in
+               ---> 
 
 impression
 
@@ -240,6 +266,23 @@ fake                           ---> made to look like sth
 imitation                      ---> only before noun; made to look like sth else；
 
 ```
+## damage, hurt, harm, impair, prejudice
+These words all mean to have a bad effect on sb/sth
+```
+to damage/hurt/harm/impair/predudice sb's health/chances
+damage                         ---> to cause physical harm to sth, make it less
+                                    attractive, useful or valuable; To have a bad
+                                    effect on sb/sth's health, happiness or chances
+                                    of success
+hurt                           ---> (rather informal)
+harm                           ---> to have a bad effect on sb/sth's life
+impair                         ---> (rather formal) to damage sb's health, abilities
+                                    or chances
+prejudice                      ---> (formal) to damage sb's health, happiness or chances
+```
+
+
+
 
 
 
