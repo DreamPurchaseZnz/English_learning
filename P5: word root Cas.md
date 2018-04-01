@@ -1,4 +1,16 @@
 # C
+## calc, calcul = lime, stone, to reckon
+```
+incalculable        ---> in=not, calcul= reckon
+calculate
+calculation
+calculus
+chalk               ---> c->ch; c-> c; cals
+calcarious
+calcic
+calcimine
+```
+
 ## cid, cad, cas = to fall
 ```
 coincide           ---> to fall in together; in the same way
