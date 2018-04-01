@@ -93,37 +93,7 @@ proceed             ---> v. go forth to do sth; continue being done; to do next
 process             ---> n. a series of tings that happen, especially ones that result in natural change          
 procession          ---> n. a line of people/sth
 ```
-## cogn, gno(gn,n), cognis,gnos = to know 
-= sci
-```
-ignorant               ---> i (=not) + gno(=know)+ rant
-ignoble
-incognato              ---> in(=not) + co< com(=thoroughly) + gn< gno(=know)
-diagnose               ---> dia(=through)
-ignore
-cognition
-precognition
-recognize
-recognition
-```
-## curr, curs(cor, cour, cours , coars) = to run
-```
-cursive               ---> handwriting where the hand 'run' over the paper
-course                ---> an academic "run" of learning
-curriculum            ---> many academic "runs" of learning
-current               ---> that which is "running" now
-recurrent             ---> running again and again
-occurrence            ---> to run
-incur                 ---> a running into
-recourse              ---> condition of 'running' back for help
-succour               ---> help which run toward another
-concurrent            ---> running together
-excursion             ---> a running out to go somewhere
-cursor                ---> a pionter which run over a computer screen
-discourse             ---> verbally running on and on about something
-concur                ---> run together; to agree
-precursor             ---> run before sb/sth
-```
+
 
 ## claim,clam = to cry , to shout
 ```
@@ -158,4 +128,52 @@ acclivity
 proclivity       ---> pro+ cli
 climax           ---> cli=to bend + max(largest)
 ```
+## clud, clus(clos, clois, claus, clot) = to shut
+```
+conclusive        ---> clus= shut, con= together
+preclude          ---> pre= before, clud= shut
+recluse           ---> re= back, clus= shut
+seclusion         ---> se= take apart, clus= shut
+exclude           ---> ex= out
+exclusive
+include           ---> to shut in
+disclose          ---> not shut
+enclose
+close
+closeness
+occlude           ---> once again 
+```
+
+## cogn, gno(gn,n), cognis,gnos = to know 
+= sci
+```
+ignorant               ---> i (=not) + gno(=know)+ rant
+ignoble
+incognato              ---> in(=not) + co< com(=thoroughly) + gn< gno(=know)
+diagnose               ---> dia(=through)
+ignore
+cognition
+precognition
+recognize
+recognition
+```
+## curr, curs(cor, cour, cours , coars) = to run
+```
+cursive               ---> handwriting where the hand 'run' over the paper
+course                ---> an academic "run" of learning
+curriculum            ---> many academic "runs" of learning
+current               ---> that which is "running" now
+recurrent             ---> running again and again
+occurrence            ---> to run
+incur                 ---> a running into
+recourse              ---> condition of 'running' back for help
+succour               ---> help which run toward another
+concurrent            ---> running together
+excursion             ---> a running out to go somewhere
+cursor                ---> a pionter which run over a computer screen
+discourse             ---> verbally running on and on about something
+concur                ---> run together; to agree
+precursor             ---> run before sb/sth
+```
+
 
