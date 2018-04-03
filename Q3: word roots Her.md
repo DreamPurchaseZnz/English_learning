@@ -75,3 +75,44 @@ hesitate                       ---> to stick to sth; to be slow to speak or act 
 hesitation
 incoherent
 ```
+## homo = same, similar, identity
+```
+homocentric
+homochromous
+homosextual
+homosexuality
+homopterous
+homophony
+homopolar
+homonym
+homonymous
+homomorphy
+homonorphic
+homograph            ---> graph=word
+homotype
+homogamy             ---> gam = marry
+homothermic          ---> therm= temperature
+homogeneous          ---> gen= gene
+```
+## hom= man, hum =hum, earth, ground, wet
+earth -> god used it to make human -> often lowerly, wet
+```
+abominable    ---> ab=away, om<hom=man
+homage
+homicide      ---> cid= kill
+exhume        ---> ex=out, hum=ground
+humanism
+humanity 
+humble        ---> ground
+humility      ---> ground
+humidity      ---> wet
+humidify
+humiliate     ---> to ground
+humorist      ---> wet fluids; funness
+humoristic
+humus
+inhume        ---> into ground
+```
+
+
+
