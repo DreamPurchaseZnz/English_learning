@@ -39,7 +39,15 @@ exhibition
 prohibit                             ---> to have before sth; to stop sth from being done or used 
                                           especially by law
 ```
-
+## hap = luck
+```
+hap              ---> good luck
+mishap           ---> bad luck
+happen           ---> occure by hap; to come to pass, occure
+happening        
+haphazard        ---> hap=luck; hazard = game of dice
+perhaps          ---> per=through; luck
+```
 
 ## her = heir
 ```
