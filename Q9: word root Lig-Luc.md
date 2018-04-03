@@ -43,6 +43,14 @@ analysis
 paralyse
 
 ```
+## le = instrumental suffix; a tool
+```
+handle       ---> hand
+thimble      ---> thumb
+spindle      ---> spin
+kindle       ---> kind
+```
+
 ## len = soft
 ```
 relentless            
