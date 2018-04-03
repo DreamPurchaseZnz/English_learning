@@ -78,137 +78,156 @@ heighten        ---> To honor or raise to high position
 
 heir            ---> successor; right to recieve forture 
 
-helicopter
+helicopter      ---> helix=spiral + copter =wing
 
-helix
+helix           ---> to turn, twist, roll; a spiral thing
 
-hemisphere
+hemisphere      ---> hemi=half + sphere
 
-hence
+hence           ---> here; away form here;
+                     from this fact or circumstance
 
-herbal
+herbal          ---> non-woody plant
 
-herbivore
+herbivore       ---> herb + vorare (devour, swallow)
 
-herdsman
+herdsman        ---> keeper of domestic animals which go in herds
 
-hereditary
+hereditary      ---> heirship, inheritance, condition of being an heir
 
-heritage
+heritage        ---> that may be inherited
 
-hesitation
+hesitation      ---> stick, cling; irresolution, uncertainty
 
-hiccup
+hiccup          ---> imitate the sound produced by the convulsion
+                     Sound made in the throat
 
-hide
+hierarchy        ---> Ranked organization of persons or things
+                      Ranked division of angels;rule of high priest
 
-hierachy
+highland         ---> mountainous district of Scotland
 
-highland
-
-highlight
+highlight        ---> The brightest of a subject; outstanding feature
+                      or characteristic
 
 high-tech
 
-highway
+highway          ---> main road form one town to another
 
-hike
+hike             ---> to walk vigorously; pull up
 
-hinder
+hinder           ---> To put or keep back; to harm, injure, impair, 
+                      check, repress
 
-hinge
+hinge             ---> Movable joint of a gate or door; the axis of
+                       the earth; 
 
-hinterland
+hinterland        ---> hinter= behind; land;
+                       away from the coast
 
-hire
+hire              ---> Pay for service, Employ for wages for a short time,
+                       engage
 
-historian
+historian         ---> Writer of history in the higher sense
 
-historic
+historic          ---> Noted or celebrated in history; history+ que
 
-hitherto
+hitherto          ---> adv. hither+ to; hi=he, here;to here
+                       until now
 
-hive
+hive              ---> n. beehive; round container;
+                          swarming, busy place
 
-hockey
+hockey            ---> n. a game played on a field with curved sticks
+                          and a small hard ball
 
-holistic
+holistic          ---> whole; 
 
 holistically
 
-hollow
+hollow            ---> hollow place, hole; insinere
 
-homesick
+homesick          ---> sick=pain; 
 
-homestay
+homestay          ---> a home you stay
 
-homogeneous
+homogeneous       ---> homo=same; gen=type
 
-honour
+honour            ---> Fame earned; renown; glory;
+                       a woman's chastity; dignity
 
-hook
+hook              ---> hook, angle, short swinging blow with the elbow bent
 
-horizon
+horizon           ---> bounding circle, bound, limit, divide, separate
 
-horizonal
+horizontal        ---> relating to or near the horizon
 
-horrify
+horrify           ---> a shaking trembling, chill
 
-horror
+horror            ---> a feeling of shock
 
-hose
+hose              ---> to furnish with stocking; to water down with hose        
 
-hospitable
+hospitable        ---> pleased to welcom guests
 
-hospitality
+hospitality       ---> friendliness to guests
 
-host
+host              ---> lord of strangers; 
+                       animal or plant having a parasite
 
-hostel
+hostel            ---> lodgings, shelter, inn
 
-hostile
+hostile           ---> of or belong to an enemy
 
-hostility
+hostility         ---> enemy
 
-household
+household         ---> members of a family collectively 
+                       including servants
+                       Furniture and articles belonging to a house.
 
-hover
 
-however
+hover             ---> linger, tarry(to stay in the air in one place),
+                       hover
+                       To stay close to sth, or to stdy in an uncertain state
 
-huddle
+huddle            ---> to heap or crowed together
 
-hug
+hug               ---> embrace; courage mood to confort
 
-hum
+hum               ---> a low continuous sound
 
-humane
+humane            ---> having qualities befitting human beings;kindness
 
-humanistic
+humanistic        ---> with the insterests of the human race
 
-humanity
+humanity          ---> kindness, graciousness; human nature, human kind, 
+                       the human rice;human form
 
-humble
+humble            ---> on the ground, lowly, humble.
 
-humid
+humid             ---> moist, wet 
 
-humidity
+humidity          ---> the amount of water in the air
 
-humour
+humour            ---> fluid or juice of an animal or plant;
+                       body fluids which led to a sense of mood
+                       amusing quality, funniness; indulge
 
-hurdle
+hurdle            ---> frame of intertwined twigs used as a temperary barrier
+                       barrier to jump in a race
 
-hurl
+hurl              ---> throw forcibly
 
-hurricane
+hurricane         ---> a violent storm with very strong winds
 
-hybrid
+hybrid            ---> offspring of a tame sow and a wild boar
 
-hypnotic
+hypnotic          ---> inducing sleep; inclined to sleep, putting to sleep
 
-hypothesis
+hypothesis        ---> base, basis of an argument, supposition; a placing under
+                       Hypo=under + thesis= a placing, proposition
 
-hypothetical
+hypothetical      ---> pertaining to a hypothesis.
 
 
 ```
@@ -236,6 +255,28 @@ haul        ---> haul sth towards you, often upwards towards you
 tow         ---> pull a car bebind another vehicle
 tug         ---> pull hard
 ```
-
-
+## rent, hire, let
+```
+rent        ---> for a long time;
+hire        ---> for a short time; hire it out
+let         ---> to let; let it out
+```
+## historic, historical
+```
+historic     ---> sth is so important that it is likely to be remembered
+historical   ---> Sth is connected with the past or with study of history
+```
+## throw, toss, hurl, fling, chuck, lob, bowl, pitch
+these words mean to send sth from your hand through the air
+```
+throw      
+toss         ---> to throw sth slightly or carelessly
+hurl         ---> to throw violently
+fling        ---> with along of force, especially because you are angry 
+                  or in a hurry
+chuck        ---> to throw sth carelssly(especially BrE informal)
+lob          ---> to throw sth so that it goes high through air
+bowl         ---> in cricket
+pitch        ---> in baseball
+```
 
