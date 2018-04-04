@@ -84,74 +84,90 @@ get off track
 
 gigantic         ---> pertaining to giants
 
-gill
+gill             ---> Organ of breathing in fishes
 
-given
+given            ---> Allotted, predestined
 
-glacial
+glacial          ---> like ice
 
-glacier
+glacier          ---> moving mass of ice
 
-glamor
+glamor           ---> Magic, enchantment;
+                      Magical beauty alluring charm
 
-gland
+gland            ---> an organ to produce a substance for the body to use
 
-gleam
+gleam            ---> Brilliant light, brightness
+                      Splendor, radiance
+                      To shine
 
-glide
+glide            ---> move along smoothly and easily, slip, slide.
 
-glimpse
+glimpse          ---> catch of a quick view; shine faintly
 
-glitter
+glitter          ---> gli= shine with little flashes; 
+                      be distinguished
 
-global
+global           ---> spherical,worldwide, universal
 
-glorious
+glorious         ---> full of glory, famous
 
-gloss
+gloss            ---> to flame; a glowing
+                      a note or comment added to a piece of writing
+                      
+glossary         ---> Collection of glosses
 
-glossary
+glossy           ---> Photograph with glossy surface
 
-glossy
+glove            ---> covering for the hand
 
-glove
+glue             ---> Sticky, beeswax
 
-glue
+glutamate        ---> nitrogenous part of the flour of the wheat
 
-glutamate
+goal             ---> end point of a race;
+                      place where the ball is put to score
+                      object of an effort;
+                      a passage; boudnary, limit,obstacle, barrier
+                      
 
-goal
+goggles          ---> spectacles; protective eyeglasses
 
-goggles
-
-goodwill
+goodwill         ---> helpful feelings
 
 
-gorge
+gorge            ---> To swallow; deep narrow valley
 
-gorgeous
+gorgeous         ---> splendid, showy; elegant, fashionable
 
-gorilla
+gorilla          ---> large apes, wild, hairy people 
 
-govern
+govern           ---> to rule, direct, guide, govern
 
-grab
+grab             ---> to seize in hurry;rob
 
-graduate
+graduate         ---> one who holds a degree; gradu=grade-> degree
+                      to start from doing sth more difficult/important
+                      
+grand            ---> large,big,great, powerful, important,strict,
+                      severe, extensive; numerous
 
-grand
+granite          ---> the rock, grainy; hardness   
 
-granite
+grant            ---> Allowance, consent, permission;to promise
+                      guarantee, confirm, authorize
 
-grant
+graph            ---> instrument for recording, someting writen
+                      express by written characters;
+                      to draw, represent by lines drawn
 
-graph
+graphic          ---> vivid; picturesque; drawing
 
-graphic
+graphology       ---> graphy=to write; logo= a peaking, a dealing with
+                      study of handwriting;
 
-graphology
-
-grasp
+grasp            ---> to reach for, feel around; 
+                      to touch, feel; size
 
 grassy
 
@@ -210,6 +226,12 @@ gullibly
 guzzle
 
 ```
+
+
+
+
+
+
 ## collect, gather, accumulate, run sth up, amass
 these words all mean to get more of sth over period of time, or to increase
 in quantity over a period of time.
@@ -264,6 +286,92 @@ deed             ---> very good or bad sth
 feat             ---> action that needs skill, strength or courage
 
 ```
+## shine, gleam, glow, sparkle, glisten, shimmer, glitter, twinkle, glint
+These words all mean to produce or reflect light
+```
+shine            ---> brightly
+gleam            ---> pale light, moonlight
+glow             ---> dull steady light; the end of the cigrette
+sparkle          ---> brightly, with small flashes
+glisten          ---> of sth wet to shine
+shimmer          ---> a soft light that seems to shake slightly
+glitter          ---> A lack of depth, brightly with small flashes
+twinkle          ---> a light changes repidly from bright to faint to 
+                      bright again.
+glint            ---> samll bright flashes of reflected light
+```
+## look, glance, gaze, stare, glimpse, glare
+```
+look           
+glance           ---> a quick look
+gaze             ---> a long steady look at sb/sth
+stare            ---> a long look at sb/sth, especially in a way that
+                      unfriendly or that shows surprise
+glimpse          ---> a look at sb/sth for a very short time
+glare            ---> a long angry look at sb/sth
+```
+
+## see, spot, catch, glimpse, clap/lay/set eyes on
+These words all mean to become aware of sb/sth by using your eyes
+,especially suddenly or when it is not easy to see them/it
+```
+see
+spot                  ---> suddenly notice sth, when they are not easy
+                           to see or notice
+catch                 ---> notice sth but not clearly or completely
+glimpse               ---> literary, see sb/sth for a moment but not
+                           clearly or completely
+clap/lay/set eyse on  ---> Used in negtive statements
+```
+
+## target, objective, goal, object, end
+These are all words for sth that you are trying to achieve
+```
+target                ---> in form of figures
+objective             ---> rather formal; as a part of project
+goal                  ---> hope to achieve; long-term;
+                           related to people's life and career plans
+object                ---> the purpose of sth
+end
+```
+
+## admit, acknowledge, concede, confess, allow, grant
+These words all mean to agree, often unwillingly, that sth is true
+```
+admit             ---> to agree often unwillingly sth is true
+acknowledge       ---> to accept that sth exists
+concede           ---> to accept unwillingly that a statement is true/logical
+confess           ---> to admit sth ashamed or embarrassed
+allow
+grant             ---> to admit that a statement or claim is true, while
+                       denying that a greater claim is also true.
+
+```
+## hold, hold on, cling, clutch, grip, grasp, clasp, hang on
+These words all mean to have sth/sb in your hands,arms, etc.
+```
+hold
+hold on
+cling
+clutch
+grip
+grasp
+clasp
+hang on
+```
+## understand, see, get, follow, grasp, comprehend
+These words mean to know or realize sth, for example why sth happens
+how sth works or what sth means
+```
+understand
+see
+get
+follow
+grasp
+comprehend
+
+```
+
 
 
 
