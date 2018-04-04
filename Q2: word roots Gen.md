@@ -61,6 +61,25 @@ mitrogen
 biogenesis
 endogenous
 ```
+## geo = earth
+```
+George                    ---> farmer
+geography
+geographer
+geometry                  ---> metry=meature
+geology
+geologist
+geophysics
+geoscience
+geopolitics
+geomagnetic
+geospace
+geostrategy
+geothermal
+giantic
+giant                   ---> the son of Gaia, god of earth
+```
+
 
 ## gnor, gnos, gniz = to know
 ```
