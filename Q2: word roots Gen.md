@@ -1,4 +1,18 @@
 # G
+## galact, lact = mamm
+```
+lactary
+ablactate
+ablactation
+lactifuge
+lactate
+lactation
+lacteal
+galactin
+prolactin
+galaxy
+```
+
 ## gent, gen, gn ,gener = birth, produce
 geni         ---> innate quality, inborn talent
 
