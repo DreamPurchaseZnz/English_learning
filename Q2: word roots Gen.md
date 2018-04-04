@@ -13,7 +13,7 @@ prolactin
 galaxy
 ```
 
-## gent, gen, gn ,gener = birth, produce
+## gent, gen, gn ,gener = birth, produce, kind
 geni         ---> innate quality, inborn talent
 
 ```
