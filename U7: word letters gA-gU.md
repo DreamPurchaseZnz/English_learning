@@ -169,62 +169,72 @@ graphology       ---> graphy=to write; logo= a peaking, a dealing with
 grasp            ---> to reach for, feel around; 
                       to touch, feel; size
 
-grassy
+grassy           ---> covered with grass
 
-grateful
+grateful         ---> pleasing to the mind; full of gratitude; thankful
 
-gravel
+gravel           ---> sand; to rub; grind
 
-gravity
+gravity          ---> weight, force that gives weight to objects
 
-greasy
+greasy           ---> fat, animal fat; solid, fat, thick
 
-greatly
+greatly          ---> big,tall, thick, stout, coarse
 
-gregarious
+gregarious       ---> living in flocks; heap, sociable
 
-grid
+grid             ---> network of transmission lines
 
-grieve
+grieve           ---> cause pain; to burden, aggravate;
+                      to be very sad, lament
 
-grill
+grill            ---> a flat metal frame that you put food on to cook
+                      over fire
 
-grim
+grim             ---> Thunder; fierce, cruel, savage, dire, painful
 
-grimy
+grimy            ---> dirt, filth
 
-grin
+grin             ---> to smile widely; grin and bear
 
-grind
+grind            ---> to rub together, scrape, grate; 
+                      to make smooth or sharp by friction
+                      to gnash the teeth;
+                      boring activity
+                      
+grip             ---> seize, claw, obtain; to rob;
+                      v. n. to hold sth tightly
+                      to hold onto or move over a surface without slipping
 
-grip
+groan            ---> murmur, lament; complain
 
-groan
+grocery          ---> goods sold, tea, sugar, spice
 
-grocery
+grope            ---> to touch, attain;
+                      to feel about (as one blind or in darkness)
 
-grope
+gross            ---> glaring, flagrant, monstrous
+                      entire, total, whole
+                      disgusting; coarse in behavior or manners
 
-gross
+grove            ---> thicket; copse; a small group of trees
 
-grove
+grudge           ---> to murmur, complain; anger for what they have done
 
-grudge
+guarantee        ---> person giving something as security; warrant that the
+                      title to a property is true.
 
-guarantee
+guidance         ---> the process of directing conduct; direction in school
+                      career, marriage
 
-gruidance
+guideline        ---> line marked on a surface before cutting;
+                      rope for steering a hot-air balloon
 
-guideline
+guilty           ---> confession
 
-guilty
+guinea           ---> British coin
 
-guinea
-
-gullibly
-
-guzzle
-
+guzzle           ---> drinking greedily
 ```
 
 
@@ -347,30 +357,37 @@ grant             ---> to admit that a statement or claim is true, while
                        denying that a greater claim is also true.
 
 ```
-## hold, hold on, cling, clutch, grip, grasp, clasp, hang on
-These words all mean to have sth/sb in your hands,arms, etc.
-```
-hold
-hold on
-cling
-clutch
-grip
-grasp
-clasp
-hang on
-```
+
 ## understand, see, get, follow, grasp, comprehend
 These words mean to know or realize sth, for example why sth happens
 how sth works or what sth means
 ```
-understand
+understand        ---> only this can be used to talk about languages,
+                       word or writing
 see
-get
-follow
-grasp
-comprehend
-
+get               ---> to understand a joke or a situation
+follow            ---> to understand an explain, a story or meaning 
+grasp             ---> to come to understand
+comprehend        ---> often used in negative statements; to understand
+                       a fact, idea or reason
 ```
+## disgusting, revolting, foul, repulsive, offensive, gross, nauseating
+These words all describe sth, especially a smell, taste or habit, that 
+extremely unpleasant and often makes you feel slightly ill
+```
+disgusting             ---> more frequent
+revolting           
+foul                   ---> dirty and tasting or smelling bad
+repulsive              ---> physical or moral reason
+offensive              ---> extremely unpleasant          
+gross
+nauseating             ---> want to vomit
+```
+
+
+
+
+
 
 
 
