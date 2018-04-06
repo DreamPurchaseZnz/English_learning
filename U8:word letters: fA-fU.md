@@ -180,65 +180,98 @@ fitting              ---> adj.suitable
 flame                ---> blazing fire; to shine, flash;
                           burning passion
 
-flap
+flap                 ---> a blow, slap; someting that hangs down;
+                          motion or noise like a bird's wing
+                          disturbance, noisy, tumult
 
-flash
+flash                ---> dash or splash; 
+                          give off a sudden burst of light or flame
 
-flask
+flask                ---> Bottle, a bottle plaited round, case bottle
 
-flat
+flat                 ---> shallow, level; to spread; prosaic, dull
+                          total failure
 
-flavour
+flavour              ---> to smell, odor; to blow;
+                          taste savor; 
+                          the element in taste which depends on the 
+                          sense of smell.
 
-flaw
+flaw                 ---> a flake; a spark of fire; stone slab
+                          defect, fault
 
-flee
+flee                 ---> take flight, fly from, avoid, escape
+                          put to flight
 
-fleet
+fleet                ---> Ship, raft, floating vessel; naval force
+                          Creek, inlet, flow of water
 
-flexibility
+flexibility          ---> that may be bent, pliant, flexible, yeilding
+                          tractable, inconstant; to bend
 
 flexible
 
-flexitime
+flexitime            ---> inconstant working time
 
-flicker
 
-flight
+flicker              ---> wavering, unsteady light or flame
 
-flint
+flight               ---> act of flying; to fly;
+                          series of stairs between landings
 
-flip
+flint                ---> To split, cleave; to splice, split  
 
-flora
+flip                 ---> get excited; lose one'e head, go wild;
+                          flip a coin; throw sth using your thumb
+                          turn over
 
-flourish
+flora                ---> the plant life of a region or epoch;
+                          Flor= Flower; to blossom, flourish
 
-fluctuate
+flourish             ---> to blossom, grow; to bloom, be prosperous
+                          to brandish; thrive
 
-fluctuation
+fluctuate            ---> to undulate; to move in waves
 
-fluency
+fluctuation          ---> a wavering, vacillation; to move in a waves
+                          wave, billow, surge, to flow
 
-flush
+fluency              ---> abundance; smooth and easy flow
 
-flutter
+flush                ---> fly up suddenly; to cause to fly, start
+                          spurt, rush out suddenly, flow with force
+                          suddenly movement
+                          cleanse a drain with a rush water;
+                          sudden redness in the face
 
-foam
+flutter              ---> fly, flicker, float to and fro
+                          be tossed by waves; state of excitement
+                          a quick, light movement
 
-focus
+foam                 ---> saliva froth; bubbles
 
-foetus
+focus                ---> hearth, fireplace; point of convergence;
+                          center of activity or energy
+                          
+foetus               ---> the young while in the womb or egg;
+                          the bearing, bringing forth or hatching of young
+                          fe= to generate, bear, to suck, suckle
+                          offspring brood; fruit, produce, shoot.
 
-foil
+foil                 ---> to spoil a trace or scent by running over it
+                          trample; to clean cloth; 
+                          frustrate the efforts of
 
-fold
+fold                 ---> to bend; 
 
-for instance
+for instance         ---> as a example     
 
-for the sake of
+for the sake of      ---> To the purpose of
 
-force
+force                ---> physical strength, courage, fortitude; strong
+                          violence, power, 
+                          compulsion
+                          body of armed men, army
 
 forecast
 
@@ -247,6 +280,7 @@ foreland
 foremost
 
 foresee
+
 foreseeable
 
 
@@ -381,4 +415,16 @@ terrific
 brilliant
 awesome
 ```
+## flaw, defect, faulty
+```
+error         ---> a mistake
+bug           ---> a flaw in software
+failure
+flaw          ---> inherent problem in a natural things
+defect        ---> problem where someting goes wrong during the process of
+                   using it
+faulty        ---> balme, or by accident, incorrect step
+```
+
+
 
