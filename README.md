@@ -280,6 +280,18 @@ romanesque             ---> the architecture in the style that commen in western
                             Europe
 antique                ---> old and often valuable
 ```
+## -form = shape
+```
+gasiform
+cruciform
+cubiform
+dentiform
+uniform
+asbestiform
+luniform            ---> lun=moon
+aquiform            ---> aqui=water
+multiform           ---> multipule form
+```
 
 ## -ical,-ic = related to
 ```
