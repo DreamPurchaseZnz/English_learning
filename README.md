@@ -59,6 +59,16 @@ dishonest              ---> not honest
 disloyal               ---> not loyal
 dissimilar             ---> not similar
 ```
+## for- = way, apart, off(frbid, forget, forgo); intensive, very much
+prefix usually meaning;'away, opposite, completely'
+```
+forbearance
+foreiture
+forgo
+forlorn
+forswear
+```
+
 ## fore- = before, front, superior
 before in time, rank, position; discribe the front part of sth or 
 earlist time
