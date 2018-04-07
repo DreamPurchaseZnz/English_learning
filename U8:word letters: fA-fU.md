@@ -273,77 +273,110 @@ force                ---> physical strength, courage, fortitude; strong
                           compulsion
                           body of armed men, army
 
-forecast
+forecast             ---> to scheme
+                          fore=before; cast=contrive, plan, prepare
+                          predict event
 
-foreland
+foreland             ---> in front of sth
 
-foremost
+foremost             ---> earliest, first, most prominent;
+                                
+foresee              ---> have a premonition; to see, see ahead
 
-foresee
+foreseeable          ---> that can predict
 
-foreseeable
+forfeit              ---> misdeed,crime, punishable, offense;
+                          transgress; for=outside, beyond; feit=to do
+                          someting to which the right is lost through
+                          a misdeed
 
+forgo                ---> to relinquish, go away, pass over, leave undone
+                          for=way; go= to go
 
-forfeit
+form                 ---> physical form, outward appearance, pleasing looks;
+                          shape, image; form, contour, figure;
+                          parttern, design, sort, kind condition;
+                          behavior; 
+                          a document with blanks to be filled in
 
-forgo
+formal            
 
-form
+formality            ---> agreement as to form; 
+                          meaning something done for the sake of form
 
-formal
+format               ---> used chiefly of computers
 
-formality
+former               ---> earlier in time; first, foremost
 
-format
+formidable           ---> causing fear, terrible; fearfulness, fear, terror
+                          dread; for
 
-former
+formula              ---> a serires of letters, numbers or symbols 
 
-formidable
+formulate            ---> to express in a formula
 
-formula
+formulation          ---> the way in which you express your thoughts
 
-formulate
+forth                ---> forward, onward, futher, continually
 
-formulation
+forthcoming          ---> about to happen; to come forth; come to pass
+                          informative, responsive
 
-forth
+fortnight            ---> forteen nights; reckoning by nights
 
-forthcoming
-fortnight
+forum                ---> place of assembly in ancient Rome; marketplace
+                          open space, public place; outside, out of door
+                          assembly, place for public discussion
 
+fossil               ---> anything dug up; obtained by digging;
+                          geological remains of a plant or animal;
+                          old person; fossil fuel
 
-forum
+foster               ---> to supply with food, nourish, support;
+                          food, nourishment, bringing up;
+                          fod=food; to encourage or help grow
+                          to bring up a child with parental care
 
-fossil
-foster
+foul                 ---> rotten, unclean, vile, corrupt
+                          offensive to the senses, putrid;ugly
 
-foul
+foundation           ---> action of founding; that which is founded;
+                          funds endowed; solid base of a structure
 
-foundation
+fountain             ---> spring of water that collects in a pool;
+                          natural spring; of a spring; 
+                          artificial jet of water
 
-fountain
+fraction             ---> a breaking; especially into pieces; to break
+                          crash, crack; a breaking or dividing; 
+                          breaken off piece, fragment
 
-fraction
+fracture             ---> a breaking of a bone; a breack, break, cleft
 
-fracture
+fragile              ---> liable to sin; morally weak; liable to break
 
-fragile
+fragment             ---> a fragment, remnant 
 
-fragment
+fragrance            ---> sweet-smelling; emit a sweet odor
 
-fragrance
+frame                ---> border,plot
+                          help forward, promote, further, do, perform;
+                          make ready; prepare timber for building;
+                          compose, devise
+                          plot in secret; fabricate a story with evil intent.
 
-frame
+frank                ---> free, liberal, generous, sincere, open, gracious
+                          worthy; outspoken
 
-frank
+fraud                ---> criminal deception, deceit, injury; impostor
+                          humbug
 
-fraud
+fraught              ---> laden, to load (a ship) with cargo; cargo,lading
+                          of a ship; to load or furnish with cargo
 
-fraught
+freefone             ---> free phone
 
-freefone
-
-freight
+freight              ---> 
 
 frequency
 
@@ -425,6 +458,15 @@ defect        ---> problem where someting goes wrong during the process of
                    using it
 faulty        ---> balme, or by accident, incorrect step
 ```
-
+## make, create, develop, produce, generate, form
+to cause sth to exist or happen
+```
+make          ---> combining materials or putting parts together
+create        ---> make sth new
+develop       ---> to think of and produce a new product
+produce       ---> to make things to be sold
+generate
+form          ---> to make sth from sth else
+```
 
 
