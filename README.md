@@ -59,6 +59,20 @@ dishonest              ---> not honest
 disloyal               ---> not loyal
 dissimilar             ---> not similar
 ```
+## fore- = before, front, superior
+before in time, rank, position; discribe the front part of sth or 
+earlist time
+```
+forebode
+forecast               ---> throw before
+foremost
+foreshadow
+foresight
+forestall
+
+```
+
+
 ## infra- = below, underneath
 ```
 infrared               ---> electromagnetic radiation with wavelets longer than visible light
@@ -322,6 +336,22 @@ pavement            ---> the result of paving
 equipment           ---> the condition of being equiped
 government          ---> the fact of gevernng
 ```
+## -most = -est
+```
+topmost
+inmost
+farmost
+foremost
+esternmost
+westernmost
+headmost
+lowermost
+uppermost
+middlemost
+outmost
+hindmost
+```
+
 
 ## -sion , -tion, -ness = state of being
 ```
