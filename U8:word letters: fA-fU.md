@@ -376,15 +376,17 @@ fraught              ---> laden, to load (a ship) with cargo; cargo,lading
 
 freefone             ---> free phone
 
-freight              ---> 
+freight              ---> cost of transport; 
+                          absolute possession, be master of , possess
 
-frequency
+frequency            ---> fact of occurring often
 
 frequent
 
 friction
 
 frightened
+
 frock
 
 frontier
