@@ -108,7 +108,14 @@ entice
 entire
 entitle
 entrepreneur
-
+entrepreneurial
+entrust
+entwine
+envirionment
+envisage
+epidemic
+episodic
+epitomise
 
 
 
