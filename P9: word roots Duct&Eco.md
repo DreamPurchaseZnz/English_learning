@@ -56,3 +56,18 @@ education           ---> lead outside
 educator
 educe               ---> e< ex, lead out = stand out
 ```
+## eco(ecu,oce) = house,dwelling place
+```
+ecumenical
+ecology               ---> logy=study
+ecological
+economy               ---> nomos=management,law
+economics
+economical
+economist
+economize
+diocese               ---> di=through; oce=eco=house
+```
+
+
+
