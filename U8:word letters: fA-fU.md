@@ -379,57 +379,71 @@ freefone             ---> free phone
 freight              ---> cost of transport; 
                           absolute possession, be master of , possess
 
-frequency            ---> fact of occurring often
+frequency            ---> fact of occurring often; a crowding, crowd; 
+                          state of being crowed; rate of recurrence
 
-frequent
+frequent             ---> ample, profuse; crowed, repeated;common, usual
+                          happening at short intervals, often recurring
 
-friction
+friction             ---> rubbing, a rubbing; to rub; resistance to motion
+                          disagreement, clash
 
-frightened
+frightened           ---> fear, dread, trembling, horrible sight
 
-frock
+frock                ---> a monk's habbit; mattle coat; to spin; 
+                          our garment for women or children
 
-frontier
+frontier             ---> prow of a ship, front rank of an army; faccing, neighboring
+                          borderland
 
-front-line
+front-line           ---> front + line
 
-frown
-fruitful
+frown                ---> scowl, snort; scowling look; nostril
+                          a serious, angry or worried expression
 
-frustrate
+fruitful             ---> eaten as dessert; harvest; virtuous action
+                          produce, to use
 
-frustrating
+frustrate            ---> to deceive, disappoint; in vain, in error;injury, harm
 
-frustration
+frustrating          
 
+frustration          ---> deception, a disappointment
 
-fuel
+fuel                 ---> bundle of firewood; right to demand material for making fire
+                          any material that prouduces heat or power
 
-fulfil
+fulfill              ---> fill up,make full; meet a want or need
 
 fulfillment
 
-fumes
+fumes                ---> smoke, steam, vapor,breath, dust, vapor, fog
+                          smoke, to rise in a cloud; to fly about like dust;
 
-function
+function             ---> proper work or purpose; performance, execution
 
-fund
+fund                 ---> a bottom floor, ground; a merchant's basic stock or capital
+                          lower part; foundation,bottom; 
+                          Money at one's disposal
 
-fundamental
+fundamental          ---> adj. primary, original, pertaining to a foundation; 
+                          n. primary principles or rules of anything
 
-furious
+furious              ---> adj. full of rage, mad; rage, passion, fury;
+                          an enraged person
 
-furnance
+furnace              ---> n. oven, kiln
 
-furnish
+furnish              ---> v. furnish, accomplish; to provide; to put furniture in a house
 
-furniture
+furniture            ---> n act of furnishing; chairs, tables, etc; household stuff, movable
 
-fuse
+fuse                 ---> v. to melt; intransitive; to become liquid; to blend diffrent things
 
-fusion
+fusion               ---> n. an outpouring, effusion; pour, melt
 
-futile
+futile               ---> adj. vain, worthless; pouring out easily hence easily emptied,leaky
+                               unreliable; fu=to pour
 ```
 
 
