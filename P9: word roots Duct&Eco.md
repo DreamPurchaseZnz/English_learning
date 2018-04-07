@@ -68,6 +68,14 @@ economist
 economize
 diocese               ---> di=through; oce=eco=house
 ```
-
+## electr = amber, elcetricity
+```
+electric
+electricity
+electrical
+electron              ---> on: particles
+electronic
+electrician
+```
 
 
