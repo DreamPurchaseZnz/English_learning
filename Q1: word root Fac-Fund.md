@@ -171,8 +171,24 @@ informal                 ---> situation that give a shape
 perform                  ---> throughly give a 'shape'
 reform                   ---> give a 'shape' again
 uniform                  ---> one shape
-
 ```
+## fort, forc = strong
+```
+reinforce                ---> re(again)
+fortify                  ---> to make strong
+enforce                  ---> force to do
+enforcement
+perforce
+force
+forceful
+forcible
+comfort
+comfortable
+effort
+forte
+fortitude
+```
+
 ## fract = breaked, crushed;  frag(fra,fring) = break, crush 
 ```
 suffrage                 ---> suf-> sub break; the right to vote in political elections
