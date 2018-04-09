@@ -132,30 +132,46 @@ emeritus                ---> veteran soldier who has served his time; that has f
                              work, past sevice; serve out, complete one's service
                              ex(out)+ meritus(to serve, earn)
 
-eminent
+eminent                 ---> prominent; standing out; projecting; be conspicuous
+                             ex=out; minent(mount)=hill
 
-emission
+emission                ---> something sent forth; a sending out, a projecting
+                             letting go, releasing
 
-emit
+emit                    ---> sent forth; e=out; mit=sent
 
-emotion
+emotion                 ---> a (social)moving, stirring, agitation; move out,remove
+                             strong feeling; stir up; extended to any feeling
 
-emotional
+emotional               ---> characterized by or subject to emotions;
+                             emotional intelligence
 
-emperor
+emperor                 ---> leader, ruler;commander, to command
 
-emphasis
+emphasis                ---> intensity of expression; an appearing in, outward 
+                             appearance; to present, exhibit, display, let be seen;
+                             be reflected(in a mirror), become visible.
+                             em=to make; phasis=show;
 
+emphasize               ---> to show sth
 
-emphasize
+empire                  ---> rule, authority, kingdom, imperial rule
+                             command; authority; control, power; supreme power,
+                             sole dominion; military authority; a dominion,realm;
+                             em=to make; pire=order, prapare; to command;
+                             territory ruled by an emperor
 
-empire
+empirical               ---> pertaining to or derived from experience or experiments
+                             guided by mere experience
 
-empirical
+employ                  ---> make use of; increae; entangle;devote; 
+                             enfold, involve, be connected with, unite, associate
+                             em=to; ploy=fold; hire, engage;
+                             involving for a particular purpose
 
-employ
-
-emulate
+emulate                 ---> to rival; rivalry, emulation, competition;
+                             stive to excel
+                             striving or rivaling through imitation
 
 enable
 
