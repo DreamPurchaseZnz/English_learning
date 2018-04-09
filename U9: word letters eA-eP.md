@@ -79,49 +79,58 @@ elevate                 ---> to raise above the usual position; lift up, raise
                              to lighten, alleviate; 
                              ex=out; levis=lighten, raise; raise in rank or status
 
-elicitation
+elicitation             ---> e=out; lici=light;
+                             stimulation that calls up(draw forth) a particular class
+                             of behaviors
 
-eligible
+eligible                ---> fit or proper to be chosen; fit to be chosen; 
+                             lig=to bind; bind out
 
-eliminate
+eliminate               ---> thrust out of doors; ex=out;limin= limit
+                             off the threshold; exclude, expel waste from the body;
 
-elite
+elite                   ---> a choice or select body, the best part; selection, choice
 
-elucidate
+elucidate               ---> to make light or clear; e=out, away, lucidus=clear
 
-elusive
+elusive                 ---> delude, make a fool of;finish play, win at play;
+                             escape from or parry, make a fool of, mock, frustrate
+                             e=out; lus=to play
 
-embankment
+embankment              ---> to enclose with a bank
 
-embark
+embark                  ---> em=in; bark= small ship; get on board
 
-embassy
+embassy                 ---> office of ambassador
+                             emb=around; assy=act; one going around
 
-embed
+embed                   ---> Originally a geological term, in reference to fossils in rock
+                             To lay in a bed(of surrounding matter)
 
-embezzlement
+embezzlement            ---> steal; make away with money or property of another; 
+                             cause to disappear; em=to make, bezzle= torment, destroy,gouge
+                             dispose of fraudulently to one's own use
 
-embody
+embody                  ---> in reference to a soul or spirit 
+                             invested with a physical form; to make body
 
-emboss
+emboss                  ---> to ornament with raised work;boss(boce)=knoblike mass
 
-embrace
+embrace                 ---> clasp in the arms; enclose; covet; handle; cope with
 
-embezzlement
+embryo                  ---> fetus in utero at an early stage of development; a young one
+                             young animal; fruit of the womb; that which grows
+                             bryein="to swell, be full"
 
-embody
+emerge                  ---> bring forth, bring to light; arise out or up; come forth/up
+                             merge=dip, sink
 
-emboss
+emergency               ---> unforeseen occurrence requiring immediate attention
+                             to rise up or out
 
-embrace
-
-embryo
-
-emerge
-
-mergency
-
-emeritus
+emeritus                ---> veteran soldier who has served his time; that has finished
+                             work, past sevice; serve out, complete one's service
+                             ex(out)+ meritus(to serve, earn)
 
 eminent
 
