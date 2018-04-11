@@ -216,49 +216,86 @@ endanger            ---> v. to put sth in danger
 endeavour           ---> v. pains taken to attain an object;in duty
                             deavor = put in duty; utmost effort
 
-endorse
+endorse             ---> v. confirm or approve(a charter, bill,etc) originally by
+                            signing or writing on the back of document
+                            en='put on'; dos=back; to put on the back
 
-endure
+endure              ---> v. to undergo or suffer(especially without breaking)
+                         to continue in existence; make hard, harden, bear
+                         tolerate; keep up, maintain;
+                         "make hard" "harden the heart against"; dure=harden
+                         deru=to firm, solid, steadfast
 
-energetic
+energetic           ---> powerful in operation; active;to work, be in action
+                         act upon; operative; full of energy
 
-enforce
+enforce             ---> to drive by physical force; to try, attempt
+                         strive; to fortify, strengthen a palce;
+                         exert force, compel; make stronger, reinforce
+                         "compel obedience to"
+                         
 
-enfranchise
+enfranchise         ---> Grant someone the status or privilege of 
+                         citizenship, admit to membership in a town;
+                         v. to set or make free; grant a franchise to;
+                         franc='free';generally with reference to voting
+                         privileges
 
-engage
+engage              ---> to pledge; bind(by promise or oath), pledge, pawn
+                         under pledge; en=to make; gage=pledge;
+                         attract and occupy the attention of; employ secure
+                         for aid, employment or use; binding as by a pledge
+                         enter into combat or contest with; promose to marry
+                         
 
-engrave
+engrave             ---> to carve; grave=carve
 
-engross
+engross             ---> to buy up the whole stock of; in bulk, in a large
+                         quantity, at wholesale; absorb the whole attention
+                         to write in large letters.
 
-enhance
+enhance             ---> to raise, make higher; make greater or louder;
+                         fatten, foster; raise in esteem; raise, exalt
+                         hance=high; to make high; raise in station, wealth
+                         or fame.
 
-enhancer
+enhancer            ---> a substance or device that is designed to improve sth
 
-enigma
+enigma              ---> statement which conceals a hidden meaning or known
+                         thing under obscure words or forms; riddle
+                         speak obscurely, speak in riddles; tale, story, 
+                         saying, proverb; anything inexplicable to an observer
 
-enjoyable
+enjoyable           ---> capable of being enjoyed; affording pleasure
 
-enlarge
+enlarge             ---> grow fat, increase; make larger; to widen, increase
+                         make larger; 
+                         expand in words, speak at large
 
-enlighten
+enlighten           ---> to remove the dimness or blindness; supply with
+                         intellectual light; put light in; shed light upon
 
-enlist
+enlist              ---> to put in a list
 
-enormous
+enormous            ---> abnormal; out for rule, irregular, shapeless,
+                         extraodinary, very large; 
+                         e=out; norma='rule, norm'; extraodinary in size
+                         exceedingly great, monstrous; outrageous
 
-enquire
+enquire             ---> inquire; to ask a question
 
-enquiry
+enquiry             ---> n. an official process to find out the cause of sth
 
-enrich
+enrich              ---> v. to make wealthy; supply with abundance of something
+                            desirable; to fertilize; increase the abundance of
+                            a particular isotope in some material
 
-enroll
+enroll              ---> v. record in a register, write in a roll; put in a roll
 
-enrolment
+enrollment          ---> n. act of enrolling; record in a register; totol number 
+                            enrolled
 
-enslave
+enslave             ---> 
 
 ensue
 
@@ -301,3 +338,12 @@ episodic
 epitomise
 
 ```
+
+## sign, autograph, endorse
+```
+sign         
+autograph    
+endorse      ---> to put on the back
+```
+
+
