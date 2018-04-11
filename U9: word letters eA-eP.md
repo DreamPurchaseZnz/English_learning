@@ -173,31 +173,48 @@ emulate                 ---> to rival; rivalry, emulation, competition;
                              stive to excel
                              striving or rivaling through imitation
 
-enable
+enable              ---> to make fit; to make able to
 
-enact
+enact               ---> act the part of, represent in performance
+                         decree, establish, sanction into law
 
-encapsulate
+encapsulate         ---> enclose in a capsule, a small space
 
-encase
+encase              ---> to surround or cover sth completely, 
+                         especially to protect it
 
-enclose
+enclose             ---> v. close = to shut, cover in; to block up;
+                            make inaccessible, put an end to; shut in
+                         surround, confine, contain; 
+                         to fence in waste or common ground;
+                         place a document with a letter in an envolope for transmission
+                         
 
-enclosure
+enclosure           ---> that which is enclosed
 
-encode
+encode              ---> en=make, put in; to code
 
-encompass
+encompass           ---> compass n. com=together; passus=a step; to pace out
+                                   space, area, extent, circumference;
+                                   circle, radius, pairs of compasses
+                                   to go around, measure, divide equally
+                         v. to make go around; include, with extent to
 
-encounter
+encounter           ---> v. meeting of adversaries, confrontation; meeting
+                            fight, opportunity;
+                            en= in; counter= against
 
-encourage
+encourage           ---> v. to make strong, hearten;
+                         en-=to make, put in; courage=heart
 
-encroach
+encroach            ---> v. acquire, get, seize, fasten on, hang on, cling to
+                            hang up, suspend; to catch with a hook
+                            croc= hook, to seize wrongfully; trespass
 
-endanger
+endanger            ---> v. to put sth in danger
 
-endeavour
+endeavour           ---> v. pains taken to attain an object;in duty
+                            deavor = put in duty; utmost effort
 
 endorse
 
