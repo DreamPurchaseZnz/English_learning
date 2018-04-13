@@ -77,5 +77,19 @@ electron              ---> on: particles
 electronic
 electrician
 ```
+## epi = on, beside, after, outside, among, away
+```
+epidemic       ---> epi= among; dem=people
+epidermis      ---> epi= outside; derm=skin
+epigram    
+epilogue       ---> after speech
+episode        ---> epi= among; sode= go, ced
+```
+
+
+
+
+
+
 
 
