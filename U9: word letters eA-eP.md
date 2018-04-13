@@ -295,48 +295,72 @@ enroll              ---> v. record in a register, write in a roll; put in a roll
 enrollment          ---> n. act of enrolling; record in a register; totol number 
                             enrolled
 
-enslave             ---> 
+enslave             ---> v. make,make into slave
 
-ensue
+ensue               ---> seek after, pursue, follow(a path) close upon;
+                         come after;follow after, come next
+                         " to purchase, follow, follow after, come next
+                         en = to make; sue=follow; sequel;
+                         follow as a consequence; to result; to follow in
+                         time and space; happen subsequently
 
-ensure
+ensure              ---> to make sure;
 
-entail
+entail              ---> " convert an estate into fee tail"
+                         en=make; taile=legal limitation; especially of 
+                         inheritance, ruling who succeeds in owenership and
+                         preventing the property form bing sold off
+                         allot, cut to shape; to split; involve
 
-enterprise
+enterprise          --->  an undertaking; undertake , take in hand
+                          entre= between; prendre=totake; 
+                          adventurous disposition
+                          readiness to undertake challenges, spirit of daring
+                          
 
-entertain
+entertain           ---> to interest, to amuse; to allow yourself think about
+                         an idea
 
-entertainment
+entertainment       ---> provision for support of a retainer;
+                         that which entertains; public performance or display
+                         meant to amuse
 
-enthusiasm
+enthusiasm          ---> divine inspiration; be in ecstasy
+                         thus = god; possessed by a god; fervor, zeal
 
 enthusiastic
 
-entice
+entice              ---> "set on fire"; en=in; titio=firebrand; to allure
+                         to attract
 
-entire
+entire              ---> whole, unbroken, intact, complete; completeness
 
-entitle
+entitle             ---> give sb the right; give a title to 
 
-entrepreneur
+entrepreneur        ---> business manager
 
-entrepreneurial
+entrepreneurial     ---> having the qualities of business manager
 
-entrust
+entrust             ---> to put trust in
 
-entwine
+entwine             ---> to make twine
 
-envirionment
+envirionment        ---> state of being environed; the aggregate of the 
+                         conditions in which a person or a thing lives
 
-envisage
+envisage            ---> look in the face of; BrE
+                         en= in ; visage= face;
 
-epidemic
+epidemic            ---> n. common to or affecting a whole people;
+                            an epidemic disease; 
+                            prevalence of an epidemic disease;
+                            epi= among, upon; demos=people, district
 
-episodic
+episodic            ---> adj. outstanding incident
 
-epitomise
-
+epitomise           ---> an abstract, brief statement of the chief points
+                         epi=into; tem=to cut;
+                         person or thing that typifies something
 ```
 
 ## sign, autograph, endorse
@@ -345,5 +369,13 @@ sign
 autograph    
 endorse      ---> to put on the back
 ```
-
+## imagine, envisage, visualize, picture, envision
+All these words mean to form an idea in your mind
+```
+imagine          ---> form an idea in your mind; general
+envisage         ---> to make the future seeable
+visualize        ---> to form a picture (formal)
+picture          ---> to form a picture
+envision         ---> to see the future
+```
 
