@@ -1,42 +1,54 @@
 # E
 ```
-equal             ---> 
+equal             ---> indentical in amount, extent or portion;
+                       uniform, identical, equal, as tall as
+                       proportionate, calm, impartial
+          
 
-equation
+equation          ---> action of making equal
 
-equator
+equator           ---> day and night are of equal length;
+                       terrestrial line midway between the poles
 
-equip
+equip             ---> to fit out a ship, load on board; arrange place in order
 
 equipment
 
-equity
+equity            ---> quality of being equal or fair, impartiality in
+                       dealing with toerhs
 
-quivalent
+equivalent        ---> equi=equal; valere= be well, be worth
 
-era
+era               ---> a period of time usually in history
 
-erode
+erode             ---> gnaw or eat away;consume; ex=out, rode=gnaw
+                       become worn away
 
-erosion
+erosion           ---> a gnawing away
 
-erroneous
+erroneous         ---> not correct; based on wrong information
 
-eruption
+eruption          ---> a breaking out; burst forth
 
-escalate
+escalate          ---> to become or make sth greater, worse, more serious,etc
 
-escalator
+escalator         ---> moving staircase;
+                       to climb by means of ladder
 
-essay
+essay             ---> trail, attempt, endeavor; es=out, ay=act; to act out
+                       
+essence           ---> basica element of anything;
+                       ingredient which gives something its particular 
+                       charcter; fragrance, perfume
 
-essence
+essential         ---> necessary; indispensable element
 
-essential
+establish         ---> cause to stand still, stipulate; 
+                       set up, erect, build
 
-establish
-
-estate
+estate            ---> rank, standing, condtion; status, legeal estate
+                       landed property;
+                       ancestral land or patrimony
 
 esteem
 
