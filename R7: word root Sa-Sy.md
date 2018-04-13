@@ -28,6 +28,28 @@ sane                         ---> having a normal healthy mind ; not mentally
                                   sensible and reasonable
 insanitary                   ---> dirty and likely to spread disease
 ```
+## scan, scend, scal= to climb, stair
+```
+scan 
+ascend 
+ascensive 
+ascension 
+ascendant
+ascendancy
+descent
+descendant
+condescend
+condescention
+transcend
+transcendent
+transcendence
+scale
+escalade
+escalator
+```
+
+
+
 ## scrib, script = to write
 ```
 ascribe
