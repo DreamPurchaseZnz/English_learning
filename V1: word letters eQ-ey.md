@@ -50,9 +50,9 @@ estate            ---> rank, standing, condtion; status, legeal estate
                        landed property;
                        ancestral land or patrimony
 
-esteem
+esteem            ---> value; respect; determine the value of, appraise 
 
-estimate
+estimate          ---> valuation, determine the value of; power of mind
 
 estrange
 
