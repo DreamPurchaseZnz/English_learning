@@ -10,6 +10,19 @@ calcarious
 calcic
 calcimine
 ```
+## cav= hole, hollow out
+```
+cave
+excavate           ---> to hollow out
+excavation
+excavtor
+cavity
+cavern
+concave            ---> convex
+caveman
+
+```
+
 
 ## cid, cad, cas = to fall
 ```
@@ -85,6 +98,7 @@ preocuupation
 emancipate
 receipt
 ```
+
 ## ced ,cess(ceed, ceas) =  to go
 ```
 access              ---> going towards 
