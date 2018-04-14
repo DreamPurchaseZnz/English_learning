@@ -173,20 +173,25 @@ exhibition       ---> show, display; hib=to hold, to live; to hold out
 
 exhilaration     ---> hilarare= to cheerful; thoroughly cheerful
 
-exile
+exile            ---> banish, expel, drive off; ex=out, al=wander
+                      banished person; to wander, stray or roam about
 
-exist
+exist            ---> to step out, stand forth, emerge, appear, exist
 
-existence
+existence        ---> ex=out, sist=stand; to stand out; exist, be
 
-exoudus
+exodus           ---> a going out; a military expedition; a solemn
+                      procession; departure
 
-exorbitant
+exorbitant       ---> ex=out, orbit=wheel track; deviate, go out of track
+                      deviate from rule or principle, eccentric
 
-exotic
-expand
+exotic           ---> belonging to anthoer country; foreign
+                      from the outside; foreign
 
-expansion
+expand           ---> spread out, spread flat; unfold; grow larger
+
+expansion        ---> anything spread out; act of expanding
 
 expectancy
 
