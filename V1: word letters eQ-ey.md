@@ -54,94 +54,124 @@ esteem            ---> value; respect; determine the value of, appraise
 
 estimate          ---> valuation, determine the value of; power of mind
 
-estrange
+estrange          ---> e=to; strange; to treat as a stranger; to alienate
 
-estuary
+estuary           ---> channel inland from sea
 
-eternal
+eternal           ---> of an age,lasting, enduring, permanent, everlasting
+                       endless.
 
-ethereal
+ethereal          ---> of the highest regions of the atmosphere;
+                       ether+ ial=light, airy; spirit-like, immaterial
 
-ethical
+ethical           ---> study of morals; ethics, moral philosophy
 
-evacuate
+evacuate          ---> e=out; vac=empty; to empty, make void, nullify;
+                       remove inhabitants to safer ground
 
-evaluate
+evaluate          ---> e=out; val=value; to find out the value of
 
 evaluation
 
-evaporate
+evaporate         ---> disperse in vapor or steam
 
-event
+event             ---> occurence, accident, fortune, fate, lot, issue
+                       e=out, ven=come; to come out, happen, result
 
-evidence
+evidence          ---> appearance from which inferences may be drawn;
+                       proof; vivid presentation; clearness;
+                       ground for belief
 
-evoke
+evoke             ---> call out, rouse, summon;
+                       voke=rouse; calling spirits
 
-evolution
+evolution         ---> a opening of what was rolled up; unrolling
+                       e=out; volu=roll; growth to maturity and development
+                       of an individual liveing thing; progress
 
-evolve
+evolve            ---> to unfold, open out, expand, to make clear, disclose
+                       to produce, develop;to develop by natural processes to
+                       a higher state.
 
-exacerbate
+exacerbate        ---> irritate, provoke; ex=throughly, acerbus=harsh, bitter
+                       acer= sharp,keen
 
-exact
+exact             ---> correct in every detail
 
-exaggerate
+exaggerate        ---> ex=thoroughly, a=to,ger=gather;to heap, pile up, load, fill
+                       heighten, amplify, magnify, to pile up, accumulate
+                       
 
-examine
+examine           ---> interrogate, question, torture, to test or try
+                       weight, consider, ponder, a means of weighting 
+                       or testing; weight accurately
 
-excavate
+excavate          ---> ex=out; cave=to hollow, hollow out; to hollow out
 
 excavation
 
-exceed
+exceed            ---> surpass, go too far; depart, go beyond, be in excess
+                       out+ ceed=go, yeild; very greatly or very much
 
-excellent
+excellent         ---> outstanding, excellent
 
-except
+except            ---> ex=out; cept=take; to take out; to leave out
 
 exceptional
 
-excess
+excess            ---> extravagance, outrange; 
+                       cess= to go; to depart, go beyond, departure, a going
+                       beyond the bounds of reason; beyond the subject
 
 excessive
 
-exchange
+exchange          ---> act of reciprocal giving or receiving;
+                       ex=out; change=barter, bargain; 
 
-excitement
+excitement        ---> something that tends to excite; encouragement
+                       condition of mental and emotional agitation
+                       cit = to call, to arouse; to call out, agitation
 
-exclude
+exclude           ---> keep out, shut out, hinder; clude=to close, shut
 
-exclusive
+exclusive         ---> so as to exclude; unwilling to admit outsiders
 
 exclusively
 
-excreta
+excreta           ---> creta=pass; solid and liquid waste matter passed from
+                       the body
 
-excursion
+excursion         ---> ex=out, cur=to run; a running forth, sally, hasten
+                       expedition, to run out; a short journey
 
-excusable
+excusable        
 
 execute
 
-execution
+execution         ---> carrying out, putting into effect, enforcement, 
+                       performance(of act), the carrying out; an accomplishing
+                       ex=out; secut=follow; to follow out;
+                       act of putting to death; carrying out a sentence of 
+                       death; action of carrying something into effect
 
-exemplify
+exemplify        ---> illusrate by examples, to instruct by example
 
-exhale
+exhale           ---> to breathe out; hale=breathe; evaporate
 
-exhaust
+exhaust          ---> to draw off or out; to use up completely
+                      ex=out, haurire=to draw up; to draw water
 
-exhaustible
+exhaustible      ---> property of being exhaust
 
-exhaustion
+exhaustion       ---> draw off of strength
 
-exhausive
+exhaustive          
 
-exhibit
+exhibit          ---> to hold out, display, show, present, deliver
 
-exhibition
-exhilaration
+exhibition       ---> show, display; hib=to hold, to live; to hold out
+
+exhilaration     ---> hilarare= to cheerful; thoroughly cheerful
 
 exile
 
@@ -243,3 +273,18 @@ exuberant
 
 
 ```
+## trip, journey, tour, expedition, excursion, outing, day out
+These are all words for an act of travelling to a place
+```
+trip               ---> usually go to a place and back again; shorter 
+journey            ---> a long way apart; one-way; take a long time and is 
+                        difficult.
+tour               ---> a journey made for pleasure during which several
+                        different places are visited
+expedition         ---> an organized journey with a particular purpose,
+                        especially to find out about a place is not well known
+excursion          ---> a short trip made for pleasure, organized
+outing             ---> a short trip for pleasure or education; a group of people
+day out            ---> a trip to somewhere for a day, especially for pleasure
+```
+
