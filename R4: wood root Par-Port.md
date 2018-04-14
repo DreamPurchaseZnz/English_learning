@@ -1,4 +1,14 @@
 # P
+## pand = to spread out
+```
+expand
+expandable
+expander
+expansible
+
+```
+
+
 ## path(o),pat(i), pass(i), pathy = to feel , to suffer
 ```
 apathy         ---> without feel
