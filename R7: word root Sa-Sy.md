@@ -148,6 +148,31 @@ sentence
 scent
 
 ```
+## sequ, secut, su=to follow; suit
+```
+consequence
+inconsequencial
+obsequious         ---> in the way + follow
+subsequent         ---> follow behind
+persecute          ---> thoroughly follow
+prosecute          ---> bofore follow the evidence
+ensue
+inconsequent       ---> unreasonable 
+sequal
+sequence
+consecutive
+excute
+excutation
+excutive
+pursue            ---> to follow
+pursuit
+pursuant
+sue
+suit
+unsuitable
+```
+
+
 ## serv = to serve, to keep,slave
 ```
 conserve                   ---> keep wholly
