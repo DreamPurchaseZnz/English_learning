@@ -61,6 +61,22 @@ mitrogen
 biogenesis
 endogenous
 ```
+## ger, gest(gist) = to carry, to bear
+```
+congest
+belligerent
+digest          ---> to take in; carry away
+digestion
+exaggerate
+exaggeration
+gestation
+gesticulate     ---> figure
+ingest          ---> carry in
+suggest         ---> under + to carry;to bring up for consideration 
+                     to carry some idea from under
+register        ---> to carry back
+```
+
 ## geo = earth
 ```
 George                    ---> farmer
