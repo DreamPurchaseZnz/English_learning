@@ -119,7 +119,16 @@ proceed             ---> v. go forth to do sth; continue being done; to do next
 process             ---> n. a series of tings that happen, especially ones that result in natural change          
 procession          ---> n. a line of people/sth
 ```
-
+## cel, celer=swift
+```
+accelerate          ---> to swift
+celerity
+accelerando
+decelerate
+excel               ---> swift out
+excellence
+excellency
+```
 
 ## claim,clam = to cry , to shout
 ```
