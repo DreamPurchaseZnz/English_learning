@@ -38,9 +38,22 @@ caddish            ---> offensively fall
 cascade            ---> a small waterfall;
                         a large amount of sth hanging down
 casual             ---> fall by chance; happening by chance
-
-
 ```
+## cit = to call, to arouse, cite
+```
+incite             ---> to call in 
+excite             ---> thoroughly arouse
+recite
+recital
+reciation
+recitative
+cite
+resuscitate       ---> under arouse again
+solicit           ---> soli=whole, entire
+solicitude
+```
+
+
 ## cept, cap, capt, ceiv(ceit, cip, cup) = to take, to seize, to hold
 ```
 concept            ---> thoroughly taken or seized in one's brain
