@@ -58,25 +58,34 @@ decipher      ---> de, cipher=code; decode; translation
 decisive      ---> to settle a dispute; to decide, determine;
                    cis=cut; to cut off; to make up one's mind
 
-declaration   ---> 
+declaration   ---> action of stating;pulic statement
 
-declare
+declare       ---> explain, elucidate; make clear, reveal
+                   disclose, announce; 
+                   de=intensive,clare= clear
 
-decline
+decline       ---> to turn aside; deviate; to sink, 
+                   degenerate, to bend from, inflect;
+                   cline= to bend; not to consent, politely
+                   refuse
 
-decompose
+decompose       ---> to separate into components;
+                     de=opposite of; putrefy
 
-decompression
+decompression   ---> opposite of a pressing together 
 
-decorate
+decorate        ---> to adorn, embellish, beautify;an ornament
+                     dec=to receive, be suitable
 
-decoration
+decoration      ---> action of decorating, beautification; that
+                     which decorates; a badge or metal worn as a mark
+                     of honor
 
-decouple
+decouple        ---> to uncouple
 
 decrease
 
-cecrepit
+decrepit
 
 dedicate
 
@@ -286,6 +295,21 @@ diploma
 
 ```
 ##  dairy, daily
+
+## statement, comment, announcement, remark, declaration, observation
+these are all words for sth that you say or write,
+especially sth that gives information or an opinion
+```
+statement          ---> in a formal way
+comment
+announcement       ---> inform people about sth
+remark             ---> unofficial
+declaration        ---> rather formal; an official or formal
+                        statement, especially one that
+                        states an intention, belief or feeling
+observation        ---> unofficial but with more considered
+
+```
 
 
 
