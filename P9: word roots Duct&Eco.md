@@ -7,6 +7,15 @@ deciare
 decilitre
 decade
 ```
+## dec, decor = fit, elegance
+```
+decor
+decent
+decorate
+decorous
+decency
+indecent
+```
 
 ## dic, dict =  to say, assert, allot
 
