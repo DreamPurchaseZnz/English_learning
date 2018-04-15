@@ -22,6 +22,58 @@ concave            ---> convex
 caveman
 
 ```
+## cent = 1/hundred
+```
+percent
+centennial     ---> enn=year
+centigrade
+centipede
+century
+centitram
+centimeter
+centiliter
+cent
+centurion
+centenary
+centuplicate   ---> pli=fold
+```
+## centr = center
+```
+centrum
+eccentric
+central
+centralism
+centrality
+centralization
+centric
+centrifugal
+centrifuge
+centripetal
+centrosphere
+concentrate
+concentric
+acentric
+decentralize
+decentre
+geocentric
+heliocentric
+homocentric
+orthocentre
+subcentral
+```
+## cent, cant(chant, chans)= to sing, song
+```
+accentuate
+enchant
+recant
+chanson
+chant
+incantation
+precentor
+concert
+concerto
+cantor
+```
 
 
 ## cid, cad, cas = to fall
