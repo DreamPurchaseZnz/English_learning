@@ -85,7 +85,7 @@ epigram
 epilogue       ---> after speech
 episode        ---> epi= among; sode= go, ced
 ```
-
+## extra-, exter-, extro-= outside, beyond
 
 
 
