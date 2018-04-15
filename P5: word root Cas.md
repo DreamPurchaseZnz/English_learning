@@ -91,6 +91,25 @@ cascade            ---> a small waterfall;
                         a large amount of sth hanging down
 casual             ---> fall by chance; happening by chance
 ```
+## cis(cas, chis), cide= to cut
+```
+concise          ---> cut all
+excise           ---> cut off
+incisive         ---> into cut
+circumcision
+decisive
+precis
+precise          ---> cut before
+chisel
+castration
+insecticide
+matricide
+patricide
+suicide
+bactericide
+```
+
+
 ## cit = to call, to arouse, cite
 ```
 incite             ---> to call in 
