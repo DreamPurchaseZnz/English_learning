@@ -265,8 +265,48 @@ complexity               ---> the state of being woven together
 complexion               ---> set of skin features 'woven' into one's facial appearance
 perplex                  ---> thoroughly 'woven' in confusion
 ```
-
-
+## pos, post= to put, to place
+```
+apposite         ---> ap=ad,to; put
+depose
+exposition
+repose
+pause
+imposter
+post
+indisposed
+supposition
+compose
+composed
+composite
+composition
+deposit
+depository
+dispose
+disposition
+expose
+impose
+interpose
+oppose
+opposite
+opposition
+posit
+positive
+positivism
+preposition
+propose
+proposition
+purpose
+repository
+transpose
+decompose
+indispose
+predispose
+presuppose
+compose
+outpost
+posture
+```
 
 ## port, portat =  to carry
 ```
