@@ -247,9 +247,12 @@ expose           ---> pose= to place, lay down; lay open, set forth;
 exposure         ---> public exhibition; situation with regard to sun
                       or weather
 
-express          ---> 
+express          ---> to press out -> clay that takes under
+                      pressure takes the form of image;
+                      press, squeeze out; speak one's mind
 
-extend
+extend           ---> tend=stretch; to stretch out, lengthen
+                      to value, assess, increase
 
 extendable
 
@@ -257,43 +260,50 @@ extension
 
 extensive
 
-extent
+extent           ---> valuation of land, stretch of land;
+                      degree to which something extends
 
-exterior
+exterior         ---> on the outside, outward, outer, 
+                      of any country, foreign; ex=out of
 
-external
+external         ---> outside, outward
 
 externally
 
-extinct
+extinct          ---> stinct=die; to die out
 
-extinction
+extinction       ---> of wiping out a material thing
+                      (a debt, a peron, a family, etc)
 
-extinguish
+extinguish       ---> throughtly quench; to prick, stick
+                      to quench, wipe out, obliterate
 
 extinguisher
 
-extol
+extol            ---> ex=out; tol=tall, raise; to lift up; to place
+                      on high, raise, elevate, to exalt
 
-extra
+extra      
 
-extract
+extract          ---> draw out from sth; 
 
-extracurricular
+extracurricular  ---> outside the current lesson
 
-extraordinary
+extraordinary    ---> beyond the ordinary
 
-extravagance
+extravagance     ---> wander outside; wasteful spending
 
-extreme
+extreme          ---> outermost, utmost; farthest, last
+                      opposite ends of anything
 
-extremely
+extremely        ---> with great severity
 
-extrovert
+extrovert        ---> turn outward; out-going
 
-extrusion
+extrusion        ---> to thrust out; press, push, squeeze
 
-exuberant
+exuberant        ---> overabundance; be abundant, grow
+                      luxuriously; uber=be fruitful
 
 
 
