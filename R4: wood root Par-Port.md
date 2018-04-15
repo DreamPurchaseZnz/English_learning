@@ -191,9 +191,21 @@ repeal
 ```
 ## phil, philo = loving
 ```
+Placeholder
 
 
-
+```
+## plaud, plaus(plod, plos, plex)= strike, clap
+```
+plausible          ---> worth to clap your hand
+applaud
+applause
+plaudit
+explode            ---> to drive out
+explosion
+explosive
+implosion          ---> strike inward
+apoplexy           ---> apo=away; strike
 ```
 
 
