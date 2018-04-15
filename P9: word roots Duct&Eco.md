@@ -1,4 +1,13 @@
 # D
+## deci = one tenth
+```
+decimeter
+decigram
+deciare
+decilitre
+decade
+```
+
 ## dic, dict =  to say, assert, allot
 
 fam, fess, locut,loqu, nounc, nunci, or parl
