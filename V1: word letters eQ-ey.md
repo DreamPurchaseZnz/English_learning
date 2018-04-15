@@ -193,41 +193,61 @@ expand           ---> spread out, spread flat; unfold; grow larger
 
 expansion        ---> anything spread out; act of expanding
 
-expectancy
+expectancy       ---> await, look out for, desire, hope;
+                      ex=thoroughly; pect=to look; to look at
+                      anticipate, look forward to; be pregnant
 
-expedition
+expedition       ---> military campaign; the act of rapidly 
+                      setting forth; journey for some purpose
 
-expel
+expel            ---> to drive out;to eject from a school
 
-expense
+expense          ---> money provided for expenses; disbursement; 
+                      outplay;to weigh out money, to pay down;
+                      outplay for provisions; provision; food
+                      
+expire           ---> to die; elapse; breathe out, breathe one's last,
+                      die; ex=out, pire=to breathe
 
-expire
+expiry           ---> close, termination
 
-expiry
+explode          ---> to reject with scorn; drive out or off by clapping
+                      hiss off, hoot off; to drive an actor off the 
+                      stage by making noise; 
+                      ex=out, plode=clapping hand; go off with a loud noise
 
-explode
+exploit          ---> ploit=fold; to fold out; action, deed, profit
+                      outcome of action; achievement; a thing settled
+                      unfolding-> bringing out -> having advantage
+                      -> achievement
 
-exploit
+exploitation     ---> productive working
 
-exploitation
+exploitative     ---> treating sb unfairly in order to gain advantage
 
-exploitative
+exploratory      ---> belonging to scouts, scout
 
-exploratory
+explore          ---> to investigate, examine;search out;
+                      ex=out, plore=to weep, cry; to cry out
+                      to go to a country or place in quest of 
+                      discoveries
 
-explore
+explorer         ---> a person who travels to unknown places in order to
+                      find out sth about them
 
-explorer
+explosive        ---> tending to explode
 
-explosive
+export           ---> to carry out, send away; port= carry;
+                      send out conmmodities from one country to another
 
-export
+expose           ---> pose= to place, lay down; lay open, set forth;
+                      to leave without shelter or defense;
+                      to exhibit openly; to unmask
 
-expose
+exposure         ---> public exhibition; situation with regard to sun
+                      or weather
 
-exposure
-
-express
+express          ---> 
 
 extend
 
@@ -292,4 +312,14 @@ excursion          ---> a short trip made for pleasure, organized
 outing             ---> a short trip for pleasure or education; a group of people
 day out            ---> a trip to somewhere for a day, especially for pleasure
 ```
+## price, cost, value, expense, worth
+These words all refer to the amount of money that you have for sth
+```
+price         ---> what sb asks you to pay for an item or service
+cost          ---> obtaining or achieving sth may have a cost
+value         ---> how much people would be willing to pay for it
+expense       ---> to spent out; the money that you spend on sth
+worth         ---> the financial value of sth/sb
+```
+
 
