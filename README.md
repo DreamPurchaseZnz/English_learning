@@ -59,6 +59,19 @@ dishonest              ---> not honest
 disloyal               ---> not loyal
 dissimilar             ---> not similar
 ```
+## extra-,exter, extro-= outside, beyond
+```
+exterior
+external
+extradite       ---> dite=give
+extradition     ---> outside give
+extraordinary   ---> beyond the ordinary
+extravagant     ---> outside vag=wander
+extremity
+extrinsic
+extrovert       ---> turn outward
+```
+
 ## for- = way, apart, off(frbid, forget, forgo); intensive, very much
 prefix usually meaning;'away, opposite, completely'
 ```
