@@ -373,28 +373,32 @@ distill
 distillation
 distiller
 ```
-## stinct, sting, stig,sti = to prick, to bind, a point, straight
+## stinct, sting, stig,sti = to prick,to rouse to action, to wipe out
+stingu, stinct = point, prick, pierce
+1) to seperate, to wipe out, to obliterate,to quench
+2) to goad, to rouse to action, spur, goad, urge, incitement
+3) to stick, puncturing, a piont
 ```
 extinct                           ---> of wiping out a material thing; no longer in existence
 instigate                         ---> to urge on, incite                      
-prestigious
-extinguish
+prestigious                       ---> arouse before, well known
+extinguish                        ---> to quench
 extinguisher
 distinct                          ---> piont out what is the difference
-distinctive
+distinctive                       ---> able to be separated
 distinction
 distinguish
 distingushed
 distinguishable
-instinct
+instinct                          ---> arouse in yourself
 instinctive
-sting
-stingy
+sting                             ---> prick,puncturing
+stingy                            ---> point
 stigma
-stigmatize 
-astigmatism
-stipend
-stimulate
+stigmatize                        ---> puncturing 
+astigmatism                       ---> not at a point
+stipend                           ---> sti=rouse to action, pen=pay
+stimulate                         ---> act of pricking or stirring to action
 stimulus
 stimulant
 
