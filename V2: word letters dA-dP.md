@@ -83,69 +83,107 @@ decoration      ---> action of decorating, beautification; that
 
 decouple        ---> to uncouple
 
-decrease
+decrease        ---> to grow less, diminish; 
 
-decrepit
+decrepit        ---> very old, infirm; 
+                     down; crep=crack, break
 
-dedicate
+dedicate        ---> to tell away; consecrate, proclaim
+                     affirm, set apart;
+                     de=thoroughly; dict=say, assert, allot; allot thoroughly
+                     devoted to one's aims or vocation
 
-deduce
+deduce          ---> lead down, derive
+                     de=down, duce=to lead; 
+                     draw a conclution from something already known
 
-deem
+deem            ---> to judge,condemn, think, compute; to pronounce
+                     judgement; to form an opinion
 
-defeat
+defeat          ---> destroy;bring ruination, case destruction; conquer
+                     de=down; feat=make; to make down, to conquer
 
-defect
+defect          ---> failure, revolt, falling away; to fail, desert
+                     not do well; shortcoming
 
-defence
+defence         ---> forbidding, prohibition; action of guarding or 
+                     protesting, ward off; national military resource
 
-defendant
+defendant       ---> the person of guarding and protesting himself
 
-deficiency
+deficiency      ---> de=down, away, fic=do perform; perform below;
+                     fail, revolt, to desert
 
-deficit
+deficit         ---> to be deficient
 
-define
+define          ---> to specify, to end; to finish, conclude,come to end
+                     determine with percision
+                     de=completely, fin=bound, to limit; to limit
+                     determine, explian
 
-definite
+definite        ---> defined, bounded, limited, clear, precise, 
+                     unmistakable
 
-definition
+definition      ---> decision, setting of boundaries;
+                     act of stating what something means;
+                     a statement of the essential nature of something
 
-deflect
+deflect         ---> to bend(sth) aside or downward; 
+                     flect=to bend; away
 
-degenerate
+degenerate      ---> to be inferior to one's ancestors; to become
+                     unlike one's race or kind, fall from ancestral 
+                     quality; gen=birth, descent
 
-degrade
+degrade         ---> deprive(off office, rank,etc); 
+                     de=down, grad=step
 
-delay
+delay           ---> de=way, lay=leave, let; slacken; undo
 
-delegate
+delegate        ---> to make legate; authorized representative of Pope
+                     ambassador, envoy;provide with a commission
+                     deputy, bequeath; legal=law, contract;
+                     messenger
 
-deliberate
+deliberate      ---> done with careful consideration; resolved upon
+                     determined; slow, consciously unhurried
+                     de=thoroughly, liber=balance
 
-delicate
+delicate        ---> self-indulgent, loving ease; delightful; sensitive
+                     easily hurt; feeble; alluring; delightful, dainty
+                     addicted to pleasure, luxurious, effeminate;
 
-delinquency
+delinquency     ---> fault crime; de=thoroughly, linq=leak, leave;
+                     be wanting, to fail; fall short; offend
 
 delinquent
 
-deliver
+deliver         ---> save, rescue, set free; hand over(goods);
+                     de=away; liver= to give by hand, to free; 
+                     to bring (a woman) to chilbirth; hand over
+                     give, given up, yield; projection, throw
 
-delivery
+delivery        ---> action of handing over to another; throw a ball
 
-delta
+delta           ---> Greek Letter shaped like a triangle; the mouth of
+                     a river
 
-demand
+demand          ---> ask, make inquiry; to request, to demand;
+                     de=completly, mand=to order; to ask, 
+                     request, demand
 
-demerit
+demerit         ---> opposite of merit; blame; fault; penalty point in
+                     school
 
-democratic
+democratic      ---> popular goverment;
+                     demos=common people, crati=rules
 
-demographic
+demographic     ---> demo=people; graph=write; 
 
-demolish
-
-demolition
+demolish        ---> to destory, tear down;
+                     moli=struct, construct, build
+                              
+demolition      ---> demolition, defeat; house wrecker
 
 demonstrate
 
@@ -295,6 +333,11 @@ diploma
 
 ```
 ##  dairy, daily
+```
+deem           ---> to firm a opinion
+doom           ---> death or destruction
+```
+
 
 ## statement, comment, announcement, remark, declaration, observation
 these are all words for sth that you say or write,
