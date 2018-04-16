@@ -262,6 +262,19 @@ close
 closeness
 occlude           ---> once again 
 ```
+## cre(cru), crease= to grow, to increase
+```
+accrue      ---> to grow
+decrease
+increment
+concrete
+crescent    ---> new moon
+decrement
+increase
+recruit
+recruiment
+```
+
 ## cred(creed, cre)= to believe, to trust
 ```
 discredit
