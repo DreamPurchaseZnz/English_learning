@@ -262,6 +262,19 @@ close
 closeness
 occlude           ---> once again 
 ```
+## crat, cracy = to govern, to rule, goverment
+```
+autocartic               ---> auto(self)
+aristocratic             ---> arist(best)
+bureaucratic             ---> bureau=table
+democratic
+democracy
+democrat
+plutocratic              ---> pluto(wealth)
+technocrat               ---> tech(art, skill)          
+meritocracy              ---> merit=deserve
+```
+
 ## cre(cru), crease= to grow, to increase
 ```
 accrue      ---> to grow
