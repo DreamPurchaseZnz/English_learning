@@ -160,6 +160,19 @@ comflate                   ---> to blow together; to put two or more things toge
 reflation                  ---> inflation of currency after a period of deflation
 
 ```
+## flex, flect= to bend
+```
+flexible
+inflex
+deflex
+flexion
+circumflex
+flexibility
+deflect
+
+```
+
+
 ## flict = to strike 
 ```
 affliction                ---> a strike to sb; pain and suffering or sth that causes it
