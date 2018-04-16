@@ -102,6 +102,32 @@ professional
 profess
 
 ```
+## fin = end, limit, money, well
+termin, ultim
+```
+afinity          ---> to bound closely
+definitive       ---> ending, determine
+infinite         ---> no limit
+confine          ---> limit in a boundary
+confinement
+define
+definite         ---> bound clearly
+defination
+infinitude
+infinity
+refine           ---> to make better
+refinement          
+refiner
+refinery
+indefinable
+final            ---> end
+finale
+finalize
+finance
+financial
+fine             ---> money
+```
+
 
 ## firm = stable, strong
 ```
