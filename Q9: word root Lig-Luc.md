@@ -50,6 +50,10 @@ thimble      ---> thumb
 spindle      ---> spin
 kindle       ---> kind
 ```
+## leg = legal
+```
+delegate
+```
 
 ## len = soft
 ```
