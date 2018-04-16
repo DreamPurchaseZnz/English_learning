@@ -43,7 +43,20 @@ benefit            ---> to do sth that is good for you
 profit          
 
 ```
-
+## fend, fens, fest= to push,to strike for protesting or guarding
+```
+offend         ---> to knock or strike against
+offensive
+offender
+defend         ---> to strike down the intruder
+defence
+defensible
+fender
+fence          
+infestation    ---> to do
+manifest        ---> hand say
+manifeste
+```
 
 ## fer =  to carry , to bring, to bear
 [fer](http://membean.com/wrotds/fer-carry)
