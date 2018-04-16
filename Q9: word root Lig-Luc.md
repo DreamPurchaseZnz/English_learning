@@ -50,6 +50,19 @@ thimble      ---> thumb
 spindle      ---> spin
 kindle       ---> kind
 ```
+## lec(let, lic, lig) = to entice, induce
+```
+delectable           ---> let you down
+dilettante
+delicate
+delicacy
+delicatessen
+delicious
+delight
+delighted
+delightful
+```
+
 ## leg = legal
 ```
 delegate
@@ -77,11 +90,20 @@ leverage
 levy
 relieve
 ```
+## lic = to entice, to permit to let
+```
+elicit          ---> to entice out 
+illicit         ---> illegal, not permit
+licit
+license         ---> permitable
+licensed
+leisure
+leisurely
+```
+
 ## liber,lib = book
 ```
 library    
-
-
 ```
 
 
