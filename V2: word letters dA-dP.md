@@ -185,19 +185,26 @@ demolish        ---> to destory, tear down;
                               
 demolition      ---> demolition, defeat; house wrecker
 
-demonstrate
+demonstrate     ---> to point out by argument or deduction
 
-demonstration
+demonstration   ---> proof that something is true;
+                     entirely ; monstrate=to point out, show
 
-denomination
+denomination    ---> a naming, act of giving a name; nominating
+                     naming; a calling by anything other thatn
+                     the proper name;
+                     de=entirely; nominate= to name;
+                     
 
-denote
+denote          ---> mark out; 
+                     note=mark; to mark down
 
-dense
+dense           ---> thick, crowed, cloudy; stupid
 
-density
+density         ---> thick, dense
 
-deny
+deny            ---> repudiate, withhold, reject, refuse
+                     de=away; ny=no
 
 depart
 
