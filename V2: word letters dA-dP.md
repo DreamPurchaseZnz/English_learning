@@ -206,58 +206,84 @@ density         ---> thick, dense
 deny            ---> repudiate, withhold, reject, refuse
                      de=away; ny=no
 
-depart
+depart          ---> part from each other; to divide, separate
+                     die; de=from, part=to part, divide
 
-departmental
+departmental    ---> a going away; act of leaving; division, sharing out
+                     group of people; sperate division; seperate business
+                     assigned to someone in a larger organization
 
-departure
+departure       ---> act of leaving; death
 
-depend
+depend          ---> to be attached to as a condition or cause; to hang
+                     from, hang down; to be dependent on, be derived
+                     de=down, pend=to hang, be suspended
 
-depict
+depict          ---> de=down, pict=paint; to portray, paint, sketch
+                     imagine.
 
 deplete
 
-depletion
+depletion       ---> de=down, ple=full; to empty, to unfill, 
+                     blood letting 
 
-deploy
+deploy          ---> de=away, ploy<ply=to fold; unfold, scatter; unroll
 
-deposit
-depress
+deposit         ---> de=down, posit=position, to put; lay aside, put down
+                    
 
-depression
+depress         ---> de=down, press=to push,press; put down by force
+                     make gloomy, deject
 
-deprive
+depression      ---> dejection, a lowering or ruduction of economic 
+                     activity; melancholy
 
-deputy
+deprive         ---> de=entirely; prive= release from; rub, take away
 
-derelict
+deputy          ---> put=to consider, count, think; de=away; to destine
+                     allot; to put down; one given the full power of an
+                     officer without holding the office
 
-derive
+derelict        ---> solitary, deserted; de= entirely, relict=leave, behind
+                     to abandon, forsake, desert
 
-descend
+derive          ---> de=from, rive= rever, stream; to load or draw off
+                     a stream of water from its source; to flow, pour out
+                     originate.
 
-describe
+descend         ---> dismount, fall into; originate in; come down, sink
+                     de=down, scend=to climb
 
-desert
+describe        ---> scribe=write; to write down, copy; sketch, 
+                     represent
 
-deserve
+desert          ---> de=undo; sert=series; undo, sever connection,
+                     to abandon, to leave, give up, leave in the lurch
+                     to leave one's duty
 
-design
+deserve         ---> completely serve; be worthy of, earn, merit;
+                     to be entitled to because of good service; be worthy of
 
-desirable
+design          ---> sign= mark; to mark out, devise, choose, designate
+                     appoint;
 
-desire
+desirable       ---> sth be wanting
 
-desperate
+desire          ---> expect, long for, wish for
 
-despite
+desperate       ---> de, sperate; hopeless, given up, despaired of;
+                     have a great desire for
 
-despoil
+despite         ---> spect=look; a looking down on; scorn, contempt;
+                     in contempt of
 
-destination
+despoil         ---> de=entirely, spoil=to strip of clothing, rob;
+                     to strip, rob, deprive of, steal, borrow;
+                     
+destination     ---> stin=stand; determine, appoint, choose, make firm
+                     act of appointing
 
-destiny
+destiny         ---> purpose, intent, fata, that wich is destined
 
 destruction
 
