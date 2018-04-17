@@ -1,5 +1,5 @@
 # Caesar said veni, vidi, vici (I came, I saw, I conquered)
-## vac(van) = empty
+## vac(vas) = empty
 ```
 devastate               ---> completely empty an area; to completely destroy a a place
 vacate                  ---> to empty a room; to leave a building
