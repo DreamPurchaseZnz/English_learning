@@ -285,53 +285,69 @@ destination     ---> stin=stand; determine, appoint, choose, make firm
 
 destiny         ---> purpose, intent, fata, that wich is destined
 
-destruction
+destruction     ---> a pulling down, tear down  
 
-destructive
+destructive     
 
-detach
+detach          ---> to untie; tach= touch, attach; d
 
-detail
+detail          ---> a cuttting in pieces; cut in pieces;
 
-detect
+detect          ---> to uncover, expose; discover, reveal, disclose
+                     tect=to cover
 
-detective
+detective       ---> short for detective police
 
-deter
+deter           ---> de=away, ter= frighten; to frighten from, to
+                     discourage from;
 
-detergent
-deteriorate
+detergent       ---> de=away, tergen= to rub, polish, wipe; 
+                     to wipe away; cleanse
 
-deterioration
+deteriorate     ---> get worse, make worse; worse, lower
+                     deter=bad, lower;
 
-determine
+deterioration   ---> act of getting worse
 
-detour
+determine       ---> de=down, termin=to mark the end or boundary; to settle, decide
+                     to enclose, bound, set limits to; 
 
-detract
+detour          ---> tour=turn; to turn aside; side road; byway, 
+                     evasion, excuse
 
-detrimental
+detract         ---> draw down
 
-devalue
+detrimental     ---> a rubbing off, a loss, damage, defeat,to wear away
+                     to weaken, impair
+                     de=away, tri=to rub, wear.
 
-devastate
+devalue         ---> value down
 
-devastating
-develop
+devastate       ---> vas= to empty completely; lay waste completely
 
-deviance
+devastating   
+
+develop         ---> velop= wrap up; unroll, unfold, unfurl, unveil
+                     reveal the meaning of, explain
+
+deviance        ---> via away; turn aside;on deviates
 
 device
 
-devise
+devise          ---> to divide; to form, fashion, to plan, contrive;
+                     to plan, arrange a divsion
 
-devote
+devote          ---> to addict; vot=volve in; 
+                     to give up to ill; to curse
 
-diagnose
+diagnose        ---> dia= apart; gnose=know; know apart;
+                     a discerning, distinguishing;
 
-diagram
+diagram         ---> dia= across, out, graph=write, mark, draw;
+                     geometric figure, that which is marked out by lines
 
-dialect
+dialect         ---> form of speech of a region or group; local 
+                     language, way of speaking, conversation;
 
 diameter
 
