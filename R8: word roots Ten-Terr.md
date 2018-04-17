@@ -60,8 +60,43 @@ protection
 protective
 protectorate
 tegument
+```
+
+## temper= moderate, mix, strecth
+```
+intemperate      
+temperament
+temperance
+temperate
+temperature
+tempersome
+attemper
+distemper
+```
+## tempt,tent, emp, temp= to try to touch
+```
+tempt
+tempting
+tempter
+tentacle
+tentative
+attempt
+attempted
+```
+
+# tempor= time, age, season
+```
+contemporary
+extemporary
+extempore
+temporary
+temporal
+temporality
+temporize
+tempestuous
 
 ```
+
 
 
 
