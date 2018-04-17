@@ -127,6 +127,38 @@ tent                         ---> able to stretch
 
 ## terr = to frighten
 
+## tra, tract(treat) = to draw
+```
+detract
+intractable
+retractable        ---> able to cancel;
+entreat
+maltreat
+abstract           ---> abs=away; draw away
+attract            ---> to draw
+contract
+contraction
+contractor
+extract            ---> draw out
+protract
+protractor
+substract
+substraction
+tractable
+tractor
+distrait
+entrails
+portray
+trace
+track
+trail
+train
+training
+trait
+treatment
+treatise
+
+```
 
 ## trud, trus =  to thrust, to push
 ```
