@@ -338,6 +338,19 @@ portico            ---> form a entrance to large building by columns
 heliport           ---> a place for helicopter
 
 ```
+## put= to think
+```
+disreputable
+indisputable        ---> do not think 
+reputable
+compute
+computation
+computer
+depute             ---> consider as
+deputation
+deputy
+dispute            ---> different think
+impute             ---> put in
+putative           ---> thinkable
 
-
-
+```
