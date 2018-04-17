@@ -16,6 +16,21 @@ decorous
 decency
 indecent
 ```
+## dia = through,, across, between, intensive
+```
+diabolical        ---> across, bol=throw;
+diadem            ---> trhough band
+diagnosis         ---> through know
+diagnostic
+diagonal           ---> gon=angel
+diagram
+dialect            ---> lect= choose, talk
+dialogue           ---> log=talk, between
+diameter           
+diocese            
+```
+
+
 
 ## dic, dict =  to say, assert, allot
 
