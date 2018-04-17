@@ -25,6 +25,13 @@ tactile                           ---> connected with a sense of touch; using yo
 contact                           ---> the state of touching sth/ meeting sb or having to deal with
 intact                            ---> not be touched; complete and damaged
 ```
+## tail = to cut
+```
+entail
+detail
+retail
+tailor
+```
 ## tain, ten,tin, tent = hold
 ```
 abstain            ---> to provent from holding
