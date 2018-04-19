@@ -209,21 +209,26 @@ divisional            ---> a section or department of an organization
 
 dizziness
 
-dizzy                 ---> 
+dizzy                 ---> dust, vapor, smoke, to rise in a cloud;
+                           have a whirling sensation
+                           foolish, stupid; giddy
 
-dock
+dock                  ---> ship's berth; to lead; low ground
+                           furrow a grounded vessel makes in a mud bank
 
-doctoral
+doctoral              ---> docotrate
+ 
+doctorate             ---> degree of a doctor
 
-doctorate
+document              ---> teaching, instruction; lesson, written evidence
+                           official written instrument
 
-document
-
-documentation
+documentation         ---> furnishing with documents or papers
+                            collection of information papers
 
 dolphin
 
-dome
+dome                  ---> 
 
 domestic
 
