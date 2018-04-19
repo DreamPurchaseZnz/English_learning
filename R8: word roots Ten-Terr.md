@@ -179,6 +179,19 @@ treatment
 treatise
 
 ```
+## tribut= to give, to pay
+```
+attribute           ---> to give sb sth
+retribution
+contribute
+contributory
+distribute
+distribution
+distributive
+tribute
+
+
+```
 
 ## trud, trus =  to thrust, to push
 ```
