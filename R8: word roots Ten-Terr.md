@@ -127,6 +127,26 @@ tent                         ---> able to stretch
 
 ## terr = to frighten
 
+## tort=to twist
+```
+distorition
+extort
+tortuous
+contort
+contortion
+retort
+tort
+tortoise
+torture
+torch
+torment
+tornado
+torpedo
+
+```
+
+
+
 ## tra, tract(treat) = to draw
 ```
 detract
