@@ -195,6 +195,17 @@ serialize
 serialation
 seriation
 ```
+## sert = to put, to join
+```
+assert           ---> to put a opinion on
+desert
+insert
+dissertation
+exert
+exertation
+reassert
+```
+
 
 ## sid(sed, sit), sess(sid) = to sit
 ```
