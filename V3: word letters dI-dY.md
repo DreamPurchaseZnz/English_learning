@@ -170,39 +170,46 @@ distraction           ---> the drawing away of mind; a pulling apart
 
 distribute            ---> to divide, distribute; to deal out or apportion
 
-distribution          ---> 
+distribution          ---> deal out in portions
 
-district
+district              ---> territory under the jurisdiction of 
+                           a loard or officer
+                           hiner away; offenders
 
-disturb
+disturb               ---> to stop, to hinder
+                           turb= to disorder, turmoid
 
-disturbance
+disturbance           ---> mental distress; destruction of peace
+                           or unity
 
-diverge
+diverge               ---> verg=vert=turn; go in different directions
+                           to turn aside
+ 
 
-diverse
+diverse               ---> different in character or quality
 
-diversify
+diversify             
 
-diversion
+diversion             ---> diverse condition; the act of changing the direction
 
-diversity
+diversity             ---> quality of being diverse;difference, wickedness
 
-divert
+divert                ---> to turn from; to turn in different directions
 
-divide
+divide                ---> to force apart, cleave, distribute;
 
-dividend
+dividend              ---> a number divided by another; tings to be divided
+                           portion of interest on a loan, stock
 
-divine
+divine                ---> of a god, deity; excellent
 
-division
+division              ---> mathematical; portions
 
-divisional
+divisional            ---> a section or department of an organization
 
 dizziness
 
-dizzy
+dizzy                 ---> 
 
 dock
 
