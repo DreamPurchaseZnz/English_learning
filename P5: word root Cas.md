@@ -288,6 +288,7 @@ recruit
 recruiment
 ```
 
+
 ## cred(creed, cre)= to believe, to trust
 ```
 discredit
@@ -304,6 +305,22 @@ incredulous
 creed
 miscreant
 recreant
+```
+## cret, cern(creet, cre(to grow)) = to observe, to sift, to seperate
+```
+discretion
+discern              ---> to seperate away
+discreet
+discrete
+decree
+excrement
+excreta
+secret
+secrecy
+secretion
+secretary
+secretarial
+concern
 ```
 
 
