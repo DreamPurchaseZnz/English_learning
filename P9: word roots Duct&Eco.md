@@ -1,5 +1,5 @@
 # D
-## deci = one tenth
+## deci = one tenth 1/10
 ```
 decimeter
 decigram
@@ -68,7 +68,18 @@ valediction         ---> vale= goodbye
 vindictive          ---> vin= force
 indite              ---> write in
 ```
-
+## doc= to teach
+```
+docile              ---> to teach
+doctor
+doctrine
+donctrinaire
+document
+documentary
+indoctrinate
+docent
+disciple
+```
 
 ## ducc, duc , duct(du) = to lead
 ```
