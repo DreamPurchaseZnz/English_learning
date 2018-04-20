@@ -105,8 +105,15 @@ date
 edit
 editor
 ```
+## dorm = to sleep
+```
+dormant
+dormouse
+dormancy
+dormient
+dormitive
 
-
+```
 ## ducc, duc , duct(du) = to lead
 ```
 conductive          ---> lead together
