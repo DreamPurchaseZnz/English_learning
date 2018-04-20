@@ -112,8 +112,17 @@ dormouse
 dormancy
 dormient
 dormitive
+```
+## dob(doub)= uncertain, two
+```
+double
+redoubtable
+indubitable
+dubious
+dubiety
 
 ```
+
 ## ducc, duc , duct(du) = to lead
 ```
 conductive          ---> lead together
