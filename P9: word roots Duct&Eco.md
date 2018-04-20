@@ -142,6 +142,17 @@ education           ---> lead outside
 educator
 educe               ---> e< ex, lead out = stand out
 ```
+## dur = to last
+```
+obdurate          
+durable
+enduring
+endurance
+indurate
+nondurable
+perdure
+
+```
 ## eco(ecu,oce) = house,dwelling place
 ```
 ecumenical
