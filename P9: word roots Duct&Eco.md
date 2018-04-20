@@ -113,14 +113,14 @@ dormancy
 dormient
 dormitive
 ```
-## dob(doub)= uncertain, two
+## dob(doub), dub= uncertain, two
 ```
 double
 redoubtable
 indubitable
 dubious
 dubiety
-
+duplicate            ---> duo=two; plic=fold         
 ```
 
 ## ducc, duc , duct(du) = to lead
