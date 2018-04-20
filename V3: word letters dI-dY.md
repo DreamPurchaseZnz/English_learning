@@ -228,89 +228,118 @@ documentation         ---> furnishing with documents or papers
 
 dolphin
 
-dome                  ---> 
+dome                  ---> round, vaulted, roof, house, housetop
 
-domestic
+domestic              ---> belonging to the household;
+                           dom=house; 
 
-domesticate
+domesticate           ---> to cause to be attached to home and family
+                           to tame; to dwell in a house
 
 dominant
 
-dominate
+dominate              ---> to rule, to govern
 
-domination
+domination            ---> rule, control; power; to rule, 
+                           have domination over; lord, master; master of the house
+                           domi=home; 
 
 donate
 
-denation
+donation              ---> a presenting, giving 
+                           don=give as a gift; gift, endowment, talent
 
-doom
+doom                  ---> law, judgment, condemnation; fate, ruin,
+                           destruction
 
-dorm
+dorm                  ---> colloquial shortening of dormitory
 
-dormancy
+dormancy              ---> sleep, sleeping
 
-dormant
+dormant               ---> fixed in place; to sleep,doze;
+                           in resting situation
 
-dormitory
+dormitory             ---> sleeping place
 
-dose
+dose                  ---> the giving of medicine (in a specified amount
+                           or at a stated time); a portion prescribed;
 
-dot
+dot                   ---> speck, head of a boil; lump, small knot
 
-download
+download              ---> load down
 
-downpour
+downpour              ---> pour down
 
-downsize
+downsize              ---> companies shedding jobs; building smaller
+                           cars and trucks
 
-draft
+draft                 ---> rought copy of a writing; something drawn;
+                           preliminary sketch from which a final copy is
+                           made; the flow of a current of air
 
-drainage
+drainage              ---> to make sth empty or dry by removing all
+                           liquid from it
 
-dramatic
+dramatic              ---> sudden, very great; fit for dramma
 
-drawback
+drawback              ---> hindrage, disadvantage; sth that holds back
 
-dreadful
+dreadful              ---> full of dread; cause dread; very bad
+                           d=not; read=understand
 
-dredge
+dredge                ---> drag; drag net; boat for dredging
 
-drill
+drill                 ---> tool for making holes;
 
-droplet
+droplet               ---> drop let
 
-drought
+drought               ---> dryness, desert;
+                           dr=dry
 
-drum
+drum      
 
-dubious
+dubious               ---> doubtful,vacillating, moving two ways; 
+                           flutuating; wavering in opinion, doubting
+                           of two minds, undecided between two things
+                           duo=two
 
-due
+due                   ---> customary; regular; owing, payable,fitting
+                           rightful
 
-dull
+dull                  ---> stupid, blunt, not sharp;foolish
+                           boring; dust,vapor, smoke; not delightful
 
-dump
+dump                  ---> throw down or fall with force; 
+                           to fall suddenly; unload en masse; discard
+                           abandon;
 
-dupe
+dupe                  ---> deceived person; of the hoopoe;
+                           extravagantly crested and reputedly stupid bird
 
-duplicate
+duplicate             ---> having two parts, to double
+                           dup=two; plic=to fold;
+                           exactly corresponding, that is an exact copy
 
-durable
+durable               ---> lasting, permanent; harden
 
-duration
+duration              ---> the action of lasting
 
-dusk
+dusk                  ---> obscure, to become dark; dark haired;
+                           be misty; dust-colored; twilight
 
-dwell
+dwell                 ---> to mislead, decieve; to make fool of; lead
+                           astray; to make a home
 
-dweller
+dweller               ---> a person or an animal that lives in the 
+                           particular place that is mentioned
 
-dwindle
+dwindle               ---> diminutive; waste away fade, vanish
 
-dynamic
+dynamic               ---> pertaining to force producing motion;
+                           powerful; to be able, to have power,
+                           be strong enough; active, potent, energetic
 
-dystrophy
+dystrophy             ---> dys= hard, bad, ill; trophy=nourishment
 
 ```
 ## rude, cheeky, insolent, disrespectful, impertinent, impolite, discourteous
