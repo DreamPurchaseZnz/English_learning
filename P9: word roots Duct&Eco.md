@@ -80,6 +80,32 @@ indoctrinate
 docent
 disciple
 ```
+## dome=home
+
+## dot, don(dow,dos), dat(dit)=to give
+```
+anecdote            ---> an=not,ec=out, dote=give
+condone             ---> completely give
+endow
+render              ---> give back
+antidote      
+donate
+donation
+pardon              ---> par=per
+dowager
+dower
+dowry
+dose
+dosage
+antedate
+postdate
+predate
+data
+date
+edit
+editor
+```
+
 
 ## ducc, duc , duct(du) = to lead
 ```
