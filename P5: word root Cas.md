@@ -1,4 +1,5 @@
 # C
+
 ## calc, calcul = lime, stone, to reckon
 ```
 incalculable        ---> in=not, calcul= reckon
@@ -22,6 +23,9 @@ concave            ---> convex
 caveman
 
 ```
+## case = box
+## cast = to throw, fling, hurl
+## cap = to size
 ## cent = 1/hundred
 ```
 percent
