@@ -93,67 +93,88 @@ captivity               ---> seized
 
 capture                 ---> a taking
 
-cardiovascular
+cardiovascular          ---> cardio= core, heart; 
+                             vascular= vessel; circulation of
+                             fluids or conveyance
 
-career
+career         ---> a running(usually at full speed)
+                    a course；road, racecourse; track for
+                    wheeled vehicles
+                    course of a working life
 
-carousel
+carousel       ---> merry-go-around; playful tournament of 
+                    knights chariots or on hourse back
 
-carry
+carry          ---> to transport in vehicle; to cart, carry
+                    take by force;
 
-carve
+carve          ---> to cut, cut down, slay; to scratch
 
-cascade
+cascade        ---> waterfall; to fall; pour down; 
 
-cash
+cash           ---> money box; money in hand, coin
 
 --------------------------------half-----------------------------------
 
-cassette
+cassette       ---> little box; casse=case, box;
+                    magnetic tape
 
-cast
+cast           ---> to throw, fling, hurl; to throw;
+                    to form in a mold
+                    fishing lines; calculate, find by reckoning
 
-casual
+casual         ---> subject to or produced by change; by chance;
+                    occasion; opportunity; accident, event;
+                    not to be depended on, unmethodical; informal
 
-casuality
+casualty       ---> chance, accident, incidental charge
+                    an individual killed, wounded, or lost in battle
 
-catalogue
+catalogue      ---> list, index; enrollment; cata=down, completely
+                    logue=to say, to count;
 
-catastrophic
+catastrophic   ---> reversal of what is expected; an overturning; 
+                    a sudden end; to overturn; turn down; trample on
 
-category
+category       ---> public assembly; accuse; asert name;class
 
-cater
+cater          ---> provide food for; buyer of provisions;buyer
+                    
+caustic        ---> burning, corrosive;combustible, burnt; sarcastic
 
-caustic
+caution        ---> word of warning; bail, guarantee, pledge, surety
 
-caution
+cautious       ---> careful, heedful
 
-cautious
+cavort         ---> ca=intensive, vort=vault=to leap
 
-cavort
+cease          ---> to come to an end, stop, give up, desist
+                    to give over, leave off, be idle; go away, withdraw
 
-crease
+celebrate      ---> assemble to honor; to publish, sing praises of
+                    practice often;well attended
 
-celebrate
+celebrity      ---> solemn rite or ceremony; multitude; 
+                    condition of] being famous; famous person;
 
-celebrity
+celestial      ---> pertaining to heaven; sky-blue; very delightful
 
-celestial
+cell           ---> small room;compartments; electric battery 
 
-cell
+censor         ---> to appraise, value, judge; state agent charged
+                    with the supression of speech or published matter
+                    deemed politically subversive;sor=sus
 
-censor
+censure        ---> judgement, opinion; a finding of fault and an
+                    expression of condemnation; sure=sue
 
-censure
+centennial     ---> hundredth anniversary celebration;centum=hundred
 
-centennial
+centigrade     ---> hundred+degree; 
 
-centigrade
+centrifugal force  ---> centri=center; fugal=to flee,escape
 
-centrifugal force
-
-ceramic
+ceramic        ---> 
 
 cereal
 
