@@ -1,5 +1,16 @@
 # C
+## cata= down; way, completely, against, throughout, backward
+```
+cataclysm       ---> cata=completely, clysm=wash
+catalogue       ---> lists of name set down
+catalyst        ---> lys=loose
+catapult
+cataract        ---> ract=break
+catastrophe     ---> stroph=turn
+catharsis       ---> hars=pure
 
+
+```
 ## calc, calcul = lime, stone, to reckon
 ```
 incalculable        ---> in=not, calcul= reckon
