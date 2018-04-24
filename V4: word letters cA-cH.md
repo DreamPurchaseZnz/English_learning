@@ -188,101 +188,140 @@ certify        ---> to declare the truth of; to vouch for or confirm;
 
 cervical       ---> of the neck of the womb; of the neck
 
-chain
+chain          ---> to twist, twine; hunting net, snare
 
-challenge
+challenge      ---> something one can be accused of , a fault
+                    a calling to fight 
 
-chamber
+chamber        ---> room; apartment; legislative body; private rooms
 
-champion
+champion       ---> valorous combatant; doughty fighting man; first-place
+                    performer in some field
 
-chancellor
+chancellor      ---> keeper of the barrier, secretary, usher of a law court
 
-channel
+channel         ---> convey in a channel
 
-chaos
+chaos           ---> gapping void; utter confusion; the void at 
+                     the beginning of creation;
 
-chapel
+chapel          ---> litte cap 
 
-character
+character       ---> symbol marked or branded on the body;
+                     symbol or drawing used in sorcery; feature;
+                     engraved mark;
+                     sum of qualities that define a person
+                     person in a play or novel
 
-characteristic
+characteristic  ---> distinctive traits
 
-charcoal
+charcoal        ---> to turn to coal
 
-charge
+charge          ---> to load, fill; to load, burden, weigh down;
+                     to load a wagon or chart; entrust, command; 
+                     impose a burden of expense
+                     feel with electricity
 
-charity
+charity         ---> benevolence for the poor; mercy; love
 
-chart
+chart           ---> map for the use of navigators; card map; 
 
-charter
+charter         ---> to hire
 
-chase
+chase           ---> a hunt; hunting around; a pursuit
 
-cheat
+cheat           ---> deprive unfairly; be sexually unfaithful
 
-check
+check           ---> bank check, money draft
 
-check-up
+check-up        ---> careful examination
 
-chief
+chief           ---> highest in rank or power; most important or prominent
+                     supreme, best; chief, principal, first; leader
+                     guide, chief person, summit, capital city
 
-chill
+chill           ---> cold, coolness, chillness, frost
 
-chip
+chip            ---> to chip, to pare away by cutting, cut off; small piece
+                     of wood; to cut up, cut or trim; break off fragments
 
-cholesterol
+cholesterol     ---> chole=bile; sterol= solid, stiff 
 
-chorus
+chorus          ---> a dance in a circle, the persons singing and dancing,
+                     band of dancers or singers, dance, dancing around
 
-chronic
+chronic         ---> lasting a long time; of time, concerning time;
 
-chunk
+chunk           ---> thick block; large amount
 
-churn
+churn           ---> stir
 
-cinematograhpy
+cinematograhpy  ---> the art of cinema; movie,theater
 
-circle
+circle          ---> ring(for the finger); hoop of a helmet; circular orbit
 
-circulation
+circulation     ---> to form a circle; small ring
 
-circumscribe
+circumscribe    ---> to make a circle around, encircle, draw a line around
+                     limit, restrain, confine, set the boundaries of;
+                     circum= around + scribe=write;
 
-circumstance
+circumstance    ---> conditions surroudning and accompanying an event; 
+                     situation; outskirts; stand around, surround, encompass
+                     occupy, take possession of; 
+                     circum=around; stan=stand;
+                     a person's surrounding, environment
 
-circus
+circus          ---> circular line; lively uproar, chaotic hubbub;
 
-cite
+cite            ---> to summon, urge, call, put in sudden motion; rouse,
+                     ecite; call forward, to move, set in motion, stir
+                     cit= to set in motion; to move to and fro
+                     calling forth a passage of writing
+                     
+ 
+civil           ---> citizaen, public life, befitting a citizen;
+                     townsman
 
-civil
+civilization    ---> law which makes a criminal process civil;
+                     civilized condition
 
-civilization
+claim           ---> to call, call out, to ask or demand by virtue of right
+                     or authority; to call, name, describe, complain;
+                     to demand recognition of a right
 
-claim
+clamp           ---> clasp, hook; clip, grapple, fetter
 
-clamp
-clarify
+clarify         ---> clar= clear; make illustrious, make known; make clear
+                     explain; to glorify; grow or become clear, distinct
 
-clarity
+clarity         ---> brightness; splendor; clearness; make clear
 
-clash
-classical
+clash           ---> to make a loud, sharp sound; knock about; 
+                     to come into collision; to go badly together
 
-classification
+classical       ---> of the highest rank;
 
-classify
+classification  ---> action of classifying; result of classifying
 
-clay
+classify   
 
-clench
+clay            ---> stiff, sticky earth; clay
 
-clerk
+clench          ---> to hold fast, make cling
 
-client
-clientele
+clerk           ---> man ordained in ministry; clergyman, priest, scholar
+                     student; priestly, belonging to clerus; 
+                     a retail salesman
 
-climate
+client          ---> follower, retainer; clien=to lean; to incline, bend;
+                     a lawyer's customer; 
+                     the ground sense: one who leans on 
+                     another for protection
+
+clientele       ---> body of professed adherents
+
+climate         ---> clima=region, zone; clim=to lean, to slope;
+                     shift from region to weather associated with a region
 ```
 
