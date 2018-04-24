@@ -184,75 +184,87 @@ compensation       ---> action of compensation; a weighting one thing against
                         what is given in recompense
                         amends for loss or recompense, salary, wages
 
-compete            ---> 
+compete            ---> to enter or be put in rivalry with; 
+                        be in rivalry with; strive in common;
+                        pet= to strive, seek, fall upon; rush at;
 
-competent
+competent          ---> suitable; sufficient, appropriate
 
-competition
+competition        ---> action of competing; agreement, rivalry
+                        a contest for something
 
-compile
+compile            ---> bundle together, heap up, hence pack up and carry off
+                        pil= to compress, ram down
 
-complain
+complain           ---> find fault, lament; to beat the breast; to strike
 
-complaint
+complaint          ---> lamentation, grief; bodily ailment
 
-competition
+complementary      ---> ceremonious; froming a complement
 
-compile
+complete           ---> to fill up, complete the number of; to fill, 
+                        to fulfill, to finish a task; plere=ful
 
-complain
+complex            ---> complicated, intricate,surrounding, encompassing
+                        plex= to weave, braid, twine, entwine;
+                        not easily analyzed
 
-complaint
+complexity         ---> composite nature; intricacy
 
-complementary
+complicate         ---> to intertwine; folded together; confused, intricate
+                        to make more complex; to to combine in a complex way
 
-complete
+complicated        ---> tangled; not easy to solve, intricate, confused
+                        difficult to unravel
 
-complex
+compliment         ---> An act or expression of civility, usually understood
+                        to include hypocrisy and to mean less
+                        that it declares;
+                        complete the obligations of politeness
 
-complexity
+comply             ---> to fulfill, carry out; to accomplish, carry out, 
+                        satisfy by filling up
+                        
+component          ---> constitutional element; to put together
 
-complicate
+compose            ---> pos=put, put together, arrange, write;
+                        cease, lay down
 
-complicated
+composition        ---> action of combining; a putting together; arranging
+                        arrangement of parts in a picture
 
-compliment
+compound           ---> to mix, combine; arrange, direct 
 
-comply
+comprehension      ---> perception
 
-component
+comprehensive      ---> containing much
 
-compose
+compress           ---> to press together; put under pressure 
 
-composition
+comprise           ---> to include; to contain
 
-compound
+compromise         ---> to make mutal promise; 
 
-comprehension
+compulsively       ---> completely be induced; cannot stop doing sth
 
-comprehensive
+compulsory         ---> that must be done because of a law or a rule
 
-compress
+computerize        ---> sth using computer
 
-comprise
+conceal            ---> to hide, dissimulate
 
-compromise
+concede            ---> give way, yield, go away, depart, retire
+                        cede=to go, grant, give away
 
-compulsively
+conceive           ---> take seed into the womb, become pregnant; 
+                        ceive=to take; to take in and hold;
+                        take into mind
 
-compulsory
+concentrate        ---> to bring to or come to common center; 
+                        centr= center; condense; mentally focus
 
-computerize
+concentration      ---> action of bringing to a center; a mass so collected
+                        continuous focus of mental activity
 
-conceal
-
-concede
-
-conceive
-
-concentrate
-
-concentration
-
-concept
+concept            ---> draft, abstract, to take in; 
 ```
