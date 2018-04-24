@@ -277,6 +277,43 @@ close
 closeness
 occlude           ---> once again 
 ```
+## col(cul) = neck, filter, intestine,large, to fill, glue
+```
+accolade
+collar
+decollation
+percolate
+colander
+colon                
+colic
+colitis
+colony
+colonical
+colonize
+cultivate
+cultivation
+culture
+collage
+protocol             ---> proto(raw) col=glue
+```
+
+
+## corp, corpor = body, carn,flesh
+```
+corpulent
+corporal
+corporeal
+corporate
+corporation
+corps
+corpus
+incorporate
+incorporator
+incorporeal
+```
+
+
+
 ## crat, cracy = to govern, to rule, goverment
 ```
 autocartic               ---> auto(self)
@@ -353,19 +390,7 @@ precognition
 recognize
 recognition
 ```
-## corp, corpor = body, carn,flesh
-```
-corpulent
-corporal
-corporeal
-corporate
-corporation
-corps
-corpus
-incorporate
-incorporator
-incorporeal
-```
+
 
 
 ## curr, curs(cor, cour, cours , coars) = to run
