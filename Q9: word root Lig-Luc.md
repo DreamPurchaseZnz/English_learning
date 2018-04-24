@@ -73,6 +73,23 @@ delight
 delighted
 delightful
 ```
+## lect= speak
+```
+lecture
+lecturer
+lecturess
+idiolect
+dialect
+dialecal
+dialectic
+acrolect
+legible
+illegible
+allege
+legend
+legendary
+
+```
 
 ## leg = legal
 ```
