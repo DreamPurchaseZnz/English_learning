@@ -88,79 +88,103 @@ column             ---> vertical division of a page;
                         a pillar, post; top, summit; 
                         matter written for a newspaper
 
-comb
+comb               ---> toothed objected; crest;
 
-combat
+combat             ---> com=with; bat= to beat, fight; fight with
 
-combination
+combination        ---> a joining two by two
 
-combine
+combine            ---> machine that cuts, threshes and clean grain       
 
-comedy
+comedy             ---> amusing play or performance;
 
-comet
+comet              ---> long-haired star; hair of the head
 
-comic
+comic              ---> of comedy in dramatic sense; intentionally funny
+                        tell stories through pictures
 
-commence
+commence           ---> to begin, start
 
-commencement
+commencement       ---> the begining, start; school graduation ceremony
 
-comment
+comment            ---> interpretation;invention, fabrication, fiction
 
-commentary
+commentary         ---> notebook, annotation, diary, memoir; 
 
-commerce
+commerce           ---> trade, trafficking; com=together, merx= merchandise
 
-commercial
+commercial         ---> pertaining to trade; paid for by advertisements
+                        done for the sake of financial profit
 
-commiserate
+commiserate        ---> to pity, bewail; 
 
-commission
+commission         ---> authority entrusted to someone;
+                        delegation of business;
+                        body of persons charged with authority
 
-commit
+commit             ---> to give in charge, entrust; 
+                        com=together, mit=to send, put
+                        perpetrating
+                        emotional and moral engagement
+                        
 
-commitment
+commitment         ---> action of officially consigning to the custody of the
+                        state; the committing of oneself, pledge, promise
+                        an boligation, an engagement
 
-commitee
+committee          ---> to commit; 
 
-commodity
+commodity          ---> benefit, profit, welfare; fitness, adaptation,
+                        property possession; a convenient or useful product
 
-commonwealth
+commonwealth       ---> public welfare, general good; 
 
-commute
+commute            ---> to change, transform; mut= to change; 
+                        go back and forth to work; the journey
 
-compact
+compact            ---> concentrated; to fasten together, construct
+                        pact=pack, to fix, fasten
+                        agreement; come to agreement
+                        
+companion          ---> fellow, mate, friend, partner; bread fellow,messmate
 
-companion
 
-comparable
+comparable         ---> capable of comparison
 
-comparative
+comparative        ---> relating to sth
 
-comparatively
+comparatively      ---> as compared to sth/sb
 
-compare
+compare            ---> to liken 
 
-comparison
+comparison         ---> make equal with;to couple together
 
-compass
+compass            ---> com+ pass=pace; to go around, measure, divide equally
+                        directional tool; 
 
-compassionate
+compassionate      ---> compassion; sympathy, pity; to feel pity;
+                        com+ pass=to suffer
 
-compatible
+compatible         ---> able to be used together 
 
-compatriot
+compatriot         ---> com+ patriot=countryman
 
-compel
+compel             ---> to drive together, drive to one place; 
+                        pel=drive
 
-compendium
+compendium         ---> a shorting, saving; that which is weighted together
+                        pend=weight; to weight together
 
-compensate
+compensate         ---> to counterbalance; make up for; 
+                        to weight one thing(against another) thus to
+                        counterbalance.
 
-compensation
+compensation       ---> action of compensation; a weighting one thing against
+                        another, a balancing; 
+                        what is given in recompense
+                        amends for loss or recompense, salary, wages
 
-compete
+compete            ---> 
 
 competent
 
