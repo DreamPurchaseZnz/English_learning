@@ -12,6 +12,17 @@ laboratory                     ---> the place to work; a room or building used f
                                     experientments, testing,etc.
 
 ```
+## laps = slip, glide
+```
+lapse
+lapsable
+elapse
+relapse
+prolapse
+collapse
+
+```
+
 
 ## lat, lay = carry, bear
 ```
