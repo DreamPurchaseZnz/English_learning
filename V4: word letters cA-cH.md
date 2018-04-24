@@ -174,17 +174,19 @@ centigrade     ---> hundred+degree;
 
 centrifugal force  ---> centri=center; fugal=to flee,escape
 
-ceramic        ---> 
+ceramic        ---> potter's clay, pottery, tiles; to burn 
 
-cereal
+cereal         ---> having to do with edible grain; of grain
 
-ceremony
+ceremony       ---> holiness, sacredness, awe; reverent rite; sacared ceremony
 
-certificate
+certificate    ---> action of certifying;thing certified
 
-certify
+certify        ---> to declare the truth of; to vouch for or confirm;
+                    to make certain;
+                    cert= certain
 
-cervical
+cervical       ---> of the neck of the womb; of the neck
 
 chain
 
