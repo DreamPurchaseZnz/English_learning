@@ -214,6 +214,32 @@ miniscule                     ---> extremely small
 mincing                       ---> very delicate and not natural
 
 ```
+## mis, mixt, mix= stir, combine
+```
+mix
+mixer
+mixture
+admix
+commix
+xommixtion
+immix
+immixure
+intermix
+intermixture
+imscible
+miscellanist
+miscibility
+promiscuous
+```
+## miser = to pity, wretched
+```
+commiserate
+miser
+miserable
+miserably
+misery
+
+```
 
 
 ## mit, miss(mis,mess) = to send , to throw
