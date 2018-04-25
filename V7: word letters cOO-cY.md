@@ -160,13 +160,15 @@ cricket              ---> creek; the small grasshopper-like insect;
                           stick or bat used to hit ball; 
                           rattle, crackle; goal post; stick
 
-crime                ---> 
+crime                ---> sinfulness; charge; indictment, accusation,fault
+                          deceit, fraud, treachery
 
-criminal
 
-crisis
+criminal             ---> evil
 
-crisp
+crisis               ---> turning point in a disease; judgment
+
+crisp                ---> curly; 
 
 criterion
 
