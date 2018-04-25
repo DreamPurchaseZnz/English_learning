@@ -19,6 +19,17 @@ invade                 ---> to enter a place in a way that causing damage or con
 evade                  ---> to go away form sth
 wade                   ---> to go with an effort through sth
 ```
+## veh, vect(weigh, vex)= to carry
+```
+invective
+converction
+vehement
+vehicle
+inveight
+convex
+```
+
+
 ## val(vail) = worth, strong
 ```
 available             ---> the state of be worth to do sth
