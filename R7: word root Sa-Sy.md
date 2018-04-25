@@ -251,6 +251,38 @@ design                    ---> A plan of something to be done
 
 
 ```
+## sol= alone/single, whole, entire
+```
+console           
+disconsolate
+solicitous
+inconsolable
+solace
+solatium
+desolate
+desolatation
+sole
+solitary
+solitude
+solo
+solemn
+solemnity
+solicit
+soliloquy
+soliloquize
+```
+
+## solid(sold)=firm, whole
+```
+consolidate
+solid
+solidarity
+solify
+solder
+soldier
+soldiery
+
+```
 
 
 ## solv, solu, solut = to loosen, to untie 
