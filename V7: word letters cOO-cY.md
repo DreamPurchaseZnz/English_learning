@@ -76,78 +76,172 @@ counsel              ---> give professional advice on social or
                           n. advice, deliberation, thought;
                           sel=summon; discuss, plan, opinion
 
-counter
+counter              ---> table where a money lender dose business;
+                          table of bank;
+                          go against; facing opposite
 
-counterpart
+counterpart          ---> duplicate of a legal document; 
+                          counter=facing, opposite; 
+                          part=copy of a person or thing
 
-counterproductive
+counterproductive    ---> opposite of product
 
-country
+country              ---> lying on the opposite side; 
+                          count=against, opposite; area of land
+                          rural areas as opposed to cities
+                          district, native land
 
-couple
+couple               ---> joining; connection, tie; any two things
 
-coupon
-courageous
-course
-courtship
-cover
-coverage
-crack
-craft
-crash
-crater
-crawl
-create
-creation
-credential
-credibility
-credible
-credit
-creep
-crescent
-crew
-cricket
-crime
+coupon               ---> certificate of interest due on a bond; 
+                          coup=to cut, piece cut off; 
+                          discount ticket
+
+courageous           ---> cour=heart+ age+ous;
+                          heart is which remains a common metaphor for 
+                          inner strength
+
+course               ---> cour=running; onward movement in a particular
+                          direction;
+                          running, flow of a river;
+                          a running race; planned series of study
+
+courtship            ---> behavior of a courtier; paying court to a woman
+                          with intention of marriage 
+
+cover                ---> to cover, protect, conceal, dissemble
+                          cover over, overwhelm, bury
+
+coverage             ---> range or quality of covering
+
+crack                ---> a splitting sound; a fart; the sound fo a trumpet
+                          to make a sharp noise; to utter,say, talk;
+                          speak loudly or boastingly
+
+craft                ---> strength, skill; someting built or made;
+                          small boat; vessels of small craft
+                          to exerciese a craft, build; to make skilfully
+
+crash                ---> fiancial collapse; falling of airplanes
+                          collision; break in to piece; 
+
+crater               ---> mixing bowl; bowl-shaped mouth of volcano; 
+
+crawl                ---> to claw one's way; swimmer motion
+
+create               ---> to make, bring forth; produce, beget; arise, grow
+
+creation             ---> action of creating, a creating thing; coming
+                          into being; a creating, a producing; an electing
+                          appointment, choice
+
+credential           ---> cred=trust; letters entitling the bearer to
+                          certain credit or confidence
+
+credibility          ---> the degree of being credited
+
+credible             ---> believable; worthy to be believed
+
+credit               ---> belief, trust; a loan, 
+                          thing entrusted to another
+                          to trust, entrust; to believe; honor
+                          acknowledgment of merit; point for completing a
+                          course of study
+
+creep                ---> stumble; a feeling of dread or revulsion
+
+crescent             ---> create moon; waxing moon; grow
+
+crew                 ---> people acting or working together; group of 
+                          soldier; military reinforcement;
+                          gang of men on warship
+
+cricket              ---> creek; the small grasshopper-like insect;
+                          stick or bat used to hit ball; 
+                          rattle, crackle; goal post; stick
+
+crime                ---> 
+
 criminal
+
 crisis
+
 crisp
+
 criterion
+
 critic
+
 critical
+
 criticise
+
 crockery
+
 crocodile
+
 crossword
+
 crowded
+
 crown
+
 crucial
+
 crude
+
 cruel
+
 cruise
+
 crush
+
 crushing
+
 crust
+
 crystallize
+
 cube
+
 cucumber
+
 cue
+
 cuisine
+
 culminate
+
 cultivate
+
 cultural
+
 cumulative
+
 curative
+
 curb
+
 curiosity
+
 curious
+
 curly
+
 currency
+
 current
+
 currently
+
 curriculum
+
 curry
+
 curtial
+
 curtain
+
 cylinder
 
 ```
