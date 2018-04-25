@@ -265,47 +265,72 @@ contract          ---> tract=draw; draw together; pull together
                        enter into, make an agreement; mutual agreement
                        become narrowed, get smaller
 
-contradict
+contradict        ---> speak against; assert the contray
 
-contradiction
+contradiction     ---> a reply, objection, conteragument
 
-contrary
+contrary          ---> against; opposite, opposed
 
-contrast
+contrast          ---> to withstand; to fight against
+                       
+contribute        ---> to bring together, add, unite, collect
+                       given to
 
-contribute
+contrive          ---> to find out, contrive, imagine;
+                       com=with, trive=song, musical mode
+                       invent with ingenuity; invent falsely
 
-contrive
+contrived         ---> planned in advance; not genuine or realistic; 
 
-contrived
+controversial     ---> contro=against; vers=turn; turn in an opposite
+                       direction, disputed, turned against
 
-controversial
+controversy       ---> turned against
 
-controversy
+convection        ---> the act of carrying together; 
 
-convection
+convenience       ---> vent=coming; come together, be suitable
+                       agree; assemble; conformity;
+                       adapted to existing conditions
+                       
 
-convenience
+convention        ---> meeting, assembly, covenant;
+                       agreement;
+                      
+conventional      ---> of the nature of an agreement;
+                       established by social convention
+                       following tradition
 
-convention
+converse          ---> con=together, vers=turn;
+                       turn around, exact opposite
+                       turn with sb, turn to company with sb
+                       v. move about, live, dwell; to talk
+                       
 
-conventional
+conversely        ---> in a way that is the opposite 
+                       or reverse of sth 
 
-converse
+conversion        ---> transformation
 
-conversely
+convert           ---> transform; invert, versus
 
-conversion
+convey            ---> with way; to go along with;
+                       to carry, transport; 
+                       vey=road, way;
+                       to escort
 
-convert
+conviction        ---> the proving of guilt; proof, refutation
+                       mental state of being convinced
+                       firm belief, a belief held as proven
 
-convey
+convince          ---> vince= victory; overcome decisively
+                       branched out to "prove to be false or guilty"
+                       cause to believe; 
+                       to overcome in argument; to firmly persuade
 
-conviction
-
-convince
-
-cookery
+cookery           ---> cook, boil, perpare food, ripen, digest;
+                       to bake, roast
+                       falsify, doctor, to manipulate
 
 ```
 ## prove, certify, confirm, demonstrate, testify
