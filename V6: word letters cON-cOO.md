@@ -172,63 +172,98 @@ consolation       ---> act of consoling;
 consolidation     ---> solid; to make firm, consolidate; 
                        to make solid
 
-consortium
+consortium        ---> sort=series, class; fellowship, 
+                       participation, society; a group of 
+                       people, countries, companies
+                     
 
-constant
+constant          ---> steadfast, resolute; standig firm, stable
 
-constantly
+constantly        ---> all the time, repeatly
 
-constituent
+constituent       ---> one who appoints or elects a representative
+                       characteristic, essential;
+                       stit=stand
 
-constitute
+constitute        ---> stit=set up; to cause to stand, set up, fix
+                       place, establish, set in order
 
-constitution
+constitution      ---> law, regulation, edict; establish; act of
+                       settling; 
+                       action of establishing; way in which a thing
+                       is consituted;
+                       mode of organization of a state
+                       system of principles by which a community 
+                       is governed
 
-constrain
+constrain         ---> strain=to tie, draw tight; control; to bind together
+                       lie tightly, fetter, shackle, chain;
+                       
 
-construct
+construct         ---> struct=build; pile up together, build;
+                       to heap up
 
-construction
+construction      ---> con=together; pile up together, build
+                       make, erect, make
 
-consulate
+consulate         ---> the building where a consul works
+                       sul=summon; foreigh people summon
 
-consult
+consult           ---> discuss, take advice of; to take counsel
+                       and meet, consider
 
-consultant
+consultant        ---> of persons going to oracles; one qualified
+                       to give professional advice
 
-consumer
+consumer          ---> one who squanders or wastes; 
+                       one who uses up goods or articles
 
-consumption
+consumption       ---> a using up, wasting; the using up of material
 
-contact
+contact           ---> tact=touching; get in touch with; connection
+                       communication
 
-contain
+contain           ---> hold together; hold together, enclose, contain
 
-contaminant
+contaminant       ---> tam=touch; contact, pollution; to defile
 
-contaminate
+contaminate       ---> touch with pollution
 
-contemplate
+contemplate       ---> con=intensive; templ= area for the taking of 
+                       auguries; 
+                       mark out a space for observation
+                       gaze attentively, observe, act of looking at
+                       religious musing
+                       observe omens carefully
 
-contemporary
+contemporary      ---> tempor=age; of time, modern, characteristic of
+                       the present;
+                       one who lives at the same time as another
 
-contempt
+contempt          ---> scorn; to despite; temn=to slight scorn
+                       contemn
 
-context
+context           ---> text; a joining together; to weave together;
+                       to weave, to make; situation helping understand
 
-continent
+continent         ---> hold together; keep together, enclose;
+                       continuous land, large land mass
 
-continental
+continental       ---> european mainland;
 
-contingency
+contingency       ---> tin=torch; happening, touching, 
+                       thing happening by chance; 
+                       a group forming part of a larger group
 
-continually
+continually       ---> holding together, uninterrupted;
 
 continuity
 
 continuous
 
-contract
+contract          ---> tract=draw; draw together; pull together 
+                       enter into, make an agreement; mutual agreement
+                       become narrowed, get smaller
 
 contradict
 
