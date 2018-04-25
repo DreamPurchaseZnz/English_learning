@@ -507,7 +507,15 @@ persuade              ---> always advise you to do sth
 suasion               ---> the act of persuding
 suave                 ---> elegant, confident and polite
 ```
-
+## sel, sul, sult= summon
+```
+consul
+counsel
+consult
+consulate
+counselor
+consular
+```
 
 ## sum = highest
 ```
