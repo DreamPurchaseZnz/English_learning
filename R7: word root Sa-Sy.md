@@ -446,6 +446,40 @@ stimulus
 stimulant
 
 ```
+## strain, strict, string, stress(strang)=to draw, tight, bind, tie
+```
+constrain
+constrict
+restrict
+stringent
+distrain
+restrain
+restraint
+strain
+strained
+unstrainted
+district
+strict
+stricture
+strait
+astringent
+strangle
+string
+stringy
+constringe
+prestige
+overstrain
+straight
+strangulate
+stress
+distress
+stretch
+
+
+
+```
+
+
 ## stru, stro, struct = build
 ```
 structure  
