@@ -102,6 +102,31 @@ professional
 profess
 
 ```
+## fid(fi,fy, feder, fead) = to trust
+```
+diffident
+fidelity
+perfidious        ---> fake trust
+confide
+confidence
+confident
+confidential
+confidant
+infidel
+infidelity
+affidavit
+defy
+defiance
+defiant
+confederate
+confederacy
+condederation
+federal
+federation
+federate
+fealty
+```
+
 ## fin = end, limit, money, well
 termin, ultim
 ```
