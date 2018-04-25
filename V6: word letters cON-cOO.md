@@ -74,71 +74,103 @@ confine           ---> thoroughly limit;fin=limit;
 confirm           ---> make more stable; support, affirm
                        unwavering in purpose, loyalty or resolve
 
-confirmation
+confirmation      ---> strengthening, proof, ratification
 
-conflict
+conflict          ---> to strike together, be in confict;
+                       flict= to strike; armed encounter
+                       battle
 
-conform
+conform           ---> make or be similar, be agreeable;
+                       form= to shape;
 
-conformity
+conformity        ---> similar in shape
 
-confront
+confront          ---> to stand in front of; to face in defiance
+                       hostility
 
-confuse
+confuse           ---> to mix or mingle things so as to render the
+                       elements indistinguishable;
+                       discomfit in mind or feeling;
 
-confusion
+confusion         ---> disorder; shame, a mingling, mixing
+                       blending;
+                       fus= pour, melt
+                       to pour together
 
-congested
+congested         ---> heaped up; overcrowded
 
-congestion
+congestion        ---> action of gathering together
+                       gest=carry, bear; carry tegether
+                       a crowding together of people, traffic
 
-congratulate
+congratulate      ---> grat=grateful;
 
-congress
+congress          ---> gress=walk, go; 
+                       a coming together, hence a meeting
 
-conjunction
+conjunction       ---> junct=join;union, joining, sexual
+                       intercourse; joint together
 
-connect
+connect           ---> nect=net; tie together
+                       to get in touch withcon
 
-connection
+connection        ---> a binding or joining together; to fasten
+                       to tie, join together;
+                       nect= tie, blind
 
-conquer
+conquer           ---> seek something out; acquiring it
+                       quer= to seek ,gain
 
-conquest
+conquest          ---> acquisition; 
 
-conscious
+conscious         ---> sci=know; completely knowing, aware
 
-consecutive
+consecutive       ---> sec=sequnce, persecute; following closely
 
-consensus
+consensus         ---> sens=feeling, sense, sentiment; 
+                       agreement, accord
 
-consequence
+consequence       ---> seq=sequence to follow; inference, conlusion; to 
+                       follow after; 
 
-consequent
+consequent        ---> following, resulting; an event which is
+                       following another
 
-consequential
+consequential     ---> pregnant with consequences, important
 
-consequently
+consequently      ---> as a result, therefore
 
-conservation
+conservation      ---> a keeping, preserving, conserving
+                       preservation of one's health and soundness
+                       serv=to keep
 
-conservative
+conservative      ---> traditional styles and values
 
-conserve
+conserve          ---> serve= to keep, watch, maintain; 
+                       keep intact
 
-considerable
+considerable      ---> capble of being considered; worthy to be 
+                       considered; pletty large
 
-consideration
+consideration     ---> a beholding, looking at; keeping in mind
+                       a taking into consideration
 
-consignment
+consignment       ---> sealing with a sign; delivering over
+                       quantity of goods so assigned
 
-consist
+consist           ---> standing still, be firmly in place;
+                       be composed of; 
+                       sist=stand, place
 
-consistent
+consistent        ---> standing firm, standing still; agreeing
+                       place together; accord
 
-consolation
+consolation       ---> act of consoling; 
+                       solace, comfort; solid
+                       
 
-consolidation
+consolidation     ---> solid; to make firm, consolidate; 
+                       to make solid
 
 consortium
 
