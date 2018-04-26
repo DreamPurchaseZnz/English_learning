@@ -242,26 +242,36 @@ curb                 ---> strap passing under the jaw of horse
                           margine of stone between a sidewalk and 
                           road; a check,a restraint
 
-curiosity
+curiosity            ---> careful attention to detail; desire
+                          to know or learn; avidity; choosiness
+                          desire of knowledge; inquisitiveness
 
-curious
+curious              ---> eager to know; solicitous, anxious
+                          inquisitive; inquiring eagerly; 
+                          erotic, pornographic
 
-curly
+curly                ---> cur=to bend
 
-currency
+currency             ---> condition of flowing; cur=to run;
+                          circulation of money
 
-current
+current              ---> running, flowing; lively, eager, swift
+                          to move quickly; prevalent, generally
+                          accepted
 
-currently
+currently            ---> at the present time
 
-curriculum
+curriculum           ---> a running, course, career
 
-curry
+curry                ---> to rub down a horse; to put in order
+                          prepare; cu=together rry=arange
+                          sauce, relish for rice
 
-curtial
+curtal               ---> cut short 
 
-curtain
+curtain              ---> tapestry, drape;blanket; enclosure, 
+                          courtyard; fly-net
 
-cylinder
+cylinder             ---> cyl=cycle; roller, roll; to roll
 
 ```
