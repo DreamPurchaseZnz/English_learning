@@ -93,7 +93,20 @@ aeroplane
 aerospace
 aesthetic
 affect
-
+afflict
+afflicting
+affluent
+afford
+afield
+agency
+agenda
+aggravate
+aggravation
+aggressive
+aggressiveness
+agile
+agriculture
+ailment
 
 
 
