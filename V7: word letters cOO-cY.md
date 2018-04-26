@@ -168,61 +168,79 @@ criminal             ---> evil
 
 crisis               ---> turning point in a disease; judgment
 
-crisp                ---> curly; 
+crisp                ---> curly; brittle
 
-criterion
+criterion            ---> judging, standard
 
-critic
+critic               ---> one who passes judgement; able to make
+                          judgements; to separate, decide
 
-critical
+critical             ---> criticism; of the nature of a crisis;
+                          crucial; decisive
 
-criticise
+criticise            ---> to find fault with
 
-crockery
+crockery             ---> earthen vessels collectively
 
-crocodile
+crocodile            ---> croco=pebbles; dile=worm; baksing
 
-crossword
+crossword            ---> crossword puzzle; game
 
-crowded
+crowded              ---> full of people
 
-crown
+crown                ---> loyal crown; wreath, garland
+                          anything curved, kind of crown
 
-crucial
+crucial              ---> cru=cross; cross-shaped; decisive, 
+                          critical
 
-crude
+crude                ---> in the raw state; rough, not cooked,raw
+                          bloody; raw flesh, lacking grace
 
-cruel
+cruel                ---> rude, unfeeling; cruel, hard-hearted
+                          rough, raw, bloody
 
-cruise
+cruise               ---> to cross, sail to and fro
 
-crush
+crush                ---> to gnash teeth, crash, 
+                          break; thick crowd
+                          person one is infatuated with
 
-crushing
+crushing             ---> terribly bad, decisive
 
-crust
+crust                ---> hard outer part of bread; rind, shell,
+                          bark; that which has been hardened
+                          to begin to freeze; make hard, thicken
 
-crystallize
+crystallize          ---> cryst=crust; clear ice, clear mineral
+                          
 
-cube
+cube                 ---> a cube, a six-sided die
 
-cucumber
+cucumber             ---> a garden vegetable
 
-cue
+cue                  ---> stage direction to indicate actors' 
+                          entrances
 
-cuisine
+cuisine              ---> style of cooking; cooked food
 
-culminate
+culminate            ---> to top; to crown; top, peak, summit, roof
+                          gable
 
-cultivate
+cultivate            ---> improve by training or education
 
-cultural
+cultural             ---> the raising of plants or animals; 
+                          civilization
 
-cumulative
+cumulative           ---> cumul=to heap
 
-curative
+curative             ---> to cure; healing
 
-curb
+curb                 ---> strap passing under the jaw of horse
+                          restrain the animal; curb on the horse
+                          cur=to bend; enclosed framework; 
+                          margine of stone between a sidewalk and 
+                          road; a check,a restraint
 
 curiosity
 
