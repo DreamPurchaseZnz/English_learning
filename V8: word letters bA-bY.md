@@ -65,30 +65,45 @@ bare                  ---> barefoot; naked, uncovered,
                            unclothed; sheer, absolute; complete
                            in itself
 
-barely
+barely                ---> openly,clear, public; 
+                           only, just, merely simply, naked
 
-bargain
+bargain               ---> to hangle over the price; to lend
+                           barge=carries good to and fro
 
-barge
+barge                 ---> small seagoing vessel with sails;
+                           Egyptian boat; small boat
+                           flat-bottomed freight boat
+                           v. to journey by barge; crash heavily into
+                           move clumsily or rudely
 
-bark
+bark                  ---> tree skin; 
+                           any small ship
+                           dog sound; 
+                           Timid dogs bark worse than they bite
 
-baron
+baron                 ---> nobleman, military leader, warrior, lord
 
-barrage
+barrage               ---> barrier fire
 
-barrel
+barrel                ---> cask, vat; metal tube of a gun; 
+                           to put in barrels; to move quiclkly 
+                           to move quickly; rolling
 
-barren
+barren                ---> bare; bar+en; sterile, barren; 
+                           a barren woman
 
-barrier
+barrier               ---> obstacle, gatekeeper; 
 
-basis
+basis                 ---> bottom or foundation of something meaterial
+                           a step, stand, base that whereon one stands
 
-batch
+batch                 ---> something baked; 
+                           any quantity produced at one operation
 
-battery
-
+battery               ---> beat; hitting; unit of artillery; electric
+                           cell; discharge of electricity
+                           
 bay
 
 bead
@@ -334,6 +349,15 @@ background
 backgrop
 situation
 ```
+## plain, simple, stark, bare, unequivocal, bald
+```
+plain         ---> plain fact/truch; 
+simple
+stark
+bare
+unequivocal
+bald
 
+```
 
 
