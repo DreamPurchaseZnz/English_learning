@@ -14,3 +14,19 @@ isobaric
 centrobaric
 
 ```
+## bar = bar
+```
+embargo          
+barrage
+debar                 ---> down bar
+embarrass
+embarrassment
+barbecue
+barrack
+barrel
+barricade
+barrier
+barrister
+bar
+
+```
