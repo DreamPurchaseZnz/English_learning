@@ -54,10 +54,16 @@ barbaric              ---> blash-blash; uncultured, uncivilized,
                            
 
 barbecue              ---> bar=rod of iron; bec=bake; framework for
-                           grinding meat, fish, etc; 
+                           grilling meat, fish, etc; 
                            framework of sticks;
+                           outdoor meals of roasted meat or 
+                           fish as social entertainment
+                           grill for cooking over an open
+                           fire
 
-bare
+bare                  ---> barefoot; naked, uncovered,
+                           unclothed; sheer, absolute; complete
+                           in itself
 
 barely
 
