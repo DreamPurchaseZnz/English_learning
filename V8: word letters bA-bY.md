@@ -104,9 +104,12 @@ batch                 ---> something baked;
 battery               ---> beat; hitting; unit of artillery; electric
                            cell; discharge of electricity
                            
-bay
+bay                   ---> inlet of the sea
+                           opening in a wall
+                           howl of a dog
 
-bead
+bead                  ---> prayper bead; prayer, request
+                           bead=bid                          
 
 beam
 
