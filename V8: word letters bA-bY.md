@@ -199,9 +199,9 @@ bind                  ---> to tie up with bonds; to make captive;
                            stick together
                            anything that binds
 
-binoculars
+binoculars            ---> bi + nocul=eye 
 
-biodiversity
+biodiversity          ---> quality of being diverse; bio=live
 
 biography
 
