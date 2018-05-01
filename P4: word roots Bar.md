@@ -45,3 +45,27 @@ imbibe
 bib
 beverage
 ```
+
+## bi(bio)=life
+```
+biology
+biologist
+biography
+biographer
+autobiography
+biotic
+antibiotic
+amphibian
+amphibious
+microbiologist
+macrobian
+biosphere
+biocide
+biochemistry
+bioexperiment
+bioelectricity
+bioclean
+biometry
+symbiotic
+
+```
