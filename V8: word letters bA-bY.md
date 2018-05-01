@@ -187,11 +187,17 @@ bid                   ---> ask, demand; to entreat, beg, pray,
 
 bilateral             ---> bi=two; lateral; involve two group of people
 
-bilingual             ---> bi=two
+bilingual             ---> bi=two; two-tongued; speaking a jumble
+                           of language; double-tongued, hypocritical
+                           flase
 
-bin
+bin                   ---> receptacle,basket; manger; crib; a cart
+                           large basket; 
 
-bind
+bind                  ---> to tie up with bonds; to make captive;
+                           cover with dressing and bandages; 
+                           stick together
+                           anything that binds
 
 binoculars
 
