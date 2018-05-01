@@ -111,59 +111,83 @@ bay                   ---> inlet of the sea
 bead                  ---> prayper bead; prayer, request
                            bead=bid                          
 
-beam                  ---> ray of light; pillar of fire; 
+beam                  ---> ray of light; ratio beam
+                           pillar of fire; 
+                           one of the horizontal transverse timbers
+                           holding a ship together;
+                           greatest breadth of a ship
 
-beehive
+beehive               ---> bee+ hive
 
-beforehand
+beforehand            ---> before +hind
 
-begrimed
+begrimed              ---> be + grime=dirty, filth; to smear
 
-begrudge
+begrudge              ---> be + grudge = to murmur; to feel unhappy
 
-behalf
+behalf                ---> be+ half=side; be one's side, for one's
+                           part; representing or in the interests
+                           of someone; 
 
-behave
+behave                ---> to have oneself in a particular way;
+                           have=hold,comport, to contain, bear
+                           self-constraint
 
-belief
+belief                ---> trust in God; loyalty to a person based
+                           on promise or duty; mental acceptance
+                           of something as true;
+                           tings hold to be true as a matter of
+                           religious, doctrine
 
-belt
+belt                  ---> girdle; broad stripe encircling something
 
-beneath
+beneath               ---> be=by + neath= below; lower, farther down, down; 
+                           
+ 
+beneficial            ---> helpful, advantageous; a favor                                                             
 
-beneficial
+benefit               ---> bene=good; fit=do; well-done;good deed; 
+                           
+benevolent            ---> bene=good; vol=will; wishing to do good, kindly
 
-benefit
+bent                  ---> not straight; turned or inclined in some direction
+                           mental inclination; condtion of being deflected
+                           or turned
+                          
+bereave               ---> reave=ripe; to deprive of , take away, seize, rob
+                           mostly in reference to life, hope, loved ones
+                           and other immaterial possitions
 
-benevolent
+besides               ---> in addition to, otherwis
 
-bent
+bet                   ---> risking money on an uncertain outcome;
+                           to improve,bait
 
-bereave
+betray                ---> mislead, deceive; be=intensive, tray=deception
+                           deceit;
 
-besides
+beverage              ---> something to drink; biber=to imbibe
 
-bet
+beware                ---> should know; attention
 
-betray
+bewilder              ---> thoroughly  + lead astray,lure into the wilds
 
-beverage
+beyond                ---> from the farther side;be + yond=there
 
-beware
+biased                ---> predudice; bi=two + ase=face;
+                           slant, slope, oblique; sideways, askance, against
+                           grain
 
-bewilder
+bibliography          ---> the writing of books; a list of books that from 
+                           the literature of a subject
 
-beyond
+bid                   ---> ask, demand; to entreat, beg, pray, 
+                           beseech, order
+                           to offer, proclaim; to stretch out, reach out
 
-biased
+bilateral             ---> bi=two; lateral; involve two group of people
 
-bibliography
-
-bid
-
-bilateral
-
-bilingual
+bilingual             ---> bi=two
 
 bin
 
