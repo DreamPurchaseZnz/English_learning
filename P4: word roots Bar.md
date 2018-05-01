@@ -28,5 +28,14 @@ barricade
 barrier
 barrister
 bar
+```
 
+## be- = about, completely, to make, to provide
+```
+befall                ---> happen or occur
+beguile               ---> cheat, amuse
+behead                ---> cut off the head
+beseech
+beset
+betroth
 ```
