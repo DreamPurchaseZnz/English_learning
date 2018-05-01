@@ -39,3 +39,9 @@ beseech
 beset
 betroth
 ```
+## bib(bev) = to drink
+```
+imbibe
+bib
+beverage
+```
