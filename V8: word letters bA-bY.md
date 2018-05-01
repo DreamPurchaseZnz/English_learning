@@ -111,7 +111,7 @@ bay                   ---> inlet of the sea
 bead                  ---> prayper bead; prayer, request
                            bead=bid                          
 
-beam                  
+beam                  ---> ray of light; pillar of fire; 
 
 beehive
 
