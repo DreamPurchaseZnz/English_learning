@@ -203,15 +203,16 @@ binoculars            ---> bi + nocul=eye
 
 biodiversity          ---> quality of being diverse; bio=live
 
-biography
+biography             ---> bio=life; graph=record, account
 
-biological
+biological            ---> bio=life; log=science
 
-biometrics
+biometrics            ---> application of mathematics to biology
+                           calculation of life expectancy
 
-bistro
+bistro                ---> little wineshop or restaurant; quickly
 
-bit
+bit                   ---> biting
 
 bizarre
 
