@@ -212,113 +212,179 @@ biometrics            ---> application of mathematics to biology
 
 bistro                ---> little wineshop or restaurant; quickly
 
-bit                   ---> biting
+bit                   ---> boring piece of a drill; small pieces
+                           fragment;
+                           computerese word
 
-bizarre
+bizarre               ---> odd, fantastic; handsome, brave; fit
+                           of anger
 
-blade
+blade                 ---> a leaf-like part; 
+                           flattened, sharp, cutting part of a
+                           sword or knife
 
-blame
+blame                 ---> find fault with; lay blame on;
+                           to rebuke, reprimand, condemn, criticize
+                           revile, reproach
 
-blank
+blank                 ---> white, pale, colorless; having empty
+                           spaces; void of expression
 
-blast
+blast                 ---> blowing, breeze, puff of wind
+                           explosion; noisy party; strong current
+                           of air from iron-smelting; to blow up by
+                           explosion
 
-blaze
+blaze                 ---> bright flame, fire; white shining
+                           to burn brightly or vigorously
 
-bleak
+bleak                 ---> pale; whitish, blond; bare
 
-blend
+blend                 ---> mix; mingle, stir up a liquid
+                           to make cloudy; mongrel
 
-block
+block                 ---> obstruct; stop up; impede; solid piece
+                           truck of a tree
 
-blonde
+blonde                ---> a color midway between golden and light
+                           chestnut; blon<blend = mixed
 
-blueprint
+blueprint             ---> detailed plan
 
-blunt
+blunt                 ---> blind; dull, obtuse, foolish;dull 
+                           of sight; 
+                           abrupt of speech or manner
 
-board
+board                 ---> a plank, flat surface; table which 
+                           council is held; side of ship
+                           put boards on, frame with boards;
+                           to supplied with food and lodging
 
-boast
+boast                 ---> bost; loud or threatening talk
+                           arrogance, presumption, pride, vanity
+                           to blow up; puff up, swell;wicked; 
+                           angry; brag, big talk
 
-bold
+bold                  ---> ball;brave; to blow, swell
+                           daring, fearless
 
-bolster
+bolster               ---> long pillow; propped up, made to bulge
+                           to support with a bolster, prop up
+                           cushion; long stuffed pillow
 
-bonus
+bonus                 ---> stock exchange; bene=good; 
 
-booklet
+booklet               ---> book+let(diminutive ending)
 
-bookrest
+bookrest              ---> bookshelf
 
-booming
+booming               ---> make a loud noise; to burst into
+                           prosperity; suddenness
 
-boost
+boost                 ---> boom; make sth increase or make better
+                           or more successful
 
-boot
+boot                  ---> beat;profit, use, help, relief, atonement
+                           a making better; 
+                           a strong shoe
+                           start up a computer; 
+                           to kick, kick out; eject
 
-booth
+booth                 ---> temporary dwelling; stall; house
 
-border
+border                ---> board, break; edge; side of a ship;
+                           the district adjoining the boundary;
+                           to put a border on, to lie on the border of
 
-bore
+bore                  ---> make a hole; tiresome; fit of boredom
+                           perforate; auger; to cut with a sharp point
+                           pierce; diameter of tube
 
-bother
+bother                ---> I deafen; afflicted
 
-boulder
+boulder               ---> noise stone; boul=to roar; round object; to
+                           swell, inflate;
+                           large stone in a stream; rumbling noise
 
-bounce
+bounce                ---> to thump, hit; to beat, thump; to bounce like
+                           a ball; a heavy blow; a leap, a reround
 
-bouncing
+bouncing              ---> vigorous, big; healthy and full of energy
 
-bound
+bound                 ---> bind, bounce; to form the boundary of; 
+                           to set the boundaries of; to leap, jump, make 
+                           a noise, sound, beat a drum; to echo back;
+                           under obligation; limit, boundary
+                           a leap, springing
 
-boundary
+boundary              ---> limit; a dividing line
 
-bow
+bow                   ---> arrow-shooter; arch; bend the body;
+                           obedient; bend the body
+                           rainbow; bow of a ship
 
-branch
+branch                ---> limb of a tree; bough; twig, branch of a family
+                           component part of a system
+                           v. to send out shoots or new limbs;
+                           to spread out from a center, radiate
 
-brass
+brass                 ---> burn; shameless; brass, bronze;
+                           a bright yellow metal made by mixing copper
+                           and zinc
 
-brazen
+brazen                ---> brass; hardened in effrontery; face impudently
 
-breakdown
+breakdown             ---> break down; an analysis in detail
 
-breakthrough
+breakthrough          ---> abrupt solution or progress
 
-breakwater
+breakwater            ---> a wall built out into the sea; break +water
 
-breed
+breed                 ---> bring young to birth, carry; 
+                           cherish, keep warm; hatching; 
+                           rear; grow up
+                           n. a type, kind of 
 
-breeze
+breeze                ---> breath; north, northeast wind;  fresh wind from
+                           the sea; gentle or light wind; to blow fresh and
+                           strong, something easy;
 
-brew
+brew                  ---> burn; boil, to bubble, boil,effervesce;foam
+                           roast meat; 
+                           v. to make beer; make a drink by boiling
 
-brief
+brief                 ---> short,summary; low, little, shallow;
+                           summary of the facts of a case
+                           to give instructions or information to
 
-briefcase
+briefcase             ---> portable folding case for holding papers
 
-briefly
+briefly               ---> an introduction to a statement in short
 
-brilliant
+brilliant             ---> precious stone; sparkling, shining; to shine
+                           like a beryl
 
-bring around/round
+bring around/round    ---> return to consciousness
 
-bring out
+bring out             ---> pulic; present, show
 
-brittle
+brittle               ---> break; to crush, pound, to break to pieces;
+                           to break up; to cut, break up
 
-brochure
+brochure              ---> pamphlet; short written work stitched together
+                           a stitched work; to prick, jab, pierce
+                           pointed tool, awl
 
-bronchitis
+bronchitis            ---> bronchial tubes; inflammation
 
-brood
+brood                 ---> that which is hatched by heat;
+                           breed; fetus, hatching; to warm, heat;
+                           sit on egges, hatch; incubate in the mind
+                           resentment
 
-broom
+broom                 ---> brush+room; bur; brushwood a tool for sweeping
 
-browse
+browse                ---> 
 
 brunt
 
@@ -391,7 +457,15 @@ stark
 bare
 unequivocal
 bald
-
 ```
+## border, boundary, line, frontier
+marks the edge of sth and separates it form other areas
+```
+border               ---> country dividing line
+boundary             ---> pysical line between two places
+line                 ---> USA: states and counties not national borders
+frontier             ---> in context of wildness, danger and uncertainty
+```
+
 
 
