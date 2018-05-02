@@ -82,5 +82,6 @@ balance
 balanced
 imbalanced
 ```
+## bul, bu = ball
 
 
