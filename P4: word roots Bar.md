@@ -67,5 +67,20 @@ bioelectricity
 bioclean
 biometry
 symbiotic
-
 ```
+## bol, bl, bal= to throw
+```
+emblem            
+parable            ---> pare=beside; bl=throw
+problematic
+anabolism
+catabolism
+embolism
+hyperbola
+metabolism
+balance
+balanced
+imbalanced
+```
+
+
