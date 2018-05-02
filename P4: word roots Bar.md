@@ -1,3 +1,11 @@
+## ban= prohibition, control
+```
+banal
+banish
+bandit            ---> dit=give
+contraband        ---> contra=against
+```
+
 ## bar(baro, bary)=gravity, pressure, suppress
 ```
 baric
