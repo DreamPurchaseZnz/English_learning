@@ -384,59 +384,96 @@ brood                 ---> that which is hatched by heat;
 
 broom                 ---> brush+room; bur; brushwood a tool for sweeping
 
-browse                ---> 
+browse                ---> feed on buds; to sprout, bud; peruse;
+                           reading superficially or at random
+                           
 
-brunt
+brunt                 ---> a sharp blow; sexual heat
+                           chief force, to advance like wildfire
 
-brutal
+brutal                ---> fierce; violent and cruel; 
+                           direct and clear about sth unpleasant
 
-bubble
+bubble                ---> babble; fragile and insubstantial
 
-bucket
+bucket                ---> pail; pitcher, bulging vessel; to grow
+                           to swell, belly
 
-buckle
+buckle                ---> spiked metal ring for holding a belt;
+                           metal ring; cheek strap of a helmet;
+                           distort, warp, bend out of shape
+                           bend under strong pressure
 
-bud
+bud                   ---> a partially opened flower;
+                           a swelling on a plant stem consisting of
+                           overlapping immature leaves or petals
+                           v. put forward, thrust; bag, purse
 
-budget
+budget                ---> pouch, leather bag; leather pouch; 
+                           wallet; the money that is available to 
 
-buffalo
 
-bulb
+buffalo               ---> ox, cow; buf+ falo=flow;alarm, overawe;
+                           wild ox
 
-bulge
+bulb                  ---> bulbshaped swelling in a glass tube;
+                           an onion; 
 
-bulk
+bulge                 ---> ball; swelling; leather bag; sack;
+                           to protrude, swell out
+ 
+bulk                  ---> ball; a heap; ship's cargo; size; swell
+                           become more massive
+                           great size
 
-bullet
+bullet                ---> let=small; a little ball; cannon-ball
 
-bulletin
+bulletin              ---> little little edict; give voices by bullets
+                           document, voting slip; sealed document;
+                           a short news report on the radio or television
 
-bully
+bully                 ---> sweetheart; lover, brother; fine fellow;
+                           lover or ruffian(bull); protector of prostitute
+                           worthy, jolly, admirable
 
-bump into
+bump into             ---> meet unexpectedly
 
-bump
+bump                  ---> swelling, lump because of being hit; knock
+                           protuberance caused by a blow; a dull, 
+                           solid blow. v. to bulge out, to strike heavily
+                           to make a booming noise;
+                           
+bunch                 ---> bun; swelling; protuberance on the body, swelling
+                           a lot, a group; to gather up in a bunch
+                           to crowed together
 
-bunch
+bungalow              ---> house in the Bengal style; low thatched house
 
-bungalow
+bureau                ---> writing desk; desk with drawers; writing desk
+                           division of a goverment; chest of drawers
 
-bureau
+bureaucracy           ---> bureau+ cracy; a governing system
 
-bureaucracy
+burgeon               ---> to grow, sprout, blossom; to bud, sprout; 
 
-burgeon
+burglar               ---> to break open, commit burglary;  
+                           thief; fortress,castle
 
-burglar
+burrow                ---> burry; rabbit-hole, fox-hole; strong hold; 
+                           fortress; to defend, take refuge
+                           to bore one's way into; penetrate
 
-burrow
+burst                 ---> burn; break; break suddenly and sharply
+                           break open owing to internal pressure;
+                           shatter under pressure; 
+                           break into sudden activity or expression
 
-burst
+bury                  ---> put underground; to raise a mound, hide, bury
+                           inter; protect
 
-bury
+bypass                ---> to pass by; to go around, avoid
 
-bypass
+
 ```
 ## environment, setting, surroundings, background, backdrop, situation
 These are all words for the type of place in which sb/sth, exists
@@ -466,6 +503,25 @@ boundary             ---> pysical line between two places
 line                 ---> USA: states and counties not national borders
 frontier             ---> in context of wildness, danger and uncertainty
 ```
-
-
+## cheap, competitive, budget, affordable, reasonable, inexpensive
+cost little money or less money than you expected
+```
+cheap                ---> a disapproving way to suggest that sth is poor
+                          quality as well as low in price
+competitive          ---> as cheep as or cheeper than
+budget               ---> cheap for it offers only basic level of service
+affordable
+reasonable
+inexpensive          ---> good value for its price; 
+```
+## save, budget, economize, tighten your belt, scrimp
+keep money instead of spending it
+```
+save
+budget                 ---> to spend an amount of money carefully
+economize              ---> to use less money
+tighten your belt      ---> spend less money for there is less available
+scrimp                 ---> to spend very little money on the things that
+                            you need to live
+```
 
