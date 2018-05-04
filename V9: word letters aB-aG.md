@@ -64,89 +64,128 @@ abstraction             ---> a withdrawal from worldly affairs, asceticism
 absurd                  ---> surd=deaf; speechless, without reason;
                              out of tune, foolish;
 
-abundance
+abundance               ---> fullness, plenty; und=flow; overflow
 
-abuse
+abuse                   ---> to misuse, misapply; an abusing,using up
+                             ab=away, use; to misuse sexually
+                             ravish; improper practice;
+                             wicked act or parctice, shameful thing
 
-academic
+academic                ---> collegiate, scholarly; theoretical,not practical
 
-accelerate
+accelerate              ---> ac=to, celer=speed up; hurry, fast, hasten
+                             quicken, swift
 
-acceptable
+acceptable              ---> worthy of acceptance; take or receive willingly
 
-access
+access                  ---> a coming to, an approach; an entrance;
+                             habit or power of getting into presence of (sth)
 
-accessible
+accessible              ---> affording access; easy to reach; able to readily
+                             understood
 
-accessory
+accessory               ---> that which is subordinate to something else
+                             aiding in crime; to approach
+                             woman's smaller articles of dress
 
-acclaim
+acclaim                 ---> ac+claim=cry,call; to lay claim to; to cry out at;
+                             to applaud
 
-acclimatise
+acclimatise             ---> ac+climate; get used to a certain climate
 
-accommodation
+accommodation           ---> room and provisions, lodging;
+                             ac+com+ mod=measure, manner; proper,fit; 
+                             convenience
 
-accompany
+accompany               ---> to be in company with; take as a companion
 
-accomplish
+accomplish              ---> to complete; to fulfill, fill up, complete
 
-account
+account                 ---> count up; ac=to, count='counting, reckoning of
+                             money to be paid'; a calculation
+                             to reckon for money given or received, render a
+                             reckoning; to explain from answer for money
+                             held in trust
 
-accountancy
+accountancy             ---> the work or profession of an accountant
 
-accountant
+accountant              ---> accounting officer, one who renders accounts
+                             perfessional maker of accounts
 
-accredit
+accredit                ---> cre=cor; to credit; to trust
 
-accreditation
+accreditation           ---> official approval given by organization
 
-accumulate
+accumulate              ---> cum=block; heap up
 
 accuracy
 
-accurate
+accurate                ---> done with care; elaborate; take care of;
+                             ac=to, cur=take care of; to prepare with care
 
-accustom
+accustom                ---> custom=get used to
 
-achievement
+achievement             ---> act of completing; a finishing; thing achieved
+                             chieve=chief; bring to a head; bring to an end
 
-acide
+acid                    ---> pointedness; taste of vinegar
 
-acknowledge
+acknowledge             ---> ac=to, knowledge=understand;
+                             accept that sth is true; to publicly express
+                             thanks for help
 
-acoustic
+acoustic                ---> pertaining to hearing; a+cous=make, perceive, 
+                             hear; to notice, observe
 
-acquaint
+acquaint                ---> to make known, make acquaintance of; 
+                             ac=to, quaint=know, cognitive; come to know; 
+                             to make oneself known
 
-acquaintance
+acquaintance            ---> state of being acquainted; person with whom
+                             one is acquainted; personal knowledge
+                             friendship, familiarity
 
-acquire
+acquire                 ---> ac, quir=to pursue; to seek in addition to
+                             gain, earn, procure
 
-acquisition
+acquisition             ---> act of obtaining; things obtained
 
-acrobat
+acrobat                 ---> tightrope-walker; rope dancer, gymnastic
+                             performer; 
+                             acro = top most, at the point end
+                             bat=walk
 
 acrobatic
 
-activate
+activate                ---> active+ ate
 
-actual
+actual                  ---> pertaining to an action; now existing, 
+                             up to date; real, existing
 
-acumen
+acumen                  ---> ac=sharp; sharpness; sharpen; a point, sting
+                             shrewdness
 
-acupuncture
+acupuncture             ---> pricking with a needle
 
-acute
+acute                   ---> coming and going quickly; sharp, pointed
+                             penetrating, intelligent, cunning; sharp
+                             irritating
 
-adapt
+adapt                   ---> to fit; apt=fit; to fit(sth for some purpose)
+                             to undergo modification so as to fit new
+                             circumstances
 
-adaptation
+adaptation              ---> action of adapting; condition of being adapted
+                             modification of a thing to suit new conditions
 
-addict
+addict                  ---> ad+dict=to say, to declare; morphine;
+                             to devote, consecrate, sacrifice, sell out
 
-addiction
+addiction               ---> tendency; state of being self-addicted
+                             an awarding, a devoting
 
-addition
+addition                ---> action of adding numbers; increase, augmentation
+                             in addition to=also 
 
 additional
 
@@ -248,3 +287,14 @@ agriculture
 
 ailment
 ```
+## admit, acknowledge, concede, confess, allow, grant
+agree, often unwillingly, that sth is true
+```
+admit               ---> relates to their own actions          
+acknowledge
+concede             ---> a statement
+confess             ---> admit sth ashamed or embarrassed
+allow
+grant
+```
+
