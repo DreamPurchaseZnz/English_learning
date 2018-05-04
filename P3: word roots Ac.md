@@ -13,3 +13,16 @@ acidulate
 acidimeter
 acrimonious
 ```
+## apt(ept, att)=fit
+```
+adapt        ---> to fit
+adept
+inept
+apt
+aptitude
+attitude     ---> attit=fit
+attitudinize 
+contraption
+periapt
+```
+
