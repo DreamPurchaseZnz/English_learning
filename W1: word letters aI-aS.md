@@ -66,182 +66,182 @@ amateur              ---> someone who loves or is fond of something
 
 amaze                ---> stupefy or stun; make crazy; overwhelm with wonder
 
-ambassador
+ambassador           --->
 
-ambiguity
+ambiguity            --->
 
-ambiguous
+ambiguous            --->
 
-ambition
+ambition             --->
 
-ambitious
+ambitious            --->
 
-ambulance
+ambulance            --->
 
-amorphous
+amorphous            --->
 
-amount
+amount               --->
 
-amphibious
+amphibious           --->
 
-amplity
+amplity              --->
 
-analogous
+analogous            --->
 
-analogy
+analogy              --->
 
-analyse
+analyse              --->
 
-analysis
+analysis             --->
 
-anatomy
+anatomy              --->
 
-ancestral
+ancestral            --->
 
-anchor
-ancient
+anchor               --->
 
-and so forth
+ancient              --->
 
-anecdotal
+and so forth         --->
 
-anecdote
+anecdotal            --->
 
-angle
+anecdote             --->
 
-animate
+angle                --->
 
-announce
+animate              --->
 
-annoy
+announce             --->
 
-annual
+annoy                --->
 
-anthropologist
+annual               --->
 
+anthropologist       --->
 
-antibiotic
+antibiotic           --->
 
-anticipate
+anticipate           --->
 
-anticipation
+anticipation         --->
 
-antidote
+antidote             --->
 
-antiquated
+antiquated           --->
 
-qntique
+qntique              --->
 
-qntiquity
+qntiquity            --->
 
-qntiseptic
+qntiseptic           --->
 
-anxious
+anxious              --->
 
-apace
+apace                --->
 
-apart
+apart                --->
 
-ape
+ape                  --->
 
-apparatus
+apparatus            --->
 
-apparent
+apparent             --->
 
-apparently
+apparently           --->
 
-appeal
+appeal               --->
 
-appear
+appear               --->
 
-appearance
+appearance           --->
 
-appetite
+appetite             --->
 
-applaud
+applaud              --->
 
-appliance
+appliance            --->
 
-applicant
+applicant            --->
 
-application
+application          --->
 
-apply
+apply                --->
 
-appoint
+appoint              --->
 
-appointment
+appointment          --->
 
-apportion
+apportion            --->
 
-appraisal
+appraisal            --->
 
-appreciate
+appreciate           --->
 
-approval
+approval             --->
 
-approximate
+approximate          --->
 
-approximately
+approximately        --->
 
-apt
+apt                  --->
 
-aptitude
+aptitude             --->
 
-aquarium
+aquarium             --->
 
-arable
+arable               --->
 
-arboreal
+arboreal             --->
 
-arcade
+arcade               --->
 
-architect
+architect            --->
 
-architecture
+architecture         --->
 
-archive
+archive              --->
 
-argue
+argue                --->
 
-argument
+argument             --->
 
-aridity
+aridity              --->
 
-arithmetric
+arithmetric          --->
 
-arousal
+arousal              --->
 
-arrange
+arrange              --->
 
-arrangement
+arrangement          --->
 
-array
+array                --->
 
-arrogance
+arrogance            --->
 
-artefact
+artefact             --->
 
-artery
+artery               --->
 
-arthritis
+arthritis            --->
 
-artificial
+artificial           --->
 
-as for/to
+as for/to            ---> 
 
-as if/though
+as if/though         --->
 
-ascend
+ascend               --->
 
-ascertain
+ascertain            --->
 
-ascribe
+ascribe              --->
 
-ash
+ash                  --->
 
-aspect
+aspect               --->
 
-aspiration
+aspiration           --->
 
 ```
