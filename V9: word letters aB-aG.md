@@ -191,102 +191,118 @@ additional
 
 address
 
-addequate
+addequate              ---> ad=to, equa=equalized; make level; 
+                            equal to what is required
 
-adhere
 
-adjacent
+adhere                 ---> her=to stick
 
-adjunct
+adjacent               ---> jac=thown; to thrown down
 
-adjust
+adjunct                ---> junct=join; closely connected, united
 
-administer
+adjust                 ---> just=exact; to correct, remedy
 
-administration
+administer             ---> to help, assist, manage, minister=serve 
+
+administration         ---> act of giving or dispensing; management, act of
+                            administering; 
 
 administrative
 
-administrator
+administrator          ---> a manager, condutor
 
-admission
+admission              ---> acceptance, reception, approval; mit=send; 
+                            a literal act of letting in
 
-admit
+admit                  ---> mit=send; to allow to enter,to concede as valid
+                            or true
 
-adobe
+adobe                  ---> brick
 
-adolescence
+adolescence            
+ 
+adolescent             ---> to be nourished, begin to grow;  
+                            ad+ol(be nourished)
 
-adolescent
+adopt                  ---> to opt=choose
 
-adopt
+advance                ---> improve
 
-advance
+advanced               ---> far ahead in the course of actions or ideas
 
-advanced
+advantageous           ---> position of being in advance of another
 
-advantageous
+advent                 ---> important arrival; vent=to come
 
-advent
+adventure              ---> to risk the loss of; to take a chance
 
-adventure
+adventurous            ---> hazardous; risk-taking
 
-adventurous
+adverse                ---> to turn toward, fronting; contrary, opposing
 
-adverse
+advertise              ---> to turn toward sth; take notice of 
 
-advertise
+advertisement          ---> written statement calling attention to; 
+                            public notice
 
-advertisement
+advice                 ---> vis=to see; to view, consider; to give counsel to
 
-advice
+advisable              ---> sensible         
 
-advisable
+advocate               ---> voc=speak, call; one who intercedes for another 
 
-advocate
+aeration               ---> aer=air; the process of exposing to air
 
-aeration
+aerobics               ---> aer=air; method of exercise require modest oxygen
+                            intake
 
-aerobics
+aeronautics            ---> aero=air, naut=travel, of the ships; 
+                            the science or practice of building and flying
+                            aircraft
 
-aeronautics
+aeroplane              ---> airplane; plane=level, flat
 
-aeroplane
+aerospace              ---> atmosphere; outer space
 
-aerospace
+aesthetic              ---> criticism of taste; art for atr's sake
 
-aesthetic
+affect                 ---> fect=do; have influence on, do something to
 
-affect
+afflict                ---> flict=strike; to cast down,damage; trouble distress
 
-afflict
+afflicting             ---> painful
 
-afflicting
+affluent               ---> fluent=flow, overflow; flowing toward, abounding, rich, copious
 
-affluent
+afford                 ---> ford=to further; to put forth, contribute
 
-afford
+afield                 ---> a=on, in the field; away from home
 
-afield
+agency                 ---> a business that serves other business
 
-agency
+agenda                 ---> things to be done
 
-agenda
+aggravate              ---> grav=gravity; to weight down; to make worse 
 
-aggravate
+aggravation            ---> to make heavier; increasing in gravity or seriousness
 
-aggravation
-
-aggressive
+aggressive             ---> gress=to go; to approach, attack
 
 aggressiveness
 
-agile
+agile                  ---> ag=act; agency; nimble, quick
 
-agriculture
+agriculture            ---> agro=a field; culture=cultivation;
+                            cultivation of the land
 
-ailment
+ailment                ---> ail=ill; be sick
+
+
 ```
+
+
+
 ## admit, acknowledge, concede, confess, allow, grant
 agree, often unwillingly, that sth is true
 ```
