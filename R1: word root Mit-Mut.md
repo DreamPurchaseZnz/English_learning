@@ -337,6 +337,24 @@ amoral                 ---> not following any moral rules and not caring about r
 unmoral                ---> amoral
 immoral                ---> not consider to be good and honest by most people
 ```
+## morph = form
+```
+amorphouse
+anthromorphism
+metamorphose
+metamorphosis          ---> meta=change, morph=form, sis=condition
+morpheme
+morphology
+morphological
+heteromorphic         ---> heter=different
+isomorphic            ---> iso=equal
+dimorphic             ---> two form
+trimorph
+polymorphic           ---> poly-many
+homomorphic           ---> homo=same  
+geomorphic
+```
+
 ## mort,mors, mor = death
 ```
 immortal               ---> that lives or lasts for ever
