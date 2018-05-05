@@ -21,6 +21,18 @@ agenda
 
 ```
 
+## amb, ambi, amphi = around, both
+on both sides
+```
+ambiguity          ---> ig=drive
+ambition           ---> it=go
+ambitious
+ambivalence        ---> val= value
+ambivert           ---> vert=turn; 
+amphibian          ---> amphi=both, bl=life
+amphora            ---> phor=carry
+```
+
 ## apt(ept, att)=fit
 opt=choice
 ```
