@@ -13,7 +13,16 @@ acidulate
 acidimeter
 acrimonious
 ```
+
+## ag = act, drive, lead
+```
+agent
+agenda
+
+```
+
 ## apt(ept, att)=fit
+opt=choice
 ```
 adapt        ---> to fit
 adept
