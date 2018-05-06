@@ -13,6 +13,25 @@ acidulate
 acidimeter
 acrimonious
 ```
+## aud(ed, eis) = to hear
+```
+audition 
+obeisance 
+audible
+audience
+audio
+audit
+auditor
+auditorium
+obedient
+obedience
+disobedience
+audiometer
+audiphone
+obey
+```
+
+
 
 ## ag = act, drive, lead
 ```
@@ -112,4 +131,19 @@ archaeology
 archaic
 archives
 ```
+## aug, auct, aux= to increase, to make to grow
+```
+auxiliary 
+augment
+august 
+auction
+auctioneer 
+audacity 
+author 
+authority 
+authentic 
+authenticity 
+```
+
+
 
