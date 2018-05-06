@@ -38,6 +38,14 @@ antiwar
 antenna
 antelope
 ```
+## prefix: anti, ant=against, opposing
+```
+antagonist              ---> agon=struggle
+antagonize
+antibody
+antonym
+antithesis              ---> thes=put
+```
 
 
 ## amb, ambi, amphi = around, both
