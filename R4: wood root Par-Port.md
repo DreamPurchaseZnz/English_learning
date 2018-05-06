@@ -73,12 +73,60 @@ viviparous    ---> produce
 ```
 
 ## par = to bear, to give, birth to
+```
+parental
+parent
+parentage
+primipara         ---> prim=first
+primiparous
+biparous
+multiparous
+oviparous
+uniparous
+viviparous
+```
 
 ## parl = talk
+```
+parley
+parliament
+parliamentary
+parliamentarian
+parliamentarism
+parlance
+
+```
 
 ## part =  part, to part
+```
+impartial
+import
+repartee
+partition
+partial
+apartheid
+apartment
+compartment
+department
+depart
+```
 
 ## per(pir, par)  = to try out, to risk
+```
+empirical          ---> em=in, pir<per=to try out
+peril
+imperil
+pirate
+parious
+experience
+experienced
+experiment
+experimental
+expert
+expertise
+```
+
+
 
 ## patr = father, country
 ```
