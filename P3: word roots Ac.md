@@ -144,6 +144,16 @@ authority
 authentic 
 authenticity 
 ```
+## auto , auth = self, one's own, by oneself
+```
+authentic     ---> auth=self, trust yourself, reliable
+authenticate
+autobiography
+automaton
+```
+
+
+
 
 
 
