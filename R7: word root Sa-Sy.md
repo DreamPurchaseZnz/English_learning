@@ -251,6 +251,25 @@ design                    ---> A plan of something to be done
 
 
 ```
+
+## soci= companion, associate
+```
+associate
+association
+associative
+dissociate
+dissociation
+dissociative
+society
+social
+socialist
+socialite
+soccer
+socioeconomic
+sociopath
+```
+
+
 ## sol= alone/single, whole, entire
 ```
 console           
