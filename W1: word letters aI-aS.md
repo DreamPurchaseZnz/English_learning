@@ -247,26 +247,39 @@ arrogance            ---> ar=to, rog=ask, propose; to claim for oneself,
 
 artefact             ---> artifact, artifically make
 
-artery               --->
+artery               ---> any of the tubes
 
-arthritis            --->
+arthritis            ---> inflammation of a joint
 
-artificial           --->
+artificial           ---> made by man
 
-as for/to            ---> 
+as for/to     
 
-as if/though         --->
+as if/though   
 
-ascend               --->
+ascend               ---> to climb up, mount, ascend;
+                          ad=to, scend=to climb; to mount for
+                          copulation
 
-ascertain            --->
+ascertain            ---> to inform, to give assurance
 
-ascribe              --->
+ascribe              ---> to inscribe, attribute, impute; 
+                          to write in, to add to in a writting
 
-ash                  --->
+ash                  ---> burnt material
 
-aspect               --->
+aspect               ---> spect=to see, view; way of viewing things
+                          looking at, appearance;
 
-aspiration           --->
+aspiration           ---> action of breathing into; breathing, 
+                          influence; 
+                          steady longing for a higher goal
+                          spir= breath
 
 ```
+
+
+
+
+
+
