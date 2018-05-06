@@ -1,158 +1,171 @@
 # A
 ```
-aspire
+aspire         ---> to breath in; panting with desire
 
-assault
+assault        ---> sault<sal=to leap; jump on, attack, attacking
+                    forces
 
-assemble
+assemble       ---> sem=to make like; to gather together
+                    come together, join, unite; 
 
-assert
+assert         ---> declare one's right to; sert= to put/join
 
-assess
+assess         ---> sess=sit; sit beside someone; a sitting by
+                    to estimate the value of property for the 
+                    purpose of taxing it
 
-assessment
+assessment     ---> value of property for tax purposes
 
-assert
+assign         ---> sign=make a sign; to mark out, to allot by
+                    sign; appoint legally; allot
 
-assign
+assignment     ---> order, request, directive; a task assigned
 
-assignment
+assimilate     ---> simil= to make similar; feigned, pretended
+                    fictitious
 
-assimilate
+assimilation   ---> act of assimilating; likeness, similarity
 
-assimilation
+assist         ---> as=to, sist=sit; to stand by, help, place
 
-assist
+assistance     ---> act of helping or aiding
 
-assistance
+assistant      ---> one who helps or aids another
 
-assistant
+assistantship  ---> the position of being an assistant
 
-assistantship
+associate      ---> soci=unite with; join with; allied, connected, paired
 
-associate
+association    ---> action of coming together; a body of persons with a
+                    commen purpose
 
-association
+assume         ---> to suppose, to take for granted as the basis of argument
 
-assume
+assumption     ---> something taken for granted
 
-assumption
+assurance      ---> formal or solemn pledge, promise; certainty
 
-assurance
+assure         ---> to reassure, calm, protect, to render sure
 
-assure
+asthma         ---> breathing hard; short breath, a panting
 
-asthma
+astonish       ---> as=out, ton=thunder; to thunder sb out; 
+                    to stun, daze, astound
 
-astonish
+astound        ---> as=out, tound=thunder; leave sb thunderstruck; to stun
 
-astound
+astray         ---> a=not, stray=street; awary from home; lost
 
-astray
+astrology      ---> telling of the star; astro=star
+                    reading influences of the stars and their effects on
+                    human destiny
 
-astrology
+astronaut      ---> astro=star, naut=ship,sailor
 
-astronaut
+astronomy      ---> star arrangement; science of watching stars
 
-
-astronomy
-
-asymmetry
+asymmetry      ---> not + symmetry; havimng no common measure; commensurable
 
 as least
 
 at random
 
-athlete
+athlete        ---> combatant in public; play-man
 
-atmosphere
+atmosphere     ---> ball of vapour; atmo=vapor, steam; sphere=ball
 
-atmospheric
+atmospheric    ---> creating a mood or mental environment
 
-atomic
+atomic         ---> a=not, tom=cut    
 
-attach
+attach         ---> fasten, join; fix, attach, stake up; to fasten, affix
 
-attack
+attack         ---> join battle
 
-attain
+attain         ---> tain=touch; to come up to , reach, attain, endeavor
 
-attainable
+attainable     ---> that you can achieve
 
-attempt
+attempt        ---> tend to
 
-attend
+attend         ---> stretch toward; 
+                    stretching one's mind toward something
+                    take care of, wait upon; pay attention to
 
-attendance
+attendance     ---> act of being present
 
-attention
+attention      ---> to stretch your mind toward 
 
-attentive
+attentive      ---> headful, observant
 
-attitude
+attitude       ---> aptitude; fit to
 
-attract
+attract        ---> tract=pull
 
-attraction
+attraction     ---> a drawing together
 
-attractive
+attractive     ---> quality of drawing people's eye or interest
 
-attribute
+attribute      ---> tribute= assign, give, bestow; 
+                    quality ascribed to someone
 
-audacious
+audacious      ---> daring, boldness, courage; brave, bold;shameless
 
-audio
+audio          ---> sound; hear
 
-audit
+audit          ---> to hear what said
 
-audition
+audition       ---> to try out for a performance part; power of
+                    hearing
 
-auditorium
+auditorium     ---> lecture room; place where someting is heard
+                    of or for hearing
 
-augment
+augment        ---> to increase, enhance; to make big, enrich
 
-authentic
+authentic      ---> original, genuine
 
-authenticate
+authenticate   ---> verify, eatablish, the credibility of
 
-authorise
+authorise      ---> give formal approval to
 
-authority
+authority      ---> book or quotation that settles an argument
 
-autobiography
+autobiography  ---> auto=self, graph=write
 
-autocratic
+autocratic     ---> self-rule
+ 
+autoimmune     ---> auto=self
 
-autoimmune
+automatically  ---> involuntarily, unconsciously
 
-automatically
+autonomy       ---> independence, living by one's own laws
 
-autonomy
+avail          ---> a=to, vail=value; be worth
 
-avail
+availability   ---> quality of being worth
 
-availability
+available      ---> beneficial, valid, effective;
 
-available
+avalanche      ---> a mass of snow, ice and rock that falls down
 
-avalanche
+avenge         ---> a=to, venge=punish, avenge,to claim
 
-avenge
+avenue         ---> a way of approach; way of access;
+                    a broad, tree-lined roadway
 
-avenue
+average        ---> mean shifted to; statement of a medial estimate
 
-average
+aviation       ---> flying of aircraft
 
-aviation
+avoid          ---> make empty, void; escape, evade
 
-avoid
+award          ---> a<ex=out, ward=watch; decision after consideration
 
-award
+aware          ---> a=to, ware=watch; cautious
 
-aware
+awful          ---> worhty of respect or fear; very bad, exceedingly
 
-awful
-
-axle
+axle           ---> pole or pin upon which a wheel revolves
 
 ```
