@@ -127,6 +127,21 @@ tent                         ---> able to stretch
 
 ## terr = to frighten
 
+## ton,tun = sound, tone
+```
+tonal
+monotone
+atonal
+baritone       ---> bar=heavy
+diatonic       ---> dia=through
+intone         
+atonic
+intonation
+semitone
+undertone
+```
+
+
 ## tort=to twist
 ```
 distorition
