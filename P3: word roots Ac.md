@@ -87,6 +87,29 @@ aquosity
 aquifer
 opaque           ---> op=not
 subaqua
-
-
 ```
+## arch, archy = goverment, to rule; main; old
+```
+anarchy      
+autarchy
+autarky
+diarchy
+matriarch
+monarchy
+monarch
+oligarchy     ---> olig=only
+patriarch
+archangel
+archbishop
+archdeacon
+archdiocese
+archenemy
+archetype
+archipelago
+architect     ---> arch=chief, tect=build, carpenter
+architecture
+archaeology
+archaic
+archives
+```
+
