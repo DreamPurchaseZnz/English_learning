@@ -66,107 +66,124 @@ amateur              ---> someone who loves or is fond of something
 
 amaze                ---> stupefy or stun; make crazy; overwhelm with wonder
 
-ambassador           --->
+ambassador           ---> ambass=about; ador=act; a servant, messenger
 
-ambiguity            --->
+ambiguity            ---> amb = two side; ig=ag=act; 
+                          uncertainty, doubt, indecision, hesitation
 
-ambiguous            --->
+ambiguous            ---> having double meaning, shifting, changeable, doubtful
 
-ambition             --->
+ambition             ---> amb=around; it=go; a going round; 
 
-ambitious            --->
+ambitious            ---> a going aound to canvass for office
 
-ambulance            --->
+ambulance            ---> mobile or field hospital; amble
 
-amorphous            --->
+amorphous            ---> a=not, morph=form; shapeless, without form, deformed
 
-amount               --->
+amount               ---> a=to, mount=mountain; to go up, rise, sum
+                          mount a horse; to rise in number or quality
 
-amphibious           --->
+amphibious           ---> bios= life, amphi=both, on both sides; leading
+                          a double life; living on both land and water
 
-amplity              --->
+amplify              ---> to enlarge or expand; ample=large
+                          augmen in volume or amount
 
-analogous            --->
+analogous            ---> ana=up, log=count, reckon; reckon up, parallel;
+                          proportionate
 
-analogy              --->
+analogy              ---> ana=upward, log=speech, count
 
-analyse              --->
+analyse              ---> ana=upward, lys=lose, loose; a loosening
 
-analysis             --->
+analysis             ---> resolution of anything complex into simple elements
 
-anatomy              --->
+anatomy              ---> atom=particle; cutting up; dissection;
+                          study of the structure of living beings
 
-ancestral            --->
+ancestral            ---> an=upward, cess=go; precede
 
-anchor               --->
+anchor               ---> that which gives stability or security
 
-ancient              --->
+ancient              ---> anti=before; old, long-standing; from before
 
-and so forth         --->
+and so forth         ---> continuing in the same way
 
-anecdotal            --->
+anecdotal            ---> secret or private stories; an=not, ec=out,dot=don=give
 
-anecdote             --->
+anecdote         
 
-angle                --->
+angle                ---> fishing hook, corner, bent; to fish with a hook
 
-animate              --->
+animate              ---> to fill with boldness or courage; 
+                          anim=life, breath; to give breath to
 
-announce             --->
+announce             ---> noun=to relate, report; proclaim, make known
 
-annoy                --->
+annoy                ---> to weary, vex, anger
 
-annual               --->
+annual               ---> year
 
-anthropologist       --->
+anthropologist       ---> science of the natural history of man
 
-antibiotic           --->
+antibiotic           ---> anti=against, bio=life; destructive to micro-
+                          organisms
 
-anticipate           --->
+anticipate           ---> anti=before, cip=take; literally taking into 
+                          possession beforehand; expect, look forward to
 
-anticipation         --->
+anticipation         ---> preconception, preconceived notion; action of 
+                          looking ahead
 
-antidote             --->
+antidote             ---> anti=against, dot=give; give as a remedy;
+                          a remedy against poison
 
-antiquated           --->
+antiquated           ---> anti=against, quat=appearance;
+                          to make old or obsolete 
 
-qntique              --->
+antique              ---> anti=before, ancient, former, old, long in existence
 
-qntiquity            --->
+antiquity            ---> olden times, great ages, old age
 
-qntiseptic           --->
+antiseptic           ---> prevent infection
 
-anxious              --->
+anxious              ---> solicitous, uneasy, trouble in mind; 
+                          anxious=anger; torment, cause distress
 
-apace                --->
+apace                ---> at a pace; at a good pace
 
-apart                --->
+apart                ---> to the side; a side
 
-ape                  --->
+ape                  ---> monkey, go crazy; a fool
 
-apparatus            --->
+apparatus            ---> par=make ready; papare, make ready; 
+                          tools, implement, equipment, a preparing
 
-apparent             --->
+apparent             ---> par=appear
 
-apparently           --->
+apparently           ---> visibly, openly; to all appearance
 
-appeal               --->
+appeal               ---> pel=drive; to make or let sb drive to sb
+                          call to an authority
 
-appear               --->
+appear               ---> to come into view; come to light; 
+                          pear=part, to come forth, be visible
 
-appearance           --->
+appearance           ---> visible form or state, figure, mere show
 
-appetite             --->
+appetite             ---> pet=strive; strive after; craving for food
 
-applaud              --->
+applaud              ---> to plaud=to clap your hand; to praise
 
-appliance            --->
+appliance            ---> action of putting into use, instrument, things
+                          applied for a purpose
 
-applicant            --->
+applicant            ---> one who applies
 
-application          --->
+application          ---> the bringing of something to bear on sth else
 
-apply                --->
+apply                ---> ply=fold; bring things in contact with one another
 
 appoint              --->
 
