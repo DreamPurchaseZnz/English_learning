@@ -313,6 +313,14 @@ complexity               ---> the state of being woven together
 complexion               ---> set of skin features 'woven' into one's facial appearance
 perplex                  ---> thoroughly 'woven' in confusion
 ```
+
+## price =value
+```
+appreciate   ---> prec
+appraise
+
+```
+
 ## pos, post= to put, to place
 ```
 apposite         ---> ap=ad,to; put
