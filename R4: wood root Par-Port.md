@@ -320,6 +320,16 @@ appreciate   ---> prec
 appraise
 
 ```
+## prox, prop= near
+```
+proximity
+proximate
+proximo
+approximate
+propinquity
+
+```
+
 
 ## pos, post= to put, to place
 ```
