@@ -185,59 +185,67 @@ application          ---> the bringing of something to bear on sth else
 
 apply                ---> ply=fold; bring things in contact with one another
 
-appoint              --->
+appoint              ---> to come to the point; to decide, agree, settle, 
+                          put (someone) in charge
 
-appointment          --->
+appointment          ---> an agreement; 
+                          a fixing of data for official business
 
-apportion            --->
+apportion            ---> to divide into portions; share, portion
 
-appraisal            --->
+appraisal            ---> setting of a price; to set a value on
+                          praise=price, to fix the price of
 
-appreciate           --->
+appreciate           ---> to esteem or value highly; to set a price to
 
-approval             --->
+approval             ---> to prove; assent to as good; to demonstrate, endorse
+                          confirm firmally, to sanction
 
-approximate          --->
+approximate          ---> prop=to come near to; to bring or put close
 
-approximately        --->
+approximately      
 
-apt                  --->
+apt                  ---> fit, suited; inclined, disposed; to attach, join
 
-aptitude             --->
+aptitude             ---> tendency, likelihood, fitness
 
-aquarium             --->
+aquarium             ---> watery; place where cattle drink
+                          aqua=water; fish tank
 
-arable               --->
+arable               ---> ar=plow; suitable for plowing
+ 
+arboreal             ---> arbor=tree; pertaining to tree
 
-arboreal             --->
+arcade               ---> arch of a bridge; arc
 
-arcade               --->
+architect            ---> master builder, director of works; tect= build
 
-architect            --->
+architecture    
 
-architecture         --->
+archive              ---> public records; official building
 
-archive              --->
+argue                ---> to make reasoned statement to prove or refute a 
+                          proposition
 
-argue                --->
+argument             ---> statements and reasoning in support of a proposition
 
-argument             --->
+aridity              ---> dryness; arid= burning, dryness
 
-aridity              --->
+arithmetic           ---> sums involving the adding, mutiplying, etc. 
+                          of numbers
 
-arithmetric          --->
+arousal              ---> action of arousing, a being awarkened
 
-arousal              --->
+arrange              ---> range=rank, place in a row; get into line
 
-arrange              --->
+arrangement      
 
-arrangement          --->
+array                ---> ray= ready; to put in order/rows or columns
 
-array                --->
+arrogance            ---> ar=to, rog=ask, propose; to claim for oneself, 
+                          assume, overbearing, insolent
 
-arrogance            --->
-
-artefact             --->
+artefact             ---> artifact, artifically make
 
 artery               --->
 
