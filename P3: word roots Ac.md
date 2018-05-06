@@ -74,3 +74,19 @@ contraption
 periapt
 ```
 
+## aqua, aqu, aque, aqui = water
+```
+aquatic
+aquarium
+aqueduct
+aquiform
+subaqueous
+aquiferous
+aquaculture
+aquosity
+aquifer
+opaque           ---> op=not
+subaqua
+
+
+```
