@@ -28,9 +28,17 @@ anachronism
 analogous         ---> similar, parallel
 anatomy           ---> tom=cut
 anathema
-
-
 ```
+## ante, anti, ant=before
+```
+antibody
+antique
+ancestor
+antiwar
+antenna
+antelope
+```
+
 
 ## amb, ambi, amphi = around, both
 on both sides
