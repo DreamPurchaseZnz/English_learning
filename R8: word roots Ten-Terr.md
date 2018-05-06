@@ -140,6 +140,23 @@ intonation
 semitone
 undertone
 ```
+## tom = to cut
+```
+dichotomy      ---> di=two, cho=into, tom 
+anatomy        ---> ana=upward, completely
+atomize 
+atomic
+appendectomy   ---> a+pend+ec+tom
+entomology
+entomotomy 
+epitome        ---> epi=on
+epitomize
+hysterotomy    ---> hystero=womb
+vasectomy      ---> vas=vessel
+zootomy 
+tome 
+abstemious 
+```
 
 
 ## tort=to twist
