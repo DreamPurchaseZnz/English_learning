@@ -4,7 +4,7 @@
 salient
 exult
 resilient
-assault
+assault              ---> sault<sal 
 consult
 consultant
 exile
