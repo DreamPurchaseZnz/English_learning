@@ -21,6 +21,17 @@ agenda
 
 ```
 
+## ana=upward, back, again, throghout
+```
+anabolism         ---> ana=up, bol=throw
+anachronism       
+analogous         ---> similar, parallel
+anatomy           ---> tom=cut
+anathema
+
+
+```
+
 ## amb, ambi, amphi = around, both
 on both sides
 ```
