@@ -400,6 +400,32 @@ sprightly          ---> spr< spir ; adj. full of life  and energy
 spiral             ---> moving in a continuous curve that winds around a central point
 spire              ---> a tall pointed structure on the top of  a building
 ```
+## spon, spond, spons(spous) =to promise, to answer, to pledge
+```
+despondent            ---> away from promise; disappointed
+reponsive             ---> answer to
+correspond            ---> co=together; be in agreement
+                           to be in harmony with
+                           respond=to answer; two things in mutual
+                           action, to be similar; to communicate
+                           by means of letters
+corresponding
+correspondence
+correspondent
+response
+respondent
+responsible          ---> spons=to promise
+responsibility
+irresponsible
+sponsor              ---> promise solemnly; godparent; guarantee;
+                          give assurance
+spouse
+espouse              ---> e=out
+sponsion
+despond  
+spontaneous  
+```
+
 
 ## st, sta ,stan ,stin ,stab ,stal ,stor ,stat ,stit ,sist , stitut ,sist = stst, stand
 ```
