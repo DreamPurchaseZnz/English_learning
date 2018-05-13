@@ -99,79 +99,83 @@
 
 ## Physical Exercise
 ```
-Gym
-Fitness center
-Keep-fit studio
-Yoga
-Judo
-Kick-boxing 
-Restaurant
-Tower restaurant
-Salad bar
-Annual fee 
-Supervisor  
-Coach 
-In advance 
-Ahead of time  
-Refectory  
-Canteen 
-Café
-Coffee
-Coffee break 
+1.	Gym
+2.	Fitness center
+3.	Keep-fit studio
+4.	Yoga
+5.	Judo
+6.	Kick-boxing 
+7.	Restaurant
+8.	Tower restaurant
+9.	Salad bar
+10.	Annual fee 
+11.	Supervisor  
+12.	Coach 
+13.	In advance 
+14.	Ahead of time  
+15.	Refectory  
+16.	Canteen 
+17.	Café
+18.	Coffee
+19.	Coffee break  
+
 
 ```
 ## Insurance
 ```
-insurance
-manual 
-automatic  
-annual 
-surname
-family name  
-last name 
-given name 
-first name
-occupation 
-dentist
-doctor
-veterinarian   
-present address
-current address
-previous address
-former address 
-avenue
-venue  
-nationality  
-relationship
-brother
-cousin  
-brother-in-law
-wife 
-mother 
+1.	insurance
+2.	manual 
+3.	automatic  
+4.	annual 
+5.	surname
+6.	family name  
+7.	last name 
+8.	given name 
+9.	first name
+10.	occupation 
+11.	dentist
+12.	doctor
+13.	veterinarian   
+14.	present address
+15.	current address
+16.	previous address
+17.	former address 
+18.	avenue
+19.	venue  
+20.	nationality  
+21.	relationship
+22.	brother
+23.	cousin  
+24.	brother-in-law
+25.	wife 
+26.	mother 
+
 ```
 
 ## Rent
 ```
-rent 
-let
-deposit
-center 
-central 
-daily  
-monthly  
-annual  
-study  
-cloakroom  
-bathroom 
-bedroom  
-kitchen 
-living room  
-garage  
-landlord 
-landlady  
-owner 
-property  
-flat 
+1.	rent 
+2.	let
+3.	deposit
+4.	center 
+5.	central 
+6.	daily  
+7.	monthly  
+8.	annual  
+9.	study  
+10.	cloakroom  
+11.	bathroom 
+12.	bedroom  
+13.	kitchen 
+14.	living room  
+15.	garage  
+16.	landlord 
+17.	landlady  
+18.	owner 
+19.	property  
+20.	flat 
+
+
 
 
 
