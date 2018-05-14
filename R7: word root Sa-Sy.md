@@ -28,6 +28,19 @@ sane                         ---> having a normal healthy mind ; not mentally
                                   sensible and reasonable
 insanitary                   ---> dirty and likely to spread disease
 ```
+
+## sat(set) = enough
+```
+asset
+insatiable
+satiate
+satisfaction
+satisfactory
+satisfy
+saturate
+saturation
+```
+
 ## scan, scend, scal= to climb, stair
 ```
 scan 
