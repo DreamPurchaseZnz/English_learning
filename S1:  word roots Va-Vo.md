@@ -135,6 +135,31 @@ supervise            ---> look over
 
 
 ```
+
+## viv, vit = to live, life
+```
+convivial
+vivacious
+devitalize
+vital
+revive
+revivify
+survive
+survival
+survivor
+viva
+vivid
+viviparous
+vivisect
+vivisection
+vitamin
+victual
+viand
+vivarium
+avitaminosis
+```
+
+
 ## voc,vok(vouc,vow, voic) = to call, voice
 ```
 avocation 
