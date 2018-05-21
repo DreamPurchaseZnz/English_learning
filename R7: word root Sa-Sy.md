@@ -242,6 +242,14 @@ seduce           ---> v. persuade sb to do / have a sex with you
                       v. attract sb
 ```
 
+## sl =bad
+```
+slattern
+slut
+sloven
+slug
+
+```
 
 
 ## sign = mark ,sign, seal
