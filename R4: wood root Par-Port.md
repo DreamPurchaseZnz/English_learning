@@ -239,10 +239,21 @@ repeal
 ```
 ## phil, philo = loving
 ```
+phlanthropist        ---> phil+antropy=andriod; loving mankind
 Placeholder
-
-
+photophilous         ---> photo+philois
+philology  
+zoophilist  
+hippophile           ---> hippo = horse
+bibliophilism
+philogyny            ---> gyn=woman
+philosopher          ---> soph=wisedom
+pamphlet             ---> pan+phl+let
+sophisticated  
+sophomore
 ```
+
+
 ## plaud, plaus(plod, plos, plex)= strike, clap
 ```
 plausible          ---> worth to clap your hand
