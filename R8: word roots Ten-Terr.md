@@ -225,6 +225,24 @@ tribute
 
 ```
 
+## trop = turn
+```
+tropic
+tropical  
+geotropic  
+peritropal  
+geotropism  
+heliotropic
+trophy  
+trope
+hydrotropic  
+hydrotropism  
+morphotropy  
+thermotropism  
+```
+
+
+
 ## trud, trus =  to thrust, to push
 ```
 obtrude
@@ -239,4 +257,6 @@ protrudent
 protrusile
 detrude                       ---> to push down  
 ```
+
+
 
