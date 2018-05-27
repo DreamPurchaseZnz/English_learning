@@ -375,6 +375,22 @@ secretarial
 concern
 ```
 
+## cosm = order, universe, ornament
+Chaos = a state of extreme confusion and disorder
+```
+cosmic  
+cosmism  
+acosmism 
+microcosm
+cosmopolis                   ---> polis=city
+cosmopolitan  
+cosmonaut                    ---> naut-driver
+cosmology  
+cosmogony  
+cosmetic  
+pancosmism  
+```
+
 
 
 ## cogn, gno(gn,n), cognis,gnos = to know 
