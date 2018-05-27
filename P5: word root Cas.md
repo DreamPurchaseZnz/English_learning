@@ -90,6 +90,23 @@ concerto
 cantor
 ```
 
+## cert = sure
+```
+ascertain
+certain 
+certainly 
+certify   
+certified 
+certifiable 
+certificate 
+certification 
+certitude 
+certifier 
+incertitude 
+uncertain 
+uncertainty 
+```
+
 
 ## cid, cad, cas = to fall
 ```
